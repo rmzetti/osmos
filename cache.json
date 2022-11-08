@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374910",
+          "author": "Ganesh Dahal",
+          "description": "The way we write CSS for WordPress themes is in the midst of sweeping changes. I recently shared a technique for adding fluid type support in WordPress by way of theme.json, a new file that WordPress has been pushing …\nManaging CSS Styles in a WordPress Block Theme originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/managing-css-styles-in-a-wordpress-block-theme/",
+          "publishedOn": "2022-11-07T14:05:11.000Z",
+          "wordCount": 4131,
+          "title": "Managing CSS Styles in a WordPress Block Theme",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374910"
+        },
+        {
           "id": "https://css-tricks.com/?p=374894",
           "author": "Geoff Graham",
           "description": "“A change to overflow on replaced elements in CSS”:\nFrom Chrome 108, the following replaced elements respect the overflow property: img, video and canvas. In earlier versions of Chrome, this property was ignored on these elements.\nThis \n…\nA Couple Changes Coming in Chrome 108 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-couple-changes-coming-in-chrome-108/",
           "publishedOn": "2022-11-04T13:13:08.000Z",
-          "wordCount": 1282,
+          "wordCount": 1301,
           "title": "A Couple Changes Coming in Chrome 108",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374894"
         },
@@ -27,7 +37,7 @@
           "description": "Web Sockets, Web Workers, Service Workers… these are terms you may have read or overheard. Maybe not all of them, but likely at least one of them. And even if you have a good handle on front-end development, there’s a …\nThe Difference Between Web Sockets, Web Workers, and Service Workers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-difference-between-web-sockets-web-workers-and-service-workers/",
           "publishedOn": "2022-11-03T12:56:58.000Z",
-          "wordCount": 2106,
+          "wordCount": 2121,
           "title": "The Difference Between Web Sockets, Web Workers, and Service Workers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374731"
         },
@@ -47,7 +57,7 @@
           "description": "This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …\nRendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-back-end/",
           "publishedOn": "2022-11-01T12:57:22.000Z",
-          "wordCount": 2807,
+          "wordCount": 2879,
           "title": "Rendering External API Data in WordPress Blocks on the Back End",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374381"
         },
@@ -57,7 +67,7 @@
           "description": "The Media Queries Level 4 specification has introduced a new syntax for targeting a range of viewport widths using common mathematical comparison operators, like , and =, that make more sense syntactically while writing less code for responsive web design.\nThe New CSS Media Query Range Syntax originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-new-css-media-query-range-syntax/",
           "publishedOn": "2022-10-31T13:05:38.000Z",
-          "wordCount": 2639,
+          "wordCount": 2683,
           "title": "The New CSS Media Query Range Syntax",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374670"
         },
@@ -67,7 +77,7 @@
           "description": "We’ve spent the last two articles in this three-part series playing with gradients to make really neat image decorations using nothing but the <img> element. In this third and final piece, we are going to explore more techniques using the …\nFancy Image Decorations: Outlines and Complex Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/fancy-image-decorations-outlines-and-complex-animations/",
           "publishedOn": "2022-10-28T12:45:47.000Z",
-          "wordCount": 1602,
+          "wordCount": 1620,
           "title": "Fancy Image Decorations: Outlines and Complex Animations",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374302"
         },
@@ -97,7 +107,7 @@
           "description": "As front-end developers, we’ve wished for a lot of things over the years — ways to center things in CSS, encapsulate styles, set an element’s aspect ratio, get finer-grained control over our colors, select an element based on its children’s …\nIs There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/is-there-too-much-css-now/",
           "publishedOn": "2022-10-24T12:59:16.000Z",
-          "wordCount": 3370,
+          "wordCount": 3469,
           "title": "Is There Too Much CSS Now?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374364"
         },
@@ -127,7 +137,7 @@
           "description": "Before I career jumped into development, I did a bunch of motion graphics work in After Effects. But even with that background, I still found animating on the web pretty baffling.\nVideo graphics are designed within a specific ratio and …\nResponsive Animations for Every Screen Size and Device originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/responsive-animations-for-every-screen-size-and-device/",
           "publishedOn": "2022-10-20T12:42:30.000Z",
-          "wordCount": 3646,
+          "wordCount": 3732,
           "title": "Responsive Animations for Every Screen Size and Device",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374345"
         },
@@ -150,16 +160,6 @@
           "wordCount": 1101,
           "title": "Manuel Matuzovic: max() Trickery",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374466"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373600",
-          "author": "Lu Wang",
-          "description": "Besides being elegant, Bezier curves have nice mathematical properties due to their definition and construction. No wonder they are widely used in so many areas! Now, how about using Bezier curves as motion paths with CSS?\nPure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/pure-css-bezier-curve-motion-paths/",
-          "publishedOn": "2022-10-17T15:30:05.000Z",
-          "wordCount": 2443,
-          "title": "Pure CSS Bezier Curve Motion Paths",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373600"
         }
       ]
     },
@@ -168,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/whats-new-nextjs-13/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.",
+          "link": "https://smashingmagazine.com/2022/11/whats-new-nextjs-13/",
+          "publishedOn": "2022-11-07T14:00:00.000Z",
+          "wordCount": 4115,
+          "title": "What’s New In Next.js 13?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48e8a36f-2bd6-4fdf-8a56-acec206c23c8/whats-new-nextjs-13.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48e8a36f-2bd6-4fdf-8a56-acec206c23c8/whats-new-nextjs-13.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/",
           "author": "hello@smashingmagazine.com (Siobhan McKeown)",
@@ -204,7 +219,7 @@
           "description": "When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.",
           "link": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
           "publishedOn": "2022-11-02T14:00:00.000Z",
-          "wordCount": 5843,
+          "wordCount": 5842,
           "title": "Designing The Perfect Mobile Navigation UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg",
@@ -234,7 +249,7 @@
           "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!",
           "link": "https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/",
           "publishedOn": "2022-10-31T09:00:00.000Z",
-          "wordCount": 4798,
+          "wordCount": 4788,
           "title": "On The Edge Of November (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f9072044-e74a-4259-8b19-291d3382050a/nov-22-anbani-preview-opt.png",
@@ -249,7 +264,7 @@
           "description": "In this article, Yosra Emad explains how to create a rollercoaster path that a ball follows using cubic beziers and CSS transitions. You’ll also learn how the cubic-bezier function in CSS works in detail and how to stack multiple simple animations to create one complex one.",
           "link": "https://smashingmagazine.com/2022/10/advanced-animations-css/",
           "publishedOn": "2022-10-29T12:00:00.000Z",
-          "wordCount": 4629,
+          "wordCount": 4630,
           "title": "How To Create Advanced Animations With CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6ff543a-4e47-4649-8e1d-fda5435d9a53/4-advanced-animations-using-css.png",
@@ -264,7 +279,7 @@
           "description": "If you've ever wanted to build a web app that you can control with hand gestures as if by magic, this article is for you. With a couple of APIs and some JavaScript, you can build apps that behave like sorcery.",
           "link": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
           "publishedOn": "2022-10-28T14:00:00.000Z",
-          "wordCount": 4895,
+          "wordCount": 4891,
           "title": "Motion Controls In The Browser",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1666964645/motion-controls-browser_eenha4.jpg",
@@ -279,7 +294,7 @@
           "description": "In this article, Alma Hoffmann discusses six basic variables to establish a typographic hierarchy, explains how to look at each differently, and in turn, designs pieces by intentionally modifying each variable to create a typographic hierarchy effectively.",
           "link": "https://smashingmagazine.com/2022/10/typographic-hierarchies/",
           "publishedOn": "2022-10-26T15:00:00.000Z",
-          "wordCount": 8397,
+          "wordCount": 8400,
           "title": "Typographic Hierarchies",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ed9186f-f287-412d-a930-0cd2ae7ae196/typographic-hierarchies.jpg",
@@ -294,7 +309,7 @@
           "description": "The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.",
           "link": "https://smashingmagazine.com/2022/10/state-css-survey-2022/",
           "publishedOn": "2022-10-24T19:00:00.000Z",
-          "wordCount": 3082,
+          "wordCount": 3085,
           "title": "State Of CSS Survey: Influence The Future Of CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72b32b88-9b48-4c44-95f3-d51b26923bde/state-css-survey-2022.jpg",
@@ -324,7 +339,7 @@
           "description": "In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.",
           "link": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
           "publishedOn": "2022-10-20T14:00:00.000Z",
-          "wordCount": 4953,
+          "wordCount": 4955,
           "title": "What’s New In DevTools: Halloween Edition 🎃",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg",
@@ -354,7 +369,7 @@
           "description": "In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.",
           "link": "https://smashingmagazine.com/2022/10/wordpress-full-site-editing/",
           "publishedOn": "2022-10-17T12:00:00.000Z",
-          "wordCount": 8366,
+          "wordCount": 8368,
           "title": "WordPress Full-Site Editing: A Deep Dive Into The New Feature",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92a7c2c-7748-4eb9-8ab8-6a534ad201e0/wordpress-full-site-editing.jpg",
@@ -369,7 +384,7 @@
           "description": "In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.",
           "link": "https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/",
           "publishedOn": "2022-10-13T15:00:00.000Z",
-          "wordCount": 6066,
+          "wordCount": 6062,
           "title": "Effective Communication For Everyday Meetings",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3c62052-4769-4a7d-8473-828a3e05ff74/effective-communication-everyday-meetings.jpg",
@@ -384,7 +399,7 @@
           "description": "Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.",
           "link": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
           "publishedOn": "2022-10-11T15:30:00.000Z",
-          "wordCount": 5001,
+          "wordCount": 4995,
           "title": "Sustainable Web Development Strategies Within An Organization",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg",
@@ -416,304 +431,304 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.matecdev.com/posts/why-fortran-still-used.html",
+          "id": "https://words.filippo.io/so-i-lost-my-openbsd-fde-password/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.matecdev.com/posts/why-fortran-still-used.html",
-          "publishedOn": "2022-11-06T23:04:20.000Z",
-          "wordCount": 1506,
-          "title": "Why Fortran?",
-          "imageUrl": "http://www.matecdev.com/img/thumb/Fortran_code.png"
-        },
-        {
-          "id": "https://www.apple.com/newsroom/2022/11/update-on-supply-of-iphone-14-pro-and-iphone-14-pro-max/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.apple.com/newsroom/2022/11/update-on-supply-of-iphone-14-pro-and-iphone-14-pro-max/",
-          "publishedOn": "2022-11-06T22:48:12.000Z",
-          "wordCount": 1043,
-          "title": "Update on Supply of iPhone 14 Pro and iPhone 14 Pro Max",
-          "imageUrl": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202211062357"
-        },
-        {
-          "id": "https://overreacted.io/my-wishlist-for-hot-reloading/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://overreacted.io/my-wishlist-for-hot-reloading/",
-          "publishedOn": "2022-11-06T22:06:33.000Z",
-          "wordCount": 3262,
-          "title": "My wishlist for hot reloading (2018)",
+          "link": "https://words.filippo.io/so-i-lost-my-openbsd-fde-password/",
+          "publishedOn": "2022-11-07T23:14:52.000Z",
+          "wordCount": 2076,
+          "title": "So I lost my OpenBSD FDE password (2016)",
           "imageUrl": null
         },
         {
-          "id": "https://news.ycombinator.com/item?id=33497424",
+          "id": "http://miresperanto.com/konkurentoj/not_my_favourite.htm",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=33497424",
-          "publishedOn": "2022-11-06T21:29:07.000Z",
-          "wordCount": 2292,
-          "title": "Ask HN: Why is coil whine in electronics so prevalent?",
+          "link": "http://miresperanto.com/konkurentoj/not_my_favourite.htm",
+          "publishedOn": "2022-11-07T22:51:22.000Z",
+          "wordCount": 13107,
+          "title": "Esperanto is not my favourite artificial language (2002)",
           "imageUrl": null
         },
         {
-          "id": "https://www.barilla.com/en-gb/passive-cooking",
+          "id": "https://pubmed.ncbi.nlm.nih.gov/35456309/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.barilla.com/en-gb/passive-cooking",
-          "publishedOn": "2022-11-06T20:55:17.000Z",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/35456309/",
+          "publishedOn": "2022-11-07T21:49:02.000Z",
+          "wordCount": 1986,
+          "title": "The incidence of myocarditis and pericarditis in unvaccinated Covid patients",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/",
+          "publishedOn": "2022-11-07T21:00:53.000Z",
+          "wordCount": 3858,
+          "title": "Ribbon Health (YC S17) is hiring engineers to change healthcare",
+          "imageUrl": "https://www.ribbonhealth.com/wp-content/uploads/2021/08/0803_Enhanced-Data_Blog.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33512338",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=33512338",
+          "publishedOn": "2022-11-07T20:58:25.000Z",
+          "wordCount": 6708,
+          "title": "Monumental (if correct) advance in number theory posted to ArXiv by Yitang Zhang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.litedb.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.litedb.org/",
+          "publishedOn": "2022-11-07T20:56:03.000Z",
+          "wordCount": 417,
+          "title": "LiteDB: A .NET embedded NoSQL database",
+          "imageUrl": "https://raw.githubusercontent.com/mbdavid/LiteDB/gh-pages/img/logo_64x64.png"
+        },
+        {
+          "id": "https://twitter.com/awesomekling/status/1589711499672502274",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/awesomekling/status/1589711499672502274",
+          "publishedOn": "2022-11-07T20:22:26.000Z",
+          "wordCount": 399,
+          "title": "Early stages of Google Docs support in the Ladybird browser",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/stevekrenzel/status/1589700721121058817",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/stevekrenzel/status/1589700721121058817",
+          "publishedOn": "2022-11-07T19:28:03.000Z",
+          "wordCount": 399,
+          "title": "The most unethical thing I was asked to build while working at Twitter in 2015",
+          "imageUrl": null
+        },
+        {
+          "id": "https://typographyforlawyers.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://typographyforlawyers.com/",
+          "publishedOn": "2022-11-07T19:15:33.000Z",
+          "wordCount": 620,
+          "title": "Typography for Lawyers, 2nd Edition (2018)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jfm.carcosa.net/blog/computing/usenet/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jfm.carcosa.net/blog/computing/usenet/",
+          "publishedOn": "2022-11-07T18:40:59.000Z",
+          "wordCount": 1743,
+          "title": "Some thoughts on social networking and Usenet (2018)",
+          "imageUrl": "https://jfm.carcosa.net/images/blog/usenet.jpg"
+        },
+        {
+          "id": "https://basicappleguy.com/basicappleblog/you-might-also-like",
+          "author": null,
+          "description": "Comments",
+          "link": "https://basicappleguy.com/basicappleblog/you-might-also-like",
+          "publishedOn": "2022-11-07T18:27:20.000Z",
+          "wordCount": 9286,
+          "title": "You Might Also Like",
+          "imageUrl": "http://static1.squarespace.com/static/5e949a92e17d55230cd1d44f/t/6364143008f86044e99d29c6/1667503174818/UpAhead3x2.jpg?format=1500w"
+        },
+        {
+          "id": "https://tylercipriani.com/blog/2022/10/17/whole-house-circadian-lighting-with-home-assistant/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tylercipriani.com/blog/2022/10/17/whole-house-circadian-lighting-with-home-assistant/",
+          "publishedOn": "2022-11-07T17:46:32.000Z",
+          "wordCount": 1016,
+          "title": "Circadian lighting with Home Assistant: Like f.lux, but for your house",
+          "imageUrl": null
+        },
+        {
+          "id": "https://scastiel.dev/implement-ppp-fair-pricing-for-your-product",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scastiel.dev/implement-ppp-fair-pricing-for-your-product",
+          "publishedOn": "2022-11-07T17:44:57.000Z",
+          "wordCount": 5818,
+          "title": "Purchasing Power Parity: fair pricing for your SaaS product",
+          "imageUrl": "https://scastiel.dev/api/og?title=Purchasing%20Power%20Parity%3A%20fair%20pricing%20for%20your%20SaaS%20product&date=2021-02-22T00%3A00%3A00.000Z&cover=%2Fposts%2Fimplement-ppp-fair-pricing-for-your-product%2Fcover.jpg&avatar=%2Favatar.svg"
+        },
+        {
+          "id": "https://economictimes.indiatimes.com/news/india/india-lifted-415-million-out-of-poverty-in-15-years-says-un/articleshow/94926338.cms",
+          "author": null,
+          "description": "Comments",
+          "link": "https://economictimes.indiatimes.com/news/india/india-lifted-415-million-out-of-poverty-in-15-years-says-un/articleshow/94926338.cms",
+          "publishedOn": "2022-11-07T17:35:39.000Z",
+          "wordCount": 7184,
+          "title": "India lifted 415M out of poverty in 15 years, says UN",
+          "imageUrl": "https://img.etimg.com/thumb/msid-94926353,width-1070,height-580,imgsize-7410,overlay-economictimes/photo.jpg"
+        },
+        {
+          "id": "https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409",
+          "author": null,
+          "description": "Comments",
+          "link": "https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409",
+          "publishedOn": "2022-11-07T17:14:17.000Z",
+          "wordCount": 1292,
+          "title": "MDL: A Micro-Architecture Description Language for LLVM",
+          "imageUrl": "https://global.discourse-cdn.com/business4/uploads/llvm/original/1X/6ac54669f4b30cb07094375cbd65d24163b5b6e0.jpeg"
+        },
+        {
+          "id": "https://signal.org/blog/introducing-stories/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://signal.org/blog/introducing-stories/",
+          "publishedOn": "2022-11-07T16:59:54.000Z",
+          "wordCount": 1038,
+          "title": "Signal Introduces Stories",
+          "imageUrl": "https://signal.org/blog/images/stories-og.png"
+        },
+        {
+          "id": "https://www.nyu.edu/about/news-publications/news/2022/november/our-brains--time-stamp--sounds-to-process-the-words-we-hear.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nyu.edu/about/news-publications/news/2022/november/our-brains--time-stamp--sounds-to-process-the-words-we-hear.html",
+          "publishedOn": "2022-11-07T16:17:29.000Z",
+          "wordCount": 1873,
+          "title": "Our brains 'time-stamp' sounds to process the words we hear",
+          "imageUrl": "http://www.nyu.edu/content/nyu/en/about/news-publications/news/2022/november/our-brains--time-stamp--sounds-to-process-the-words-we-hear/jcr:content/page/image.img.480.high.jpg"
+        },
+        {
+          "id": "https://sweden.postsen.com/trends/49453/The-YouTube-channel-Rosa-mannen-shut-down-after-reports.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sweden.postsen.com/trends/49453/The-YouTube-channel-Rosa-mannen-shut-down-after-reports.html",
+          "publishedOn": "2022-11-07T15:17:59.000Z",
           "wordCount": null,
-          "title": "Barilla passive cooker",
+          "title": "Swedish amateur archivist “Rosa Mannen” shut down from YouTube again",
           "imageUrl": null
         },
         {
-          "id": "https://quillette.com/2022/11/02/bloated-college-administration-is-making-education-unaffordable/",
+          "id": "https://blog.yossarian.net/2022/11/07/Modernizing-my-1980s-sound-system",
           "author": null,
           "description": "Comments",
-          "link": "https://quillette.com/2022/11/02/bloated-college-administration-is-making-education-unaffordable/",
-          "publishedOn": "2022-11-06T19:41:18.000Z",
-          "wordCount": 1432,
-          "title": "Bloated college administration is making education unaffordable",
-          "imageUrl": "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/11/092612_Features_403-2048x1366-copy.png"
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Lonely_runner_conjecture",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Lonely_runner_conjecture",
-          "publishedOn": "2022-11-06T18:19:57.000Z",
-          "wordCount": 3654,
-          "title": "The lonely runner conjecture",
+          "link": "https://blog.yossarian.net/2022/11/07/Modernizing-my-1980s-sound-system",
+          "publishedOn": "2022-11-07T15:09:56.000Z",
+          "wordCount": 2818,
+          "title": "Modernizing my 1980s sound system",
           "imageUrl": null
         },
         {
-          "id": "https://blog.jse.li/posts/torrent/",
+          "id": "https://ipde.com/blog/2022/11/04/a-wild-hearing-chief-judge-connolly-flips-over-rock-finds-mavexar-llc-crawling-around-controlling-patent-litigation-and-giving-hapless-patent-owners-just-5-10/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.jse.li/posts/torrent/",
-          "publishedOn": "2022-11-06T18:01:20.000Z",
-          "wordCount": 3783,
-          "title": "Building a BitTorrent client from the ground up in Go",
+          "link": "https://ipde.com/blog/2022/11/04/a-wild-hearing-chief-judge-connolly-flips-over-rock-finds-mavexar-llc-crawling-around-controlling-patent-litigation-and-giving-hapless-patent-owners-just-5-10/",
+          "publishedOn": "2022-11-07T12:05:53.000Z",
+          "wordCount": 2878,
+          "title": "Delaware judge discovers hidden entity recruiting people to be patent trolls",
+          "imageUrl": "https://bd6f.s3.amazonaws.com/media/images/Screenshot_2022-11-05_at_12.12.00_AM.max-640x360.webp"
+        },
+        {
+          "id": "https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/",
+          "publishedOn": "2022-11-07T11:57:29.000Z",
+          "wordCount": 3768,
+          "title": "Why would anyone need JavaScript generator functions?",
+          "imageUrl": "https://jrsinclair.com/assets/why-would-anyone-need-javascript-generator-functions.jpg"
+        },
+        {
+          "id": "https://mcuoneclipse.com/2022/11/06/how-to-make-sure-no-dynamic-memory-is-used/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mcuoneclipse.com/2022/11/06/how-to-make-sure-no-dynamic-memory-is-used/",
+          "publishedOn": "2022-11-07T07:10:38.000Z",
+          "wordCount": 3699,
+          "title": "How to make sure no dynamic memory is used",
+          "imageUrl": "https://mcuoneclipse.files.wordpress.com/2022/11/disabled-.heap-in-linker-script-file.jpg?w=1200"
+        },
+        {
+          "id": "https://nicole.express/2022/my-yellowstone-vacation.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nicole.express/2022/my-yellowstone-vacation.html",
+          "publishedOn": "2022-11-06T21:51:02.000Z",
+          "wordCount": 2355,
+          "title": "The Apple II Yellowstone Floppy Interface",
           "imageUrl": null
         },
         {
-          "id": "https://simonwillison.net/2022/Nov/6/what-to-blog-about/",
+          "id": "https://spitalfieldslife.com/2022/11/06/in-bishopsgate-1838/",
           "author": null,
           "description": "Comments",
-          "link": "https://simonwillison.net/2022/Nov/6/what-to-blog-about/",
-          "publishedOn": "2022-11-06T17:57:08.000Z",
-          "wordCount": 601,
-          "title": "What to blog about",
-          "imageUrl": "https://avatars0.githubusercontent.com/u/9599?v=4&s=200"
-        },
-        {
-          "id": "https://jobs.ashbyhq.com/motion?utm_source=hn",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jobs.ashbyhq.com/motion?utm_source=hn",
-          "publishedOn": "2022-11-06T17:01:08.000Z",
-          "wordCount": 293,
-          "title": "Motion (YC W20) Is Hiring Full Stack Engineers",
-          "imageUrl": "https://app.ashbyhq.com/api/images/org-theme-social/fd4042c5-a696-4b26-9058-2ac8131c2d75/fab07bab-a363-44f7-8435-32f76868d3d3.png"
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/",
-          "publishedOn": "2022-11-06T16:40:14.000Z",
-          "wordCount": 2963,
-          "title": "Making a DNS query in Ruby from scratch",
+          "link": "https://spitalfieldslife.com/2022/11/06/in-bishopsgate-1838/",
+          "publishedOn": "2022-11-06T09:23:23.000Z",
+          "wordCount": 1763,
+          "title": "In Bishopsgate, 1838",
           "imageUrl": null
         },
         {
-          "id": "https://github.com/uselotus/lotus",
+          "id": "https://sinclairtarget.com/differential-analyzer/",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/uselotus/lotus",
-          "publishedOn": "2022-11-06T16:30:51.000Z",
-          "wordCount": 1475,
-          "title": "Show HN: Lotus – Open source pricing and packaging infrastructure",
-          "imageUrl": "https://repository-images.githubusercontent.com/516192901/fa83a194-623e-47fc-a404-feb64ecdedb1"
-        },
-        {
-          "id": "https://search.feep.dev/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://search.feep.dev/",
-          "publishedOn": "2022-11-06T16:25:00.000Z",
-          "wordCount": 150,
-          "title": "Show HN: Feep! search, an independent search engine for programmers",
+          "link": "https://sinclairtarget.com/differential-analyzer/",
+          "publishedOn": "2022-11-06T06:37:24.000Z",
+          "wordCount": 405,
+          "title": "The Differential Analyzer (2020)",
           "imageUrl": null
         },
         {
-          "id": "https://www.heritagedaily.com/2022/11/ancient-water-system-uncovered-at-roman-stabiae/145135",
+          "id": "https://grist.org/article/how-centuries-old-whaling-logs-are-filling-gaps-in-our-climate-knowledge/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.heritagedaily.com/2022/11/ancient-water-system-uncovered-at-roman-stabiae/145135",
-          "publishedOn": "2022-11-06T14:10:02.000Z",
-          "wordCount": 19126,
-          "title": "Ancient water system uncovered at Roman Stabiae",
-          "imageUrl": "https://www.heritagedaily.com/wp-content/uploads/2022/11/watertank.jpg"
+          "link": "https://grist.org/article/how-centuries-old-whaling-logs-are-filling-gaps-in-our-climate-knowledge/",
+          "publishedOn": "2022-11-06T04:08:41.000Z",
+          "wordCount": 5368,
+          "title": "Centuries-old whaling logs are filling gaps in our climate knowledge",
+          "imageUrl": "https://grist.org/wp-content/uploads/2022/10/whaling-records.jpg"
         },
         {
-          "id": "http://www.corsix.org/content/galois-field-instructions-2021-cpus",
+          "id": "https://tedium.co/2022/11/04/technorati-blog-search-engine-history/",
           "author": null,
           "description": "Comments",
-          "link": "http://www.corsix.org/content/galois-field-instructions-2021-cpus",
-          "publishedOn": "2022-11-06T14:07:52.000Z",
-          "wordCount": 2148,
-          "title": "Galois field instructions on 2021 CPUs",
+          "link": "https://tedium.co/2022/11/04/technorati-blog-search-engine-history/",
+          "publishedOn": "2022-11-06T03:18:55.000Z",
+          "wordCount": 3343,
+          "title": "The Technorati Generation",
+          "imageUrl": "https://images.tedium.co/uploads/tedium040720-compressor.gif"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Peto%27s_paradox",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Peto%27s_paradox",
+          "publishedOn": "2022-11-05T18:11:49.000Z",
+          "wordCount": 2096,
+          "title": "Peto's Paradox",
           "imageUrl": null
         },
         {
-          "id": "https://mazzo.li/posts/reed-solomon.html",
+          "id": "http://trout.me.uk/lisp/vlist.pdf",
           "author": null,
           "description": "Comments",
-          "link": "https://mazzo.li/posts/reed-solomon.html",
-          "publishedOn": "2022-11-06T14:01:21.000Z",
-          "wordCount": 758,
-          "title": "The essence of Reed-Solomon coding",
-          "imageUrl": "https://mazzo.li/assets/images/lagrange.webp"
-        },
-        {
-          "id": "https://eclecticlight.co/2022/11/06/last-week-on-my-mac-home-truths-about-macos/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eclecticlight.co/2022/11/06/last-week-on-my-mac-home-truths-about-macos/",
-          "publishedOn": "2022-11-06T12:15:03.000Z",
-          "wordCount": 5453,
-          "title": "Home truths about macOS",
-          "imageUrl": "https://eclecticlightdotcom.files.wordpress.com/2022/11/secupd2122.png"
-        },
-        {
-          "id": "https://mapy.cz/zakladni?m3d=1&height=1100&yaw=234&pitch=-18&l=0&x=13.7549779&y=50.5258665&z=17&base=ophoto",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mapy.cz/zakladni?m3d=1&height=1100&yaw=234&pitch=-18&l=0&x=13.7549779&y=50.5258665&z=17&base=ophoto",
-          "publishedOn": "2022-11-06T12:02:34.000Z",
-          "wordCount": 893,
-          "title": "3D map of the Czech Republic, made from 12.5cm/px imagery (2017)",
-          "imageUrl": "https://mapy.cz/img/share-placeholder/zakladni.png"
-        },
-        {
-          "id": "https://social.network.europa.eu/about/more",
-          "author": null,
-          "description": "Comments",
-          "link": "https://social.network.europa.eu/about/more",
-          "publishedOn": "2022-11-06T11:21:52.000Z",
-          "wordCount": 418,
-          "title": "EU Voice",
-          "imageUrl": "https://social.network.europa.eu/system/site_uploads/files/000/000/001/original/server-hero-image-1200x400.png"
-        },
-        {
-          "id": "https://moondisaster.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://moondisaster.org/",
-          "publishedOn": "2022-11-06T11:19:51.000Z",
-          "wordCount": 277,
-          "title": "Moon Disaster",
-          "imageUrl": "https://moondisaster.space/wp-content/uploads/2020/07/ieomdPromoNoDate-1200x630-cropped.jpg"
-        },
-        {
-          "id": "https://susam.net/blog/zero-point-leet-seconds.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://susam.net/blog/zero-point-leet-seconds.html",
-          "publishedOn": "2022-11-06T11:07:45.000Z",
-          "wordCount": 160,
-          "title": "Zero point leet seconds (2018)",
+          "link": "http://trout.me.uk/lisp/vlist.pdf",
+          "publishedOn": "2022-11-05T10:30:34.000Z",
+          "wordCount": 12298,
+          "title": "Fast Functional Lists, Hash-Lists, Deques and Variable Length Arrays [pdf] (2002)",
           "imageUrl": null
         },
         {
-          "id": "https://ebpf.io/what-is-ebpf/",
+          "id": "https://www.openbsd.org/papers/eurobsdcon2022-tb-libressl.pdf",
           "author": null,
           "description": "Comments",
-          "link": "https://ebpf.io/what-is-ebpf/",
-          "publishedOn": "2022-11-06T06:55:56.000Z",
-          "wordCount": 4420,
-          "title": "eBPF – Adding functionality to OS at runtime",
-          "imageUrl": "https://www.ebpf.io/images/ogimage.jpg"
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Anscombe%27s_quartet",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Anscombe%27s_quartet",
-          "publishedOn": "2022-11-05T23:12:56.000Z",
-          "wordCount": 1304,
-          "title": "Anscombe's Quartet",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/1200px-Anscombe%27s_quartet_3.svg.png"
-        },
-        {
-          "id": "https://phys.org/news/2022-10-cartography-isthmus-tehuantepec-inter-oceanic-passage.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2022-10-cartography-isthmus-tehuantepec-inter-oceanic-passage.html",
-          "publishedOn": "2022-11-05T22:16:07.000Z",
-          "wordCount": 2007,
-          "title": "Cartography shows that the Isthmus of Tehuantepec used as inter-oceanic passage",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2022/cartographic-methods-s.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Lxl27kONQDM",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=Lxl27kONQDM",
-          "publishedOn": "2022-11-05T22:08:36.000Z",
-          "wordCount": null,
-          "title": "An antiwar masterpiece misunderstood… or was it? [video]",
+          "link": "https://www.openbsd.org/papers/eurobsdcon2022-tb-libressl.pdf",
+          "publishedOn": "2022-11-04T20:40:33.000Z",
+          "wordCount": 3645,
+          "title": "Recent Progress in and around LibreSSL [pdf]",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.ecosophia.net/writing-as-microcosm-part-one-publish-and-perish/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ecosophia.net/writing-as-microcosm-part-one-publish-and-perish/",
-          "publishedOn": "2022-11-05T21:23:27.000Z",
-          "wordCount": 40339,
-          "title": "Writing as Microcosm, Part One: Publish and Perish",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://newatlas.com/science/microneedle-patch-deep-regenerate-hair-bald-mice/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://newatlas.com/science/microneedle-patch-deep-regenerate-hair-bald-mice/",
-          "publishedOn": "2022-11-05T21:12:11.000Z",
-          "wordCount": 4579,
-          "title": "Microneedle patch digs deep to regenerate hair in bald mice",
-          "imageUrl": "https://assets.newatlas.com/dims4/default/935277b/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1f%2Fc7%2F22213ed7490bb85dcb14564f56e6%2Fdepositphotos-291766640-l.jpg&na.image_optimisation=0"
-        },
-        {
-          "id": "https://newrepublic.com/article/167270/crossword-labor-market-times",
-          "author": null,
-          "description": "Comments",
-          "link": "https://newrepublic.com/article/167270/crossword-labor-market-times",
-          "publishedOn": "2022-11-05T13:48:51.000Z",
-          "wordCount": 6089,
-          "title": "The elite, underpaid, and weird world of crossword writers",
-          "imageUrl": "https://images.newrepublic.com/8aef5b1caee9f69a7c1e27d9d9d10fdbf4a3cb00.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
-        },
-        {
-          "id": "https://bodydoubling.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bodydoubling.com/",
-          "publishedOn": "2022-11-05T06:31:29.000Z",
-          "wordCount": 4724,
-          "title": "Body Doubling",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.smithsonianmag.com/science-nature/watermelon-seeds-were-snacked-before-its-flesh-became-sweet-180981008/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.smithsonianmag.com/science-nature/watermelon-seeds-were-snacked-before-its-flesh-became-sweet-180981008/",
-          "publishedOn": "2022-11-04T07:03:48.000Z",
-          "wordCount": 2949,
-          "title": "Why prehistoric herders didn’t spit out their watermelon seeds",
-          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/N4t63iX1Nck_o2E99Q_EOlP3Xts=/fit-in/1600x0/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/89/10/8910e784-4935-49f0-84c0-6efc18fbccbc/smithmag-watermelonseeds-v1_web.jpg"
         }
       ]
     }
