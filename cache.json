@@ -169,19 +169,19 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/",
-          "author": "hello@smashingmagazine.com (Paul Matvienko)",
-          "description": "Space is one of the core elements in design that is often overlooked. Proper spatial organization helps to achieve consistency between screens, pages, or even products. It also creates visual rhythm, limits decision-making, and helps to achieve better readability and scannability. In this guide, Paul Matvienko discusses the basics of defining a spatial system.",
-          "link": "https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/",
-          "publishedOn": "2022-12-29T13:00:00.000Z",
-          "wordCount": 4869,
-          "title": "An Ultimate Guide On Sizing, Spacing, Grids And Layout In Web And UI/UX Design",
+          "id": "https://smashingmagazine.com/2022/12/fluid-typography-predict-problem-users-zoom-in/",
+          "author": "hello@smashingmagazine.com (Ruslan Yevych)",
+          "description": "In this article, Ruslan Yevych will show you an easy way how to predict the appearance of a problem known as WCAG Failure Under 1.4.4 Resize Text (AA) while zooming the page. You will have a clear understanding of the possible risks of using responsive typography at the stage of development.",
+          "link": "https://smashingmagazine.com/2022/12/fluid-typography-predict-problem-users-zoom-in/",
+          "publishedOn": "2022-12-30T15:00:00.000Z",
+          "wordCount": 4670,
+          "title": "Fluid Typography: Predicting A Problem With Your User’s Zoom-In",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/492d4955-5970-4ea0-ae9a-10414d7afad2/guide-sizing-spacing-grids-layout-web-ui-ux-design.jpg",
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e896f9f1-7437-48c5-9481-483ae087a622/fluid-typography-predict-problem-users-zoom-in.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/492d4955-5970-4ea0-ae9a-10414d7afad2/guide-sizing-spacing-grids-layout-web-ui-ux-design.jpg"
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e896f9f1-7437-48c5-9481-483ae087a622/fluid-typography-predict-problem-users-zoom-in.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
@@ -189,7 +189,7 @@
           "description": "No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.",
           "link": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
           "publishedOn": "2022-12-27T11:00:00.000Z",
-          "wordCount": 4887,
+          "wordCount": 4881,
           "title": "A Guide To Command-Line Data Manipulation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9865d051-a600-4de7-a961-8b39a9226757/guide-command-line-data-manipulation-cli-miller.jpg",
@@ -204,7 +204,7 @@
           "description": "You may have already heard of CSS logical properties or RTL adaptations but are still deciding whether to deploy them widely. To help raise your awareness of their possibilities, Nicolas Hoffmann shares his experience of how he and his team at Proton carried out a massive move from CSS logical props to production and how you can consider them from a different perspective in your very own projects.",
           "link": "https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/",
           "publishedOn": "2022-12-23T13:00:00.000Z",
-          "wordCount": 4360,
+          "wordCount": 4368,
           "title": "Deploying CSS Logical Properties On Web Apps",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dd6913e4-e4eb-4bc9-8b51-0f8d596ee839/deploying-css-logical-properties-on-web-apps.jpg",
@@ -219,7 +219,7 @@
           "description": "In this article, Thomas Bohm shares strategies and methods to tackle some common graphic communication problems and gives you insights into how to improve accessibility and usability and make your designs much better.",
           "link": "https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/",
           "publishedOn": "2022-12-20T12:00:00.000Z",
-          "wordCount": 8298,
+          "wordCount": 8305,
           "title": "Useful Accessibility And Usability Examples To Help Improve Your Designs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg",
@@ -249,7 +249,7 @@
           "description": "In this article, Ashish Bogawat shares some of his favorite ways how to boost productivity and do things faster, better, and probably more fun by using efficient tools and workflows.",
           "link": "https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/",
           "publishedOn": "2022-12-16T10:00:00.000Z",
-          "wordCount": 5649,
+          "wordCount": 5640,
           "title": "Boosting Productivity For Designers With Efficient Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fea883cf-c97a-43dc-b537-bc2147183cde/optimizing-design-workflow-tools.jpg",
@@ -294,7 +294,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part2/",
           "publishedOn": "2022-12-13T15:00:00.000Z",
-          "wordCount": 5605,
+          "wordCount": 5600,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef4ceadc-3a08-4ff7-ae9e-4e44b1054feb/accessible-front-end-patterns-responsive-tables-part2.jpg",
@@ -324,7 +324,7 @@
           "description": "“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).",
           "link": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
           "publishedOn": "2022-12-08T13:00:00.000Z",
-          "wordCount": 3873,
+          "wordCount": 3877,
           "title": "It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg",
@@ -339,7 +339,7 @@
           "description": "Are you ready for the countdown to Christmas? This year, the web community was once again busy creating tech advent calendars jam-packed with fantastic content to sweeten your days. But which ones to follow? We help you find the right one, whether you’re a front-end dev, UX designer, or content strategist.",
           "link": "https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/",
           "publishedOn": "2022-12-07T11:00:00.000Z",
-          "wordCount": 5374,
+          "wordCount": 5380,
           "title": "Advent Calendars For Web Designers And Developers (2022 Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png",
@@ -354,7 +354,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
           "publishedOn": "2022-12-06T12:00:00.000Z",
-          "wordCount": 6046,
+          "wordCount": 6044,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg",
@@ -369,7 +369,7 @@
           "description": "The world of design systems can be overwhelming sometimes. There’s a lot to take in when you get into that space! In this article, Dan Donald dives into a simple component and explores some issues, complexity, and power we can encounter.",
           "link": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
           "publishedOn": "2022-12-02T09:00:00.000Z",
-          "wordCount": 6499,
+          "wordCount": 6503,
           "title": "The Anatomy Of Themed Design System Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg",
@@ -377,21 +377,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
-          "author": "hello@smashingmagazine.com (Fabienne Bielmann)",
-          "description": "Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.",
-          "link": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
-          "publishedOn": "2022-12-01T09:00:00.000Z",
-          "wordCount": 4973,
-          "title": "FabUnit: A Smart Way To Control And Synchronize Typo And Space",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg"
         }
       ]
     },
@@ -401,304 +386,304 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://old.reddit.com/r/Damnthatsinteresting/comments/zyhwzn/andrew_tate_getting_arrested_in_human_trafficking/",
+          "id": "https://github.com/punnerud/rgcosm",
           "author": null,
           "description": "Comments",
-          "link": "https://old.reddit.com/r/Damnthatsinteresting/comments/zyhwzn/andrew_tate_getting_arrested_in_human_trafficking/",
-          "publishedOn": "2022-12-29T23:48:02.000Z",
-          "wordCount": 9359,
-          "title": "Andrew Tate getting arrested in human trafficking investigation today",
-          "imageUrl": "https://external-preview.redd.it/wae7nW5GnWHI0QYlVYxLlN2wom9Am8R036o_2uRoFC0.png?overlay-align=bottom,left&crop=960:502.617801047,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2xxyj.png%3Fs%3Dc3180c0c9d4b8315db1892414e73ba29dcc4e348&width=960&height=502.617801047&auto=webp&s=19045c18d7bec4b8a3e433e5f01c2849429c301e"
+          "link": "https://github.com/punnerud/rgcosm",
+          "publishedOn": "2022-12-30T22:45:50.000Z",
+          "wordCount": 734,
+          "title": "Show HN: Self Hosted OpenStreetMap using only Sqlite3 and Python",
+          "imageUrl": "https://opengraph.githubassets.com/130dc3f18888831722e7515545135f228ebb99be18cb14f8bb2aa467adc155c5/punnerud/rgcosm"
         },
         {
-          "id": "https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/",
+          "id": "https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer",
           "author": null,
           "description": "Comments",
-          "link": "https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/",
-          "publishedOn": "2022-12-29T23:17:43.000Z",
-          "wordCount": 2471,
-          "title": "Golang is evil on shitty networks",
-          "imageUrl": "https://withinboredom.info/wp-content/uploads/2022/12/image-3.png"
+          "link": "https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer",
+          "publishedOn": "2022-12-30T22:40:10.000Z",
+          "wordCount": 29830,
+          "title": "Young adults are struggling with their mental health",
+          "imageUrl": "https://ww2.kqed.org/app/uploads/sites/23/2022/12/iStock-Gabriel-Codarcea-1020x680.jpg"
         },
         {
-          "id": "https://www.mikesteder.com/engineering/management/gifs/software/illustrated/2014/12/31/software-engineering-illustrated-im-just-trying-to-change-this-lightbulb.html",
+          "id": "https://aella.substack.com/p/fetish-tabooness-vs-popularity",
           "author": null,
           "description": "Comments",
-          "link": "https://www.mikesteder.com/engineering/management/gifs/software/illustrated/2014/12/31/software-engineering-illustrated-im-just-trying-to-change-this-lightbulb.html",
-          "publishedOn": "2022-12-29T22:39:02.000Z",
-          "wordCount": 1665,
-          "title": "Software Illustrated: I'm just trying to change this lightbulb",
+          "link": "https://aella.substack.com/p/fetish-tabooness-vs-popularity",
+          "publishedOn": "2022-12-30T22:14:05.000Z",
+          "wordCount": 2118,
+          "title": "Fetish tabooness vs. popularity",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3de35df5-2a01-4193-8a69-98945b181f6a_3798x2310.jpeg"
+        },
+        {
+          "id": "https://github.com/WinVector/data_algebra",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/WinVector/data_algebra",
+          "publishedOn": "2022-12-30T21:24:53.000Z",
+          "wordCount": 3069,
+          "title": "Control Pandas, Polars, or SQL from One DSL",
+          "imageUrl": "https://opengraph.githubassets.com/51843b6f7a7c044275dcd1865ec65944c1282df1e722d320182cc488bb0afa15/WinVector/data_algebra"
+        },
+        {
+          "id": "https://github.com/marsupialtail/quokka/blob/master/blog/why.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/marsupialtail/quokka/blob/master/blog/why.md",
+          "publishedOn": "2022-12-30T20:08:29.000Z",
+          "wordCount": 1747,
+          "title": "I wrote a SQL engine in Python",
+          "imageUrl": "https://opengraph.githubassets.com/31ed4c8af4d5345b02130b405f2ebbc7d8053a6303a34eb095020ffc0112fd08/marsupialtail/quokka"
+        },
+        {
+          "id": "https://boards.straightdope.com/t/what-are-those-dents-in-i-90-outside-seattle/422061/30",
+          "author": null,
+          "description": "Comments",
+          "link": "https://boards.straightdope.com/t/what-are-those-dents-in-i-90-outside-seattle/422061/30",
+          "publishedOn": "2022-12-30T19:32:03.000Z",
+          "wordCount": 2209,
+          "title": "What are those dents in I-90 outside Seattle?",
+          "imageUrl": "https://global.discourse-cdn.com/straightdope/original/2X/e/e489c3b7d8fce19c4b355dd4fc3f88cc39c34b87.png"
+        },
+        {
+          "id": "https://www.rssbrain.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.rssbrain.com/",
+          "publishedOn": "2022-12-30T19:13:52.000Z",
+          "wordCount": 219,
+          "title": "Show HN: RSS Brain",
           "imageUrl": null
         },
         {
-          "id": "https://freenetproject.org/freenet-build-1495-new-user-experience-and-performance.html",
+          "id": "https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less",
           "author": null,
           "description": "Comments",
-          "link": "https://freenetproject.org/freenet-build-1495-new-user-experience-and-performance.html",
-          "publishedOn": "2022-12-29T22:33:21.000Z",
-          "wordCount": 575,
-          "title": "Freenet build 1495 released: new user entrance, user experience, performance",
-          "imageUrl": "https://freenetproject.org/"
+          "link": "https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less",
+          "publishedOn": "2022-12-30T18:52:32.000Z",
+          "wordCount": 2462,
+          "title": "Phoenix 1.7 is View-less",
+          "imageUrl": "https://www.germanvelasco.com/images/gv-photo.jpeg"
         },
         {
-          "id": "https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html",
+          "id": "https://www.theverge.com/23523047/canon-image-stabilized-binoculars-button-of-the-month",
           "author": null,
           "description": "Comments",
-          "link": "https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html",
-          "publishedOn": "2022-12-29T22:23:16.000Z",
-          "wordCount": 537,
-          "title": "The IE 11 user-agent forced Mozilla to freeze part of its user-agent string",
+          "link": "https://www.theverge.com/23523047/canon-image-stabilized-binoculars-button-of-the-month",
+          "publishedOn": "2022-12-30T18:31:15.000Z",
+          "wordCount": 9698,
+          "title": "The button on Canon’s image-stabilized binoculars",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/U9_tGcpIwqz4-qsPSgYwb0PV7dk=/0x0:2040x1360/1200x628/filters:focal(953x684:954x685)/cdn.vox-cdn.com/uploads/chorus_asset/file/24276901/226432_BOTM_canon_image_stabilized_binoculars_AKrales_0033.jpg"
+        },
+        {
+          "id": "https://zhengdongwang.com/2022/12/28/2022-letter.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zhengdongwang.com/2022/12/28/2022-letter.html",
+          "publishedOn": "2022-12-30T18:18:06.000Z",
+          "wordCount": 12133,
+          "title": "2022 Letter",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/tivadardanka/status/1608419325706391554",
+          "id": "https://blogs.uoregon.edu/dymaxionhouse/the-dymaxion-bathroom/",
           "author": null,
           "description": "Comments",
-          "link": "https://twitter.com/tivadardanka/status/1608419325706391554",
-          "publishedOn": "2022-12-29T22:22:27.000Z",
-          "wordCount": 470,
-          "title": "Stone tablet shows Babylonians able to approximate √2 with 99.9999% accuracy",
+          "link": "https://blogs.uoregon.edu/dymaxionhouse/the-dymaxion-bathroom/",
+          "publishedOn": "2022-12-30T17:42:07.000Z",
+          "wordCount": 1124,
+          "title": "The Dymaxion Bathroom",
           "imageUrl": null
         },
         {
-          "id": "https://www.theguardian.com/fashion/2022/dec/29/dame-vivienne-westwood-fashion-designer-dies-aged-81",
+          "id": "https://www.modest.coffee/2022/12/how-we-got-grifted/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theguardian.com/fashion/2022/dec/29/dame-vivienne-westwood-fashion-designer-dies-aged-81",
-          "publishedOn": "2022-12-29T21:38:17.000Z",
-          "wordCount": 5245,
-          "title": "Vivienne Westwood has died",
-          "imageUrl": "https://i.guim.co.uk/img/media/aedc401472b1b985132a56f050bd13bed034fcc8/0_1127_6520_3908/master/6520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cae0738fc1b4ab7582bf463f900f135a"
+          "link": "https://www.modest.coffee/2022/12/how-we-got-grifted/",
+          "publishedOn": "2022-12-30T16:56:07.000Z",
+          "wordCount": 6966,
+          "title": "We got grifted by a distributor and need to move 30k bags of coffee [updated]",
+          "imageUrl": "https://149359350.v2.pressablecdn.com/wp-content/uploads/2022/12/PXL_20220627_030401680.PORTRAIT-771x1024.jpg"
         },
         {
-          "id": "https://blog.cloudflare.com/consequences-of-ip-blocking/",
+          "id": "https://lupyuen.github.io/articles/fb?1",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.cloudflare.com/consequences-of-ip-blocking/",
-          "publishedOn": "2022-12-29T21:23:32.000Z",
-          "wordCount": null,
-          "title": "Unintended consequences of blocking IP addresses",
+          "link": "https://lupyuen.github.io/articles/fb?1",
+          "publishedOn": "2022-12-30T16:50:34.000Z",
+          "wordCount": 3236,
+          "title": "NuttX RTOS for PinePhone: Framebuffer",
+          "imageUrl": "https://lupyuen.github.io/images/fb-title.jpg"
+        },
+        {
+          "id": "https://tamagui.dev/blog/version-one",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tamagui.dev/blog/version-one",
+          "publishedOn": "2022-12-30T16:45:50.000Z",
+          "wordCount": 24572,
+          "title": "Tamagui 1.0 – Cross-platform React apps in less time, with better performance",
+          "imageUrl": "https://tamagui.dev/banner-one.jpg"
+        },
+        {
+          "id": "https://erthalion.info/2022/12/30/bpf-performance/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://erthalion.info/2022/12/30/bpf-performance/",
+          "publishedOn": "2022-12-30T16:23:07.000Z",
+          "wordCount": 5242,
+          "title": "Running fast and slow: experiments with BPF programs' performance",
           "imageUrl": null
         },
         {
-          "id": "http://endless.horse/",
+          "id": "https://mostlypython.substack.com/p/why-im-still-using-python",
           "author": null,
           "description": "Comments",
-          "link": "http://endless.horse/",
-          "publishedOn": "2022-12-29T21:07:40.000Z",
-          "wordCount": 103,
-          "title": "Endless Horse",
+          "link": "https://mostlypython.substack.com/p/why-im-still-using-python",
+          "publishedOn": "2022-12-30T16:06:02.000Z",
+          "wordCount": 2871,
+          "title": "Why I'm still using Python",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3f8f6ea1-2d0c-4abb-84db-054ff4c03bb1_1224x1632.jpeg"
+        },
+        {
+          "id": "https://streaming.media.ccc.de/jev22/relive/49255",
+          "author": null,
+          "description": "Comments",
+          "link": "https://streaming.media.ccc.de/jev22/relive/49255",
+          "publishedOn": "2022-12-30T14:43:03.000Z",
+          "wordCount": 54,
+          "title": "Write a Wayland Compositor [video]",
           "imageUrl": null
         },
         {
-          "id": "https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK",
+          "id": "https://strlen.com/treesheets/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK",
-          "publishedOn": "2022-12-29T21:07:20.000Z",
-          "wordCount": 1142,
-          "title": "Privacy is ok",
+          "link": "https://strlen.com/treesheets/",
+          "publishedOn": "2022-12-30T13:55:10.000Z",
+          "wordCount": 445,
+          "title": "TreeSheets: Open Source Free Form Data Organizer",
           "imageUrl": null
         },
         {
-          "id": "https://angel.co/l/2xRy8y",
+          "id": "https://oceanservice.noaa.gov/geodesy/international-foot.html",
           "author": null,
           "description": "Comments",
-          "link": "https://angel.co/l/2xRy8y",
-          "publishedOn": "2022-12-29T21:01:08.000Z",
-          "wordCount": null,
-          "title": "Hive (YC S14) is hiring devs #3-10 in 2023 (Canada remote)",
+          "link": "https://oceanservice.noaa.gov/geodesy/international-foot.html",
+          "publishedOn": "2022-12-30T13:43:10.000Z",
+          "wordCount": 802,
+          "title": "A Tale of Two Feet",
+          "imageUrl": "https://oceanservice.noaa.gov/geodesy/two-surveyors.jpg"
+        },
+        {
+          "id": "https://authjs.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://authjs.dev/",
+          "publishedOn": "2022-12-30T13:10:21.000Z",
+          "wordCount": 289,
+          "title": "Auth.js Authentication for the Web",
+          "imageUrl": "https://authjs.dev/img/og-image.png"
+        },
+        {
+          "id": "https://www.ufarooqi.com/speaker-diarization-for-whisper-transcripts/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ufarooqi.com/speaker-diarization-for-whisper-transcripts/",
+          "publishedOn": "2022-12-29T21:32:48.000Z",
+          "wordCount": 1639,
+          "title": "Speaker diarization (labels) for OpenAI Whisper generated transcripts",
+          "imageUrl": "https://www.ufarooqi.com/content/images/2022/12/DALL-E-2022-12-29-03.16.07---Speech-to-text-tool.-Audio-Waves-merging-into-text.png"
+        },
+        {
+          "id": "https://www.universetoday.com/159372/power-on-the-moon-what-will-it-take-to-survive-the-lunar-night/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.universetoday.com/159372/power-on-the-moon-what-will-it-take-to-survive-the-lunar-night/",
+          "publishedOn": "2022-12-29T17:03:52.000Z",
+          "wordCount": 2534,
+          "title": "Power on the moon: What will it take to survive the lunar night?",
+          "imageUrl": "https://www.universetoday.com/wp-content/uploads/2021/06/sandyastrov2_16x9.jpg"
+        },
+        {
+          "id": "https://raphlinus.github.io/text/2020/10/26/text-layout.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://raphlinus.github.io/text/2020/10/26/text-layout.html",
+          "publishedOn": "2022-12-29T15:05:02.000Z",
+          "wordCount": 4008,
+          "title": "Text layout is a loose hierarchy of segmentation (2020)",
           "imageUrl": null
         },
         {
-          "id": "https://www.ncei.noaa.gov/news/airport-runway-names-shift-magnetic-field",
+          "id": "https://sindresorhus.com/one-thing",
           "author": null,
           "description": "Comments",
-          "link": "https://www.ncei.noaa.gov/news/airport-runway-names-shift-magnetic-field",
-          "publishedOn": "2022-12-29T20:06:52.000Z",
-          "wordCount": 1320,
-          "title": "Airport runway names shift with magnetic field",
+          "link": "https://sindresorhus.com/one-thing",
+          "publishedOn": "2022-12-28T17:18:52.000Z",
+          "wordCount": 999,
+          "title": "One Thing – Put a single task or goal in your menu bar",
+          "imageUrl": "https://sindresorhus.com/apps/one-thing/icon.png"
+        },
+        {
+          "id": "https://research.gatech.edu/cheerful-chatbots-dont-necessarily-improve-customer-service",
+          "author": null,
+          "description": "Comments",
+          "link": "https://research.gatech.edu/cheerful-chatbots-dont-necessarily-improve-customer-service",
+          "publishedOn": "2022-12-28T16:50:14.000Z",
+          "wordCount": 927,
+          "title": "Cheerful chatbots don’t necessarily improve customer service",
           "imageUrl": null
         },
         {
-          "id": "https://www.nytimes.com/2022/12/29/sports/soccer/pele-dead.html",
+          "id": "https://www.hollywoodreporter.com/tv/tv-news/tv-ratings-explained-where-how-viewers-watch-1235286912/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nytimes.com/2022/12/29/sports/soccer/pele-dead.html",
-          "publishedOn": "2022-12-29T19:13:18.000Z",
-          "wordCount": 9961,
-          "title": "Pelé has died",
-          "imageUrl": "https://static01.nyt.com/images/2022/12/29/multimedia/29pele-3-1-b417/29pele-3-1-b417-facebookJumbo.jpg"
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/tv-ratings-explained-where-how-viewers-watch-1235286912/",
+          "publishedOn": "2022-12-28T16:40:04.000Z",
+          "wordCount": 10091,
+          "title": "TV Ratings Road Map: Where, When and How Viewers Watch in the Streaming Era",
+          "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2022/12/2022_12-TVratings_collage-01.jpg?w=1024"
         },
         {
-          "id": "https://www.robinsloan.com/lab/slab/",
+          "id": "https://blog.galowicz.de/2022/12/28/book-review-algorithms-to-live-by/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.robinsloan.com/lab/slab/",
-          "publishedOn": "2022-12-29T19:05:58.000Z",
-          "wordCount": 5045,
-          "title": "The slab and the permacomputer (2021)",
-          "imageUrl": "https://www.robinsloan.com/img/obsidian-slab.jpg"
-        },
-        {
-          "id": "https://zlib.zu1k.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://zlib.zu1k.com/",
-          "publishedOn": "2022-12-29T19:05:23.000Z",
-          "wordCount": 4,
-          "title": "A search engine for searching books in the Z-Library index on the IPFS network",
+          "link": "https://blog.galowicz.de/2022/12/28/book-review-algorithms-to-live-by/",
+          "publishedOn": "2022-12-28T15:25:03.000Z",
+          "wordCount": 7078,
+          "title": "Algorithms to Live By – The Computer Science of Human Decisions",
           "imageUrl": null
         },
         {
-          "id": "https://blog.daveallie.com/ulid-primary-keys",
+          "id": "https://www.theregister.com/2013/07/16/netware_4_anniversary/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.daveallie.com/ulid-primary-keys",
-          "publishedOn": "2022-12-29T18:00:10.000Z",
-          "wordCount": 2177,
-          "title": "ULIDs and Primary Keys",
+          "link": "https://www.theregister.com/2013/07/16/netware_4_anniversary/",
+          "publishedOn": "2022-12-28T14:27:05.000Z",
+          "wordCount": 1756,
+          "title": "How Novell Netware lost the battle against Windows NT (2013)",
           "imageUrl": null
         },
         {
-          "id": "https://focustaiwan.tw/business/202212290013",
+          "id": "https://canarytokens.org/generate",
           "author": null,
           "description": "Comments",
-          "link": "https://focustaiwan.tw/business/202212290013",
-          "publishedOn": "2022-12-29T17:06:42.000Z",
-          "wordCount": 2408,
-          "title": "TSMC starts volume production of 3nm chips",
-          "imageUrl": "https://imgcdn.cna.com.tw/Eng/WebEngPhotos/1024/2022/20221229/1024x683_065152670836.jpg"
+          "link": "https://canarytokens.org/generate",
+          "publishedOn": "2022-12-28T05:13:23.000Z",
+          "wordCount": 3968,
+          "title": "Canary Tokens",
+          "imageUrl": "https://canary.tools/static/images/ico_canary.png"
         },
         {
-          "id": "https://elonman.com/page/how/",
+          "id": "https://en.wikipedia.org/wiki/Hogmanay",
           "author": null,
           "description": "Comments",
-          "link": "https://elonman.com/page/how/",
-          "publishedOn": "2022-12-29T15:45:26.000Z",
-          "wordCount": 4475,
-          "title": "Show HN: GUI for making animated webcomics",
-          "imageUrl": "/static/elonman/meta/android-chrome-512x512.39494b973dcb.png"
-        },
-        {
-          "id": "https://www.bbc.com/future/article/20220322-how-sleep-training-affects-babies",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/future/article/20220322-how-sleep-training-affects-babies",
-          "publishedOn": "2022-12-29T14:40:17.000Z",
-          "wordCount": 66159,
-          "title": "What happens when babies are left to cry it out?",
-          "imageUrl": "https://ychef.files.bbci.co.uk/live/624x351/p0by4jnm.jpg"
-        },
-        {
-          "id": "https://app.pressnt.net/post/4/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://app.pressnt.net/post/4/",
-          "publishedOn": "2022-12-29T13:09:29.000Z",
-          "wordCount": 856,
-          "title": "Show HN: Pressn't – a site where you can only have a single post",
-          "imageUrl": null
-        },
-        {
-          "id": "https://postgrest.org/en/stable/index.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://postgrest.org/en/stable/index.html",
-          "publishedOn": "2022-12-29T13:04:46.000Z",
-          "wordCount": 911,
-          "title": "PostgREST – Serve a RESTful API from any Postgres database",
-          "imageUrl": null
-        },
-        {
-          "id": "https://seumasjeltzz.github.io/LinguaeGraecaePerSeIllustrata/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://seumasjeltzz.github.io/LinguaeGraecaePerSeIllustrata/",
-          "publishedOn": "2022-12-29T12:11:52.000Z",
-          "wordCount": 154,
-          "title": "Lingua Graeca Per Se Illustrata",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/ciniml/WireGuard-ESP32-Arduino",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/ciniml/WireGuard-ESP32-Arduino",
-          "publishedOn": "2022-12-29T10:52:38.000Z",
-          "wordCount": 818,
-          "title": "WireGuard for the ESP32",
-          "imageUrl": "https://opengraph.githubassets.com/44fb4fa24b25f2228fb050a56f1c3ca04fb89feb4d8bc77fb5c1bd4252c00834/ciniml/WireGuard-ESP32-Arduino"
-        },
-        {
-          "id": "https://gist.github.com/sj26/88e1c6584397bb7c13bd11108a579746",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gist.github.com/sj26/88e1c6584397bb7c13bd11108a579746",
-          "publishedOn": "2022-12-28T15:07:30.000Z",
-          "wordCount": 1396,
-          "title": "Bash retry function with exponential backoff",
-          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
-        },
-        {
-          "id": "https://glissblog.vercel.app/posts/how-i-found-my-new-house-thru-6-degrees",
-          "author": null,
-          "description": "Comments",
-          "link": "https://glissblog.vercel.app/posts/how-i-found-my-new-house-thru-6-degrees",
-          "publishedOn": "2022-12-28T14:08:15.000Z",
-          "wordCount": 3351,
-          "title": "How I found my house through 6 degrees of separation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.scypress.com/book_download.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scypress.com/book_download.html",
-          "publishedOn": "2022-12-28T14:05:40.000Z",
-          "wordCount": 79,
-          "title": "TeXmacs “The Jolly Writer” book is now available as pdf download",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theverge.com/2022/12/27/23523281/excel-formula-suggestions-by-example-microsoft-365",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theverge.com/2022/12/27/23523281/excel-formula-suggestions-by-example-microsoft-365",
-          "publishedOn": "2022-12-28T06:25:02.000Z",
-          "wordCount": 9214,
-          "title": "Microsoft is making Excel’s formulas easier",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/2LpcEUR9vxFA_n_aNZ-N_tTvOps=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg"
-        },
-        {
-          "id": "https://arxiv.org/abs/2207.13552",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2207.13552",
-          "publishedOn": "2022-12-28T05:15:34.000Z",
-          "wordCount": 646,
-          "title": "iCub knows where you look: Exploiting social cues for object detection learning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://drew.shoes/posts/sup/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://drew.shoes/posts/sup/",
-          "publishedOn": "2022-12-28T04:47:07.000Z",
-          "wordCount": 1725,
-          "title": "Saying “sup” with `net send`",
-          "imageUrl": null
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Sunstone_(medieval)",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Sunstone_(medieval)",
-          "publishedOn": "2022-12-26T20:41:09.000Z",
-          "wordCount": 2441,
-          "title": "Sunstone (medieval)",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silfurberg.jpg/1200px-Silfurberg.jpg"
+          "link": "https://en.wikipedia.org/wiki/Hogmanay",
+          "publishedOn": "2022-12-27T17:44:14.000Z",
+          "wordCount": 5296,
+          "title": "Hogmanay",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/EdinburghNYE.jpg/1200px-EdinburghNYE.jpg"
         }
       ]
     }
