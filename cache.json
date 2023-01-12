@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376342",
+          "author": "Geoff Graham",
+          "description": "A little thing happened on the way to publishing the CSS :has() selector to the ol’ Almanac. I had originally described :has() as a “forgiving” selector, the idea being that anything in its argument is evaluated, even if one or …\n:has is an unforgiving selector originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/has-is-an-unforgiving-selector/",
+          "publishedOn": "2023-01-11T14:18:13.000Z",
+          "wordCount": 1048,
+          "title": ":has is an unforgiving selector",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376342"
+        },
+        {
           "id": "https://css-tricks.com/?p=376307",
           "author": "Anders Pedersen",
           "description": "The good ol’ <table> tag is the most semantic HTML for showing tabular data. But I find it very hard to control how the table is presented, particularly column widths in a dynamic environment where you might not know how …\nFaking Min Width on a Table Column originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -107,7 +117,7 @@
           "description": "Suzy Naschansky from the HTMHell Advent Calendar:\n<h2 id=\"article1-heading\"All About Dragons</h2<pI like dragons. Blah blah blah blah blah.</p<p<a id=\"article1-read-more\" aria-labelledby=\"article1-read-more article1-heading\"Read more</a</p\nSee that aria-labelledby attribute? It chains two IDs from the …\nUnchain My Inaccessibly-Labelled Heart originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/unchain-my-inaccessibly-labelled-heart/",
           "publishedOn": "2022-12-14T14:08:20.000Z",
-          "wordCount": 1238,
+          "wordCount": 1256,
           "title": "Unchain My Inaccessibly-Labelled Heart",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375952"
         },
@@ -130,26 +140,6 @@
           "wordCount": 2329,
           "title": "A Few Times Container Size Queries Would Have Helped Me Out",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375728"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375722",
-          "author": "Geoff Graham",
-          "description": "Sara Soueidan with everything you need, from what screen reading options are out there all the way to setting up virtual machines for them, installing them, and confguring keyboard options. It’s truly a one-stop reference that pulls together disparate …\nSetting up a screen reader testing environment on your computer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/setting-up-a-screen-reader-testing-environment-on-your-computer/",
-          "publishedOn": "2022-12-12T20:56:58.000Z",
-          "wordCount": 808,
-          "title": "Setting up a screen reader testing environment on your computer",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375722"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375577",
-          "author": "Manoj Kumar",
-          "description": "We’ve accomplished a bunch of stuff in this series! We created a custom WordPress block that fetches data from an external API and renders it on the front end. Then we took that work and extended it so the data …\nSaving Settings for a Custom WordPress Block in the Block Editor originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/saving-settings-for-a-custom-wordpress-block-in-the-block-editor/",
-          "publishedOn": "2022-12-12T14:06:39.000Z",
-          "wordCount": 1566,
-          "title": "Saving Settings for a Custom WordPress Block in the Block Editor",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375577"
         }
       ]
     },
@@ -158,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/01/closed-captions-subtitles-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Captioning can be much more than text. Design patterns for better UX of subtitles, captions, video players, transcripts and on-screen text.",
+          "link": "https://smashingmagazine.com/2023/01/closed-captions-subtitles-ux/",
+          "publishedOn": "2023-01-11T08:00:00.000Z",
+          "wordCount": 5328,
+          "title": "Closed Captions And Subtitles UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de2f7ff-c421-4bba-84b0-e346653ed12c/closed-captions-subtitles-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de2f7ff-c421-4bba-84b0-e346653ed12c/closed-captions-subtitles-ux.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/",
           "author": "hello@smashingmagazine.com (Shane Hudson)",
@@ -179,7 +184,7 @@
           "description": "This article is Eric Burel’s attempt at making the implementation of authentication less obscure. You’ll learn about tokens, authorization, CORS, credentials, HTTP headers, and such.",
           "link": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
           "publishedOn": "2023-01-09T09:00:00.000Z",
-          "wordCount": 8924,
+          "wordCount": 8915,
           "title": "Understanding Authentication In Websites: A Banking Analogy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c05edc94-7dca-4d9f-a4ad-c82dfa00bbf6/authentication-websites-banking-analogy.jpg",
@@ -194,7 +199,7 @@
           "description": "In this article, Sara Dholakia presents a guide on how to choose just the right type of data visualization, with guidelines and things to keep in mind.",
           "link": "https://smashingmagazine.com/2023/01/guide-getting-data-visualization-right/",
           "publishedOn": "2023-01-05T09:00:00.000Z",
-          "wordCount": 5473,
+          "wordCount": 5469,
           "title": "A Guide To Getting Data Visualization Right",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/38409b65-d922-486a-8db9-0adb09194016/guide-getting-data-visualization-right.jpg",
@@ -209,7 +214,7 @@
           "description": "That’s how people behave on the web in 2023. Some observations from real usability testing on what people do and what they don’t do on the web. From disabled copy-paste to magic link sign-in.",
           "link": "https://smashingmagazine.com/2023/01/usability-2023/",
           "publishedOn": "2023-01-02T09:00:00.000Z",
-          "wordCount": 3537,
+          "wordCount": 3542,
           "title": "The State Of Usability In 2023 🎊",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/892f360a-dc33-44c0-aba8-478b1edc7357/usability-2023.jpg",
@@ -224,7 +229,7 @@
           "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2023!",
           "link": "https://smashingmagazine.com/2022/12/desktop-wallpaper-calendars-january-2023/",
           "publishedOn": "2022-12-31T09:00:00.000Z",
-          "wordCount": 4651,
+          "wordCount": 4659,
           "title": "Opening The Doors To 2023 (January Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ea4019d5-9870-41a3-9646-a68895c59a3d/jan-23-bird-bird-bird-bird-preview-opt.png",
@@ -239,7 +244,7 @@
           "description": "In this article, Ruslan Yevych will show you an easy way how to predict the appearance of a problem known as WCAG Failure Under 1.4.4 Resize Text (AA) while zooming the page. You will have a clear understanding of the possible risks of using responsive typography at the stage of development.",
           "link": "https://smashingmagazine.com/2022/12/fluid-typography-predict-problem-users-zoom-in/",
           "publishedOn": "2022-12-30T15:00:00.000Z",
-          "wordCount": 4669,
+          "wordCount": 4674,
           "title": "Fluid Typography: Predicting A Problem With Your User’s Zoom-In",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e896f9f1-7437-48c5-9481-483ae087a622/fluid-typography-predict-problem-users-zoom-in.jpg",
@@ -254,7 +259,7 @@
           "description": "No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.",
           "link": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
           "publishedOn": "2022-12-27T11:00:00.000Z",
-          "wordCount": 4891,
+          "wordCount": 4889,
           "title": "A Guide To Command-Line Data Manipulation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9865d051-a600-4de7-a961-8b39a9226757/guide-command-line-data-manipulation-cli-miller.jpg",
@@ -299,7 +304,7 @@
           "description": "In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.",
           "link": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
           "publishedOn": "2022-12-19T13:00:00.000Z",
-          "wordCount": 5495,
+          "wordCount": 5489,
           "title": "Taking The Stress Out Of Design System Management",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg",
@@ -314,7 +319,7 @@
           "description": "In this article, Ashish Bogawat shares some of his favorite ways how to boost productivity and do things faster, better, and probably more fun by using efficient tools and workflows.",
           "link": "https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/",
           "publishedOn": "2022-12-16T10:00:00.000Z",
-          "wordCount": 5645,
+          "wordCount": 5752,
           "title": "Boosting Productivity For Designers With Efficient Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fea883cf-c97a-43dc-b537-bc2147183cde/optimizing-design-workflow-tools.jpg",
@@ -359,7 +364,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part2/",
           "publishedOn": "2022-12-13T15:00:00.000Z",
-          "wordCount": 5606,
+          "wordCount": 5608,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef4ceadc-3a08-4ff7-ae9e-4e44b1054feb/accessible-front-end-patterns-responsive-tables-part2.jpg",
@@ -367,21 +372,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef4ceadc-3a08-4ff7-ae9e-4e44b1054feb/accessible-front-end-patterns-responsive-tables-part2.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/",
-          "author": "hello@smashingmagazine.com (Keima Kai)",
-          "description": "In this article, Keima Kai provides a brief history of AI in web design, explores its current implications for creativity, and offers suggestions for how web designers can stay ahead of the curve.",
-          "link": "https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/",
-          "publishedOn": "2022-12-12T13:00:00.000Z",
-          "wordCount": 5856,
-          "title": "The Future Of Design: Human-Powered Or AI-Driven?",
-          "enclosure": {
-            "url": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg"
         }
       ]
     },
@@ -391,303 +381,303 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://nautil.us/the-remarkable-emptiness-of-existence-256323/",
+          "id": "https://verily.com/blog/one-verily-forward/",
           "author": null,
           "description": "Comments",
-          "link": "https://nautil.us/the-remarkable-emptiness-of-existence-256323/",
-          "publishedOn": "2023-01-10T23:26:15.000Z",
-          "wordCount": 7085,
-          "title": "The Remarkable Emptiness of Existence",
-          "imageUrl": "https://assets.nautil.us/sites/3/nautilus/EZ5HLMYp-Sutter_HERO.png?auto=compress&fm=png&ixlib=php-3.3.1"
+          "link": "https://verily.com/blog/one-verily-forward/",
+          "publishedOn": "2023-01-11T23:09:18.000Z",
+          "wordCount": 1834,
+          "title": "Verily (an Google/Alphabet Bet) eliminates off 15% of it's staff",
+          "imageUrl": "https://lh3.googleusercontent.com/GWVA-4BlU8MGTSxgzSRAu9hM-b3Zb7YSVJv6ND1HKWWnGdP_HdsaP6_E2UObRzanb0Mx782W5HkwQvQhF9sMmzED--kmS3I3aE78TjXOmACa92Gq7oo_=w1200-h675-c"
         },
         {
-          "id": "https://www.sapiens.org/culture/lebanon-solar-power/",
+          "id": "https://misfra.me/2023/ctes-as-lookup-tables/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.sapiens.org/culture/lebanon-solar-power/",
-          "publishedOn": "2023-01-10T23:13:04.000Z",
-          "wordCount": 2325,
-          "title": "In Lebanon, solar power is booming",
-          "imageUrl": "https://www.sapiens.org/app/uploads/2023/01/01_Electricity-Lines_Beirut-Lebanon-1024x683.jpg"
-        },
-        {
-          "id": "https://newsletter.danhon.com/archive/s14e06-congratulations-your-app-has-apps-in-it-now/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://newsletter.danhon.com/archive/s14e06-congratulations-your-app-has-apps-in-it-now/",
-          "publishedOn": "2023-01-10T22:21:47.000Z",
-          "wordCount": 1770,
-          "title": "Zoom app dock: Congratulations, your app has apps in it now",
+          "link": "https://misfra.me/2023/ctes-as-lookup-tables/",
+          "publishedOn": "2023-01-11T23:07:49.000Z",
+          "wordCount": 352,
+          "title": "CTEs as Lookup Tables",
           "imageUrl": null
         },
         {
-          "id": "https://neeva.com/blog/introducing-neevaai",
+          "id": "https://etleap.com/careers/software-engineer/",
           "author": null,
           "description": "Comments",
-          "link": "https://neeva.com/blog/introducing-neevaai",
-          "publishedOn": "2023-01-10T21:55:01.000Z",
-          "wordCount": 1289,
-          "title": "NeevaAI",
-          "imageUrl": "https://cdn.sanity.io/images/c22bu2bx/marketing-site/57087bce41dbc5f2f62b2821601eff0827d6c37a-3200x1160.png"
-        },
-        {
-          "id": "https://www.qmul.ac.uk/media/news/2022/smd/researchers-identify-protein-that-helps-skin-cancer-spread-throughout-the-body.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.qmul.ac.uk/media/news/2022/smd/researchers-identify-protein-that-helps-skin-cancer-spread-throughout-the-body.html",
-          "publishedOn": "2023-01-10T21:05:22.000Z",
-          "wordCount": 1715,
-          "title": "Researchers identify protein that helps skin cancer spread",
-          "imageUrl": "https://www.qmul.ac.uk/media/qmul/media/news/items/smd/2022/640-x-410-MAX_2019-11-13_WM983B_4.ims---2019-11-13_WM983B_4.ims-Resolution-Level-1-1-1[92].jpg"
-        },
-        {
-          "id": "https://jobs.ashbyhq.com/Jerry/2e30b90f-a707-4f50-9b7d-d27c841a238a",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jobs.ashbyhq.com/Jerry/2e30b90f-a707-4f50-9b7d-d27c841a238a",
-          "publishedOn": "2023-01-10T21:00:44.000Z",
-          "wordCount": 1634,
-          "title": "Jerry (YC S17) Is Hiring VP / Director of Engineering",
+          "link": "https://etleap.com/careers/software-engineer/",
+          "publishedOn": "2023-01-11T22:03:40.000Z",
+          "wordCount": 513,
+          "title": "Etleap (YC W13) Is Hiring – Software Engineer (London)",
           "imageUrl": null
         },
         {
-          "id": "https://techcrunch.com/2023/01/09/anthropics-claude-improves-on-chatgpt-but-still-suffers-from-limitations/",
+          "id": "https://www.jeffgeerling.com/blog/2023/how-many-amd-rx-7900-xtxs-are-defective",
           "author": null,
           "description": "Comments",
-          "link": "https://techcrunch.com/2023/01/09/anthropics-claude-improves-on-chatgpt-but-still-suffers-from-limitations/",
-          "publishedOn": "2023-01-10T21:00:01.000Z",
-          "wordCount": 9193,
-          "title": "Anthropic's Claude is said to improve on ChatGPT, but still has limitations",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
-        },
-        {
-          "id": "https://www.igalia.com/2023/01/10/Igalia-Brings-MathML-Back-to-Chromium.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.igalia.com/2023/01/10/Igalia-Brings-MathML-Back-to-Chromium.html",
-          "publishedOn": "2023-01-10T20:46:03.000Z",
-          "wordCount": 608,
-          "title": "Bringing MathML back to Chromium",
-          "imageUrl": "https://www.igalia.com/assets/i/logo200x200Margin.png"
-        },
-        {
-          "id": "https://steveblank.com/2023/01/10/be-where-your-business-is/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://steveblank.com/2023/01/10/be-where-your-business-is/",
-          "publishedOn": "2023-01-10T20:45:06.000Z",
-          "wordCount": 3724,
-          "title": "Be where your business is",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://github.com/open-duelyst/duelyst",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/open-duelyst/duelyst",
-          "publishedOn": "2023-01-10T20:38:58.000Z",
-          "wordCount": 1063,
-          "title": "The source code for Duelyst, a digital collectible card game",
-          "imageUrl": "https://opengraph.githubassets.com/dfc6f27f32d49eed685447520a5f48e7c9a66531080cda31d39139ce49b53022/open-duelyst/duelyst"
-        },
-        {
-          "id": "https://www.deepsynoptic.org/overview",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.deepsynoptic.org/overview",
-          "publishedOn": "2023-01-10T20:05:46.000Z",
-          "wordCount": 1000,
-          "title": "The DSA-2000 Radio Survey Telescope",
-          "imageUrl": "http://static1.squarespace.com/static/614f008bdbba3159ac98c058/t/6183fb150257c81a1f0618ff/1636039445593/DSAlogo.png?format=1500w"
-        },
-        {
-          "id": "https://pirateweather.net/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pirateweather.net/",
-          "publishedOn": "2023-01-10T19:15:31.000Z",
-          "wordCount": 36,
-          "title": "Pirate Weather: A free, open, and documented forecast API",
+          "link": "https://www.jeffgeerling.com/blog/2023/how-many-amd-rx-7900-xtxs-are-defective",
+          "publishedOn": "2023-01-11T21:50:35.000Z",
+          "wordCount": 963,
+          "title": "How many AMD RX 7900 XTX's are defective?",
           "imageUrl": null
         },
         {
-          "id": "https://www.righto.com/2023/01/the-8086-processors-microcode-pipeline.html",
+          "id": "https://paleofuture.com/blog/2023/1/11/marshall-mcluhan-on-the-future-of-ads-and-the-internet",
           "author": null,
           "description": "Comments",
-          "link": "https://www.righto.com/2023/01/the-8086-processors-microcode-pipeline.html",
-          "publishedOn": "2023-01-10T18:26:29.000Z",
-          "wordCount": 7630,
-          "title": "8086 Processor's microcode pipeline from die analysis",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha30MC9Gmz_48HJ2wJsKBtXgy8SIBAAcc_z9xNIfaWKOqO7fxtikFz7QL0_XbIx8CiVvoiJoasuzyFCVWeCKoKReN1zciKbib2bv-2MrTq7w39IADNQuAFmdfhLd3CxER-j8XLgwaG0=w1200-h630-p-k-no-nu"
+          "link": "https://paleofuture.com/blog/2023/1/11/marshall-mcluhan-on-the-future-of-ads-and-the-internet",
+          "publishedOn": "2023-01-11T21:13:40.000Z",
+          "wordCount": 1485,
+          "title": "Marshall McLuhan Explain[s] the Future of Ads and the Internet in 1966",
+          "imageUrl": "http://static1.squarespace.com/static/5c647bc99b7d150fe925ea5c/5c6484c2ca70ec2871deb6fa/63bece51c5a7434a38a6f432/1673467750565/marshall+mcluhan+1966.png?format=1500w"
         },
         {
-          "id": "https://magcius.github.io/xplain/article/x-basics.html",
+          "id": "https://github.com/sourcegraph/conc",
           "author": null,
           "description": "Comments",
-          "link": "https://magcius.github.io/xplain/article/x-basics.html",
-          "publishedOn": "2023-01-10T17:58:16.000Z",
-          "wordCount": 2616,
-          "title": "X Window System Basics (2014)",
+          "link": "https://github.com/sourcegraph/conc",
+          "publishedOn": "2023-01-11T20:48:53.000Z",
+          "wordCount": 2062,
+          "title": "Conc: Better Structured Concurrency for Go",
+          "imageUrl": "https://opengraph.githubassets.com/2755970fa1d400ccaa37ec8b6120d77937f72ecb1579c7ef7fc18c0186b02ecf/sourcegraph/conc"
+        },
+        {
+          "id": "https://patents.google.com/patent/US20200284532A1/en",
+          "author": null,
+          "description": "Comments",
+          "link": "https://patents.google.com/patent/US20200284532A1/en",
+          "publishedOn": "2023-01-11T20:48:25.000Z",
+          "wordCount": 7562,
+          "title": "Heat exchanger header with fractal geometry",
           "imageUrl": null
         },
         {
-          "id": "https://www.baldurbjarnason.com/2022/theory-building/",
+          "id": "https://github.com/toblotron/praxis-ide",
           "author": null,
           "description": "Comments",
-          "link": "https://www.baldurbjarnason.com/2022/theory-building/",
-          "publishedOn": "2023-01-10T17:13:06.000Z",
-          "wordCount": 7646,
-          "title": "Theory-building and why employee churn is lethal to software companies",
+          "link": "https://github.com/toblotron/praxis-ide",
+          "publishedOn": "2023-01-11T20:41:56.000Z",
+          "wordCount": 1045,
+          "title": "An online IDE for visual programming in Prolog",
+          "imageUrl": "https://opengraph.githubassets.com/953353fcb5731b267f71a73b5802ce4d408ef7d6583584cd7a69796b00d12daf/toblotron/praxis-ide"
+        },
+        {
+          "id": "https://replicate.com/andreasjansson/cantable-diffuguesion",
+          "author": null,
+          "description": "Comments",
+          "link": "https://replicate.com/andreasjansson/cantable-diffuguesion",
+          "publishedOn": "2023-01-11T20:31:51.000Z",
+          "wordCount": 3033,
+          "title": "Cantable Diffuguesion: Bach chorale generation and harmonization",
           "imageUrl": null
         },
         {
-          "id": "https://eaton-works.com/2023/01/09/how-microsoft-attempted-to-make-the-xbox-360-dashboard-load-faster/",
+          "id": "https://theloadstar.com/flexport-slashes-20-of-global-workforce-over-weak-2023-volume-forecast/",
           "author": null,
           "description": "Comments",
-          "link": "https://eaton-works.com/2023/01/09/how-microsoft-attempted-to-make-the-xbox-360-dashboard-load-faster/",
-          "publishedOn": "2023-01-10T16:56:09.000Z",
-          "wordCount": 4400,
-          "title": "How Microsoft attempted to make the Xbox 360 dashboard load faster",
-          "imageUrl": "https://eaton-works.com/ew-og.png?cb=28e58c15"
+          "link": "https://theloadstar.com/flexport-slashes-20-of-global-workforce-over-weak-2023-volume-forecast/",
+          "publishedOn": "2023-01-11T20:17:04.000Z",
+          "wordCount": 1562,
+          "title": "Flexport slashes 20% of global workforce over weak 2023 volume forecast",
+          "imageUrl": "https://theloadstar.com/wp-content/uploads/flexport-photo-217197453-credit-transversospinales-dreamstime.com_-680x0-c-default.jpg"
         },
         {
-          "id": "https://chrisgagne.com/1255/mary-poppendiecks-the-tyranny-of-the-plan/",
+          "id": "https://www.val.town/",
           "author": null,
           "description": "Comments",
-          "link": "https://chrisgagne.com/1255/mary-poppendiecks-the-tyranny-of-the-plan/",
-          "publishedOn": "2023-01-10T16:36:35.000Z",
-          "wordCount": 11836,
-          "title": "The Tyranny of ‘The Plan' (2013)",
-          "imageUrl": "https://chrisgagne.com/wp-content/uploads/2012/09/1000569931_BqVtF-M.jpg"
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2023/01/10/fields-where-it-matters-that-theres-no-there-there-fields-where-you-can-thrive-on-b-s-alone-and-everything-in-between/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://statmodeling.stat.columbia.edu/2023/01/10/fields-where-it-matters-that-theres-no-there-there-fields-where-you-can-thrive-on-b-s-alone-and-everything-in-between/",
-          "publishedOn": "2023-01-10T16:10:13.000Z",
-          "wordCount": 4916,
-          "title": "Fields where it matters, fields where you can thrive on BS alone, and in between",
+          "link": "https://www.val.town/",
+          "publishedOn": "2023-01-11T19:18:28.000Z",
+          "wordCount": 10,
+          "title": "Show HN: Val Town – A Cloud Scripting Site",
           "imageUrl": null
         },
         {
-          "id": "https://llthw.common-lisp.dev/",
+          "id": "https://a16z.com/2023/01/11/market-annealing/",
           "author": null,
           "description": "Comments",
-          "link": "https://llthw.common-lisp.dev/",
-          "publishedOn": "2023-01-10T15:31:45.000Z",
-          "wordCount": 784,
-          "title": "Learn Lisp the Hard Way",
+          "link": "https://a16z.com/2023/01/11/market-annealing/",
+          "publishedOn": "2023-01-11T19:17:44.000Z",
+          "wordCount": 3878,
+          "title": "Market Annealing: Getting to $10M ARR in Early Markets",
+          "imageUrl": "https://a16z.com/wp-content/uploads/2023/01/Market-Annealing-Dictionary-Facebook-1024x538.png"
+        },
+        {
+          "id": "https://bost.ocks.org/mike/make/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bost.ocks.org/mike/make/",
+          "publishedOn": "2023-01-11T19:03:26.000Z",
+          "wordCount": 1719,
+          "title": "Why Use Make (2013)",
           "imageUrl": null
         },
         {
-          "id": "https://www.calvertjournal.com/features/show/13454/films-are-vulnerable-the-battle-to-preserve-eastern-europes-films",
+          "id": "https://elkue.com/nyc-slice/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.calvertjournal.com/features/show/13454/films-are-vulnerable-the-battle-to-preserve-eastern-europes-films",
-          "publishedOn": "2023-01-10T15:09:16.000Z",
-          "wordCount": null,
-          "title": "‘Films are vulnerable’: The battle to preserve Eastern Europe’s analogue movies (2022)",
+          "link": "https://elkue.com/nyc-slice/",
+          "publishedOn": "2023-01-11T19:00:54.000Z",
+          "wordCount": 2093,
+          "title": "NYC Slice",
           "imageUrl": null
         },
         {
-          "id": "https://blog.kchung.co/taking-over-a-dead-iot-company/",
+          "id": "https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.kchung.co/taking-over-a-dead-iot-company/",
-          "publishedOn": "2023-01-10T14:52:40.000Z",
-          "wordCount": 4144,
-          "title": "Taking over a Dead IoT Company",
-          "imageUrl": "https://blog.kchung.co/content/images/2023/01/pikachu.png"
+          "link": "https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls",
+          "publishedOn": "2023-01-11T18:33:49.000Z",
+          "wordCount": 5389,
+          "title": "What happens when you open a terminal and enter `ls’",
+          "imageUrl": "https://assets-global.website-files.com/6221c6f68d6664279c408870/63be70be24ee9de40f84a1e9_Python%20thumb%2013.png"
         },
         {
-          "id": "https://www.xilinx.com/applications/data-center/v70.html",
+          "id": "https://github.com/DesktopECHO/T95-H616-Malware",
           "author": null,
           "description": "Comments",
-          "link": "https://www.xilinx.com/applications/data-center/v70.html",
-          "publishedOn": "2023-01-10T14:04:28.000Z",
-          "wordCount": 1426,
-          "title": "AMD Alveo V70 AI inference accelerator card",
-          "imageUrl": "https://www.xilinx.com/content/dam/xilinx/images/ogimage.jpg"
+          "link": "https://github.com/DesktopECHO/T95-H616-Malware",
+          "publishedOn": "2023-01-11T18:22:52.000Z",
+          "wordCount": 1385,
+          "title": "T95 Allwinner T616 Malware Analysis",
+          "imageUrl": "https://opengraph.githubassets.com/4cfaf88f48d864028d2f6ef48297acc23c057356bd075ae43bd7b17482d59d98/DesktopECHO/T95-H616-Malware"
         },
         {
-          "id": "https://github.com/Kanaries/graphic-walker",
+          "id": "https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/Kanaries/graphic-walker",
-          "publishedOn": "2023-01-10T14:01:49.000Z",
-          "wordCount": 1400,
-          "title": "Show HN: Graphic-Walker – A different type of open-source alternative to Tableau",
-          "imageUrl": "https://opengraph.githubassets.com/5ece002ff0be3b21b10d4851c6ed0ace94d56ca5b935e757ec98e6fe3cd1c045/Kanaries/graphic-walker"
+          "link": "https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison",
+          "publishedOn": "2023-01-11T18:19:05.000Z",
+          "wordCount": 3272,
+          "title": "Apache Hudi vs. Delta Lake vs. Apache Iceberg Lakehouse Feature Comparison",
+          "imageUrl": "https://assets.website-files.com/61f38d7a4e41d6a673cd65c7/63be71f5c9d13ef8a4bcb9c2_Delta_Hudi_Iceberg.png"
         },
         {
-          "id": "https://arbesman.substack.com/p/open-ended-software-as-human-beings",
+          "id": "https://www.beautifulpublicdata.com/the-style-guide-for-americas-highways-mutcd/",
           "author": null,
           "description": "Comments",
-          "link": "https://arbesman.substack.com/p/open-ended-software-as-human-beings",
-          "publishedOn": "2023-01-10T13:01:44.000Z",
-          "wordCount": 2935,
-          "title": "Douglas Adams on Hypercard and new educational models",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88f6804d-ceca-4468-a3b7-dd19db4fdf59_600x463.jpeg"
+          "link": "https://www.beautifulpublicdata.com/the-style-guide-for-americas-highways-mutcd/",
+          "publishedOn": "2023-01-11T16:38:30.000Z",
+          "wordCount": 1874,
+          "title": "The Style Guide for America’s Highways",
+          "imageUrl": "https://www.beautifulpublicdata.com/content/images/2023/01/CRASH_HEADER-3k-2.jpg"
         },
         {
-          "id": "https://johnpweiss.com/blog/183699/minimalism-and-the-art-of-photography",
+          "id": "https://www.starfivetech.com/en/site/new_details/976",
           "author": null,
           "description": "Comments",
-          "link": "https://johnpweiss.com/blog/183699/minimalism-and-the-art-of-photography",
-          "publishedOn": "2023-01-10T10:32:24.000Z",
-          "wordCount": 3478,
-          "title": "Minimalism and the art of photography",
-          "imageUrl": "https://d3ob8sux7a0mqp.cloudfront.net/47118/4983704org.jpg"
+          "link": "https://www.starfivetech.com/en/site/new_details/976",
+          "publishedOn": "2023-01-11T15:48:50.000Z",
+          "wordCount": 713,
+          "title": "RISC-V SBC VisionFive 2 Officially Shipped",
+          "imageUrl": null
         },
         {
-          "id": "https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/",
+          "id": "https://lcamtuf.coredump.cx/gcnc/",
           "author": null,
           "description": "Comments",
-          "link": "https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/",
-          "publishedOn": "2023-01-10T08:32:18.000Z",
-          "wordCount": 4582,
-          "title": "Wolfram Alpha and ChatGPT",
-          "imageUrl": "https://content.wolfram.com/uploads/sites/43/2023/01/ChatGPT-hero-v4.png"
+          "link": "https://lcamtuf.coredump.cx/gcnc/",
+          "publishedOn": "2023-01-11T15:26:42.000Z",
+          "wordCount": 552,
+          "title": "Guerrilla guide to CNC machining, mold making, and resin casting (2015)",
+          "imageUrl": null
         },
         {
-          "id": "https://www.azul.com/blog/what-should-i-know-about-garbage-collection-as-a-java-developer/",
+          "id": "https://www.infoq.com/news/2022/12/apple-swift-foundation-rewrite/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.azul.com/blog/what-should-i-know-about-garbage-collection-as-a-java-developer/",
-          "publishedOn": "2023-01-10T05:38:20.000Z",
-          "wordCount": 4317,
-          "title": "What should I know about garbage collection as a Java developer?",
-          "imageUrl": "https://www.azul.com/wp-content/uploads/2022-Nov-Performance-GarbageCollection-hero.jpg"
+          "link": "https://www.infoq.com/news/2022/12/apple-swift-foundation-rewrite/",
+          "publishedOn": "2023-01-11T15:01:11.000Z",
+          "wordCount": 6990,
+          "title": "Apple announces full Swift rewrite of the Foundation framework (2022)",
+          "imageUrl": "https://res.infoq.com/news/2022/12/apple-swift-foundation-rewrite/en/headerimage/apple-swift-foundation-rewrite-1671014092931.jpeg"
         },
         {
-          "id": "https://publicdomainreview.org/essay/eating-and-reading-with-katherine-mansfield",
+          "id": "https://news.ycombinator.com/item?id=34338995",
           "author": null,
           "description": "Comments",
-          "link": "https://publicdomainreview.org/essay/eating-and-reading-with-katherine-mansfield",
-          "publishedOn": "2023-01-10T03:45:35.000Z",
-          "wordCount": 12646,
-          "title": "Eating and reading with Katherine Mansfield",
-          "imageUrl": "https://the-public-domain-review.imgix.net/essays/eating-and-reading-with-katherine-mansfield/Mansfield-thumb-feature.jpg"
+          "link": "https://news.ycombinator.com/item?id=34338995",
+          "publishedOn": "2023-01-11T14:46:54.000Z",
+          "wordCount": 3926,
+          "title": "Launch HN: IcePanel (YC W23) – Onboard engineers with explorable system designs",
+          "imageUrl": null
         },
         {
-          "id": "https://www.texasmonthly.com/being-texan/osage-orange-history/",
+          "id": "https://store.steampowered.com/app/1261430/Kandria/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.texasmonthly.com/being-texan/osage-orange-history/",
-          "publishedOn": "2023-01-09T21:14:47.000Z",
-          "wordCount": 4090,
-          "title": "The Osage orange, Texas’s ugliest fruit (2021)",
-          "imageUrl": "https://img.texasmonthly.com/2021/12/osage-oranges-texas.jpg?auto=compress&crop=faces&fit=crop&fm=pjpg&h=750&ixlib=php-3.3.1&q=45&w=1200&wpsize=landscape-1200"
+          "link": "https://store.steampowered.com/app/1261430/Kandria/",
+          "publishedOn": "2023-01-11T14:09:54.000Z",
+          "wordCount": 2934,
+          "title": "Show HN: Kandria, an action RPG made in Common Lisp, is now out",
+          "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1261430/capsule_616x353.jpg?t=1673445616"
         },
         {
-          "id": "https://www.trashworldnews.com/yoda-stories/",
+          "id": "https://devblogs.microsoft.com/oldnewthing/20230109-00/?p=107685",
           "author": null,
           "description": "Comments",
-          "link": "https://www.trashworldnews.com/yoda-stories/",
-          "publishedOn": "2023-01-09T19:11:11.000Z",
-          "wordCount": 5362,
-          "title": "Reverse Engineering Star Wars: Yoda Stories (2014)",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20230109-00/?p=107685",
+          "publishedOn": "2023-01-11T13:13:37.000Z",
+          "wordCount": 5541,
+          "title": "On leading underscores and names reserved by the C and C++ languages",
+          "imageUrl": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg"
+        },
+        {
+          "id": "https://github.com/karpathy/nanoGPT",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/karpathy/nanoGPT",
+          "publishedOn": "2023-01-11T08:34:25.000Z",
+          "wordCount": 1977,
+          "title": "NanoGPT",
+          "imageUrl": "https://opengraph.githubassets.com/03e7f7421b3154cd0ae0adf2c53bd8a3f9a6d2d1231dcc1b0227448212b8a1c9/karpathy/nanoGPT"
+        },
+        {
+          "id": "https://lowtechguys.com/grila/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lowtechguys.com/grila/",
+          "publishedOn": "2023-01-11T06:49:18.000Z",
+          "wordCount": 432,
+          "title": "Show HN: Grila – Calendar for keyboard addicts, always one keypress away",
+          "imageUrl": "https://img.panaitiu.com/_/1200/plain/https://lowtechguys.com/static/img/grila-screenshot.png"
+        },
+        {
+          "id": "https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html",
+          "publishedOn": "2023-01-10T20:25:27.000Z",
+          "wordCount": 5648,
+          "title": "Compiled and interpreted languages: Two ways of saying tomato",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ToolJet/ToolJet/releases/tag/v2.0.0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ToolJet/ToolJet/releases/tag/v2.0.0",
+          "publishedOn": "2023-01-10T11:33:18.000Z",
+          "wordCount": 2392,
+          "title": "Show HN: ToolJet 2.0 – Open-source alternative to Power Apps and Retool",
+          "imageUrl": "https://opengraph.githubassets.com/4dd724759018d48b6a05f5a5c5d1e9f90080f7a68db85b7d26e58612ff79225d/ToolJet/ToolJet/releases/tag/v2.0.0"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34322303",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34322303",
+          "publishedOn": "2023-01-10T09:20:02.000Z",
+          "wordCount": 5118,
+          "title": "Ask HN: What's your favorite illustration in computer science?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://brianmckenna.org/blog/architecture_code",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brianmckenna.org/blog/architecture_code",
+          "publishedOn": "2023-01-10T08:51:34.000Z",
+          "wordCount": 989,
+          "title": "Architecture diagrams should be code",
           "imageUrl": null
         }
       ]
