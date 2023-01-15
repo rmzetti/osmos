@@ -16,8 +16,8 @@ cacheMaxDays: 30
 
 # timezone: Specify your local timezone so server can group content by weekday (optional)
 # Find yours from the "TZ database name" column of this page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-# Examples: America/Los_Angeles, America/New_York, Asia/Shanghai, Asia/Tokyo
-# eg. timezone: null
+# Examples: null, America/Los_Angeles, America/New_York, Asia/Shanghai, Asia/Tokyo
+timezone: Pacific/Auckland
 
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
