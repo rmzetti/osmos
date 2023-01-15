@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-15T22:25:23.014Z</id>
+    <id>https://rmzetti.github.io/osmos/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-15T22:25:23.014Z</updated>
+    <updated>2023-01-15T22:49:12.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://rmzetti.github.io/osmos/index.html"/>
+    <link rel="self" href="https://rmzetti.github.io/osmos/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[Toes regrow with the help of cells at the base of the nail]]></title>
         <id>https://www.nature.com/articles/d41586-022-04497-4</id>
@@ -266,10 +267,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Porth, It's Like Forth but in Python]]></title>
+        <id>https://gitlab.com/tsoding/porth</id>
+        <link href="https://gitlab.com/tsoding/porth"/>
+        <updated>2023-01-15T12:45:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask HN: How do you trust that your personal machine is not compromised?]]></title>
         <id>https://news.ycombinator.com/item?id=34388866</id>
         <link href="https://news.ycombinator.com/item?id=34388866"/>
         <updated>2023-01-15T12:20:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual Tour of the Hughes Mining Barge and Sea Shadow]]></title>
+        <id>https://maritime.org/tour/seashadow/index.php</id>
+        <link href="https://maritime.org/tour/seashadow/index.php"/>
+        <updated>2023-01-15T10:05:43.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
