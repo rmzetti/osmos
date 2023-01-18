@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376352",
+          "author": "Mariana Beldi",
+          "description": "Someone recently asked me how I approach debugging inline SVGs. Because it is part of the DOM, we can inspect any inline SVG in any browser DevTools. And because of that, we have the ability to scope things out and …\n6 Common SVG Fails (and How to Fix Them) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/6-common-svg-fails-and-how-to-fix-them/",
+          "publishedOn": "2023-01-17T13:51:20.000Z",
+          "wordCount": 3072,
+          "title": "6 Common SVG Fails (and How to Fix Them)",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376352"
+        },
+        {
           "id": "https://css-tricks.com/?p=376342",
           "author": "Geoff Graham",
           "description": "A little thing happened on the way to publishing the CSS :has() selector to the ol’ Almanac. I had originally described :has() as a “forgiving” selector, the idea being that anything in its argument is evaluated, even if one or …\n:has is an unforgiving selector originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -88,6 +98,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/01/swimm-code-documentation-streamlined/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "Writing code documentation can be overwhelming when there’s no smooth process in place. Streamlining best practices and setting automation in your favor works a long way toward getting permanently up-to-date content that reflects the important pieces of your codebase.",
+          "link": "https://smashingmagazine.com/2023/01/swimm-code-documentation-streamlined/",
+          "publishedOn": "2023-01-17T14:00:00.000Z",
+          "wordCount": 3671,
+          "title": "Code Documentation, Streamlined",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/code-documentation-streamlined/swimm-code-documentation-streamlined.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/code-documentation-streamlined/swimm-code-documentation-streamlined.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
           "author": "hello@smashingmagazine.com (Eloïse Martin)",
@@ -267,21 +292,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
-          "author": "hello@smashingmagazine.com (Masha Shaposhnikova)",
-          "description": "In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.",
-          "link": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
-          "publishedOn": "2022-12-19T13:00:00.000Z",
-          "wordCount": 5489,
-          "title": "Taking The Stress Out Of Design System Management",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg"
         }
       ]
     },
@@ -290,6 +300,266 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9OYPWgzDBxE",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=9OYPWgzDBxE",
+          "publishedOn": "2023-01-18T03:45:20.000Z",
+          "wordCount": null,
+          "title": "Japanese manhole mass production process [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/hwchase17/langchain",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/hwchase17/langchain",
+          "publishedOn": "2023-01-18T02:16:13.000Z",
+          "wordCount": 1002,
+          "title": "LangChain: Build AI apps with LLMs through composability",
+          "imageUrl": "https://opengraph.githubassets.com/4de1c4bba0e5688da6724750337a77f4249c05661928bbdd7c7d9177fb9304f5/hwchase17/langchain"
+        },
+        {
+          "id": "https://www.puzzlehub.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.puzzlehub.org/",
+          "publishedOn": "2023-01-18T01:38:37.000Z",
+          "wordCount": 1422,
+          "title": "Printable Puzzle Project",
+          "imageUrl": "https://lh3.googleusercontent.com/7BEu7tl57_C_7ndkBAqBK2_E2OmeRdbT9DmbU4h_RiziFVxN0EPPdGih0m_rdP1RNfIciyaPVtwlYzcJ0NScecBGQ4ZSceb4ziz0t2vwEeOogE5zMRhgpkYXMa401RikEsoEiTom31Yp1-gmDciq34UzJ4_kIP7n8p_v=w1280"
+        },
+        {
+          "id": "https://github.com/shunak/wfh",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/shunak/wfh",
+          "publishedOn": "2023-01-18T01:28:19.000Z",
+          "wordCount": 709,
+          "title": "Show HN: I made a tool, create GitHub Repository from local directory directly",
+          "imageUrl": "https://opengraph.githubassets.com/72f75d6306eab6fb4fdf934187b8413bfa9e55450867f90b718a596918b951de/shunak/wfh"
+        },
+        {
+          "id": "https://www.smithsonianmag.com/smart-news/smithsonian-will-restore-nearly-300-never-before-heard-recordings-by-alexander-graham-bell-180981440/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/smart-news/smithsonian-will-restore-nearly-300-never-before-heard-recordings-by-alexander-graham-bell-180981440/",
+          "publishedOn": "2023-01-18T01:23:15.000Z",
+          "wordCount": 1530,
+          "title": "Smithsonian will restore hundreds of the oldest sound recordings",
+          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/khW5RtRZYq1fka4nhgeAGfX-zkM=/fit-in/1600x0/filters:focal(1466x977:1467x978)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2F81%2F64%2F8164e4fe-03ac-4e31-a554-aa9ae38bd9af%2Fgettyimages-615294162_1.jpg"
+        },
+        {
+          "id": "https://arxiv.org/abs/2105.02723",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2105.02723",
+          "publishedOn": "2023-01-18T00:00:18.000Z",
+          "wordCount": 629,
+          "title": "A stack of feed-forward layers does surprisingly well on ImageNet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://summate.it/?v2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://summate.it/?v2",
+          "publishedOn": "2023-01-17T23:59:41.000Z",
+          "wordCount": 177,
+          "title": "Show HN: Summate.it – Quickly summarize web articles with OpenAI",
+          "imageUrl": "https://summate.it/share.png"
+        },
+        {
+          "id": "https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/",
+          "publishedOn": "2023-01-17T23:04:06.000Z",
+          "wordCount": 3177,
+          "title": "The art of knowing when to quit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.economist.com/graphic-detail/2023/01/17/a-flurry-of-new-studies-identifies-causes-of-the-industrial-revolution",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.economist.com/graphic-detail/2023/01/17/a-flurry-of-new-studies-identifies-causes-of-the-industrial-revolution",
+          "publishedOn": "2023-01-17T22:58:13.000Z",
+          "wordCount": 5566,
+          "title": "A flurry of new studies identifies causes of the Industrial Revolution",
+          "imageUrl": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230121_WOT914.png"
+        },
+        {
+          "id": "https://www.theverge.com/circuitbreaker/2020/6/30/21292182/thinkpad-trackpoint-mouse-nub-button-trackpad-challenges-design-user-input",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/circuitbreaker/2020/6/30/21292182/thinkpad-trackpoint-mouse-nub-button-trackpad-challenges-design-user-input",
+          "publishedOn": "2023-01-17T22:34:11.000Z",
+          "wordCount": 8281,
+          "title": "The ThinkPad TrackPoint tried to build a better mouse (2020)",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/uiYLhZum2hdeWJlWyB2KTASVtdA=/0x0:2040x1360/1200x628/filters:focal(1052x427:1053x428)/cdn.vox-cdn.com/uploads/chorus_asset/file/20036070/akrales_200611_4051_0011.0.jpg"
+        },
+        {
+          "id": "https://xakcop.com/post/hyundai-hack-2/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://xakcop.com/post/hyundai-hack-2/",
+          "publishedOn": "2023-01-17T22:21:43.000Z",
+          "wordCount": 964,
+          "title": "Hyundai Head Unit Hacking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tailscale.com/security-bulletins/#ts-2023-001/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tailscale.com/security-bulletins/#ts-2023-001/",
+          "publishedOn": "2023-01-17T22:10:08.000Z",
+          "wordCount": 2122,
+          "title": "Tailscale bug allowed a person to share nodes from other tailnets without auth",
+          "imageUrl": "https://tailscale.com/files/images/og-image.png"
+        },
+        {
+          "id": "https://soegaard.github.io/blog/metapict/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://soegaard.github.io/blog/metapict/",
+          "publishedOn": "2023-01-17T22:00:58.000Z",
+          "wordCount": 2808,
+          "title": "The Metapict Blog – TikZ like figures using Racket",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-022-35393-0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41467-022-35393-0",
+          "publishedOn": "2023-01-17T20:21:55.000Z",
+          "wordCount": 11441,
+          "title": "EV batteries alone could satisfy short-term grid storage demand as early as 2030",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-35393-0/MediaObjects/41467_2022_35393_Fig1_HTML.png"
+        },
+        {
+          "id": "https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/",
+          "publishedOn": "2023-01-17T19:05:09.000Z",
+          "wordCount": 1461,
+          "title": "Git security vulnerabilities announced",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/10/Group-3.png"
+        },
+        {
+          "id": "https://www.plusdocs.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.plusdocs.com/",
+          "publishedOn": "2023-01-17T18:23:06.000Z",
+          "wordCount": 1323,
+          "title": "Show HN: Plus – Self-updating screenshots",
+          "imageUrl": "https://uploads-ssl.webflow.com/622ffb3448f15ce7a33c6a2b/62e97084663e6142df9db033_OpenGraph%20Image.jpg"
+        },
+        {
+          "id": "https://github.com/vygr/ChrysaLisp",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/vygr/ChrysaLisp",
+          "publishedOn": "2023-01-17T17:56:48.000Z",
+          "wordCount": 2610,
+          "title": "ChrysaLisp",
+          "imageUrl": "https://opengraph.githubassets.com/2286fdd6045113a95f130b42fd7e09f4e7a83acf1ea2dc6c6c96ea385495e979/vygr/ChrysaLisp"
+        },
+        {
+          "id": "https://ldbeth.sdf.org/articles/cm.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ldbeth.sdf.org/articles/cm.html",
+          "publishedOn": "2023-01-17T17:54:26.000Z",
+          "wordCount": 760,
+          "title": "Common Lisp and Music Composition",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.patterns.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.patterns.app/",
+          "publishedOn": "2023-01-17T17:00:13.000Z",
+          "wordCount": 1799,
+          "title": "Patterns (YC S21) is hiring",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+          "publishedOn": "2023-01-17T16:40:29.000Z",
+          "wordCount": null,
+          "title": "Let's build GPT: from scratch, in code, spelled out by Andrej Karpathy [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34414527",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34414527",
+          "publishedOn": "2023-01-17T16:27:52.000Z",
+          "wordCount": 20517,
+          "title": "Ask HN: Has anyone worked at the US National Labs before?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://steveblank.com/2023/01/17/is-a-venture-studio-right-for-you/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://steveblank.com/2023/01/17/is-a-venture-studio-right-for-you/",
+          "publishedOn": "2023-01-17T16:07:39.000Z",
+          "wordCount": 4254,
+          "title": "Is a venture studio right for you?",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://nones-leonard.medium.com/flying-high-8536fa403324",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nones-leonard.medium.com/flying-high-8536fa403324",
+          "publishedOn": "2023-01-17T14:51:29.000Z",
+          "wordCount": 2798,
+          "title": "My grandfather was almost shot down at the White House (2018)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://shopify.engineering/ruby-yjit-is-production-ready",
+          "author": null,
+          "description": "Comments",
+          "link": "https://shopify.engineering/ruby-yjit-is-production-ready",
+          "publishedOn": "2023-01-17T14:50:28.000Z",
+          "wordCount": 3898,
+          "title": "Ruby 3.2’s YJIT is Production-Ready",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_211008_216ppi_02_TryOutYJITforFasterRubying.jpg?v=1673882706"
+        },
+        {
+          "id": "https://diegomacario.github.io/Hands-In-The-Web/public/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://diegomacario.github.io/Hands-In-The-Web/public/index.html",
+          "publishedOn": "2023-01-17T14:03:30.000Z",
+          "wordCount": 82,
+          "title": "Show HN: A tool for motion-capturing 3D characters using a VR headset",
+          "imageUrl": null
+        },
+        {
+          "id": "https://andydote.co.uk/2023/01/16/feature-flags-ci/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://andydote.co.uk/2023/01/16/feature-flags-ci/",
+          "publishedOn": "2023-01-17T07:08:29.000Z",
+          "wordCount": 1574,
+          "title": "Feature flags in a CI pipeline",
+          "imageUrl": null
+        },
         {
           "id": "https://sidsaladi.substack.com/p/week-21-how-to-create-a-customer",
           "author": null,
@@ -399,6 +669,26 @@
           "wordCount": 79,
           "title": "Show HN: Anonymous Feedback Tool for Teams",
           "imageUrl": "https://runsignals.com/images/social/master.jpg"
+        },
+        {
+          "id": "https://www.guernicamag.com/i-am-the-ghost-here/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.guernicamag.com/i-am-the-ghost-here/",
+          "publishedOn": "2023-01-16T20:39:58.000Z",
+          "wordCount": 4098,
+          "title": "I Am the Ghost Here",
+          "imageUrl": "https://www.guernicamag.com/wp-content/uploads/2023/01/pexels-bob-price-764880-1200x675.jpg"
+        },
+        {
+          "id": "https://grantland.com/features/a-mysterious-physicist-golf-club-dr-v/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://grantland.com/features/a-mysterious-physicist-golf-club-dr-v/",
+          "publishedOn": "2023-01-16T20:37:57.000Z",
+          "wordCount": 8753,
+          "title": "Dr V’s Magical Putter (2014)",
+          "imageUrl": null
         },
         {
           "id": "http://beelineblogger.blogspot.com/2016/01/how-supermarket-visit-brought-down.html",
@@ -881,6 +1171,16 @@
           "imageUrl": "https://regmedia.co.uk/2020/11/11/spying.jpg"
         },
         {
+          "id": "https://www.panonthenet.com/exclusive/2011/navy-poole-4-12-2011.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.panonthenet.com/exclusive/2011/navy-poole-4-12-2011.htm",
+          "publishedOn": "2023-01-15T18:59:36.000Z",
+          "wordCount": 4889,
+          "title": "A Not-So-Brief History of the United States Navy Steel Band (2011)",
+          "imageUrl": "https://www.panonthenet.com/exclusive/img/navy/skip-poole-og.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/",
           "author": null,
           "description": "Comments",
@@ -1141,6 +1441,16 @@
           "imageUrl": "https://bevyengine.org/assets/bevy_logo_fill.png"
         },
         {
+          "id": "https://spectrum.ieee.org/dell-tried-to-hide-bad-capacitors-problem",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/dell-tried-to-hide-bad-capacitors-problem",
+          "publishedOn": "2023-01-15T04:19:54.000Z",
+          "wordCount": 9648,
+          "title": "Dell Tried to Hide Bad Capacitors Problem 2003-2005 (2010)",
+          "imageUrl": "https://spectrum.ieee.org/media-library/image.jpg?id=25563064&width=1200&height=600&coordinates=75%2C0%2C75%2C0"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uVS7YGSKmJM",
           "author": null,
           "description": "Comments",
@@ -1245,6 +1555,21 @@
       "siteUrl": "https://www.knowablemagazine.org/",
       "articles": [
         {
+          "id": "https://knowablemagazine.org/article/food-environment/2023/ai-better-crops",
+          "author": "Saugat Bolakhe",
+          "description": "The technology could transform how growers protect their harvests, by detecting plant diseases very early on. But the challenge is to develop tools that are as affordable as they are effective.",
+          "link": "https://knowablemagazine.org/article/food-environment/2023/ai-better-crops",
+          "publishedOn": "2023-01-17T15:00:00.000Z",
+          "wordCount": null,
+          "title": "AI for better crops",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "127087",
+            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-011723-1-1200x630.jpg"
+          },
+          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-011723-1-1200x630.jpg"
+        },
+        {
           "id": "https://knowablemagazine.org/article/health-disease/2023/covid-rsv-flu-viral-interference",
           "author": "Amber Dance",
           "description": "The ‘tripledemic’ unfolding this winter is one of several odd trends among respiratory virus infections these last years. Viruses, it turns out, can block one another and take turns to dominate.",
@@ -1333,21 +1658,6 @@
             "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-122022-3-1200x630.jpg"
           },
           "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-122022-3-1200x630.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/article/health-disease/2022/america-failing-women-health",
-          "author": "Susan E. Short",
-          "description": "OPINION: Systemic inequity means women in the US die younger and suffer more than they should. It’s time for health for all.",
-          "link": "https://knowablemagazine.org/article/health-disease/2022/america-failing-women-health",
-          "publishedOn": "2022-12-19T15:00:00.000Z",
-          "wordCount": null,
-          "title": "America is failing women’s health",
-          "enclosure": {
-            "type": "image/jpeg",
-            "length": "38157",
-            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-121922-1-1200x630.jpg"
-          },
-          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-121922-1-1200x630.jpg"
         }
       ]
     },
@@ -1356,6 +1666,26 @@
       "feedUrl": "http://livingthing.danmackinlay.name/feeds/all.atom.xml",
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
+        {
+          "id": "https://danmackinlay.name/notebook/matrix_factorisation.html",
+          "author": null,
+          "description": "The classics\nApproximate decompositions\nWhy is approximate factorisation ever useful?\nTutorials\nNon-negative matrix factorisations\nAs regression\nSketching\n\\([\\mathcal{H}]\\)-matrix methods\nRandomized methods\nConnections to kernel learning\nBayesian\nImplementations\nReferences\n\nThe classics\nThe big six exact matrix decompositions are (Stewart 2000)\nCholesky decomposition; pivoted LU decomposition; QR decomposition; spectral decomposition; Schur decomposition; and singular value decomposition.\nSee Nick Higham’s summary of those.\nApproximate decompositions\nMastered QR and LU decompositions?\nThere are now so many ways of factorising matrices that there are not enough acronyms in the alphabet to hold them,\nespecially if we suspect our matrix is sparse, or could be made sparse because of some under…",
+          "link": "https://danmackinlay.name/notebook/matrix_factorisation.html",
+          "publishedOn": "2023-01-17T23:13:27.000Z",
+          "wordCount": 6204,
+          "title": "Approximate matrix factorisation",
+          "imageUrl": "https://danmackinlay.name/images/solids_perspective.png"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/statistical_python.html",
+          "author": null,
+          "description": "DataFrame-style ecosystem\n\nPandas-flavour\nPolars-flavour\n\nMatrix-style ecosystem\nBayes stuff\nxarray\nTime series\nInteroperation with other languages, platforms\n\nR\nJulia\n\nTips\n\nUse a known-good project structure\nLocal random number generator state\n\nMiscellaneous learning resources\nAgate\nMiscellaneous tools\n\nStatistical consultants for Python\nKinda hate R,\nbecause, as much as it is a statistical dream,\nit is a programming nightmare?\nIs MATLAB too expensive when you try to run it on\nyour cloud server farm and you’re anyway vaguely suspicious that they get\nkickbacks from the companies that sell RAM because otherwise why does it eat all your memory like that?\nLove the speed of C++ but have a nagging feeling that\nyou should not need to recompile your code to do exploratory data analysis?\nLike the…",
+          "link": "https://danmackinlay.name/notebook/statistical_python.html",
+          "publishedOn": "2023-01-17T21:35:48.000Z",
+          "wordCount": 2223,
+          "title": "Statistics and ML in python",
+          "imageUrl": "https://danmackinlay.name/images/Rulah_vs_python.webp"
+        },
         {
           "id": "https://danmackinlay.name/notebook/javascript_audio.html",
           "author": null,
@@ -1745,36 +2075,6 @@
           "wordCount": 564,
           "title": "Economic development",
           "imageUrl": "https://danmackinlay.name/images/statue_oops.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/matplotlib.html",
-          "author": null,
-          "description": "Pro tips\nInteractivity\nShowing images\nWrappers with better APIs\n\nProplot\nseaborn.objects\nplotnine\n\nMatplotlib styling\n\nMargins on saved graphics are too large\nAxis labels\n\nGlue\nImage montage\nMath-friendly fonts\n\nHelp matplotlib cannot find my font\ntikzplotlib\nBasic font stuff\n\nYellowbrick\n.\nThe classic python plotting tool is matplotlib.\nIt can’t do all those modern hipster graphs without hard labour and is awful at animations and\ninteractions, and it fugly per default.\nIt works OK out of the box.\nThere are libraries which use matplotlib as a backend and build more elaborate systems on the top, but these have not had much longevity so far, so I find myself falling back to plain old matplotlib.\nIt is an acceptable default with lots of weird edge cases when you try to be clever, but gets the…",
-          "link": "https://danmackinlay.name/notebook/matplotlib.html",
-          "publishedOn": "2022-12-19T07:38:54.000Z",
-          "wordCount": 1790,
-          "title": "Matplotlib",
-          "imageUrl": "https://danmackinlay.name/images/papyrus_goat.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/nn_compressing_with.html",
-          "author": null,
-          "description": "Code\nReferences\n\nNotcompressing neural networks themselevs, but rather using them to compress other things, in the sense of using them to reconstruct things with low error, especially in concert with existing noisy data transmission pipelines.\nOf course, we might try to do both at once and then think about minimum description length.\nthat might be interesting.\nImage Compression with Neural Networks – Google AI Blog\nCode\nmlomnitz/DiffJPEG\nrshin/differentiable-jpeg: Code for \"JPEG-resistant Adversarial Images\"\nReferences\n“Towards a Perceptual Loss: Using a Neural Network Codec Approximation as a Loss for Generative Audio Models.” In Proceedings of the 27th ACM International Conference on Multimedia, 1518–25. Nice France: ACM.\n\n\nCollobert, Ronan, Awni Hannun, and Gabriel Synnaeve. 2019. “A Fu…",
-          "link": "https://danmackinlay.name/notebook/nn_compressing_with.html",
-          "publishedOn": "2022-12-19T02:11:25.000Z",
-          "wordCount": 607,
-          "title": "Neural codecs",
-          "imageUrl": "https://danmackinlay.name/images/pressure_screw.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/nn_graph.html",
-          "author": null,
-          "description": "Tutorials\nFun tweaks\nTooling\npytorch geometric\n\ndeep graph library\nGTN\n\nBackground: Graph filtering\nConnection to physics\nConnection to graphical model learning\nReferences\n\nNeural networks applied to graph data.\nNeural networks of course can already be represented as directed graphs, or applied to phenomena which arise from a causal graph but that is not what we mean here.\nWhat we mean here is using information about graph topology as a feature input (and possibly output) for a neural network.\nIn practice this is usually some variant of applying convnets to spectral graph representations; there is an obvious analogy to generic graph computations and belief propagation but I do not know how those play our in practice.\nI am not closely following this area at the moment, so be aware content m…",
-          "link": "https://danmackinlay.name/notebook/nn_graph.html",
-          "publishedOn": "2022-12-18T21:57:37.000Z",
-          "wordCount": 1725,
-          "title": "Graph neural nets",
-          "imageUrl": "https://danmackinlay.name/images/retina_lite.png"
         }
       ]
     },
@@ -1783,6 +2083,36 @@
       "feedUrl": "http://news.google.com/news?hl=en&output=rss&q=Google+NZ+blog&cf=all&num=30",
       "siteUrl": "https://news.google.com/search?hl=en-US&q=Google+NZ+blog&cf=all&num=30&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiUGh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDEvMTgvdGhlLWRhaWx5LWJsb2ctb3Blbi1taWMtMTh0aC1qYW51YXJ5LTIwMjMv0gEA",
+          "author": null,
+          "description": "Open Mic – 18th January 2023 | The Daily Blog  thedailyblog.co.nz",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUGh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDEvMTgvdGhlLWRhaWx5LWJsb2ctb3Blbi1taWMtMTh0aC1qYW51YXJ5LTIwMjMv0gEA?oc=5",
+          "publishedOn": "2023-01-17T22:41:29.000Z",
+          "wordCount": 3550,
+          "title": "Open Mic – 18th January 2023 | The Daily Blog - thedailyblog.co.nz",
+          "imageUrl": "https://thedailyblog.co.nz/wp-content/uploads/2022/12/Screen-Shot-2017-07-22-at-8.23.41-AM-1.png"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzEzMDk5NDE0OC90dm56LWtlZW4tb24tbGVnYWwtYmFja3N0b3AtZGVzcGl0ZS1kZWFsLXdpdGgtZ29vZ2xl0gEA",
+          "author": null,
+          "description": "TVNZ keen on 'legal backstop' despite deal with Google  Stuff",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzEzMDk5NDE0OC90dm56LWtlZW4tb24tbGVnYWwtYmFja3N0b3AtZGVzcGl0ZS1kZWFsLXdpdGgtZ29vZ2xl0gEA?oc=5",
+          "publishedOn": "2023-01-17T22:00:00.000Z",
+          "wordCount": 2091,
+          "title": "TVNZ keen on 'legal backstop' despite deal with Google - Stuff",
+          "imageUrl": "https://resources.stuff.co.nz/content/dam/images/4/y/m/r/m/m/image.related.StuffLandscapeSixteenByNine.1420x800.25znqc.png/1673992972670.jpg"
+        },
+        {
+          "id": "CBMiYGh0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8yODg2MzYyL3BsYW50LWJhc2VkLXNlYWZvb2QtbWFya2V0LWlzLWV4cGVjdGVkLXRvLXJlYWNoLWNhZ3Itb2YtMjgtNdIBX2h0dHBzOi8vd3d3Lm9wZW5wci5jb20vYW1wLzI4ODYzNjIvcGxhbnQtYmFzZWQtc2VhZm9vZC1tYXJrZXQtaXMtZXhwZWN0ZWQtdG8tcmVhY2gtY2Fnci1vZi0yOC01",
+          "author": null,
+          "description": "PLANT-BASED SEAFOOD Market is Expected to Reach CAGR of 28.5% in the Forecast to 2029  openPR",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8yODg2MzYyL3BsYW50LWJhc2VkLXNlYWZvb2QtbWFya2V0LWlzLWV4cGVjdGVkLXRvLXJlYWNoLWNhZ3Itb2YtMjgtNdIBX2h0dHBzOi8vd3d3Lm9wZW5wci5jb20vYW1wLzI4ODYzNjIvcGxhbnQtYmFzZWQtc2VhZm9vZC1tYXJrZXQtaXMtZXhwZWN0ZWQtdG8tcmVhY2gtY2Fnci1vZi0yOC01?oc=5",
+          "publishedOn": "2023-01-17T10:17:00.000Z",
+          "wordCount": 2694,
+          "title": "PLANT-BASED SEAFOOD Market is Expected to Reach CAGR of 28.5% in the Forecast to 2029 - openPR",
+          "imageUrl": "https://cdn.openpr.com/W/1/W117575804_g.jpg"
+        },
         {
           "id": "CBMiUWh0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzEzMDk5NDE0OC9nb29nbGUtbWVkaWEtZGVhbHMtdHZuei1qb2lucy10aGUtZm9sZNIBAA",
           "author": null,
@@ -1842,6 +2172,16 @@
           "wordCount": 11757,
           "title": "News Highlights: BCCI announces India squad for first 2 Tests vs ... - Moneycontrol",
           "imageUrl": "https://images.moneycontrol.com/static-mcnews/2022/11/Live-News-Blog-1011_001-2-770x403.jpg"
+        },
+        {
+          "id": "CBMiRmh0dHBzOi8vc2VhcmNoZW5naW5lbGFuZC5jb20vZWFyY2gtbWFya2V0aW5nLWhpc3RvcnktamFudWFyeS0xMi0zOTE3MjLSAQA",
+          "author": null,
+          "description": "This day in search marketing history: January 12  Search Engine Land",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vc2VhcmNoZW5naW5lbGFuZC5jb20vZWFyY2gtbWFya2V0aW5nLWhpc3RvcnktamFudWFyeS0xMi0zOTE3MjLSAQA?oc=5",
+          "publishedOn": "2023-01-12T05:01:00.000Z",
+          "wordCount": 4817,
+          "title": "This day in search marketing history: January 12 - Search Engine Land",
+          "imageUrl": "https://searchengineland.com/wp-content/seloads/2023/01/this-day-in-search-marketing-history-january-12-search-engine-land.jpg"
         },
         {
           "id": "CBMiV2h0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDEvMTAvbWVkaWF3YXRjaC1wb2xsLXNob3dzLW56ZXJzLXdhbnQtdHZuei1ybnotbWVyZ2VyL9IBAA",
