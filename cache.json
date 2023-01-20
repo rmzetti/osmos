@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376454",
+          "author": "Shane Duggan",
+          "description": "While I am not a regular Chrome extension programmer, I have certainly coded enough extensions and have a wide enough web development portfolio to know my way around the task. However, just recently, I had a client reject one of …\nHow to Transition to Manifest V3 for Chrome Extensions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-transition-to-manifest-v3-for-chrome-extensions/",
+          "publishedOn": "2023-01-19T13:54:37.000Z",
+          "wordCount": 3102,
+          "title": "How to Transition to Manifest V3 for Chrome Extensions",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376454"
+        },
+        {
+          "id": "https://css-tricks.com/?p=376435",
+          "author": "Liam Johnston",
+          "description": "If you’ve ever worked on sites with lots of long-form text — especially CMS sites where people can enter screeds of text in a WYSIWYG editor — you’ve likely had to write CSS to manage the vertical spacing between different …\nSolved With :has(): Vertical Spacing in Long-Form Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/solved-with-has-vertical-spacing-in-long-form-text/",
+          "publishedOn": "2023-01-18T13:44:00.000Z",
+          "wordCount": 2277,
+          "title": "Solved With :has(): Vertical Spacing in Long-Form Text",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376435"
+        },
+        {
           "id": "https://css-tricks.com/?p=376352",
           "author": "Mariana Beldi",
           "description": "Someone recently asked me how I approach debugging inline SVGs. Because it is part of the DOM, we can inspect any inline SVG in any browser DevTools. And because of that, we have the ability to scope things out and …\n6 Common SVG Fails (and How to Fix Them) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -70,26 +90,6 @@
           "wordCount": 6097,
           "title": "2022 Roundup of Web Research",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375869"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376319",
-          "author": "Geoff Graham",
-          "description": "CSS Nesting is making the rounds yet again. Remember earlier this year when Adam and Miriam put three syntax options up for a vote? Those results were tallied and it wasn’t even even close.\nNow there’s another chance …\nHelp choose the syntax for CSS Nesting originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/help-choose-the-syntax-for-css-nesting/",
-          "publishedOn": "2022-12-20T16:04:54.000Z",
-          "wordCount": 1528,
-          "title": "Help choose the syntax for CSS Nesting",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376319"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376297",
-          "author": "Geoff Graham",
-          "description": "Being able to quickly spin up a WordPress instance has been the strength of WordPress ever since its famous “five-minute install”. Upload a few files, configure a few settings, and you’re off.\nThe friction of uploading files has gotten …\nWordPress Playground: Running WordPress in the Browser originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/wordpress-playground-run-in-browser/",
-          "publishedOn": "2022-12-19T16:52:45.000Z",
-          "wordCount": 1032,
-          "title": "WordPress Playground: Running WordPress in the Browser",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376297"
         }
       ]
     },
@@ -98,6 +98,36 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/01/guide-designing-for-introverts/",
+          "author": "hello@smashingmagazine.com (Pratik Joglekar)",
+          "description": "In this article, Pratik Joglekar explores the typical traits of introverts and uses them to make parallels and categorize digital experiences that can stand out without being loud.",
+          "link": "https://smashingmagazine.com/2023/01/guide-designing-for-introverts/",
+          "publishedOn": "2023-01-19T15:00:00.000Z",
+          "wordCount": 7134,
+          "title": "A Guide To Designing For Introverts",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/guide-designing-for-introverts/guide-designing-for-introverts.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/guide-designing-for-introverts/guide-designing-for-introverts.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/01/figma-auto-layout-masterclass/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Get better at your craft and support the people in Ukraine — that’s the idea behind our Figma Auto Layout Masterclass with Christine Vallaure. **We are donating all proceeds** from the online workshop to humanitarian aid in Ukraine. Monday, March 27, 09:00AM – 12:00PM PT / 18:00 – 21:00 CET. Donate and join!",
+          "link": "https://smashingmagazine.com/2023/01/figma-auto-layout-masterclass/",
+          "publishedOn": "2023-01-18T14:00:00.000Z",
+          "wordCount": 3141,
+          "title": "Figma Auto Layout Masterclass: An Online Workshop To Support Ukraine 🇺🇦",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/figma-auto-layout-masterclass/banner-figma-auto-layout-masterclass.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/figma-auto-layout-masterclass/banner-figma-auto-layout-masterclass.png"
+        },
         {
           "id": "https://smashingmagazine.com/2023/01/swimm-code-documentation-streamlined/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
@@ -277,21 +307,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dd6913e4-e4eb-4bc9-8b51-0f8d596ee839/deploying-css-logical-properties-on-web-apps.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/",
-          "author": "hello@smashingmagazine.com (Thomas Bohm)",
-          "description": "In this article, Thomas Bohm shares strategies and methods to tackle some common graphic communication problems and gives you insights into how to improve accessibility and usability and make your designs much better.",
-          "link": "https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/",
-          "publishedOn": "2022-12-20T12:00:00.000Z",
-          "wordCount": 8320,
-          "title": "Useful Accessibility And Usability Examples To Help Improve Your Designs",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg"
         }
       ]
     },
@@ -300,6 +315,306 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=34446839",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34446839",
+          "publishedOn": "2023-01-19T23:00:35.000Z",
+          "wordCount": 4631,
+          "title": "Ask HN: Why aren't there any cars in Nineteen Eighty-Four?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://maia.crimew.gay/posts/how-to-hack-an-airline/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://maia.crimew.gay/posts/how-to-hack-an-airline/",
+          "publishedOn": "2023-01-19T22:39:12.000Z",
+          "wordCount": 1206,
+          "title": "How to own an airline in 3 easy steps and grab the TSA nofly list along the way",
+          "imageUrl": "https://maia.crimew.gay/img/posts/how-to-hack-an-airline/cover.jpg"
+        },
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0132565",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0132565",
+          "publishedOn": "2023-01-19T22:22:31.000Z",
+          "wordCount": 9570,
+          "title": "Nuclear explosion impact on humans indoors (2022)",
+          "imageUrl": "https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0132565&id=images/medium/5.0132565.figures.online.highlight_f1.jpg"
+        },
+        {
+          "id": "https://computerhistory.org/press-releases/chm-makes-apple-lisa-source-code-available-to-the-public-as-a-part-of-its-art-of-code-series/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://computerhistory.org/press-releases/chm-makes-apple-lisa-source-code-available-to-the-public-as-a-part-of-its-art-of-code-series/",
+          "publishedOn": "2023-01-19T21:49:41.000Z",
+          "wordCount": 2521,
+          "title": "Apple releases Lisa source code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esrf.fr/home/news/general/content-news/general/unusual-compound-found-in-rembrandts-the-night-watch.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.esrf.fr/home/news/general/content-news/general/unusual-compound-found-in-rembrandts-the-night-watch.html",
+          "publishedOn": "2023-01-19T21:43:58.000Z",
+          "wordCount": 1016,
+          "title": "Unusual compound found in Rembrandt’s The Night Watch",
+          "imageUrl": "/modules/ESRF-templates-internet/css/images/og_logo.jpg"
+        },
+        {
+          "id": "https://post.news/article/2KYjMzTY05WmEZmxJnG3PGqyVpz",
+          "author": null,
+          "description": "Comments",
+          "link": "https://post.news/article/2KYjMzTY05WmEZmxJnG3PGqyVpz",
+          "publishedOn": "2023-01-19T21:30:32.000Z",
+          "wordCount": 1251,
+          "title": "So why a News Feed?",
+          "imageUrl": "https://d2pmpprut4wwdv.cloudfront.net/fit-in/1000x1000/images/2KYj4Y4dhzjhwVTKOK4yP8i6ie4"
+        },
+        {
+          "id": "https://github.com/BlinkDL/ChatRWKV",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/BlinkDL/ChatRWKV",
+          "publishedOn": "2023-01-19T21:29:32.000Z",
+          "wordCount": 672,
+          "title": "ChatRWKV, like ChatGPT but powered by the RWKV (RNN-based, open) language model",
+          "imageUrl": "https://opengraph.githubassets.com/44c5741a3dc8615ea7dd44ef3ea16c48faf9b11f364db64bf6f327d958be983e/BlinkDL/ChatRWKV"
+        },
+        {
+          "id": "https://blog.iconfactory.com/2023/01/twitterrific-end-of-an-era/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.iconfactory.com/2023/01/twitterrific-end-of-an-era/",
+          "publishedOn": "2023-01-19T21:15:09.000Z",
+          "wordCount": 638,
+          "title": "Twitterrific has been discontinued",
+          "imageUrl": "https://blog.iconfactory.com/wp-content/uploads/2023/01/ollieart.jpg"
+        },
+        {
+          "id": "https://seclists.org/oss-sec/2023/q1/42",
+          "author": null,
+          "description": "Comments",
+          "link": "https://seclists.org/oss-sec/2023/q1/42",
+          "publishedOn": "2023-01-19T21:05:26.000Z",
+          "wordCount": 284,
+          "title": "Sudoedit can edit arbitrary files",
+          "imageUrl": "https://seclists.org/images/oss-sec-img.png"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote",
+          "publishedOn": "2023-01-19T21:00:35.000Z",
+          "wordCount": 2546,
+          "title": "Emerge (YC W21) is hiring engineers to build the future of mobile development",
+          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/951c5580d5432093d2a1f23a2ba9c548dceb5fe1.png?1633041436"
+        },
+        {
+          "id": "https://ultibo.org/make/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ultibo.org/make/",
+          "publishedOn": "2023-01-19T20:45:12.000Z",
+          "wordCount": 1464,
+          "title": "Ultibo – Bare-Metal Pascal for Raspberry Pi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://groups.google.com/a/ccadb.org/g/public/c/kqtoGeEv5Fc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://groups.google.com/a/ccadb.org/g/public/c/kqtoGeEv5Fc",
+          "publishedOn": "2023-01-19T20:40:02.000Z",
+          "wordCount": 17724,
+          "title": "ZeroSSL: XSS to session hijacking, stealing a private key (and password hash)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2112.03235",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2112.03235",
+          "publishedOn": "2023-01-19T19:19:30.000Z",
+          "wordCount": 771,
+          "title": "Simulation Intelligence: Towards a New Generation of Scientific Methods (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://googleprojectzero.blogspot.com/2023/01/exploiting-null-dereferences-in-linux.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://googleprojectzero.blogspot.com/2023/01/exploiting-null-dereferences-in-linux.html",
+          "publishedOn": "2023-01-19T18:37:18.000Z",
+          "wordCount": 4463,
+          "title": "Exploiting null-dereferences in the Linux kernel",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW-7Gf0dWd5QJfxXYwRAdtMX7uoynsldEgf9C7saF7MLL_iwIUVaagMyOAa8r-e4_KDf33viQn5U2w1LirUQnx7Vk1fJgpACWUijAl8Pgtiu8ZrDTaiEzJYSo3pJUX_nh4Mh4EQ2GPclwSCHcA-OmGfexegm4WykTZyKnIq9ktGTiLcCJo0QW0VKx6/w1200-h630-p-k-no-nu/image1.png"
+        },
+        {
+          "id": "http://dave.zfxinc.net/f1.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://dave.zfxinc.net/f1.html",
+          "publishedOn": "2023-01-19T18:18:49.000Z",
+          "wordCount": 2319,
+          "title": "The Foonly F1 Computer (2011)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3050736",
+          "author": null,
+          "description": "Comments",
+          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3050736",
+          "publishedOn": "2023-01-19T18:07:31.000Z",
+          "wordCount": 2172,
+          "title": "Stock market charts you never saw (2021)",
+          "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
+        },
+        {
+          "id": "https://techcrunch.com/2023/01/19/amazon-ends-charity-donation-program-amazonsmile/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2023/01/19/amazon-ends-charity-donation-program-amazonsmile/",
+          "publishedOn": "2023-01-19T17:02:12.000Z",
+          "wordCount": 7272,
+          "title": "Amazon ends charity donation program AmazonSmile",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1233010055.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34442603",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34442603",
+          "publishedOn": "2023-01-19T16:59:52.000Z",
+          "wordCount": 2508,
+          "title": "Launch HN: Odigos (YC W23) – Instant distributed tracing for Kubernetes clusters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/TheMozg/awk-raycaster",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/TheMozg/awk-raycaster",
+          "publishedOn": "2023-01-19T16:55:10.000Z",
+          "wordCount": 849,
+          "title": "A first person shooter in 571 lines of GNU Awk (2016)",
+          "imageUrl": "https://opengraph.githubassets.com/186ee4337215f4b6224a90407019ba5a18a3100bf45aa30a2b3709314108c351/TheMozg/awk-raycaster"
+        },
+        {
+          "id": "https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/",
+          "publishedOn": "2023-01-19T15:56:43.000Z",
+          "wordCount": 1365,
+          "title": "Another Tale of IBM I (AS/400) Hacking (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://retool.com/products/mobile",
+          "author": null,
+          "description": "Comments",
+          "link": "https://retool.com/products/mobile",
+          "publishedOn": "2023-01-19T15:31:21.000Z",
+          "wordCount": 4371,
+          "title": "Show HN: Retool Mobile",
+          "imageUrl": "https://d3399nw8s4ngfo.cloudfront.net/products/og_image.png"
+        },
+        {
+          "id": "https://computerhistory.org/blog/the-lisa-apples-most-influential-failure/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://computerhistory.org/blog/the-lisa-apples-most-influential-failure/",
+          "publishedOn": "2023-01-19T14:41:17.000Z",
+          "wordCount": 3813,
+          "title": "Lisa Source Code Release",
+          "imageUrl": "https://computerhistory.org/wp-content/uploads/2022/11/LisaRedo3-resize.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34439828",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34439828",
+          "publishedOn": "2023-01-19T13:01:37.000Z",
+          "wordCount": 19906,
+          "title": "Ask HN: Math books that made you significantly better at math?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.jabber.org/notices.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jabber.org/notices.html",
+          "publishedOn": "2023-01-19T12:32:00.000Z",
+          "wordCount": 1336,
+          "title": "Jabber.org has migrated to Prosody IM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blest.co.jp/eng/service/be-h/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blest.co.jp/eng/service/be-h/",
+          "publishedOn": "2023-01-19T12:26:44.000Z",
+          "wordCount": 317,
+          "title": "Plastic to Oil – Produces 80% Oil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.smithsonianmag.com/science-nature/these-gorgeous-photos-capture-life-inside-drop-seawater-180981297/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/science-nature/these-gorgeous-photos-capture-life-inside-drop-seawater-180981297/",
+          "publishedOn": "2023-01-19T12:17:34.000Z",
+          "wordCount": 2031,
+          "title": "Photos capture life inside a drop of seawater",
+          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/wCrVpUCCXudJzwDRONbb425M5-k=/fit-in/1600x0/filters:focal(1600x1204:1601x1205)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2F94%2F3c%2F943c7e9b-a806-4ffe-bc27-14e654dd2ae9%2Fopener_-_smithsonian_seadrops_fitor-1.jpg"
+        },
+        {
+          "id": "https://jamsync.dev/about",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jamsync.dev/about",
+          "publishedOn": "2023-01-19T12:07:47.000Z",
+          "wordCount": 1202,
+          "title": "Show HN: A version control system based on rsync",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.metabrainz.org/2022/02/16/acousticbrainz-making-a-hard-decision-to-end-the-project/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.metabrainz.org/2022/02/16/acousticbrainz-making-a-hard-decision-to-end-the-project/",
+          "publishedOn": "2023-01-19T11:37:49.000Z",
+          "wordCount": 5840,
+          "title": "AcousticBrainz: Making a hard decision to end the project (2022)",
+          "imageUrl": "https://musicbrainz.files.wordpress.com/2018/11/cropped-metabrainz_logo.png?w=150"
+        },
+        {
+          "id": "http://milk.com/wall-o-shame/security_clearance.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://milk.com/wall-o-shame/security_clearance.html",
+          "publishedOn": "2023-01-19T08:18:03.000Z",
+          "wordCount": 1157,
+          "title": "What not to write on your security clearance form (1988)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://newsroom.ibm.com/2022-11-09-IBM-Unveils-400-Qubit-Plus-Quantum-Processor-and-Next-Generation-IBM-Quantum-System-Two",
+          "author": null,
+          "description": "Comments",
+          "link": "https://newsroom.ibm.com/2022-11-09-IBM-Unveils-400-Qubit-Plus-Quantum-Processor-and-Next-Generation-IBM-Quantum-System-Two",
+          "publishedOn": "2023-01-18T07:03:34.000Z",
+          "wordCount": 1897,
+          "title": "IBM Quantum System Two",
+          "imageUrl": "https://newsroom.ibm.com/image/Quantum+Summit_social_2.jpg"
+        },
         {
           "id": "https://www.youtube.com/watch?v=9OYPWgzDBxE",
           "author": null,
@@ -1555,6 +1870,21 @@
       "siteUrl": "https://www.knowablemagazine.org/",
       "articles": [
         {
+          "id": "https://knowablemagazine.org/article/health-disease/2023/how-saliva-changes-flavor-food",
+          "author": "Chris Gorski",
+          "description": "The liquid that our mouths produce isn’t just a lubricant. It plays an active role in how we perceive taste and can influence what we choose to eat, researchers are discovering.",
+          "link": "https://knowablemagazine.org/article/health-disease/2023/how-saliva-changes-flavor-food",
+          "publishedOn": "2023-01-18T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How saliva changes the flavor of food",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "83731",
+            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-011823-1-1200x630.jpg"
+          },
+          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-011823-1-1200x630.jpg"
+        },
+        {
           "id": "https://knowablemagazine.org/article/food-environment/2023/ai-better-crops",
           "author": "Saugat Bolakhe",
           "description": "The technology could transform how growers protect their harvests, by detecting plant diseases very early on. But the challenge is to develop tools that are as affordable as they are effective.",
@@ -1667,6 +1997,36 @@
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
         {
+          "id": "https://danmackinlay.name/notebook/models_of_inequity.html",
+          "author": null,
+          "description": "Game-theoretical models\nCumulative disadvantage\nConflict theory\nincoming\nReferences\nScrapbook to collect various models of how inequity on various axes arises and is maintained.\nHaving models for this is a good idea; otherwise we need to try to guess what we can change, what we cannot, and what the tradeoffs are, using only feelings.\nYet our feelings need help.\n\nGame-theoretical models\nCailin O’Connor’s The Origins of Unfairness: Social Categories and Cultural Evolution (O’Connor 2019).\nHilbe’s inequality model (Hauser et al. 2019) is another (?) game theoretic model of the difficulties of coordinating in an unequal society.\nPossibly related: collective action.\nCumulative disadvantage\nDu, Nordell, and Joseph (2021) is a model of how gendered the promotion pathway is for non-obvious reasons…",
+          "link": "https://danmackinlay.name/notebook/models_of_inequity.html",
+          "publishedOn": "2023-01-19T06:19:05.000Z",
+          "wordCount": 1528,
+          "title": "Models of inequity",
+          "imageUrl": "https://danmackinlay.name/images/the_powers.avif"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/reparameterization_trick.html",
+          "author": null,
+          "description": "Tutorials\nGeneral measure transport\nNormalizing flows\nFor density estimation\nRepresentational power of\nConditioned\nImplementations\nReferences\n\nApproximating the desired distribution by perturbation of the available distribution\nA trick where we cleverly transform rvs to sample from tricky target distributions via a “nice” nice source distribution.\nUseful in e.g. variational inference, especially\nautoencoders,\nfor\ndensity estimation in\nprobabilistic deep learning,\nbest summarised as “fancy change of variables such that I can differentiate through the parameters of a distribution”,\nusually by MC.\nStorchastic credits this to (Glasserman and Ho 1991) as perturbation analysis.\nConnections to optimal transport\nand likelihood free inference, in that this trick can enable some clever approximate-l…",
+          "link": "https://danmackinlay.name/notebook/reparameterization_trick.html",
+          "publishedOn": "2023-01-19T02:19:46.000Z",
+          "wordCount": 3691,
+          "title": "Reparameterization tricks in inference",
+          "imageUrl": "https://danmackinlay.name/images/adjust_spine.png"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/javascript_graphics.html",
+          "author": null,
+          "description": "General javascript drawing\nJavascript statistical/mathematical graphing\n3D\n\nHandy tools\n\n\n\n\n\nGeneral javascript drawing\nIf you want to do SVGs, snap.js is a modern\nSVG library by the author of raphaël.js.\nJavascript statistical/mathematical graphing\nSee plotting on the web.\n3D\n3D graphics in the browser is convenient and somewhat performant.\nAnd you can do 3d dance parties\nin the browser, which is surely the benchmark.\nTwo common options use OpenGL ES, the mobile- and browser- friendly option.\nScenejs seems to specialise in loading up geometries\nand shapes and physics for realistic scene modelling\nthree.js does the same things, but does more abstract stuff with them\nshadertoy support writing raw GSL shaders in the browser.\nUse.GPU reimagines GPU scene painting via javascript FRP idioms\nEve…",
+          "link": "https://danmackinlay.name/notebook/javascript_graphics.html",
+          "publishedOn": "2023-01-18T10:53:44.000Z",
+          "wordCount": 597,
+          "title": "Browser graphics",
+          "imageUrl": "https://danmackinlay.name/images/Hanacaraka_legend_2.png"
+        },
+        {
           "id": "https://danmackinlay.name/notebook/matrix_factorisation.html",
           "author": null,
           "description": "The classics\nApproximate decompositions\nWhy is approximate factorisation ever useful?\nTutorials\nNon-negative matrix factorisations\nAs regression\nSketching\n\\([\\mathcal{H}]\\)-matrix methods\nRandomized methods\nConnections to kernel learning\nBayesian\nImplementations\nReferences\n\nThe classics\nThe big six exact matrix decompositions are (Stewart 2000)\nCholesky decomposition; pivoted LU decomposition; QR decomposition; spectral decomposition; Schur decomposition; and singular value decomposition.\nSee Nick Higham’s summary of those.\nApproximate decompositions\nMastered QR and LU decompositions?\nThere are now so many ways of factorising matrices that there are not enough acronyms in the alphabet to hold them,\nespecially if we suspect our matrix is sparse, or could be made sparse because of some under…",
@@ -1715,6 +2075,16 @@
           "wordCount": 877,
           "title": "Hugo",
           "imageUrl": "https://danmackinlay.name/images/sultry_grundies_man.webp"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/matplotlib.html",
+          "author": null,
+          "description": "Pro tips\nInteractivity\nShowing images\nWrappers with better APIs\n\nProplot\nseaborn.objects\nplotnine\n\nMatplotlib styling\n\nMargins on saved graphics are too large\nAxis labels\n\nGlue\nImage montage\nMath-friendly fonts\n\nHelp matplotlib cannot find my font\ntikzplotlib\nBasic font stuff\n\nYellowbrick\n.\nThe classic python plotting tool is matplotlib.\nIt can’t do all those modern hipster graphs without hard labour and is awful at animations and\ninteractions, and it fugly per default.\nIt works OK out of the box.\nThere are libraries which use matplotlib as a backend and build more elaborate systems on the top, but these have not had much longevity so far, so I find myself falling back to plain old matplotlib.\nIt is an acceptable default with lots of weird edge cases when you try to be clever, but gets the…",
+          "link": "https://danmackinlay.name/notebook/matplotlib.html",
+          "publishedOn": "2023-01-16T02:53:50.000Z",
+          "wordCount": 1886,
+          "title": "Matplotlib",
+          "imageUrl": "https://danmackinlay.name/images/papyrus_goat.png"
         },
         {
           "id": "https://danmackinlay.name/notebook/optimal_transport_inference.html",
@@ -2045,36 +2415,6 @@
           "wordCount": 779,
           "title": "Bayesian model selection by model evidence maximisation",
           "imageUrl": "https://danmackinlay.name/images/save_208_shaves.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/meditation.html",
-          "author": null,
-          "description": "Popular canned gurus\nBiofeedback\nReferences\nMeditation. Feels like it might do something useful.\nNot quite as hip as LSD microdosing but much cheaper.\nQuestions: Can it help with life?\nWith productivity?\nHow much of it do you need to actually help? What kind?\nGwern, 2013 Lewis meditation results:\nA small group of Quantified Selfers tested themselves daily on arithmetic and\nengaged in a month of meditation. I analyze their scores with a multilevel\nmodel with per-subject grouping, and find the expect result: a small decrease\nin arithmetic errors which is not statistically-significant, with practice &\ntime-of-day effects (but not day-of-week or weekend effects). This suggests a\nlonger experiment by twice as many experimenters in order to detect this\neffect.\nScott Alexander reviews a bunch of …",
-          "link": "https://danmackinlay.name/notebook/meditation.html",
-          "publishedOn": "2022-12-20T21:49:09.000Z",
-          "wordCount": 861,
-          "title": "Meditation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/python_debug.html",
-          "author": null,
-          "description": "Understanding python’s execution model\nReloading edited code\nDebugging\n\nBuilt-in debugger\n\nAlternative debugging UIs\n\nVS Code debugger\npudb\nPyCharm\nViztracer\npysnooper\nPyrasite\nYet more\n\nMemory leaks\nProfiling\n\nBuilt-in profiler\nScore-P\npy-spy\nMemray\nAustin\nVisualising profiles\n\nTesting\nTyping\nReference: Useful step debugger commands\nReferences\n\nWhy did it break? How is it slow?\nUnderstanding python’s execution model\nTo understand how python code execution can go slow, or fail, it helps to understand the execution model\nPhilip Guo’s pythontutor.com deserves a shout out here for the app demonstrating what is going on with basic python execution.\nHowever, Philip is the kind of person who gruffly deletes his articles from the internet with extreme prejudice, which is behaviour indistinguishab…",
-          "link": "https://danmackinlay.name/notebook/python_debug.html",
-          "publishedOn": "2022-12-19T23:11:10.000Z",
-          "wordCount": 2723,
-          "title": "Python debugging, profiling and testing",
-          "imageUrl": "https://danmackinlay.name/images/hanging_python.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/economic_development.html",
-          "author": null,
-          "description": "References\n\nPlaceholder.\nReferences\n“The Colonial Origins of Comparative Development: An Empirical Investigation.” American Economic Review 91 (5): 1369–1401.\n\n\n———. 2012. “The Colonial Origins of Comparative Development: An Empirical Investigation: Reply.” The American Economic Review 102 (6): 3077–3110.\n\n\nAlbouy, David Y. 2012. “The Colonial Origins of Comparative Development: An Empirical Investigation: Comment.” The American Economic Review 102 (6): 3059–76.\n\n\nAxtell, Robert. 2005. “The Complexity of Exchange.” The Economic Journal 115 (504): F193–210.\n\n\nDeaton, Angus, and Nancy Cartwright. 2016. “Understanding and Misunderstanding Randomized Controlled Trials.” Working Paper 22595. National Bureau of Economic Research.\n\n\nEngerman, Stanley L., and Kenneth L. Sokoloff. 2002. “Factor End…",
-          "link": "https://danmackinlay.name/notebook/economic_development.html",
-          "publishedOn": "2022-12-19T20:35:30.000Z",
-          "wordCount": 564,
-          "title": "Economic development",
-          "imageUrl": "https://danmackinlay.name/images/statue_oops.png"
         }
       ]
     },
@@ -2083,6 +2423,46 @@
       "feedUrl": "http://news.google.com/news?hl=en&output=rss&q=Google+NZ+blog&cf=all&num=30",
       "siteUrl": "https://news.google.com/search?hl=en-US&q=Google+NZ+blog&cf=all&num=30&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiN2h0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDEvMjAvamFjaW5kYS1iZXRyYXllZC_SAQA",
+          "author": null,
+          "description": "Jacinda betrayed  thedailyblog.co.nz",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiN2h0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDEvMjAvamFjaW5kYS1iZXRyYXllZC_SAQA?oc=5",
+          "publishedOn": "2023-01-20T01:34:32.000Z",
+          "wordCount": 7059,
+          "title": "Jacinda betrayed - thedailyblog.co.nz",
+          "imageUrl": "https://thedailyblog.co.nz/wp-content/uploads/2023/01/Screen-Shot-2023-01-19-at-1.25.46-PM.png"
+        },
+        {
+          "id": "CBMigwFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9idXNpbmVzcy9uZXRmbGl4cy1zdWJzY3JpYmVycy1zdXJnZS1sb25nLXRpbWUtY2VvLXJlZWQtaGFzdGluZ3MtcGFzc2VzLWJhdG9uL0NNSkxBRkpQVEJCRkRKS1hXUTRSSzZLNlJNL9IBAA",
+          "author": null,
+          "description": "Netflix's subscribers surge, long-time CEO passes baton  New Zealand Herald",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMigwFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9idXNpbmVzcy9uZXRmbGl4cy1zdWJzY3JpYmVycy1zdXJnZS1sb25nLXRpbWUtY2VvLXJlZWQtaGFzdGluZ3MtcGFzc2VzLWJhdG9uL0NNSkxBRkpQVEJCRkRKS1hXUTRSSzZLNlJNL9IBAA?oc=5",
+          "publishedOn": "2023-01-19T23:40:48.000Z",
+          "wordCount": 4655,
+          "title": "Netflix's subscribers surge, long-time CEO passes baton - New Zealand Herald",
+          "imageUrl": "https://www.nzherald.co.nz/resizer/yfU0XYfj0tHQT3q5FpwuZoyYGVo=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/IZFTFOHZAFD3PL6AAQTVGKNK2Y.jpg"
+        },
+        {
+          "id": "CBMiogFodHRwczovL3d3dy5zY29vcC5jby5uei9zdG9yaWVzL1dPMjMwMS9TMDAwNzgvcnVicmlrLXN1cnBhc3Nlcy01MDAtbWlsbGlvbi1pbi1zdWJzY3JpcHRpb24tYXJyLWFwcG9pbnRzLWZvcm1lci1wYWxvLWFsdG8tbmV0d29ya3MtY2hhaXJtYW4tY2VvLW1hcmstbWNsYXVnaGxpbi5odG3SAaABaHR0cHM6Ly9tLnNjb29wLmNvLm56L3N0b3JpZXMvV08yMzAxL1MwMDA3OC9ydWJyaWstc3VycGFzc2VzLTUwMC1taWxsaW9uLWluLXN1YnNjcmlwdGlvbi1hcnItYXBwb2ludHMtZm9ybWVyLXBhbG8tYWx0by1uZXR3b3Jrcy1jaGFpcm1hbi1jZW8tbWFyay1tY2xhdWdobGluLmh0bQ",
+          "author": null,
+          "description": "Rubrik Surpasses $500 Million In Subscription ARR; Appoints ...  Scoop",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiogFodHRwczovL3d3dy5zY29vcC5jby5uei9zdG9yaWVzL1dPMjMwMS9TMDAwNzgvcnVicmlrLXN1cnBhc3Nlcy01MDAtbWlsbGlvbi1pbi1zdWJzY3JpcHRpb24tYXJyLWFwcG9pbnRzLWZvcm1lci1wYWxvLWFsdG8tbmV0d29ya3MtY2hhaXJtYW4tY2VvLW1hcmstbWNsYXVnaGxpbi5odG3SAaABaHR0cHM6Ly9tLnNjb29wLmNvLm56L3N0b3JpZXMvV08yMzAxL1MwMDA3OC9ydWJyaWstc3VycGFzc2VzLTUwMC1taWxsaW9uLWluLXN1YnNjcmlwdGlvbi1hcnItYXBwb2ludHMtZm9ybWVyLXBhbG8tYWx0by1uZXR3b3Jrcy1jaGFpcm1hbi1jZW8tbWFyay1tY2xhdWdobGluLmh0bQ?oc=5",
+          "publishedOn": "2023-01-18T22:27:00.000Z",
+          "wordCount": 2145,
+          "title": "Rubrik Surpasses $500 Million In Subscription ARR; Appoints ... - Scoop",
+          "imageUrl": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg"
+        },
+        {
+          "id": "CBMiggFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvbGF0ZXN0LW5ld3MtdG9kYXktbGl2ZS1taWNyb3NvZnQtdG8tY3V0LXRob3VzYW5kcy1vZi1qb2JzLWFjcm9zcy1kaXZpc2lvbnMtOTg4NTA0MS5odG1s0gGGAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy9idXNpbmVzcy9sYXRlc3QtbmV3cy10b2RheS1saXZlLW1pY3Jvc29mdC10by1jdXQtdGhvdXNhbmRzLW9mLWpvYnMtYWNyb3NzLWRpdmlzaW9ucy05ODg1MDQxLmh0bWwvYW1w",
+          "author": null,
+          "description": "News Highlights: India beat New Zealand by 12 runs to take 1-0 lead in first ODI  Moneycontrol",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvbGF0ZXN0LW5ld3MtdG9kYXktbGl2ZS1taWNyb3NvZnQtdG8tY3V0LXRob3VzYW5kcy1vZi1qb2JzLWFjcm9zcy1kaXZpc2lvbnMtOTg4NTA0MS5odG1s0gGGAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy9idXNpbmVzcy9sYXRlc3QtbmV3cy10b2RheS1saXZlLW1pY3Jvc29mdC10by1jdXQtdGhvdXNhbmRzLW9mLWpvYnMtYWNyb3NzLWRpdmlzaW9ucy05ODg1MDQxLmh0bWwvYW1w?oc=5",
+          "publishedOn": "2023-01-18T16:36:55.000Z",
+          "wordCount": 11990,
+          "title": "News Highlights: India beat New Zealand by 12 runs to take 1-0 lead in first ODI - Moneycontrol",
+          "imageUrl": "https://images.moneycontrol.com/static-mcnews/2022/11/Live-News-Blog-1011_001-2-770x403.jpg"
+        },
         {
           "id": "CBMiUGh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDEvMTgvdGhlLWRhaWx5LWJsb2ctb3Blbi1taWMtMTh0aC1qYW51YXJ5LTIwMjMv0gEA",
           "author": null,
@@ -2132,6 +2512,16 @@
           "wordCount": 7728,
           "title": "Serious deficiencies in the social policy processes - thedailyblog.co.nz",
           "imageUrl": "https://thedailyblog.co.nz/wp-content/uploads/2023/01/Screen-Shot-2020-11-26-at-4.49.22-PM-1536x974-1.png"
+        },
+        {
+          "id": "CBMid2h0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDEvMTYvZ3Vlc3QtYmxvZy1iZW4tbW9yZ2FuLWdlcmFzaW1vdi1wcmlnb3poaW4tYW5kLXJ1c3NpYXMtYnJva2VuLW1pbGl0YXJ5LWxlYWRlcnNoaXAv0gEA",
+          "author": null,
+          "description": "GUEST BLOG: Ben Morgan – Gerasimov, Prigozhin and Russia's ...  thedailyblog.co.nz",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMid2h0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDEvMTYvZ3Vlc3QtYmxvZy1iZW4tbW9yZ2FuLWdlcmFzaW1vdi1wcmlnb3poaW4tYW5kLXJ1c3NpYXMtYnJva2VuLW1pbGl0YXJ5LWxlYWRlcnNoaXAv0gEA?oc=5",
+          "publishedOn": "2023-01-16T19:21:25.000Z",
+          "wordCount": 5704,
+          "title": "GUEST BLOG: Ben Morgan – Gerasimov, Prigozhin and Russia's ... - thedailyblog.co.nz",
+          "imageUrl": "https://thedailyblog.co.nz/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-8.20.04-PM.png"
         },
         {
           "id": "CBMiOWh0dHBzOi8vd3d3LndoaXRlY29hdGludmVzdG9yLmNvbS9zdGF0ZS1vZi10aGUtYmxvZy0yMDIzL9IBAA",
