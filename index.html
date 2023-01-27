@@ -10,7 +10,88 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
     <link href="index.css?v1.14.4" rel="stylesheet" />
-    <!-- %before-head-end.html% -->
+    <style>
+:root {
+  /**
+   * Palette
+   * Gruvbox dark, medium
+   * Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+   */
+  --base00: #282828; /* ---- */
+  --base01: #3c3836; /* --- */
+  --base02: #504945; /* -- */
+  --base03: #665c54; /* - */
+  --base04: #bdae93; /* + */
+  --base05: #d5c4a1; /* ++ */
+  --base06: #ebdbb2; /* +++ */
+  --base07: #fbf1c7; /* ++++ */
+  --base08: #fb4934; /* red */
+  --base09: #fe8019; /* orange */
+  --base0A: #fabd2f; /* yellow */
+  --base0B: #b8bb26; /* green */
+  --base0C: #8ec07c; /* aqua/cyan */
+  --base0D: #83a598; /* blue */
+  --base0E: #d3869b; /* purple */
+  --base0F: #d65d0e; /* brown */
+
+  /**
+   * Typograph
+   */
+  --font-family-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+    "Helvetica Neue", sans-serif;
+  --font-size-L: 3.6rem;
+  --font-size-m: 2.2rem;
+  --font-size-s: 1.8rem;
+  --font-size-scaler: 62.5%; /* 1rem = 10px */
+  --line-height-body: 1.4;
+  --line-height-heading: 1.2;
+
+  /**
+   * Components
+   */
+  --body-color: var(--base04);
+  --body-bg: var(--base00);
+  --body-padding: 32px 24px;
+  --body-stack-gap: 32px;
+
+  --accordion-content-hover-rail-color: var(--base04);
+  --accordion-content-rail-color: var(--base03);
+  --accordion-marker-color: var(--article-title-color);
+  --accordion-marker-expanded-color: var(--base03);
+  --accordion-marker-hover-color: var(--accordion-marker-color);
+  --accordion-marker-expanded-hover-color: var(--accordion-marker-color);
+  --accordion-rail-indent: 7px;
+
+  --article-image-border-color: var(--base03);
+  --article-image-radius: 6px;
+  --article-image-shadow: none;
+  --article-reading-time-color: var(--base04);
+  --article-stack-gap: 16px;
+  --article-summary-color: var(--base05);
+  --article-summary-hover-color: var(--base07);
+  --article-title-color: var(--base0E);
+  --article-title-expanded-color: var(--base0E);
+
+  --card-bg: var(--base01);
+  --card-border-color: var(--base03);
+  --card-padding: 16px;
+  --card-radius: 8px;
+  --card-shadow: none;
+  --card-stack-gap: 24px;
+
+  --daily-heading-color: var(--base03);
+  --daily-heading-hover-color: var(--base04);
+
+  --footer-color: var(--base03);
+  --footer-link-hover-color: var(--base04);
+
+  --source-link-color: var(--base04);
+  --source-link-hover-color: var(--base07);
+  --source-name-color: var(--base0A);
+  --source-name-hover-color: var(--base07);
+}
+</style>
+
   </head>
 
   <body>
@@ -22,8 +103,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-27 datetime="2023-01-27T03:21:39.000Z">2023-01-27</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-27 datetime="2023-01-27T03:21:39.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-27 datetime="2023-01-27T07:21:02.000Z">2023-01-27</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-27 datetime="2023-01-27T07:21:02.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +119,86 @@
                   <a class="source-heading__link" href="https://news.ycombinator.com/">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://old.reddit.com/r/DeepFakesSFW/comments/10meypl/deepfaked_tom_cruise_and_paris_hilton_what_do_you/"
+                        open
+                      >
+                        <summary class="article-expander__title">Deepfaked Tom Cruise and Paris Hilton</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://old.reddit.com/r/DeepFakesSFW/comments/10meypl/deepfaked_tom_cruise_and_paris_hilton_what_do_you/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://external-preview.redd.it/UXcGBtgt797I3DuA6TkeiXTfu4PFWuxbfr5SpZcdMuE.png?overlay-align&#x3D;bottom,left&amp;crop&#x3D;1080:565.445026178,smart&amp;overlay-height&#x3D;15p&amp;overlay&#x3D;%2Fwatermark%2Ft5_f68vt.png%3Fs%3D81eb8c741468a7889ec636c8e558af8f07735e49&amp;width&#x3D;1080&amp;height&#x3D;565.445026178&amp;auto&#x3D;webp&amp;v&#x3D;enabled&amp;s&#x3D;79ffad753070a02df606f6893fcc328999807673" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Comments</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.ycombinator.com/companies/enso/jobs/yON8exA-senior-typescript-developer"
+                        open
+                      >
+                        <summary class="article-expander__title">Enso (YC S21) Is Hiring TypeScript Developer</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.ycombinator.com/companies/enso/jobs/yON8exA-senior-typescript-developer">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://bookface-images.s3.amazonaws.com/logos/d0292ffc8c13228fb578304de4d0fb44ff9be58d.png?1628733070" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Comments</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;12
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/ea/lytro_unlock"
+                        open
+                      >
+                        <summary class="article-expander__title">Lytro Unlock – Making a bad camera slightly better</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/ea/lytro_unlock">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://opengraph.githubassets.com/6087f5e37b6506c821833c2f702a062d2a783c709adce6c0276e8f70a245e8e4/ea/lytro_unlock" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Comments</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;24
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://chrome.google.com/webstore/detail/goodnight-tabs/paichadkkbhdmkngdmkgmefiabjjcaai"
+                        open
+                      >
+                        <summary class="article-expander__title">Show HN: Chrome extension to close Zoom/Notion tabs after launching desktop app</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://chrome.google.com/webstore/detail/goodnight-tabs/paichadkkbhdmkngdmkgmefiabjjcaai">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://lh3.googleusercontent.com/EnMJy1HBlmxUNeGtS_6knq4Or0oM2pvB4Qyq-BuRFxnO_HZ11MMiGmCLI_wTXSoLgH9y5-9FlsuJpdRZ4N-zgi2Z2nE&#x3D;w128-h128-e365-rj-sc0x00ffffff" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Comments</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -109,6 +270,25 @@
                             <span class="media-object__text">
                               <span>Comments</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://google-research.github.io/seanet/musiclm/examples/"
+                        open
+                      >
+                        <summary class="article-expander__title">MusicLM: Generating Music from Text</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://google-research.github.io/seanet/musiclm/examples/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Comments</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -587,6 +767,26 @@
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.atlasobscura.com/articles/paris-morgue-public-viewing"
+                        open
+                      >
+                        <summary class="article-expander__title">Death as Entertainment at the Paris Morgue</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.atlasobscura.com/articles/paris-morgue-public-viewing">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://img.atlasobscura.com/Oht85hSGoAdsQntMhvwpfYSug9dxsj2a0XFGXBW97kM/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85OTY5ZjM1ZGIy/ZjVkMGYyMzRfTW9y/Z3VlX2RlX1Bhcmlz/XzA5NTA3LmpwZw.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Comments</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;18
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
                         data-accordion-key="https://scholar.harvard.edu/files/mickens/files/thesaddestmoment.pdf"
                         open
                       >
@@ -690,6 +890,42 @@
                   <a class="source-heading__link" href="https://danmackinlay.name/">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://danmackinlay.name/notebook/nn_implementation.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Implementing neural nets</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://danmackinlay.name/notebook/nn_implementation.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://danmackinlay.name/images/cavar_aqua.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>HOWTOs
+Profiling and performance optimisation
+NN Software
+Tracking experiments
+Configuring experiments
+pre-computed/trained models
+Managing axes
+Scaling up
+Incoming
+
+HOWTOs
+The internet is full of guides to training neural nets.
+Here are some selected highlights.
+Michael Nielson has a free online textbook with code examples in python.
+Christopher Olah’s visual explanations make many things clear.
+Andrej’s popular unromantic messy guide to training neural nets in practice has a lot of tips that people tend to rediscover the hard way if they do not get them from him. (I did)
+It is allegedly easy to get started with training neural nets. Numerous libraries and frameworks take pride in displaying 30-line miracle snippets that solve your data problems, giving the (false) impression that this st…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -9687,8 +9923,8 @@ I have been told to do t…</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/rmzetti/osmos/actions/runs/4021599261">
-        <time id="build-timestamp" datetime="2023-01-27T04:35:29.340Z">2023-01-27T04:35:29.340Z</time>
+      <a class="footer-link" href="https://github.com/rmzetti/osmos/actions/runs/4022593853">
+        <time id="build-timestamp" datetime="2023-01-27T07:59:36.590Z">2023-01-27T07:59:36.590Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
