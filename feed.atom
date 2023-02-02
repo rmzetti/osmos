@@ -2,10 +2,410 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmzetti.github.io/osmos/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-01T04:35:40.919Z</updated>
+    <updated>2023-02-02T04:35:42.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rmzetti.github.io/osmos/index.html"/>
     <link rel="self" href="https://rmzetti.github.io/osmos/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Making Our Hearts Sing]]></title>
+        <id>https://daringfireball.net/2023/02/making_our_hearts_sing</id>
+        <link href="https://daringfireball.net/2023/02/making_our_hearts_sing"/>
+        <updated>2023-02-02T03:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: AI Cover Letter Writer]]></title>
+        <id>https://tally.work/</id>
+        <link href="https://tally.work/"/>
+        <updated>2023-02-02T03:06:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bethesda’s Redfall needs to be online for single-player mode]]></title>
+        <id>https://arstechnica.com/gaming/2023/02/single-player-redfall-still-requires-a-persistent-online-connection/</id>
+        <link href="https://arstechnica.com/gaming/2023/02/single-player-redfall-still-requires-a-persistent-online-connection/"/>
+        <updated>2023-02-02T02:49:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google layoffs Jan 20, 2023 – California WARN public records]]></title>
+        <id>https://airtable.cool/shrF23JdDHMQ3QDyw</id>
+        <link href="https://airtable.cool/shrF23JdDHMQ3QDyw"/>
+        <updated>2023-02-02T00:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams Premium: powered by OpenAI’s GPT-3.5]]></title>
+        <id>https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/</id>
+        <link href="https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/"/>
+        <updated>2023-02-02T00:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last-layer bayes neural nets]]></title>
+        <id>https://danmackinlay.name/notebook/nn_bayes_last_layer.html</id>
+        <link href="https://danmackinlay.name/notebook/nn_bayes_last_layer.html"/>
+        <updated>2023-02-01T23:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Last layer plus linear regression
+Last Layer Laplace
+Last layer ensemble
+References
+
+Last layer plus linear regression
+Classic in the modern setting: Snoek et al. (2015).
+Weber et al. (2018)
+We propose a new method for training neural networks online in a bandit setting.
+Similar to prior work, we model the uncertainty only in the last layer of the network,
+treating the rest of the network as a feature extractor. This allows us to successfully
+balance between exploration and exploitation due to the efficient, closed-form
+uncertainty estimates available for linear models. To train the rest of the network,
+we take advantage of the posterior we have over the last layer, optimizing over all
+values in the last layer distribution weighted by probability. We derive a closed
+form, differential appr…]]></summary>
+        <author>
+            <name>The Dan MacKinlay family of variably-well-considered enterprises on Dan MacKinlay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infinite partial sumsets in the primes]]></title>
+        <id>https://terrytao.wordpress.com/2023/01/26/infinite-partial-sumsets-in-the-primes/</id>
+        <link href="https://terrytao.wordpress.com/2023/01/26/infinite-partial-sumsets-in-the-primes/"/>
+        <updated>2023-02-01T23:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Float Compression 3: Filters]]></title>
+        <id>https://aras-p.info/blog/2023/02/01/Float-Compression-3-Filters/</id>
+        <link href="https://aras-p.info/blog/2023/02/01/Float-Compression-3-Filters/"/>
+        <updated>2023-02-01T22:34:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Information Theory, Inference, and Learning Algorithms (2003)]]></title>
+        <id>https://inference.org.uk/itila/book.html</id>
+        <link href="https://inference.org.uk/itila/book.html"/>
+        <updated>2023-02-01T22:07:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformer networks]]></title>
+        <id>https://danmackinlay.name/notebook/nn_transformers.html</id>
+        <link href="https://danmackinlay.name/notebook/nn_transformers.html"/>
+        <updated>2023-02-01T21:58:04.000Z</updated>
+        <summary type="html"><![CDATA[Power of
+Practicalities
+References
+
+Transformers are big attention networks with some extra tricks.
+I am no expert.
+Here are some good blog posts explaining everything, for my reference, but I will not write yet another one.
+This is a fast-moving area and I am not keeping track of it, so if you are on this page looking for guidance you are already in trouble.
+Phuong and Hutter (2022)
+Transformers are deep feed-forward artificial neural networks with a (self)attention mechanism.
+They have been tremendously successful in natural language processing tasks and other domains.
+Since their inception 5 years ago, many variants have been suggested. Descriptions are usually graphical, verbal, partial, or incremental.
+Despite their popularity, it seems no pseudocode has ever been published for any va…]]></summary>
+        <author>
+            <name>The Dan MacKinlay family of variably-well-considered enterprises on Dan MacKinlay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hypermedia Clients]]></title>
+        <id>https://htmx.org/essays/hypermedia-clients/</id>
+        <link href="https://htmx.org/essays/hypermedia-clients/"/>
+        <updated>2023-02-01T21:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We need less powerful languages (2015)]]></title>
+        <id>https://lukeplant.me.uk/blog/posts/less-powerful-languages/</id>
+        <link href="https://lukeplant.me.uk/blog/posts/less-powerful-languages/"/>
+        <updated>2023-02-01T21:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Reports Fourth Quarter and Full Year 2022 Results]]></title>
+        <id>https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Fourth-Quarter-and-Full-Year-2022-Results/default.aspx</id>
+        <link href="https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Fourth-Quarter-and-Full-Year-2022-Results/default.aspx"/>
+        <updated>2023-02-01T21:13:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glen Canyon Revealed]]></title>
+        <id>https://www.hcn.org/issues/55.2/features-water-glen-canyon-revealed</id>
+        <link href="https://www.hcn.org/issues/55.2/features-water-glen-canyon-revealed"/>
+        <updated>2023-02-01T20:53:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easter egg in flight path of last 747 delivery flight]]></title>
+        <id>https://www.flightradar24.com/GTI747/2f0b1162</id>
+        <link href="https://www.flightradar24.com/GTI747/2f0b1162"/>
+        <updated>2023-02-01T19:48:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 1.20 released]]></title>
+        <id>https://go.dev/doc/go1.20</id>
+        <link href="https://go.dev/doc/go1.20"/>
+        <updated>2023-02-01T19:38:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Plus]]></title>
+        <id>https://openai.com/blog/chatgpt-plus/</id>
+        <link href="https://openai.com/blog/chatgpt-plus/"/>
+        <updated>2023-02-01T18:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing ChatGPT Plus]]></title>
+        <id>63d8621a3b8bd5003d670ee4</id>
+        <link href="https://openai.com/blog/chatgpt-plus/"/>
+        <updated>2023-02-01T18:06:07.000Z</updated>
+        <summary type="html"><![CDATA[We’re launching a pilot subscription plan for ChatGPT, a conversational AI that can chat with you, answer follow-up questions, and challenge incorrect assumptions.
+The new subscription plan, ChatGPT Plus, will be available for $20/month, and subscribers will receive a number of benefits:
+General access to ChatGPT, even]]></summary>
+        <author>
+            <name>OpenAI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release engineering is exhausting so here's cargo-dist]]></title>
+        <id>https://blog.axo.dev/2023/02/cargo-dist</id>
+        <link href="https://blog.axo.dev/2023/02/cargo-dist"/>
+        <updated>2023-02-01T17:50:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Same.energy: Image Search by Similarity]]></title>
+        <id>https://same.energy/</id>
+        <link href="https://same.energy/"/>
+        <updated>2023-02-01T17:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YC is hiring a product engineer to work on co-founder matching (SF/remote, US)]]></title>
+        <id>https://news.ycombinator.com/item?id=34613508</id>
+        <link href="https://news.ycombinator.com/item?id=34613508"/>
+        <updated>2023-02-01T17:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m (probably) not replaceable by ChatGPT]]></title>
+        <id>https://errantscience.com/?p=19685</id>
+        <link href="https://errantscience.com/blog/2023/02/01/im-not-replaceable-by-ai/"/>
+        <updated>2023-02-01T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Throughout my career in science AI and automation have been things that were ever-improving tools in helping do science quicker and in bulk. AI and machine learning have slowly been improving the rate of data processing and even expanding the kind of data processing that’s possible. Automation has led to […]]]></summary>
+        <author>
+            <name>Matthew (@MCeeP)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Cold War mystery: Why did Jimmy Carter save the space shuttle?]]></title>
+        <id>https://arstechnica.com/science/2016/07/a-cold-war-mystery-why-did-jimmy-carter-save-the-space-shuttle/</id>
+        <link href="https://arstechnica.com/science/2016/07/a-cold-war-mystery-why-did-jimmy-carter-save-the-space-shuttle/"/>
+        <updated>2023-02-01T16:22:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-Free Disneyland]]></title>
+        <id>https://www.optoutproject.net/data-free-disney/</id>
+        <link href="https://www.optoutproject.net/data-free-disney/"/>
+        <updated>2023-02-01T16:20:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Who is hiring? (February 2023)]]></title>
+        <id>https://news.ycombinator.com/item?id=34612353</id>
+        <link href="https://news.ycombinator.com/item?id=34612353"/>
+        <updated>2023-02-01T16:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Who wants to be hired? (February 2023)]]></title>
+        <id>https://news.ycombinator.com/item?id=34612351</id>
+        <link href="https://news.ycombinator.com/item?id=34612351"/>
+        <updated>2023-02-01T16:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choropleth maps with ggplot and R]]></title>
+        <id>https://socviz.co/maps.html</id>
+        <link href="https://socviz.co/maps.html"/>
+        <updated>2023-02-01T15:23:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caching Data in SvelteKit]]></title>
+        <id>https://css-tricks.com/?p=376634</id>
+        <link href="https://css-tricks.com/caching-data-in-sveltekit/"/>
+        <updated>2023-02-01T15:04:33.000Z</updated>
+        <summary type="html"><![CDATA[My previous post was a broad overview of SvelteKit where we saw what a great tool it is for web development. This post will fork off what we did there and dive into every developer’s favorite topic: caching. So, …
+Caching Data in SvelteKit originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vegan Chocolate Market Size & Share to Surpass $1975.2 Million ... - Yahoo Finance]]></title>
+        <id>CBMiT2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy92ZWdhbi1jaG9jb2xhdGUtbWFya2V0LXNpemUtc2hhcmUtMTQ0NjAwNDk5Lmh0bWzSAQA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy92ZWdhbi1jaG9jb2xhdGUtbWFya2V0LXNpemUtc2hhcmUtMTQ0NjAwNDk5Lmh0bWzSAQA?oc=5"/>
+        <updated>2023-02-01T14:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Vegan Chocolate Market Size & Share to Surpass $1975.2 Million ...  Yahoo Finance]]></summary>
+        <author>
+            <name>"Google NZ blog" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: We built a developer-first open-source Zapier alternative]]></title>
+        <id>https://trigger.dev/</id>
+        <link href="https://trigger.dev/"/>
+        <updated>2023-02-01T14:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Operation Luigi: How I hacked my friend without her noticing (2017)]]></title>
+        <id>https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing</id>
+        <link href="https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing"/>
+        <updated>2023-02-01T13:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outdoor Dining Is Doomed]]></title>
+        <id>https://www.theatlantic.com/health/archive/2023/01/restaurants-outdoor-dining-winter-covid/672904/</id>
+        <link href="https://www.theatlantic.com/health/archive/2023/01/restaurants-outdoor-dining-winter-covid/672904/"/>
+        <updated>2023-02-01T13:50:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[History of Lisp Parentheses (2019)]]></title>
+        <id>https://github.com/shaunlebron/history-of-lisp-parens</id>
+        <link href="https://github.com/shaunlebron/history-of-lisp-parens"/>
+        <updated>2023-02-01T13:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The radical moral implications of luck in human life (2020)]]></title>
+        <id>https://www.vox.com/science-and-health/2018/8/21/17687402/kylie-jenner-luck-human-life-moral-privilege</id>
+        <link href="https://www.vox.com/science-and-health/2018/8/21/17687402/kylie-jenner-luck-human-life-moral-privilege"/>
+        <updated>2023-02-01T11:36:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding App Directory Architecture In Next.js]]></title>
+        <id>https://smashingmagazine.com/2023/02/understanding-app-directory-architecture-next-js/</id>
+        <link href="https://smashingmagazine.com/2023/02/understanding-app-directory-architecture-next-js/"/>
+        <updated>2023-02-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new App Directory architecture has been the main character of the recent Next.js release, which keeps bringing up many questions. In this article, Atila Fassina explores the advantages and pitfalls of this new strategy and reflects on whether you should use it in production now or not.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Atila Fassina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flame: A small language model for spreadsheet formulas]]></title>
+        <id>https://arxiv.org/abs/2301.13779</id>
+        <link href="https://arxiv.org/abs/2301.13779"/>
+        <updated>2023-02-01T07:58:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top-Left Magic Corner Desktop Paradigm]]></title>
+        <id>https://rentry.co/kvwze</id>
+        <link href="https://rentry.co/kvwze"/>
+        <updated>2023-02-01T07:20:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Write Simply]]></title>
         <id>http://www.paulgraham.com/simply.html</id>
@@ -6510,77 +6910,6 @@ For my modest commuting needs, the fuel costs would be something like AUD500 at 
 Parking where I work is astronomically expensive and I won’t even include it here because it would bias the numbers against cars too much.
 But wait!
 The decis…]]></summary>
-        <author>
-            <name>The Dan MacKinlay family of variably-well-considered enterprises on Dan MacKinlay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quarto]]></title>
-        <id>https://danmackinlay.name/notebook/quarto.html</id>
-        <link href="https://danmackinlay.name/notebook/quarto.html"/>
-        <updated>2023-01-03T11:07:37.000Z</updated>
-        <summary type="html"><![CDATA[Websites
-
-Quarto classic
-hugo backend
-Build a custom format
-Build a custom backend
-
-Pre/post processors
-slides
-Jupyter support
-Academic affordances
-Migration
-Incoming
-
-A new entrant in the world of scientific notebooks and academic blogging.
-Kind of a competitor/complement to jupyter and blogdown which unites them all, and also shares many authors with them
-Quarto® is an open-source scientific and technical publishing system built on Pandoc
-Create dynamic content with Python, R, Julia, and Observable.
-Author documents as plain text markdown or Jupyter notebooks.
-Publish high-quality articles, reports, presentations, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.
-Author with scientific markdown, including equations, citations, crossrefs, figure panels, callouts, advanced …]]></summary>
-        <author>
-            <name>The Dan MacKinlay family of variably-well-considered enterprises on Dan MacKinlay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel Fold mass production to begin in Q3 2023, likely to rival Galaxy Z Fold 5 - Pricebaba Daily]]></title>
-        <id>CBMicGh0dHBzOi8vcHJpY2ViYWJhLmNvbS9ibG9nL2dvb2dsZS1waXhlbC1mb2xkLW1hc3MtcHJvZHVjdGlvbi10by1iZWdpbi1pbi1xMy0yMDIzLWxpa2VseS10by1yaXZhbC1nYWxheHktei1mb2xkLTXSAXRodHRwczovL3ByaWNlYmFiYS5jb20vYmxvZy9nb29nbGUtcGl4ZWwtZm9sZC1tYXNzLXByb2R1Y3Rpb24tdG8tYmVnaW4taW4tcTMtMjAyMy1saWtlbHktdG8tcml2YWwtZ2FsYXh5LXotZm9sZC01L2FtcA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vcHJpY2ViYWJhLmNvbS9ibG9nL2dvb2dsZS1waXhlbC1mb2xkLW1hc3MtcHJvZHVjdGlvbi10by1iZWdpbi1pbi1xMy0yMDIzLWxpa2VseS10by1yaXZhbC1nYWxheHktei1mb2xkLTXSAXRodHRwczovL3ByaWNlYmFiYS5jb20vYmxvZy9nb29nbGUtcGl4ZWwtZm9sZC1tYXNzLXByb2R1Y3Rpb24tdG8tYmVnaW4taW4tcTMtMjAyMy1saWtlbHktdG8tcml2YWwtZ2FsYXh5LXotZm9sZC01L2FtcA?oc=5"/>
-        <updated>2023-01-03T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google Pixel Fold mass production to begin in Q3 2023, likely to rival Galaxy Z Fold 5  Pricebaba Daily]]></summary>
-        <author>
-            <name>"Google NZ blog" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feed readers]]></title>
-        <id>https://danmackinlay.name/notebook/feed_readers.html</id>
-        <link href="https://danmackinlay.name/notebook/feed_readers.html"/>
-        <updated>2023-01-03T05:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Feed discovery
-Feed readers
-
-Fraidycat
-Feedly
-Newsblur
-Inoreader
-Feeder
-The Old Reader
-Feedbin
-
-Bonus time: DIY feed reader servers
-Creating feeds from sites that don’t have them
-
-Upon the efficient consumption and summarizing of news from around the world.
-Remember feeds? From when we though the internet would provide us timely, pertinent information from around the world on our topics of interest?
-When our information streams were not about your aunt’s conspiracy theory memes on a social media feed, but curated lists of expert opinion?
-No? Did you miss that bit of internet discussion.
-Perhaps a picture best explains it in that case.
-
-This is the view from my current feed reader of my favourite information sources, showing the freshest updates across the internet.
-I have been told to do t…]]></summary>
         <author>
             <name>The Dan MacKinlay family of variably-well-considered enterprises on Dan MacKinlay</name>
         </author>
