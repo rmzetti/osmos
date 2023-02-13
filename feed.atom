@@ -2,10 +2,299 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmzetti.github.io/osmos/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-12T04:35:18.039Z</updated>
+    <updated>2023-02-13T04:36:16.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rmzetti.github.io/osmos/index.html"/>
     <link rel="self" href="https://rmzetti.github.io/osmos/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Last Man Without a Cell Phone]]></title>
+        <id>https://annekadet.substack.com/p/nocell</id>
+        <link href="https://annekadet.substack.com/p/nocell"/>
+        <updated>2023-02-13T04:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Mic – 13th February 2023 | The Daily Blog - thedailyblog.co.nz]]></title>
+        <id>CBMiUWh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDIvMTMvdGhlLWRhaWx5LWJsb2ctb3Blbi1taWMtMTN0aC1mZWJydWFyeS0yMDIzL9IBAA</id>
+        <link href="https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDIvMTMvdGhlLWRhaWx5LWJsb2ctb3Blbi1taWMtMTN0aC1mZWJydWFyeS0yMDIzL9IBAA?oc=5"/>
+        <updated>2023-02-13T03:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Open Mic – 13th February 2023 | The Daily Blog  thedailyblog.co.nz]]></summary>
+        <author>
+            <name>"Google NZ blog" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deepfake scams are here and we&#x27;re not ready]]></title>
+        <id>https://twitter.com/coffeebreak_YT/status/1624868006823165953</id>
+        <link href="https://twitter.com/coffeebreak_YT/status/1624868006823165953"/>
+        <updated>2023-02-13T03:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer-based learning in classrooms: an educational disaster ... - thedailyblog.co.nz]]></title>
+        <id>CBMieGh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDIvMTMvY29tcHV0ZXItYmFzZWQtbGVhcm5pbmctaW4tY2xhc3Nyb29tcy1hbi1lZHVjYXRpb25hbC1kaXNhc3Rlci1jb21wb3VuZGVkLWJ5LWNvdmlkL9IBAA</id>
+        <link href="https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDIvMTMvY29tcHV0ZXItYmFzZWQtbGVhcm5pbmctaW4tY2xhc3Nyb29tcy1hbi1lZHVjYXRpb25hbC1kaXNhc3Rlci1jb21wb3VuZGVkLWJ5LWNvdmlkL9IBAA?oc=5"/>
+        <updated>2023-02-13T03:02:15.000Z</updated>
+        <summary type="html"><![CDATA[Computer-based learning in classrooms: an educational disaster ...  thedailyblog.co.nz]]></summary>
+        <author>
+            <name>"Google NZ blog" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KiCad 7.0]]></title>
+        <id>https://www.kicad.org/blog/2023/02/Version-7.0.0-Released/</id>
+        <link href="https://www.kicad.org/blog/2023/02/Version-7.0.0-Released/"/>
+        <updated>2023-02-13T02:43:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Fear of Commitment to the First CPU Core]]></title>
+        <id>https://www.jabperf.com/my-fear-of-commitment-to-the-1st-cpu-core/</id>
+        <link href="https://www.jabperf.com/my-fear-of-commitment-to-the-1st-cpu-core/"/>
+        <updated>2023-02-13T02:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generative flow nets]]></title>
+        <id>https://danmackinlay.name/notebook/nn_gflow.html</id>
+        <link href="https://danmackinlay.name/notebook/nn_gflow.html"/>
+        <updated>2023-02-13T01:03:57.000Z</updated>
+        <summary type="html"><![CDATA[References
+
+Placeholder.
+A concept that Yoshua Bengio is excited about that includes several keywords with which I am familiar (generative, flow) but I believe is distinct from the concatenation of those terms.
+Y. Bengio et al. (2022):
+Generative Flow Networks (GFlowNets) have been introduced as a method to sample a diverse set of candidates in an active learning context, with a training objective that makes them approximately sample in proportion to a given reward function. In this paper, we show a number of additional theoretical properties of GFlowNets. They can be used to estimate joint probability distributions and the corresponding marginal distributions where some variables are unspecified and, of particular interest, can represent distributions over composite objects like sets and graphs. GFlowNets amortize the work typically done by computationally expensive MCMC methods in a single but trained generative pass. They could also be used to estimate partition functions and free energies, conditional probabilities of supersets (supergraphs) given a subset (subgraph), as well as marginal distributions over all supersets (supergraphs) of a given set (graph). We introduce variations enabling the estimation of entropy and mutual information, sampling from a Pareto frontier, connections to reward-maximizing policies, and extensions to stochastic environments, continuous actions and modular energy functions.
+Generative Flow Networks - Yoshua Bengio
+The GFlowNet Tutorial
+Matt Biggs, The What, Why and How of Generative Flow Networks
+Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation
+GFlowNet Tutorial
+References
+“Flow Network Based Generative Models for Non-Iterative Diverse Candidate Generation.” In Advances in Neural Information Processing Systems, 34:27381–94. Curran Associates, Inc.
+
+
+Bengio, Yoshua, Salem Lahlou, Tristan Deleu, Edward J. Hu, Mo Tiwari, and Emmanuel Bengio. 2022. “GFlowNet Foundations.” arXiv.]]></summary>
+        <author>
+            <name>The Dan MacKinlay family of variably-well-considered enterprises on Dan MacKinlay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NameCheap&#x27;s email hacked to send Metamask, DHL phishing emails]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/"/>
+        <updated>2023-02-13T00:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparent Aluminum]]></title>
+        <id>https://en.wikipedia.org/wiki/Aluminium_oxynitride</id>
+        <link href="https://en.wikipedia.org/wiki/Aluminium_oxynitride"/>
+        <updated>2023-02-12T23:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tolerating Jupyter’s file format]]></title>
+        <id>https://danmackinlay.name/notebook/jupyter_file_format.html</id>
+        <link href="https://danmackinlay.name/notebook/jupyter_file_format.html"/>
+        <updated>2023-02-12T23:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Version control
+
+No jupyter
+nbdev
+Strip notebooks
+Minimalist images
+jupytext
+Diffing/merging notebooks (sort-of) natively
+
+Exporting notebooks
+
+Tired of light, flexible textual storage of your code? Jupyter can make it heftier for you.
+Various notes on dealing with the jupyter file format, which in the name of convenience, gives you new and different problems to learn to manage.
+Because jupyter notebooks (the file format) are a weird mash of binary multimedia content and program input and output data, all wrapped up in a JSON encoding, many things that would be simple and seamless with normal text simply do not work for the .ipynb jupyter file format.
+This is a huge barrier to seamlessly integrating text and notebook-based development practices, and thus impairs the jupyter mission goal of…]]></summary>
+        <author>
+            <name>The Dan MacKinlay family of variably-well-considered enterprises on Dan MacKinlay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESA: Small meteorite will safely impact atmosphere tonight over northern France]]></title>
+        <id>https://twitter.com/esaoperations/status/1624901825785724929</id>
+        <link href="https://twitter.com/esaoperations/status/1624901825785724929"/>
+        <updated>2023-02-12T23:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What time is the Super Bowl? When is kickoff & how to watch tonight's game, streaming or cable - Yahoo New Zealand News]]></title>
+        <id>CBMiZmh0dHBzOi8vbnoubmV3cy55YWhvby5jb20vc3VwZXItYm93bC13aGF0LXRpbWUta2lja29mZi1jaGFubmVsLXN0cmVhbS1ob3ctdG8td2F0Y2gtZ2FtZS0yMTI1MzU0OTAuaHRtbNIBbmh0dHBzOi8vbnoubmV3cy55YWhvby5jb20vYW1waHRtbC9zdXBlci1ib3dsLXdoYXQtdGltZS1raWNrb2ZmLWNoYW5uZWwtc3RyZWFtLWhvdy10by13YXRjaC1nYW1lLTIxMjUzNTQ5MC5odG1s</id>
+        <link href="https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbnoubmV3cy55YWhvby5jb20vc3VwZXItYm93bC13aGF0LXRpbWUta2lja29mZi1jaGFubmVsLXN0cmVhbS1ob3ctdG8td2F0Y2gtZ2FtZS0yMTI1MzU0OTAuaHRtbNIBbmh0dHBzOi8vbnoubmV3cy55YWhvby5jb20vYW1waHRtbC9zdXBlci1ib3dsLXdoYXQtdGltZS1raWNrb2ZmLWNoYW5uZWwtc3RyZWFtLWhvdy10by13YXRjaC1nYW1lLTIxMjUzNTQ5MC5odG1s?oc=5"/>
+        <updated>2023-02-12T23:10:56.000Z</updated>
+        <summary type="html"><![CDATA[What time is the Super Bowl? When is kickoff & how to watch tonight's game, streaming or cable  Yahoo New Zealand News]]></summary>
+        <author>
+            <name>"Google NZ blog" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[&lt;3 Deno]]></title>
+        <id>https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html</id>
+        <link href="https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html"/>
+        <updated>2023-02-12T22:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Futurist Programming Notes]]></title>
+        <id>http://www.graficaobscura.com/future/futnotes.html</id>
+        <link href="http://www.graficaobscura.com/future/futnotes.html"/>
+        <updated>2023-02-12T22:07:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Military shoots down another high-altitude object, over Lake Huron: officials]]></title>
+        <id>https://abcnews.go.com/US/military-shoots-high-altitude-object-lake-huron-officials/story?id=97068247</id>
+        <link href="https://abcnews.go.com/US/military-shoots-high-altitude-object-lake-huron-officials/story?id=97068247"/>
+        <updated>2023-02-12T21:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Account Containers]]></title>
+        <id>https://support.mozilla.org/en-US/kb/containers</id>
+        <link href="https://support.mozilla.org/en-US/kb/containers"/>
+        <updated>2023-02-12T20:50:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithmic Trading: A Practitioner’s Guide]]></title>
+        <id>https://henrikwarne.com/2023/02/12/algorithmic-trading-a-practitioners-guide/</id>
+        <link href="https://henrikwarne.com/2023/02/12/algorithmic-trading-a-practitioners-guide/"/>
+        <updated>2023-02-12T20:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amiga with Titanic miniature shoot video taps is treasure-trove of VFX history]]></title>
+        <id>https://beforesandafters.com/2023/02/10/an-old-amiga-with-titanic-miniature-shoot-video-taps-on-it-is-a-treasure-trove-of-vfx-history/</id>
+        <link href="https://beforesandafters.com/2023/02/10/an-old-amiga-with-titanic-miniature-shoot-video-taps-on-it-is-a-treasure-trove-of-vfx-history/"/>
+        <updated>2023-02-12T20:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A little bit of slope makes up for a lot of y-intercept (2012)]]></title>
+        <id>https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185</id>
+        <link href="https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185"/>
+        <updated>2023-02-12T20:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Async message-oriented systems vs. REST for inter-microservice communications]]></title>
+        <id>https://mats3.io/background/rationale-for-mats/</id>
+        <link href="https://mats3.io/background/rationale-for-mats/"/>
+        <updated>2023-02-12T18:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flow Manifest(o)]]></title>
+        <id>https://flowmanifest.org/</id>
+        <link href="https://flowmanifest.org/"/>
+        <updated>2023-02-12T18:36:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The fundamental thermodynamic costs of communication]]></title>
+        <id>https://arxiv.org/abs/2302.04320</id>
+        <link href="https://arxiv.org/abs/2302.04320"/>
+        <updated>2023-02-12T18:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Hampshire on the cusp of enshrining software freedom into law]]></title>
+        <id>https://libreboot.org/news/usa-libre-part2.html</id>
+        <link href="https://libreboot.org/news/usa-libre-part2.html"/>
+        <updated>2023-02-12T17:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Purego – A library for calling C functions from Go without Cgo]]></title>
+        <id>https://github.com/ebitengine/purego</id>
+        <link href="https://github.com/ebitengine/purego"/>
+        <updated>2023-02-12T15:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[By way of introduction – EWD 1041 (1989)]]></title>
+        <id>https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1041.html</id>
+        <link href="https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1041.html"/>
+        <updated>2023-02-12T14:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing the Lua kernel interpreter in NetBSD (2021)]]></title>
+        <id>https://www.unitedbsd.com/d/590-testing-the-lua-kernel-interpreter</id>
+        <link href="https://www.unitedbsd.com/d/590-testing-the-lua-kernel-interpreter"/>
+        <updated>2023-02-12T13:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SafeButler (YC S17) Is Hiring Business Development]]></title>
         <id>https://www.safebutler.com/careers</id>
@@ -31,6 +320,16 @@
         <id>https://starlabs.systems/pages/starfighter</id>
         <link href="https://starlabs.systems/pages/starfighter"/>
         <updated>2023-02-12T03:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New York City Kosher Meat Boycott of 1902]]></title>
+        <id>https://daily.jstor.org/inside-the-new-york-city-kosher-meat-boycott-of-1902/</id>
+        <link href="https://daily.jstor.org/inside-the-new-york-city-kosher-meat-boycott-of-1902/"/>
+        <updated>2023-02-12T02:58:46.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -247,6 +546,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: Toodle.Studio is an art playground with Lisp and turtles]]></title>
+        <id>https://toodle.studio/</id>
+        <link href="https://toodle.studio/"/>
+        <updated>2023-02-11T15:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to train large models on many GPUs? (2021)]]></title>
         <id>https://lilianweng.github.io/posts/2021-09-25-train-large/</id>
         <link href="https://lilianweng.github.io/posts/2021-09-25-train-large/"/>
@@ -261,6 +570,56 @@
         <id>https://github.com/BrunoLevy/geogram</id>
         <link href="https://github.com/BrunoLevy/geogram"/>
         <updated>2023-02-11T13:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siliwiz – A Semiconductor Simulator]]></title>
+        <id>https://app.siliwiz.com/</id>
+        <link href="https://app.siliwiz.com/"/>
+        <updated>2023-02-11T13:32:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ping Your Part]]></title>
+        <id>https://jae.fi/blog/2023/02/05/ping-your-part!/</id>
+        <link href="https://jae.fi/blog/2023/02/05/ping-your-part!/"/>
+        <updated>2023-02-11T07:56:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Access Methods: The RUM Conjecture]]></title>
+        <id>http://muratbuffalo.blogspot.com/2023/02/designing-access-methods-rum-conjecture.html</id>
+        <link href="http://muratbuffalo.blogspot.com/2023/02/designing-access-methods-rum-conjecture.html"/>
+        <updated>2023-02-11T07:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plant remains from a 15th century royal shipwreck in the Baltic Sea]]></title>
+        <id>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281010</id>
+        <link href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281010"/>
+        <updated>2023-02-11T07:18:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My review of the C standard library in practice]]></title>
+        <id>https://nullprogram.com/blog/2023/02/11/</id>
+        <link href="https://nullprogram.com/blog/2023/02/11/"/>
+        <updated>2023-02-11T04:55:06.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -301,6 +660,16 @@
         <id>https://vlcn.io/blog/gentle-intro-to-crdts.html</id>
         <link href="https://vlcn.io/blog/gentle-intro-to-crdts.html"/>
         <updated>2023-02-10T22:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Energy Lasers]]></title>
+        <id>https://www.raytheonintelligenceandspace.com/what-we-do/advanced-tech/lasers</id>
+        <link href="https://www.raytheonintelligenceandspace.com/what-we-do/advanced-tech/lasers"/>
+        <updated>2023-02-10T21:31:40.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -515,6 +884,16 @@ Different Ways to Get CSS Gradient Shadows originally published on CSS-Tricks, w
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New website allows renters to find out how many properties their ... - Stuff]]></title>
+        <id>CBMieWh0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzEzMTE5OTI2My9uZXctd2Vic2l0ZS1hbGxvd3MtcmVudGVycy10by1maW5kLW91dC1ob3ctbWFueS1wcm9wZXJ0aWVzLXRoZWlyLWxhbmRsb3JkLW93bnPSAQA</id>
+        <link href="https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzEzMTE5OTI2My9uZXctd2Vic2l0ZS1hbGxvd3MtcmVudGVycy10by1maW5kLW91dC1ob3ctbWFueS1wcm9wZXJ0aWVzLXRoZWlyLWxhbmRsb3JkLW93bnPSAQA?oc=5"/>
+        <updated>2023-02-10T06:05:00.000Z</updated>
+        <summary type="html"><![CDATA[New website allows renters to find out how many properties their ...  Stuff]]></summary>
+        <author>
+            <name>"Google NZ blog" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -1698,6 +2077,33 @@ tells you which method yo…]]></summary>
         <summary type="html"><![CDATA[Snowflake to acquire LeapYear to boost data clean room abilities  Reseller News]]></summary>
         <author>
             <name>"Google NZ blog" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online whiteboards]]></title>
+        <id>https://danmackinlay.name/notebook/online_whiteboards.html</id>
+        <link href="https://danmackinlay.name/notebook/online_whiteboards.html"/>
+        <updated>2023-02-08T00:08:22.000Z</updated>
+        <summary type="html"><![CDATA[Excalidraw
+Figjam
+Mathcha
+Miscellaneous options
+Point a camera at a physical whiteboard
+Other deliberation tools
+
+Online collaborative drawing, for, e.g. doing mathematics online or general diagrams.
+Many tools claim to do this, but I have not managed to have a truly satisfactory experience yet, although I have committed not much time to it.
+I was hoping for a slam-dunk best option.
+I suspect that most of the options are going to need some kind of stylus input to be any use, at least for the writing-heavy workflows I care about.
+So, something that involves a Wacom or an iPad or whatever.
+Here are some candidates.
+Excalidraw
+An open source option that promises collaboration and end-to-end encryption is Excalidraw
+(source.)
+Virtual whiteboard for sketching hand-drawn like diagrams.
+Collabora…]]></summary>
+        <author>
+            <name>The Dan MacKinlay family of variably-well-considered enterprises on Dan MacKinlay</name>
         </author>
     </entry>
     <entry>
@@ -10011,29 +10417,6 @@ References
 Too late now I guess.
 Also this notebook has lost cohesion and turned into a link salad.
 It would be more valuable if it analysed and compared some theses; in this topic area is we need fewer link lists and more synthesis one where some synthesis wo…]]></summary>
-        <author>
-            <name>The Dan MacKinlay family of variably-well-considered enterprises on Dan MacKinlay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drugs, recreational]]></title>
-        <id>https://danmackinlay.name/notebook/drugs_fun.html</id>
-        <link href="https://danmackinlay.name/notebook/drugs_fun.html"/>
-        <updated>2023-01-13T23:03:24.000Z</updated>
-        <summary type="html"><![CDATA[Legality and political economy of taking recreational drugs
-Addiction
-Psychedelics to treat mental illness
-Hallucinogens
-Practicalities
-incoming
-References
-
-My mentioning and citing material to do with recreational or medical use of controlled substances should obviously not be taken as an endorsement of recreational use of controlled substances.
-I am not qualified to make such endorsements, even if I were inclined to.
-Indeed, if you are turning to a mathematician for intelligence on legal or pharmacological questions, you should probably inspect your life decisions to see if any other ones you have made recently are similarly suspect.1
-So, here are some links about recreational drugs which I find interesting.
-Eventually I’d like to speculate about medicalisation,
-and how drugs for disease…]]></summary>
         <author>
             <name>The Dan MacKinlay family of variably-well-considered enterprises on Dan MacKinlay</name>
         </author>
