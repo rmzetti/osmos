@@ -150,16 +150,6 @@
           "wordCount": 2277,
           "title": "Solved With :has(): Vertical Spacing in Long-Form Text",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376435"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376352",
-          "author": "Mariana Beldi",
-          "description": "Someone recently asked me how I approach debugging inline SVGs. Because it is part of the DOM, we can inspect any inline SVG in any browser DevTools. And because of that, we have the ability to scope things out and …\n6 Common SVG Fails (and How to Fix Them) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/6-common-svg-fails-and-how-to-fix-them/",
-          "publishedOn": "2023-01-17T13:51:20.000Z",
-          "wordCount": 3393,
-          "title": "6 Common SVG Fails (and How to Fix Them)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376352"
         }
       ]
     },
@@ -168,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/02/sell-product-powerful-storytelling/",
+          "author": "hello@smashingmagazine.com (Chiara Aliotta)",
+          "description": "How to apply powerful storytelling to design a compelling and memorable digital experience on a landing page. A case study of the [Smart Interface Design Patterns landing page](https://smart-interface-design-patterns.com/).",
+          "link": "https://smashingmagazine.com/2023/02/sell-product-powerful-storytelling/",
+          "publishedOn": "2023-02-15T10:00:00.000Z",
+          "wordCount": 7019,
+          "title": "Five Steps To Sell Your Product With Powerful Storytelling",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/sell-product-powerful-storytelling/meta-sell-product-powerful-storytelling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/sell-product-powerful-storytelling/meta-sell-product-powerful-storytelling.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/02/discovering-primitive-objects-javascript-part1/",
           "author": "hello@smashingmagazine.com (Kirill Myshkin)",
@@ -497,36 +502,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/figma-auto-layout-masterclass/banner-figma-auto-layout-masterclass.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/swimm-code-documentation-streamlined/",
-          "author": "hello@smashingmagazine.com (Atila Fassina)",
-          "description": "Writing code documentation can be overwhelming when there’s no smooth process in place. Streamlining best practices and setting automation in your favor works a long way toward getting permanently up-to-date content that reflects the important pieces of your codebase.",
-          "link": "https://smashingmagazine.com/2023/01/swimm-code-documentation-streamlined/",
-          "publishedOn": "2023-01-17T14:00:00.000Z",
-          "wordCount": 3671,
-          "title": "Code Documentation, Streamlined",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/code-documentation-streamlined/swimm-code-documentation-streamlined.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/code-documentation-streamlined/swimm-code-documentation-streamlined.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
-          "author": "hello@smashingmagazine.com (Eloïse Martin)",
-          "description": "Largest Contentful Paint (or LCP) is a major web performance KPI which is still a new concept for many web developers since it became a ranking factor just recently. In this article, Eloïse Martin provides an overview of the best practices for the integration and optimization of an LCP image.",
-          "link": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
-          "publishedOn": "2023-01-16T18:00:00.000Z",
-          "wordCount": 5222,
-          "title": "Optimizing The Image Element LCP",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg"
         }
       ]
     },
@@ -535,6 +510,286 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.rtl-sdr.com/the-us-airforce-may-have-shot-down-an-amateur-radio-pico-balloon-over-canada/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.rtl-sdr.com/the-us-airforce-may-have-shot-down-an-amateur-radio-pico-balloon-over-canada/",
+          "publishedOn": "2023-02-16T03:42:47.000Z",
+          "wordCount": 3040,
+          "title": "The US Air Force may have shot down an amateur radio pico balloon over Canada",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/thoughtindustries/helium",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/thoughtindustries/helium",
+          "publishedOn": "2023-02-16T03:21:29.000Z",
+          "wordCount": 1181,
+          "title": "Show HN: Helium – a headless, open-source LMS",
+          "imageUrl": "https://opengraph.githubassets.com/eadc38801cd3b0eb3b15beb7e3e04e692868362952ab81e8d23fbc1dbbf8c168/thoughtindustries/helium"
+        },
+        {
+          "id": "https://academy.cs.cmu.edu/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://academy.cs.cmu.edu/",
+          "publishedOn": "2023-02-16T02:26:01.000Z",
+          "wordCount": 132,
+          "title": "CMU CS Academy: a free online computer science curriculum by Carnegie Mellon",
+          "imageUrl": "https://academy.cs.cmu.edu/favicons/android-chrome-384x384.png"
+        },
+        {
+          "id": "https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/",
+          "publishedOn": "2023-02-16T02:12:30.000Z",
+          "wordCount": 1419,
+          "title": "WebKit Supports Nested CSS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/slawlor/ractor",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/slawlor/ractor",
+          "publishedOn": "2023-02-16T01:02:46.000Z",
+          "wordCount": 2293,
+          "title": "Show HN: Ractor – a Rust-based actor framework with clusters and supervisors",
+          "imageUrl": "https://opengraph.githubassets.com/99088ec2d1e5718dac6dec970d32302402f4c33a5fa03fddf509c213da1a0c8a/slawlor/ractor"
+        },
+        {
+          "id": "https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/",
+          "publishedOn": "2023-02-16T00:27:01.000Z",
+          "wordCount": 2226,
+          "title": "Scientists find first observational evidence linking black holes to dark energy",
+          "imageUrl": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2023/02/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy-elliptical-galaxy.jpg"
+        },
+        {
+          "id": "https://skynews.ca/skynews-is-closing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://skynews.ca/skynews-is-closing/",
+          "publishedOn": "2023-02-15T23:43:45.000Z",
+          "wordCount": null,
+          "title": "SkyNews (Canadian Astronomy magazine) is closing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.fiercepharma.com/pharma/gsk-was-warned-repeatedly-about-zantac-risks-didnt-act-warnings-bloomberg",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.fiercepharma.com/pharma/gsk-was-warned-repeatedly-about-zantac-risks-didnt-act-warnings-bloomberg",
+          "publishedOn": "2023-02-15T23:34:40.000Z",
+          "wordCount": null,
+          "title": "Zantac’s maker kept quiet about cancer risks for 40 years",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.pnas.org/doi/10.1073/pnas.2213157119",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pnas.org/doi/10.1073/pnas.2213157119",
+          "publishedOn": "2023-02-15T22:59:20.000Z",
+          "wordCount": null,
+          "title": "SOBA: Potential blood test for Alzheimer&#x27;s disease",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/microsoft/prompt-engine",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/microsoft/prompt-engine",
+          "publishedOn": "2023-02-15T21:46:36.000Z",
+          "wordCount": 2357,
+          "title": "Prompt Engine – Microsoft&#x27;s prompt engineering library",
+          "imageUrl": "https://opengraph.githubassets.com/1b5350d1d5acd40582028891105d9ad7bf426a758f5740889c6b6f7a7c465d50/microsoft/prompt-engine"
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-AVX-512-Quicksort-Numpy",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.phoronix.com/news/Intel-AVX-512-Quicksort-Numpy",
+          "publishedOn": "2023-02-15T21:09:52.000Z",
+          "wordCount": 1513,
+          "title": "Intel Publishes Fast AVX-512 Sorting Library, 10~17x Faster Sorts in NumPy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
+          "publishedOn": "2023-02-15T20:46:56.000Z",
+          "wordCount": 1406,
+          "title": "The Little Learner: A Straight Line to Deep Learning",
+          "imageUrl": "https://mit-press-us.imgix.net/covers/9780262546379.jpg?auto=format&w=298"
+        },
+        {
+          "id": "https://www.science.org/doi/10.1126/science.1211694",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.science.org/doi/10.1126/science.1211694",
+          "publishedOn": "2023-02-15T20:36:20.000Z",
+          "wordCount": null,
+          "title": "Unimpeded permeation of water through helium-leak-tight graphene-based membranes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://wccftech.com/amd-grabs-over-30-percent-market-share-with-epyc-cpus-intel-continues-to-decline/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wccftech.com/amd-grabs-over-30-percent-market-share-with-epyc-cpus-intel-continues-to-decline/",
+          "publishedOn": "2023-02-15T20:32:17.000Z",
+          "wordCount": 2293,
+          "title": "AMD Grabs over 30% CPU Market Share as Intel Continues to Decline",
+          "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2022/12/AMD-CEO-Lisa-Su-Official-728x519.png"
+        },
+        {
+          "id": "http://www.quadibloc.com/other/bo0201.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.quadibloc.com/other/bo0201.htm",
+          "publishedOn": "2023-02-15T19:53:49.000Z",
+          "wordCount": 2596,
+          "title": "Making Full Use of Three Ordinary Dice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://erich-friedman.github.io/packing/squinsqu/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://erich-friedman.github.io/packing/squinsqu/",
+          "publishedOn": "2023-02-15T19:13:37.000Z",
+          "wordCount": 578,
+          "title": "Squares in Squares",
+          "imageUrl": null
+        },
+        {
+          "id": "http://adam.chlipala.net/mlcomp/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://adam.chlipala.net/mlcomp/",
+          "publishedOn": "2023-02-15T15:39:55.000Z",
+          "wordCount": 5127,
+          "title": "Comparing Objective Caml and Standard ML",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twiddlingbits.net/artificial-sun",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twiddlingbits.net/artificial-sun",
+          "publishedOn": "2023-02-15T15:23:57.000Z",
+          "wordCount": 8826,
+          "title": "Making a terrarium with an Arduino-powered artificial sun",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1676333112701%2F7ae6c93b-7d34-4def-ad01-92cb0f29ce10.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://news.cornell.edu/stories/2023/02/food-coloring-anti-caking-nanoparticles-may-affect-human-gut",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.cornell.edu/stories/2023/02/food-coloring-anti-caking-nanoparticles-may-affect-human-gut",
+          "publishedOn": "2023-02-15T15:17:48.000Z",
+          "wordCount": 774,
+          "title": "Food coloring, anti-caking nanoparticles may affect human gut",
+          "imageUrl": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/0215_food_tnd_0.jpg?itok=IVRUeIZQ"
+        },
+        {
+          "id": "https://simonwillison.net/2023/Feb/15/bing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://simonwillison.net/2023/Feb/15/bing/",
+          "publishedOn": "2023-02-15T15:14:15.000Z",
+          "wordCount": 3974,
+          "title": "Bing: “I will not harm you unless you harm me first”",
+          "imageUrl": "https://static.simonwillison.net/static/2023/bing-buttons.jpg"
+        },
+        {
+          "id": "https://www.logicmatters.net/2023/02/15/does-mathematics-need-a-philosophy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.logicmatters.net/2023/02/15/does-mathematics-need-a-philosophy/",
+          "publishedOn": "2023-02-15T15:06:24.000Z",
+          "wordCount": 8210,
+          "title": "Does Mathematics Need a Philosophy?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://silbernagel.dev/posts/distributed-sqlite-with-elixir",
+          "author": null,
+          "description": "Comments",
+          "link": "https://silbernagel.dev/posts/distributed-sqlite-with-elixir",
+          "publishedOn": "2023-02-15T15:06:11.000Z",
+          "wordCount": 1225,
+          "title": "Distributed SQLite with Elixir",
+          "imageUrl": "/images/avatar-f688cf1344c24332af5862a56e3eadc5.jpg?vsn=d"
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-023-00383-9",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-023-00383-9",
+          "publishedOn": "2023-02-15T14:56:44.000Z",
+          "wordCount": 3259,
+          "title": "Sea life bounced back fast after the ‘mother of mass extinctions’",
+          "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-023-00383-9/d41586-023-00383-9_24008890.jpg"
+        },
+        {
+          "id": "https://brr.fyi/posts/last-flight-out",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brr.fyi/posts/last-flight-out",
+          "publishedOn": "2023-02-15T12:23:29.000Z",
+          "wordCount": 923,
+          "title": "Last Flight Out",
+          "imageUrl": null
+        },
+        {
+          "id": "http://doc.cat-v.org/unix/v0/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://doc.cat-v.org/unix/v0/",
+          "publishedOn": "2023-02-15T11:51:06.000Z",
+          "wordCount": 301,
+          "title": "Unix Edition Zero",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.njohnston.ca/publications/conways-game-of-life-mathematics-and-construction/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.njohnston.ca/publications/conways-game-of-life-mathematics-and-construction/",
+          "publishedOn": "2023-02-15T09:44:34.000Z",
+          "wordCount": 374,
+          "title": "Conway’s Game of Life: Mathematics and Construction",
+          "imageUrl": "http://www.njohnston.ca/wp-content/uploads/2022/01/Image4-223x300.png"
+        },
+        {
+          "id": "https://blogit.michelin.io/clojure-programming/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blogit.michelin.io/clojure-programming/",
+          "publishedOn": "2023-02-15T08:42:44.000Z",
+          "wordCount": null,
+          "title": "Clojure in the Tyre Manufacturing Industry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theguardian.com/world/2023/feb/15/revealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/world/2023/feb/15/revealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan",
+          "publishedOn": "2023-02-15T04:37:33.000Z",
+          "wordCount": 7063,
+          "title": "A hacking and disinformation team meddling in elections",
+          "imageUrl": "https://i.guim.co.uk/img/media/08f955300566c3b150cad3e5321d050de96409db/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=944ea802d0b12dcc92b2345eb1346b67"
+        },
         {
           "id": "https://www.simonandschuster.ca/books/The-Mysteries/Bill-Watterson/9781524884949",
           "author": null,
@@ -574,6 +829,16 @@
           "wordCount": 2236,
           "title": "PyTorch at the Edge: Deploy 964 TIMM Models on Android with TorchScript",
           "imageUrl": "https://dicksonneoh.com/images/portfolio/pytorch_at_the_edge_timm_torchscript_flutter/post_image.gif"
+        },
+        {
+          "id": "https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a",
+          "publishedOn": "2023-02-15T02:34:15.000Z",
+          "wordCount": 8060,
+          "title": "The maze is in the mouse: what ails Google",
+          "imageUrl": "https://miro.medium.com/max/1024/0*VsJFrT07L6k-lbx9"
         },
         {
           "id": "https://www.linode.com/blog/linode/a-bold-new-approach-to-the-cloud/",
@@ -704,6 +969,16 @@
           "wordCount": 4913,
           "title": "SS United States, the fastest passenger liner ever built",
           "imageUrl": "https://lflank.files.wordpress.com/2023/02/image.png"
+        },
+        {
+          "id": "https://www.reuters.com/business/autos-transportation/gigapresses-giant-die-casts-reshaping-car-manufacturing-2023-02-10/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/business/autos-transportation/gigapresses-giant-die-casts-reshaping-car-manufacturing-2023-02-10/",
+          "publishedOn": "2023-02-14T18:50:42.000Z",
+          "wordCount": 5765,
+          "title": "Gigapresses – the die casts reshaping car manufacturing",
+          "imageUrl": "https://www.reuters.com/resizer/vKgHMed2Hh7-RCP8mgmHI_IOLuo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5G5YM3UP5VM6DJTLOW2HCARC5E.jpg"
         },
         {
           "id": "https://webcontainers.io/",
@@ -8724,26 +8999,6 @@
           "wordCount": 2978,
           "title": "Rapid-fire laser diverts lightning strikes",
           "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-023-00080-7/d41586-023-00080-7_23915686.jpg"
-        },
-        {
-          "id": "https://www.theparisreview.org/blog/2017/04/10/worst-case-scenario/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theparisreview.org/blog/2017/04/10/worst-case-scenario/",
-          "publishedOn": "2023-01-17T10:17:59.000Z",
-          "wordCount": 2762,
-          "title": "Worst-Case Scenario (2017)",
-          "imageUrl": "https://www.theparisreview.org/blog/wp-content/uploads/2017/04/threads.jpg"
-        },
-        {
-          "id": "https://buttondown.email/hillelwayne/archive/use-the-wrong-tool-for-the-job/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://buttondown.email/hillelwayne/archive/use-the-wrong-tool-for-the-job/",
-          "publishedOn": "2023-01-17T09:34:33.000Z",
-          "wordCount": 1389,
-          "title": "Use the Wrong Tool for the Job",
-          "imageUrl": null
         }
       ]
     },
@@ -8789,6 +9044,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://www.knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/article/health-disease/2023/unplugging-asthmatic-airways",
+          "author": "Patience Asanga",
+          "description": "New therapies that involve the removal of mucus in the lungs might be the best strategy to beat asthma",
+          "link": "https://knowablemagazine.org/article/health-disease/2023/unplugging-asthmatic-airways",
+          "publishedOn": "2023-02-15T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Unplugging asthmatic airways",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "56788",
+            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-021423-1-1200x630.jpg"
+          },
+          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-021423-1-1200x630.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/article/technology/2023/green-hydrogen-latin-america",
           "author": "Pablo Fonseca Q.",
@@ -8908,21 +9178,6 @@
             "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-011823-1-1200x630.jpg"
           },
           "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-011823-1-1200x630.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/article/food-environment/2023/ai-better-crops",
-          "author": "Saugat Bolakhe",
-          "description": "The technology could transform how growers protect their harvests, by detecting plant diseases very early on. But the challenge is to develop tools that are as affordable as they are effective.",
-          "link": "https://knowablemagazine.org/article/food-environment/2023/ai-better-crops",
-          "publishedOn": "2023-01-17T15:00:00.000Z",
-          "wordCount": null,
-          "title": "AI for better crops",
-          "enclosure": {
-            "type": "image/jpeg",
-            "length": "127087",
-            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-011723-1-1200x630.jpg"
-          },
-          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-011723-1-1200x630.jpg"
         }
       ]
     },
@@ -8931,6 +9186,46 @@
       "feedUrl": "http://livingthing.danmackinlay.name/feeds/all.atom.xml",
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
+        {
+          "id": "https://danmackinlay.name/notebook/external_validity.html",
+          "author": null,
+          "description": "Standard graphical models\nExternal validity in policy\nInvariant risk minimisation\nTools\n\nSalad\nWILDS\nMeta\n\nIncoming\nReferences\nTBD.\n\nThis Maori gentleman (name unspecified) from the 1800s demonstrates an artful transfer learning from the western fashion domain\nOne could read Sebastian Ruder’s NN-style introduction to “transfer learning”.\nNN people like to think about this in particular way which I like because of the diversity of out-of-the-box ideas it invites and which I dislike because it is sloppy.\nFor me it seems natural to consider learning well-factored causal graphical models containing the necessary interaction effects as the platonic ideal here and everything else is just an approximation to that.\nAlthough maybe I should should be thinging about feedback effects also — if everyon…",
+          "link": "https://danmackinlay.name/notebook/external_validity.html",
+          "publishedOn": "2023-02-15T23:10:44.000Z",
+          "wordCount": 2275,
+          "title": "External validity and dataset shift",
+          "imageUrl": "https://danmackinlay.name/images/maori_tattoos_and_suit.webp"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/nn_at_scale.html",
+          "author": null,
+          "description": "Side note: The better lesson\nBig transformers\nIncoming\nReferences\n\nGot good behaviour from a million parameter model?\nWant to see if stuff gets weirder as we hit a billion parameters?\nTurns out it does!\nBrief links on the theme of scaling in the extremely large model/large data limit and what that does to the behaviour of the models.\nA new front in the complexity, and/or\nstatistical mechanics of statistics.\nAs to how to scale up these models in practice, see distributed gradient descent.\nSide note: The better lesson\nSutton’s famous bitter lesson:\nThe biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin.\nLots of people declaim this one, e.g. On the futility of trying to be clev…",
+          "link": "https://danmackinlay.name/notebook/nn_at_scale.html",
+          "publishedOn": "2023-02-15T23:07:02.000Z",
+          "wordCount": 1177,
+          "title": "Scaling laws for very large neural nets",
+          "imageUrl": "https://danmackinlay.name/images/giant_spyglass.png"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/research_discovery.html",
+          "author": null,
+          "description": "Theory\nProjects\nElicit\n\nconnected papers\npapr\nDaily papers\narxiv sanity\ntrendingarxiv\nThe syllabus\n\nReading groups and co-learning\nPaper analysis/annotation\nFinding copies\n\nRecommender systems for academics are hard and in particular, I suspect they are\nharder than normal because definitionally the content should be new and hard to relate to existing stuff.\nIndeed, finding connections is a publishable result in itself.\nHard-nosed applied version of the idea of knowledge topology.\nComplicated interaction with systems of peer review.\nCould this integrate with peer review in some useful way?\nCan we have services like Canopy, Pinterest or keen for scientific knowledge?\nHow can we trade of recall and precision for the needs of academics?\nMoreover the information environment is challenging. I am…",
+          "link": "https://danmackinlay.name/notebook/research_discovery.html",
+          "publishedOn": "2023-02-15T22:48:18.000Z",
+          "wordCount": 1703,
+          "title": "Research discovery",
+          "imageUrl": "https://danmackinlay.name/images/burn_after_reading.png"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/matrix_gaussian.html",
+          "author": null,
+          "description": "References\n\nGupta and Nagar (1999):\nThe random matrix \\(X(p \\times n)\\) is said to have a matrix variate normal distribution with mean matrix \\(M(p \\times n)\\) and covariance matrix \\(\\Sigma \\otimes \\Psi\\) where \\(\\Sigma(p \\times p)>0\\) and \\(\\Psi(n \\times n)>0\\), if \\(\\operatorname{vec}\\left(X^{\\prime}\\right) \\sim N_{p n}\\left(\\operatorname{vec}\\left(M^{\\prime}\\right), \\Sigma \\otimes \\Psi\\right)\\)\nWe shall use the notation \\(X \\sim N_{p, n}(M, \\Sigma \\otimes \\Psi)\\).\nThey prove the following theorem:\nIf \\(X \\sim N_{p, n}(M, \\Sigma \\otimes \\Psi)\\), then the p.d.f. of \\(X\\) is given by\n\\[\n\\begin{array}{r}\n(2 \\pi)^{-\\frac{1}{2} n p} \\operatorname{det}(\\Sigma)^{-\\frac{1}{2} n} \\operatorname{det}(\\Psi)^{-\\frac{1}{2} p} \\operatorname{etr}\\left\\{-\\frac{1}{2} \\Sigma^{-1}(X-M) \\Psi^{-1}(X-M)^{\\pri…",
+          "link": "https://danmackinlay.name/notebook/matrix_gaussian.html",
+          "publishedOn": "2023-02-15T22:33:42.000Z",
+          "wordCount": 590,
+          "title": "The Matrix-Gaussian distribution",
+          "imageUrl": "https://danmackinlay.name/images/Grandville_geometry_garden.png"
+        },
         {
           "id": "https://danmackinlay.name/notebook/expectation_propagation.html",
           "author": null,
@@ -9338,6 +9633,16 @@
       "feedUrl": "http://news.google.com/news?hl=en&output=rss&q=Google+NZ+blog&cf=all&num=30",
       "siteUrl": "https://news.google.com/search?hl=en-US&q=Google+NZ+blog&cf=all&num=30&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiLWh0dHBzOi8vYmxvZ3MubnZpZGlhLmNvbS9ibG9nLzIwMjMvMDIvMTUvcmlwL9IBAA",
+          "author": null,
+          "description": "Making a Splash: AI Can Help Protect Ocean Goers From Deadly Rips  Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vYmxvZ3MubnZpZGlhLmNvbS9ibG9nLzIwMjMvMDIvMTUvcmlwL9IBAA?oc=5",
+          "publishedOn": "2023-02-15T14:11:52.000Z",
+          "wordCount": 6094,
+          "title": "Making a Splash: AI Can Help Protect Ocean Goers From Deadly Rips - Nvidia",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiNmh0dHBzOi8vd3d3LmNqci5vcmcvdG93X2NlbnRlci9icmF6aWwtaW5zdXJyZWN0aW9uLnBocNIBAA",
           "author": null,
@@ -10127,36 +10432,6 @@
           "wordCount": 2092,
           "title": "TVNZ keen on 'legal backstop' despite deal with Google - Stuff",
           "imageUrl": "https://resources.stuff.co.nz/content/dam/images/4/y/m/r/m/m/image.related.StuffLandscapeSixteenByNine.1420x800.25znqc.png/1673992972670.jpg"
-        },
-        {
-          "id": "CBMiMmh0dHBzOi8vYWJyb2tlbmJhY2twYWNrLmNvbS9uZXctemVhbGFuZC1zaW0tY2FyZHMv0gEA",
-          "author": null,
-          "description": "New Zealand SIM Cards: Everything You Need To Know | 2023  A Broken Backpack",
-          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vYWJyb2tlbmJhY2twYWNrLmNvbS9uZXctemVhbGFuZC1zaW0tY2FyZHMv0gEA?oc=5",
-          "publishedOn": "2023-01-17T08:00:00.000Z",
-          "wordCount": 6062,
-          "title": "New Zealand SIM Cards: Everything You Need To Know | 2023 - A Broken Backpack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMmh0dHBzOi8vYWJyb2tlbmJhY2twYWNrLmNvbS9uZXctemVhbGFuZC1zaW0tY2FyZHMv0gEA",
-          "author": null,
-          "description": "New Zealand SIM Cards: Everything You Need To Know | 2023  A Broken Backpack",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vYWJyb2tlbmJhY2twYWNrLmNvbS9uZXctemVhbGFuZC1zaW0tY2FyZHMv0gEA?oc=5",
-          "publishedOn": "2023-01-17T08:00:00.000Z",
-          "wordCount": 2900,
-          "title": "New Zealand SIM Cards: Everything You Need To Know | 2023 - A Broken Backpack",
-          "imageUrl": "https://abrokenbackpack.com/wp-content/uploads/2022/10/Lake-New-Zealand.webp"
-        },
-        {
-          "id": "CBMid2h0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDEvMTYvZ3Vlc3QtYmxvZy1iZW4tbW9yZ2FuLWdlcmFzaW1vdi1wcmlnb3poaW4tYW5kLXJ1c3NpYXMtYnJva2VuLW1pbGl0YXJ5LWxlYWRlcnNoaXAv0gEA",
-          "author": null,
-          "description": "GUEST BLOG: Ben Morgan – Gerasimov, Prigozhin and Russia's ...  thedailyblog.co.nz",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMid2h0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDEvMTYvZ3Vlc3QtYmxvZy1iZW4tbW9yZ2FuLWdlcmFzaW1vdi1wcmlnb3poaW4tYW5kLXJ1c3NpYXMtYnJva2VuLW1pbGl0YXJ5LWxlYWRlcnNoaXAv0gEA?oc=5",
-          "publishedOn": "2023-01-16T19:21:25.000Z",
-          "wordCount": 5745,
-          "title": "GUEST BLOG: Ben Morgan – Gerasimov, Prigozhin and Russia's ... - thedailyblog.co.nz",
-          "imageUrl": "https://thedailyblog.co.nz/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-8.20.04-PM.png"
         }
       ]
     },
