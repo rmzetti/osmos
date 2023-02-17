@@ -140,16 +140,6 @@
           "wordCount": 3102,
           "title": "How to Transition to Manifest V3 for Chrome Extensions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376454"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376435",
-          "author": "Liam Johnston",
-          "description": "If you’ve ever worked on sites with lots of long-form text — especially CMS sites where people can enter screeds of text in a WYSIWYG editor — you’ve likely had to write CSS to manage the vertical spacing between different …\nSolved With :has(): Vertical Spacing in Long-Form Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/solved-with-has-vertical-spacing-in-long-form-text/",
-          "publishedOn": "2023-01-18T13:44:00.000Z",
-          "wordCount": 2277,
-          "title": "Solved With :has(): Vertical Spacing in Long-Form Text",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376435"
         }
       ]
     },
@@ -158,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/02/putting-gears-motion-animating-cars-with-html-svg/",
+          "author": "hello@smashingmagazine.com (Paul Scanlon)",
+          "description": "SVG `` provides a way to define how an element moves along a motion path. In this article, Paul Scanlon shares an idea of how to use it by animating race cars in an infinite loop as easy as one-two-three!",
+          "link": "https://smashingmagazine.com/2023/02/putting-gears-motion-animating-cars-with-html-svg/",
+          "publishedOn": "2023-02-16T13:00:00.000Z",
+          "wordCount": 3296,
+          "title": "Putting Gears In Motion: Animating Cars With HTML And SVG",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/animate-race-cars-using-html/putting-gears-motion-animating-cars-with-html-svg.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/animate-race-cars-using-html/putting-gears-motion-animating-cars-with-html-svg.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/02/sell-product-powerful-storytelling/",
           "author": "hello@smashingmagazine.com (Chiara Aliotta)",
@@ -487,21 +492,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/guide-designing-for-introverts/guide-designing-for-introverts.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/figma-auto-layout-masterclass/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Get better at your craft and support the people in Ukraine — that’s the idea behind our Figma Auto Layout Masterclass with Christine Vallaure. **We are donating all proceeds** from the online workshop to humanitarian aid in Ukraine. Monday, March 27, 09:00AM – 12:00PM PT / 18:00 – 21:00 CET. Donate and join!",
-          "link": "https://smashingmagazine.com/2023/01/figma-auto-layout-masterclass/",
-          "publishedOn": "2023-01-18T14:00:00.000Z",
-          "wordCount": 3141,
-          "title": "Figma Auto Layout Masterclass: An Online Workshop To Support Ukraine 🇺🇦",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/figma-auto-layout-masterclass/banner-figma-auto-layout-masterclass.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/figma-auto-layout-masterclass/banner-figma-auto-layout-masterclass.png"
         }
       ]
     },
@@ -510,6 +500,276 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://support.mozilla.org/en-US/kb/whats-new-firefox-android",
+          "author": null,
+          "description": "Comments",
+          "link": "https://support.mozilla.org/en-US/kb/whats-new-firefox-android",
+          "publishedOn": "2023-02-17T04:07:30.000Z",
+          "wordCount": 2109,
+          "title": "Firefox Android now supports tampermonkey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://vue-mjs.web-templates.io/blog/javascript",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vue-mjs.web-templates.io/blog/javascript",
+          "publishedOn": "2023-02-17T02:19:26.000Z",
+          "wordCount": 3044,
+          "title": "Simple Modern JavaScript Using JavaScript Modules and Import Maps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kofi.sexy/blog/modern-spas",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kofi.sexy/blog/modern-spas",
+          "publishedOn": "2023-02-17T00:41:32.000Z",
+          "wordCount": 1284,
+          "title": "Modern SPAs without bundlers, CDNs, or Node.js",
+          "imageUrl": "https://kofi.sexy/images/profile.jpg"
+        },
+        {
+          "id": "https://github.com/inqueryio/inquery",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/inqueryio/inquery",
+          "publishedOn": "2023-02-16T23:21:40.000Z",
+          "wordCount": 1061,
+          "title": "Show HN: Inquery (YC W23) – Real-time events for Postgres",
+          "imageUrl": "https://opengraph.githubassets.com/1db3e0315c2d93b2e31b3eaedebe9b4bf3dea150e38f4a2bf1e5fcc3d86fb9fe/inqueryio/inquery"
+        },
+        {
+          "id": "https://www.sec.gov/news/press-release/2023-32",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sec.gov/news/press-release/2023-32",
+          "publishedOn": "2023-02-16T23:18:22.000Z",
+          "wordCount": 1917,
+          "title": "SEC Charges Terraform and CEO Do Kwon with Defrauding Investors InCrypto Schemes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/sveinbjornt/Sloth",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/sveinbjornt/Sloth",
+          "publishedOn": "2023-02-16T23:09:42.000Z",
+          "wordCount": 2325,
+          "title": "Sloth – A Mac app that shows all open files, directories, sockets, etc.",
+          "imageUrl": "https://opengraph.githubassets.com/6c04ff1cb8c943059a974637e319f10693fc84f643019fc41c64f07447010074/sveinbjornt/Sloth"
+        },
+        {
+          "id": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis",
+          "author": null,
+          "description": "Comments",
+          "link": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis",
+          "publishedOn": "2023-02-16T22:16:55.000Z",
+          "wordCount": 1253,
+          "title": "New Malware Abuses Microsoft IIS Feature to Establish Backdoor",
+          "imageUrl": "https://symantec-enterprise-blogs.security.com/sites/default/files/styles/social_media_meta/public/2023-02/Hero-1133924836.jpg?h=de4f113c&itok=12VHe1kP"
+        },
+        {
+          "id": "https://incaptions.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://incaptions.com/",
+          "publishedOn": "2023-02-16T21:51:54.000Z",
+          "wordCount": 204,
+          "title": "InCaptions: Search in YouTube Captions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.rubydoc.info/gems/minitest/Minitest%2FTest.i_suck_and_my_tests_are_order_dependent!",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.rubydoc.info/gems/minitest/Minitest%2FTest.i_suck_and_my_tests_are_order_dependent!",
+          "publishedOn": "2023-02-16T21:44:26.000Z",
+          "wordCount": 177,
+          "title": "I_suck_and_my_tests_are_order_dependent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://basementcommunity.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://basementcommunity.com/",
+          "publishedOn": "2023-02-16T21:02:14.000Z",
+          "wordCount": 753,
+          "title": "Show HN: I made an early 2000s-inspired internet forum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/",
+          "publishedOn": "2023-02-16T20:38:56.000Z",
+          "wordCount": 1475,
+          "title": "Writing JavaScript without a build system",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theverge.com/2023/2/16/23602718/microsoft-windows-11-apple-mac-m1-m2-support-parallels-virtual-machines",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/2023/2/16/23602718/microsoft-windows-11-apple-mac-m1-m2-support-parallels-virtual-machines",
+          "publishedOn": "2023-02-16T20:17:42.000Z",
+          "wordCount": 8182,
+          "title": "Microsoft to support Windows 11 on M1 and M2 Macs through Parallels partnership",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ufqZjeHJYvn2P81JJfH_CZgEYRg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22046476/vpavic_4291_20201113_0366.0.jpg"
+        },
+        {
+          "id": "https://codesandbox.io/blog/announcing-sandpack-2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://codesandbox.io/blog/announcing-sandpack-2",
+          "publishedOn": "2023-02-16T19:43:32.000Z",
+          "wordCount": 7544,
+          "title": "Nodebox: A Node.js runtime that runs in any browser",
+          "imageUrl": "https://codesandbox.io/new/blog/announcing-sandpack-2/banner.jpg"
+        },
+        {
+          "id": "https://jonpauluritis.com/articles/does-your-office-have-a-library/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jonpauluritis.com/articles/does-your-office-have-a-library/",
+          "publishedOn": "2023-02-16T19:12:46.000Z",
+          "wordCount": 630,
+          "title": "Does your office have a library?",
+          "imageUrl": "https://jonpauluritis.com/img/horsehead.jpg"
+        },
+        {
+          "id": "https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/",
+          "publishedOn": "2023-02-16T18:36:41.000Z",
+          "wordCount": 1868,
+          "title": "Web Push for Web Apps on iOS and iPadOS",
+          "imageUrl": "https://webkit.org/wp-content/uploads/Web_Push_on_iOS-1024x576.png"
+        },
+        {
+          "id": "https://www.jeffgeerling.com/blog/2023/moving-my-pc-my-rack-2u-case",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jeffgeerling.com/blog/2023/moving-my-pc-my-rack-2u-case",
+          "publishedOn": "2023-02-16T17:54:24.000Z",
+          "wordCount": 967,
+          "title": "Moving my PC into my rack in a 2U case",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.mit.edu/2023/where-do-stolen-bikes-go-0215",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.mit.edu/2023/where-do-stolen-bikes-go-0215",
+          "publishedOn": "2023-02-16T17:46:36.000Z",
+          "wordCount": 2705,
+          "title": "Where do stolen bikes go?",
+          "imageUrl": "https://news.mit.edu/sites/default/files/images/202302/MIT_Stolen-Bikes-01-press.jpg"
+        },
+        {
+          "id": "https://www.engadget.com/youtube-ceo-susan-wojcicki-is-stepping-down-172115390.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.engadget.com/youtube-ceo-susan-wojcicki-is-stepping-down-172115390.html",
+          "publishedOn": "2023-02-16T17:26:08.000Z",
+          "wordCount": 2690,
+          "title": "YouTube CEO Susan Wojcicki is stepping down",
+          "imageUrl": "https://s.yimg.com/uu/api/res/1.2/0Zo7muJ6S_vnrJYgPMdycw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/7c5b0d60-ae1d-11ed-bd6b-875ae2569caf.cf.jpg"
+        },
+        {
+          "id": "https://oalexanderdk.substack.com/p/blowing-holes-in-seymour-hershs-pipe",
+          "author": null,
+          "description": "Comments",
+          "link": "https://oalexanderdk.substack.com/p/blowing-holes-in-seymour-hershs-pipe",
+          "publishedOn": "2023-02-16T17:26:06.000Z",
+          "wordCount": 10373,
+          "title": "Blowing holes in Seymour Hersh’s pipe dream",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f5450e4-15b6-4921-952c-f4d308ddba76_1200x720.jpeg"
+        },
+        {
+          "id": "https://www.analog.com/en/thought-leadership/why-10base-t1s-is-the-missing-ethernet-link.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.analog.com/en/thought-leadership/why-10base-t1s-is-the-missing-ethernet-link.html",
+          "publishedOn": "2023-02-16T17:23:08.000Z",
+          "wordCount": 2785,
+          "title": "10BASE-T1S is the missing Ethernet link for automotive communications",
+          "imageUrl": null
+        },
+        {
+          "id": "https://clementneo.com/posts/2023/02/11/we-found-an-neuron",
+          "author": null,
+          "description": "Comments",
+          "link": "https://clementneo.com/posts/2023/02/11/we-found-an-neuron",
+          "publishedOn": "2023-02-16T17:01:47.000Z",
+          "wordCount": 1676947,
+          "title": "We Found an Neuron in GPT-2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34818706",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34818706",
+          "publishedOn": "2023-02-16T14:02:37.000Z",
+          "wordCount": 11750,
+          "title": "Launch HN: Neptyne (YC W23) – A programmable spreadsheet that runs Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.quantamagazine.org/what-lights-the-universes-standard-candles-20230208/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/what-lights-the-universes-standard-candles-20230208/",
+          "publishedOn": "2023-02-16T12:36:35.000Z",
+          "wordCount": 5643,
+          "title": "What Lights the Universe’s Standard Candles?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/Type1aSupernovas-courtesyofRuedigerPakmor-Social.webp"
+        },
+        {
+          "id": "https://blog.bofh.it/debian/id_465",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.bofh.it/debian/id_465",
+          "publishedOn": "2023-02-16T09:59:14.000Z",
+          "wordCount": 797,
+          "title": "I replaced grub with systemd-boot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2302.07730",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2302.07730",
+          "publishedOn": "2023-02-16T08:01:28.000Z",
+          "wordCount": 508,
+          "title": "Transformer models: an introduction and catalog",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.crunchydata.com/blog/postgres-wal-files-and-sequuence-numbers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.crunchydata.com/blog/postgres-wal-files-and-sequuence-numbers",
+          "publishedOn": "2023-02-16T05:36:32.000Z",
+          "wordCount": 3066,
+          "title": "Postgres WAL Files and Sequence Numbers",
+          "imageUrl": "https://imagedelivery.net/lPM0ntuwQfh8VQgJRu0mFg/c94fcd44-0fb3-4f28-db7a-ff8076c82a00/public"
+        },
+        {
+          "id": "https://lwn.net/SubscriberLink/923223/6f3f371c8267eff2/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/SubscriberLink/923223/6f3f371c8267eff2/",
+          "publishedOn": "2023-02-16T05:24:36.000Z",
+          "wordCount": 3699,
+          "title": "NASA and Open-Source Software",
+          "imageUrl": null
+        },
         {
           "id": "https://www.rtl-sdr.com/the-us-airforce-may-have-shot-down-an-amateur-radio-pico-balloon-over-canada/",
           "author": null,
@@ -529,6 +789,16 @@
           "wordCount": 1181,
           "title": "Show HN: Helium – a headless, open-source LMS",
           "imageUrl": "https://opengraph.githubassets.com/eadc38801cd3b0eb3b15beb7e3e04e692868362952ab81e8d23fbc1dbbf8c168/thoughtindustries/helium"
+        },
+        {
+          "id": "https://sr.ht/~icefox/oorandom/#a-brief-history-of-random-numbers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sr.ht/~icefox/oorandom/#a-brief-history-of-random-numbers",
+          "publishedOn": "2023-02-16T03:11:13.000Z",
+          "wordCount": 1795,
+          "title": "A Brief History of Random Numbers",
+          "imageUrl": null
         },
         {
           "id": "https://academy.cs.cmu.edu/",
@@ -588,6 +858,16 @@
           "publishedOn": "2023-02-15T23:34:40.000Z",
           "wordCount": null,
           "title": "Zantac’s maker kept quiet about cancer risks for 40 years",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ietf.org/rfc/rfc1925.txt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ietf.org/rfc/rfc1925.txt",
+          "publishedOn": "2023-02-15T23:18:41.000Z",
+          "wordCount": 577,
+          "title": "The Twelve Networking Truths (1996)",
           "imageUrl": null
         },
         {
@@ -669,6 +949,16 @@
           "wordCount": 578,
           "title": "Squares in Squares",
           "imageUrl": null
+        },
+        {
+          "id": "https://onefoottsunami.com/2023/02/15/all-the-buns-are-blank/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://onefoottsunami.com/2023/02/15/all-the-buns-are-blank/",
+          "publishedOn": "2023-02-15T15:59:32.000Z",
+          "wordCount": 1027,
+          "title": "All the Buns Are Blank",
+          "imageUrl": "FIXTHISIMAGE"
         },
         {
           "id": "http://adam.chlipala.net/mlcomp/",
@@ -8979,26 +9269,6 @@
           "wordCount": 3785,
           "title": "Mumbai embraces its booming flamingo population",
           "imageUrl": "https://hakaimagazine.com/wp-content/uploads/facebook-mumbai-flamingos.jpg"
-        },
-        {
-          "id": "https://newsroom.ibm.com/2022-11-09-IBM-Unveils-400-Qubit-Plus-Quantum-Processor-and-Next-Generation-IBM-Quantum-System-Two",
-          "author": null,
-          "description": "Comments",
-          "link": "https://newsroom.ibm.com/2022-11-09-IBM-Unveils-400-Qubit-Plus-Quantum-Processor-and-Next-Generation-IBM-Quantum-System-Two",
-          "publishedOn": "2023-01-18T07:03:34.000Z",
-          "wordCount": 1897,
-          "title": "IBM Quantum System Two",
-          "imageUrl": "https://newsroom.ibm.com/image/Quantum+Summit_social_2.jpg"
-        },
-        {
-          "id": "https://www.nature.com/articles/d41586-023-00080-7",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/d41586-023-00080-7",
-          "publishedOn": "2023-01-18T05:50:23.000Z",
-          "wordCount": 2978,
-          "title": "Rapid-fire laser diverts lightning strikes",
-          "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-023-00080-7/d41586-023-00080-7_23915686.jpg"
         }
       ]
     },
@@ -9007,6 +9277,16 @@
       "feedUrl": "https://blog.openai.com/rss",
       "siteUrl": "https://openai.com/",
       "articles": [
+        {
+          "id": "63ed1eee5bc405003d7b7b45",
+          "author": "OpenAI",
+          "description": "We’re clarifying how ChatGPT's behavior is shaped and our plans for improving that behavior, allowing more user customization, and getting more public input into our decision-making in these areas.\nOpenAI’s mission is to ensure that artificial general intelligence (AGI)[1] benefits all of humanity.",
+          "link": "https://openai.com/blog/how-should-ai-systems-behave/",
+          "publishedOn": "2023-02-16T18:00:41.000Z",
+          "wordCount": 1808,
+          "title": "How should AI systems behave, and who should decide?",
+          "imageUrl": "https://openai.com/content/images/2023/02/how-should-ai-systems-behave.png"
+        },
         {
           "id": "63d8621a3b8bd5003d670ee4",
           "author": "OpenAI",
@@ -9163,21 +9443,6 @@
             "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-011923-1-1200x630.jpg"
           },
           "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-011923-1-1200x630.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/article/health-disease/2023/how-saliva-changes-flavor-food",
-          "author": "Chris Gorski",
-          "description": "The liquid that our mouths produce isn’t just a lubricant. It plays an active role in how we perceive taste and can influence what we choose to eat, researchers are discovering.",
-          "link": "https://knowablemagazine.org/article/health-disease/2023/how-saliva-changes-flavor-food",
-          "publishedOn": "2023-01-18T15:00:00.000Z",
-          "wordCount": null,
-          "title": "How saliva changes the flavor of food",
-          "enclosure": {
-            "type": "image/jpeg",
-            "length": "83731",
-            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-011823-1-1200x630.jpg"
-          },
-          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-011823-1-1200x630.jpg"
         }
       ]
     },
@@ -9595,36 +9860,6 @@
           "wordCount": 3691,
           "title": "Reparameterization tricks in inference",
           "imageUrl": "https://danmackinlay.name/images/adjust_spine.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/javascript_graphics.html",
-          "author": null,
-          "description": "General javascript drawing\nJavascript statistical/mathematical graphing\n3D\n\nHandy tools\n\n\n\n\n\nGeneral javascript drawing\nIf you want to do SVGs, snap.js is a modern\nSVG library by the author of raphaël.js.\nJavascript statistical/mathematical graphing\nSee plotting on the web.\n3D\n3D graphics in the browser is convenient and somewhat performant.\nAnd you can do 3d dance parties\nin the browser, which is surely the benchmark.\nTwo common options use OpenGL ES, the mobile- and browser- friendly option.\nScenejs seems to specialise in loading up geometries\nand shapes and physics for realistic scene modelling\nthree.js does the same things, but does more abstract stuff with them\nshadertoy support writing raw GSL shaders in the browser.\nUse.GPU reimagines GPU scene painting via javascript FRP idioms\nEve…",
-          "link": "https://danmackinlay.name/notebook/javascript_graphics.html",
-          "publishedOn": "2023-01-18T10:53:44.000Z",
-          "wordCount": 597,
-          "title": "Browser graphics",
-          "imageUrl": "https://danmackinlay.name/images/Hanacaraka_legend_2.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/matrix_factorisation.html",
-          "author": null,
-          "description": "The classics\nApproximate decompositions\nWhy is approximate factorisation ever useful?\nTutorials\nNon-negative matrix factorisations\nAs regression\nSketching\n\\([\\mathcal{H}]\\)-matrix methods\nRandomized methods\nConnections to kernel learning\nBayesian\nImplementations\nReferences\n\nThe classics\nThe big six exact matrix decompositions are (Stewart 2000)\nCholesky decomposition; pivoted LU decomposition; QR decomposition; spectral decomposition; Schur decomposition; and singular value decomposition.\nSee Nick Higham’s summary of those.\nApproximate decompositions\nMastered QR and LU decompositions?\nThere are now so many ways of factorising matrices that there are not enough acronyms in the alphabet to hold them,\nespecially if we suspect our matrix is sparse, or could be made sparse because of some under…",
-          "link": "https://danmackinlay.name/notebook/matrix_factorisation.html",
-          "publishedOn": "2023-01-17T23:13:27.000Z",
-          "wordCount": 6204,
-          "title": "Approximate matrix factorisation",
-          "imageUrl": "https://danmackinlay.name/images/solids_perspective.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/statistical_python.html",
-          "author": null,
-          "description": "DataFrame-style ecosystem\n\nPandas-flavour\nPolars-flavour\n\nMatrix-style ecosystem\nBayes stuff\nxarray\nTime series\nInteroperation with other languages, platforms\n\nR\nJulia\n\nTips\n\nUse a known-good project structure\nLocal random number generator state\n\nMiscellaneous learning resources\nAgate\nMiscellaneous tools\n\nStatistical consultants for Python\nKinda hate R,\nbecause, as much as it is a statistical dream,\nit is a programming nightmare?\nIs MATLAB too expensive when you try to run it on\nyour cloud server farm and you’re anyway vaguely suspicious that they get\nkickbacks from the companies that sell RAM because otherwise why does it eat all your memory like that?\nLove the speed of C++ but have a nagging feeling that\nyou should not need to recompile your code to do exploratory data analysis?\nLike the…",
-          "link": "https://danmackinlay.name/notebook/statistical_python.html",
-          "publishedOn": "2023-01-17T21:35:48.000Z",
-          "wordCount": 2223,
-          "title": "Statistics and ML in python",
-          "imageUrl": "https://danmackinlay.name/images/Rulah_vs_python.webp"
         }
       ]
     },
@@ -9633,6 +9868,36 @@
       "feedUrl": "http://news.google.com/news?hl=en&output=rss&q=Google+NZ+blog&cf=all&num=30",
       "siteUrl": "https://news.google.com/search?hl=en-US&q=Google+NZ+blog&cf=all&num=30&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMipgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL2xpdmUtYmxvZy8xMTY2MS8xMjQ3NjIzNC90cmFuc2Zlci1jZW50cmUtbGl2ZS10b3R0ZW5oYW0tYXJlLXJlcG9ydGVkbHktaW50ZXJlc3RlZC1pbi1lbmdsYW5kLWFuZC1jcnlzdGFsLXBhbGFjZS1kZWZlbmRlci1tYXJjLWd1ZWhp0gEA",
+          "author": null,
+          "description": "Transfer Centre LIVE! Harry Redknapp has told Leeds he is 'open to ...  Sky Sports",
+          "link": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL2xpdmUtYmxvZy8xMTY2MS8xMjQ3NjIzNC90cmFuc2Zlci1jZW50cmUtbGl2ZS10b3R0ZW5oYW0tYXJlLXJlcG9ydGVkbHktaW50ZXJlc3RlZC1pbi1lbmdsYW5kLWFuZC1jcnlzdGFsLXBhbGFjZS1kZWZlbmRlci1tYXJjLWd1ZWhp0gEA?oc=5",
+          "publishedOn": "2023-02-17T03:59:19.000Z",
+          "wordCount": 6094,
+          "title": "Transfer Centre LIVE! Harry Redknapp has told Leeds he is 'open to ... - Sky Sports",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigwFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9saWZlc3R5bGUvbWVnaGFuLW1hcmtsZS1leHBvc2VkLWR1Y2hlc3Mtb2Ytc3Vzc2V4cy1pZ25vcmFuY2UtY2xhaW1zLWRlYnVua2VkL0lOSlg1N1BVVVZGS1ZGQlBIWEZUSk1MR1ZFL9IBkgFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9saWZlc3R5bGUvbWVnaGFuLW1hcmtsZS1leHBvc2VkLWR1Y2hlc3Mtb2Ytc3Vzc2V4cy1pZ25vcmFuY2UtY2xhaW1zLWRlYnVua2VkL0lOSlg1N1BVVVZGS1ZGQlBIWEZUSk1MR1ZFLz9vdXRwdXRUeXBlPWFtcA",
+          "author": null,
+          "description": "Meghan Markle exposed: Duchess of Sussex’s ‘ignorance’ claims debunked  New Zealand Herald",
+          "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9saWZlc3R5bGUvbWVnaGFuLW1hcmtsZS1leHBvc2VkLWR1Y2hlc3Mtb2Ytc3Vzc2V4cy1pZ25vcmFuY2UtY2xhaW1zLWRlYnVua2VkL0lOSlg1N1BVVVZGS1ZGQlBIWEZUSk1MR1ZFL9IBkgFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9saWZlc3R5bGUvbWVnaGFuLW1hcmtsZS1leHBvc2VkLWR1Y2hlc3Mtb2Ytc3Vzc2V4cy1pZ25vcmFuY2UtY2xhaW1zLWRlYnVua2VkL0lOSlg1N1BVVVZGS1ZGQlBIWEZUSk1MR1ZFLz9vdXRwdXRUeXBlPWFtcA?oc=5",
+          "publishedOn": "2023-02-17T01:22:06.000Z",
+          "wordCount": 6094,
+          "title": "Meghan Markle exposed: Duchess of Sussex’s ‘ignorance’ claims debunked - New Zealand Herald",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnBsYXRmb3JtZXIubmV3cy9wL3N1c2FuLXdvamNpY2tpLW1ha2VzLWhlci1leGl00gEA",
+          "author": null,
+          "description": "Susan Wojcicki makes her exit - by Casey Newton  Platformer",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBsYXRmb3JtZXIubmV3cy9wL3N1c2FuLXdvamNpY2tpLW1ha2VzLWhlci1leGl00gEA?oc=5",
+          "publishedOn": "2023-02-17T01:01:12.000Z",
+          "wordCount": 6094,
+          "title": "Susan Wojcicki makes her exit - by Casey Newton - Platformer",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiLWh0dHBzOi8vYmxvZ3MubnZpZGlhLmNvbS9ibG9nLzIwMjMvMDIvMTUvcmlwL9IBAA",
           "author": null,
@@ -10412,26 +10677,6 @@
           "wordCount": 11997,
           "title": "News Highlights: India beat New Zealand by 12 runs to take 1-0 lead in first ODI - Moneycontrol",
           "imageUrl": "https://images.moneycontrol.com/static-mcnews/2022/11/Live-News-Blog-1011_001-2-770x403.jpg"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzEzMDk5NDE0OC90dm56LWtlZW4tb24tbGVnYWwtYmFja3N0b3AtZGVzcGl0ZS1kZWFsLXdpdGgtZ29vZ2xl0gEA",
-          "author": null,
-          "description": "TVNZ keen on 'legal backstop' despite deal with Google  Stuff",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzEzMDk5NDE0OC90dm56LWtlZW4tb24tbGVnYWwtYmFja3N0b3AtZGVzcGl0ZS1kZWFsLXdpdGgtZ29vZ2xl0gEA?oc=5",
-          "publishedOn": "2023-01-18T08:00:00.000Z",
-          "wordCount": 6062,
-          "title": "TVNZ keen on 'legal backstop' despite deal with Google - Stuff",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzEzMDk5NDE0OC90dm56LWtlZW4tb24tbGVnYWwtYmFja3N0b3AtZGVzcGl0ZS1kZWFsLXdpdGgtZ29vZ2xl0gEA",
-          "author": null,
-          "description": "TVNZ keen on 'legal backstop' despite deal with Google  Stuff",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzEzMDk5NDE0OC90dm56LWtlZW4tb24tbGVnYWwtYmFja3N0b3AtZGVzcGl0ZS1kZWFsLXdpdGgtZ29vZ2xl0gEA?oc=5",
-          "publishedOn": "2023-01-17T22:00:00.000Z",
-          "wordCount": 2092,
-          "title": "TVNZ keen on 'legal backstop' despite deal with Google - Stuff",
-          "imageUrl": "https://resources.stuff.co.nz/content/dam/images/4/y/m/r/m/m/image.related.StuffLandscapeSixteenByNine.1420x800.25znqc.png/1673992972670.jpg"
         }
       ]
     },
