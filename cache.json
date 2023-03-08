@@ -80,16 +80,6 @@
           "wordCount": 874,
           "title": "The truth about CSS selector performance",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376659"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376548",
-          "author": "Geoff Graham",
-          "description": "I used to have this boss who loved, loved, loved, loved to emphasize words. This was way back before we used a WYSIWYG editors and I’d have to handcode that crap.\n<pI used to have this \n…\nThe Double Emphasis Thing originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-double-emphasis-thing/",
-          "publishedOn": "2023-02-06T15:06:55.000Z",
-          "wordCount": 1946,
-          "title": "The Double Emphasis Thing",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376548"
         }
       ]
     },
@@ -98,6 +88,36 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
+          "author": "hello@smashingmagazine.com (Paul Scanlon)",
+          "description": "In this article, Paul Scanlon shares a super lightweight approach to creating a Donut chart using conic-gradient(). There are no additional libraries to install or maintain, and there’s no heavy JavaScript that needs to be downloaded by the browser in order for them to work.",
+          "link": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
+          "publishedOn": "2023-03-07T15:30:00.000Z",
+          "wordCount": 4514,
+          "title": "How To Create Dynamic Donut Charts With TailwindCSS And React",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/03/consider-graphs-graphql-project/",
+          "author": "hello@smashingmagazine.com (Adam Cowley)",
+          "description": "In this article, Adam Cowley examines the Graph behind GraphQL and demonstrates why Neo4j could be the best fit for your next project.",
+          "link": "https://smashingmagazine.com/2023/03/consider-graphs-graphql-project/",
+          "publishedOn": "2023-03-07T12:00:00.000Z",
+          "wordCount": 4883,
+          "title": "Why You Should Consider Graphs For Your Next GraphQL Project",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/consider-graphs-graphql-project/consider-graphs-graphql-project.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/consider-graphs-graphql-project/consider-graphs-graphql-project.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -367,21 +387,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-56/smashing-podcast-episode-56.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/build-magazine-layout-css-grid-areas/",
-          "author": "hello@smashingmagazine.com (Jennifer Brehm)",
-          "description": "Web development, especially what you can do with CSS, has become increasingly complex. With the added capabilities of CSS Grid, it is now possible to achieve layouts that look like they were laid out by hand. Let’s tackle a practical example of how to do something like that.",
-          "link": "https://smashingmagazine.com/2023/02/build-magazine-layout-css-grid-areas/",
-          "publishedOn": "2023-02-06T13:00:00.000Z",
-          "wordCount": 5593,
-          "title": "How To Build A Magazine Layout With CSS Grid Areas",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-print-like-website-layout-css-grid-areas/build-magazine-layout-css-grid-areas.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-print-like-website-layout-css-grid-areas/build-magazine-layout-css-grid-areas.jpg"
         }
       ]
     },
@@ -390,6 +395,226 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.bloomberg.com/news/features/2023-03-07/effective-altruism-s-problems-go-beyond-sam-bankman-fried",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/news/features/2023-03-07/effective-altruism-s-problems-go-beyond-sam-bankman-fried",
+          "publishedOn": "2023-03-08T02:09:44.000Z",
+          "wordCount": 576,
+          "title": "Effective altruism’s obsession with AI safety helps bury bad behavior",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dagster.io/blog/fast-deploys-with-pex-and-docker",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dagster.io/blog/fast-deploys-with-pex-and-docker",
+          "publishedOn": "2023-03-08T01:42:39.000Z",
+          "wordCount": 2414,
+          "title": "How we deploy faster with warm Docker containers",
+          "imageUrl": "https://dagster.io/posts/fast-deploys/fast-deploys-blog-cover-3.jpg"
+        },
+        {
+          "id": "https://getjerry.com/careers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://getjerry.com/careers",
+          "publishedOn": "2023-03-08T01:00:23.000Z",
+          "wordCount": 3525,
+          "title": "Jerry (YC S17) Is Hiring Sr PM &#x2F; Designers (SF&#x2F;Toronto&#x2F;Remote)",
+          "imageUrl": "https://getjerry.com/_next/static/images/hero-4ef006be0d945d96..jpg"
+        },
+        {
+          "id": "https://old.reddit.com/r/assholedesign/comments/11l4kne/hp_have_updated_their_printers_to_outright_ban/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://old.reddit.com/r/assholedesign/comments/11l4kne/hp_have_updated_their_printers_to_outright_ban/",
+          "publishedOn": "2023-03-07T23:57:51.000Z",
+          "wordCount": 11745,
+          "title": "HP have updated their printers to ban ‘non-HP’ cartridges",
+          "imageUrl": "https://preview.redd.it/zwrkpkfujcma1.jpg?overlay-align=bottom,left&crop=1200:628.272251309,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_33o0p.png%3Fs%3Dadebd1c090f22b4ecf2c5ad84666a417ec8931a1&width=1200&height=628.272251309&auto=webp&v=enabled&s=f710731a337e4a7eca5d20a1ef4997cb5408bbbb"
+        },
+        {
+          "id": "https://neelc.org/posts/net-neutrality-activism/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://neelc.org/posts/net-neutrality-activism/",
+          "publishedOn": "2023-03-07T23:26:57.000Z",
+          "wordCount": 1258,
+          "title": "The decline of net neutrality activism",
+          "imageUrl": null
+        },
+        {
+          "id": "https://krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/",
+          "publishedOn": "2023-03-07T23:21:01.000Z",
+          "wordCount": 1545,
+          "title": "Sued by Meta, Freenom halts domain registrations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies",
+          "publishedOn": "2023-03-07T22:27:17.000Z",
+          "wordCount": 11053,
+          "title": "ChatGPT Explained: A normie&#x27;s guide to how it works",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6866ca04-5223-46df-82dc-7ac024bc74ab_1664x1152.jpeg"
+        },
+        {
+          "id": "http://blinderkitten.lighting/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://blinderkitten.lighting/",
+          "publishedOn": "2023-03-07T21:55:39.000Z",
+          "wordCount": 1006,
+          "title": "BlinderKitten: Free lighting software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you",
+          "publishedOn": "2023-03-07T19:53:47.000Z",
+          "wordCount": 1258,
+          "title": "Zero energy ready homes are coming",
+          "imageUrl": "https://www.energy.gov/sites/default/files/styles/photo_gallery_509_x_678_/public/2023-01/ZERH2.jpg?itok=OFDEAVlC"
+        },
+        {
+          "id": "https://blog.valentin.sh/chatgpt5/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.valentin.sh/chatgpt5/",
+          "publishedOn": "2023-03-07T19:53:01.000Z",
+          "wordCount": 1600,
+          "title": "ChatGPT has trouble giving an answer before explaining its reasoning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.gamedeveloper.com/programming/my-hardest-bug-ever",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.gamedeveloper.com/programming/my-hardest-bug-ever",
+          "publishedOn": "2023-03-07T19:52:17.000Z",
+          "wordCount": 8163,
+          "title": "My Hardest Bug Ever (2013)",
+          "imageUrl": "https://www.gamedeveloper.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.livescience.com/lost-georges-lemaitre-interview-recovered",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.livescience.com/lost-georges-lemaitre-interview-recovered",
+          "publishedOn": "2023-03-07T19:50:40.000Z",
+          "wordCount": 8375,
+          "title": "Filmed interview with Georges Lemaître, &#x27;father of the Big Bang,&#x27; rediscovered",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/ga39vZhCAoH9YkwoMpEqha-1200-80.jpg"
+        },
+        {
+          "id": "https://earthly.dev/blog/remote-code-execution/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://earthly.dev/blog/remote-code-execution/",
+          "publishedOn": "2023-03-07T19:29:49.000Z",
+          "wordCount": 1938,
+          "title": "Remote Code Execution as a Service",
+          "imageUrl": "/blog/generated/assets/images/remote-code-execution/header-800-e7d15798d.jpg"
+        },
+        {
+          "id": "https://www.hnhiringtrends.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.hnhiringtrends.com/",
+          "publishedOn": "2023-03-07T16:50:52.000Z",
+          "wordCount": 1,
+          "title": "Show HN: Historical HN Hiring Data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=35056903",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=35056903",
+          "publishedOn": "2023-03-07T16:04:36.000Z",
+          "wordCount": 9254,
+          "title": "Launch HN: DAGWorks – ML platform for data science teams",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cbc.ca/news/world/france-nationwide-strikes-pensions-1.6770345",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cbc.ca/news/world/france-nationwide-strikes-pensions-1.6770345",
+          "publishedOn": "2023-03-07T15:41:11.000Z",
+          "wordCount": 4462,
+          "title": "France comes to a standstill as workers protest plan to increase retirement age",
+          "imageUrl": "https://i.cbc.ca/1.6770487.1678203055!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/france-pension-protests.jpg"
+        },
+        {
+          "id": "https://support.apple.com/guide/security/hardware-microphone-disconnect-secbbd20b00b/web",
+          "author": null,
+          "description": "Comments",
+          "link": "https://support.apple.com/guide/security/hardware-microphone-disconnect-secbbd20b00b/web",
+          "publishedOn": "2023-03-07T15:28:29.000Z",
+          "wordCount": 1297,
+          "title": "Hardware microphone disconnect (2021)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Quinny/GuitarEffects",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Quinny/GuitarEffects",
+          "publishedOn": "2023-03-07T15:03:47.000Z",
+          "wordCount": 1745,
+          "title": "A low latency guitar effects processor suitable for running on a Raspberry Pi",
+          "imageUrl": "https://opengraph.githubassets.com/f1ded97e9550ee10c9afa8e4aca81fdaf613c1275f453f3b9a4f81fefe8a9e8d/Quinny/GuitarEffects"
+        },
+        {
+          "id": "https://lutzroeder.github.io/digger/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lutzroeder.github.io/digger/",
+          "publishedOn": "2023-03-07T14:54:35.000Z",
+          "wordCount": 3297,
+          "title": "Boulder Dash",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pubby.games/nesfab.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pubby.games/nesfab.html",
+          "publishedOn": "2023-03-07T13:52:46.000Z",
+          "wordCount": 356,
+          "title": "Show HN: NESFab – Programming language for making NES games",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thebroadcastbridge.com/content/entry/12400/the-lost-art-of-lacing-cable",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thebroadcastbridge.com/content/entry/12400/the-lost-art-of-lacing-cable",
+          "publishedOn": "2023-03-07T13:33:20.000Z",
+          "wordCount": 3609,
+          "title": "The lost art of lacing cable (2018)",
+          "imageUrl": "https://www.thebroadcastbridge.com/cache/uploads/content_images/lacingTapesTitleImage_789_197_70_s.jpg"
+        },
+        {
+          "id": "https://jvns.ca/blog/2023/03/06/possible-reasons-8-bit-bytes/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jvns.ca/blog/2023/03/06/possible-reasons-8-bit-bytes/",
+          "publishedOn": "2023-03-07T13:14:32.000Z",
+          "wordCount": 2815,
+          "title": "Possible reasons for 8-bit bytes",
+          "imageUrl": null
+        },
         {
           "id": "https://devonprice.medium.com/do-not-trust-employee-resource-groups-ergs-1c671b692039",
           "author": null,
@@ -561,6 +786,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://blog.regehr.org/archives/1096",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.regehr.org/archives/1096",
+          "publishedOn": "2023-03-06T16:24:10.000Z",
+          "wordCount": 4794,
+          "title": "Assertions are pessimistic, assumptions are optimistic (2014)",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=35042836",
           "author": null,
           "description": "Comments",
@@ -568,6 +803,16 @@
           "publishedOn": "2023-03-06T16:20:38.000Z",
           "wordCount": 4082,
           "title": "Launch HN: Vellum (YC W23) – Dev Platform for LLM Apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.gabrielsimmer.com/posts/slightly-intelligent-home/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.gabrielsimmer.com/posts/slightly-intelligent-home/",
+          "publishedOn": "2023-03-06T15:19:07.000Z",
+          "wordCount": 807,
+          "title": "Slightly Intelligent Home",
           "imageUrl": null
         },
         {
@@ -601,6 +846,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://thereader.mitpress.mit.edu/the-blunders-of-a-16th-century-physician-astrologer/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thereader.mitpress.mit.edu/the-blunders-of-a-16th-century-physician-astrologer/",
+          "publishedOn": "2023-03-06T13:55:29.000Z",
+          "wordCount": 2970,
+          "title": "The Blunders of a 16th-Century Physician-Astrologer",
+          "imageUrl": "https://thereader.mitpress.mit.edu/wp-content/uploads/2023/02/Cardan_lead.jpg"
+        },
+        {
           "id": "https://www.wired.com/story/why-the-floppy-disk-just-wont-die/",
           "author": null,
           "description": "Comments",
@@ -619,6 +874,16 @@
           "wordCount": 2281,
           "title": "Nobody needs a faster dishwasher – solve real user needs",
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flouison.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1858844686%26version%3D9"
+        },
+        {
+          "id": "https://bassmatifreecad.github.io/FreecadUserBook/en/index.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bassmatifreecad.github.io/FreecadUserBook/en/index.htm",
+          "publishedOn": "2023-03-06T10:39:34.000Z",
+          "wordCount": 122,
+          "title": "FreeCAD User Book (2019)",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/EionRobb/purple-teams",
@@ -921,6 +1186,36 @@
           "imageUrl": "https://autotranslucence.files.wordpress.com/2023/02/cropped-gravatar.jpg?w=200"
         },
         {
+          "id": "https://www.scientificamerican.com/article/the-most-boring-number-in-the-world-is/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.scientificamerican.com/article/the-most-boring-number-in-the-world-is/",
+          "publishedOn": "2023-03-05T11:23:33.000Z",
+          "wordCount": 6263,
+          "title": "The most boring number in the world is...",
+          "imageUrl": "https://static.scientificamerican.com/sciam/cache/file/C2153300-5B7A-482E-8AEB009DB2786861.jpg"
+        },
+        {
+          "id": "https://lists.boost.org/Archives/boost/2023/02/254234.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lists.boost.org/Archives/boost/2023/02/254234.php",
+          "publishedOn": "2023-03-05T10:42:25.000Z",
+          "wordCount": 1257,
+          "title": "Dropping support for old C++ standards",
+          "imageUrl": null
+        },
+        {
+          "id": "http://ascii.textfiles.com/archives/5498",
+          "author": null,
+          "description": "Comments",
+          "link": "http://ascii.textfiles.com/archives/5498",
+          "publishedOn": "2023-03-05T07:30:55.000Z",
+          "wordCount": 3777,
+          "title": "The Grind a Day: thousands of Apple II floppy disks archived",
+          "imageUrl": "http://ascii.textfiles.com/wp-content/uploads/2023/03/image-5.png"
+        },
+        {
           "id": "https://contexto.me/",
           "author": null,
           "description": "Comments",
@@ -968,6 +1263,16 @@
           "publishedOn": "2023-03-05T02:43:13.000Z",
           "wordCount": 4519,
           "title": "BioModels",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.downtowndougbrown.com/2023/03/customizing-the-startup-chime-on-a-1999-g3-imac/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.downtowndougbrown.com/2023/03/customizing-the-startup-chime-on-a-1999-g3-imac/",
+          "publishedOn": "2023-03-05T01:37:22.000Z",
+          "wordCount": 4941,
+          "title": "Customizing the startup chime on a 1999 G3 iMac",
           "imageUrl": null
         },
         {
@@ -8939,246 +9244,6 @@
           "wordCount": 4886,
           "title": "Europium UltraGlow Powder – Green",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.mythtv.org/wiki/Release_Notes_-_33",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.mythtv.org/wiki/Release_Notes_-_33",
-          "publishedOn": "2023-02-06T15:56:09.000Z",
-          "wordCount": 5465,
-          "title": "MythTV 33 Released – open-source all-in-one DVR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ochagavia.nl/blog/crafting-container-images-without-dockerfiles/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ochagavia.nl/blog/crafting-container-images-without-dockerfiles/",
-          "publishedOn": "2023-02-06T14:54:32.000Z",
-          "wordCount": 2791,
-          "title": "Crafting container images without Dockerfiles",
-          "imageUrl": "https://ochagavia.nl/images/favicon.png"
-        },
-        {
-          "id": "https://www.otherhand.org/home-page/search-and-rescue/the-hunt-for-the-death-valley-germans/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.otherhand.org/home-page/search-and-rescue/the-hunt-for-the-death-valley-germans/",
-          "publishedOn": "2023-02-06T11:53:18.000Z",
-          "wordCount": null,
-          "title": "The Hunt for the Death Valley Germans (2012)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.webdesignmuseum.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.webdesignmuseum.org/",
-          "publishedOn": "2023-02-06T09:47:26.000Z",
-          "wordCount": 659,
-          "title": "Web Design Museum 1991-2006",
-          "imageUrl": "https://www.webdesignmuseum.org/assets/img/og-img-webdesignmuseum.png"
-        },
-        {
-          "id": "https://www.worldofbs.com/minimize-state/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.worldofbs.com/minimize-state/",
-          "publishedOn": "2023-02-06T08:33:30.000Z",
-          "wordCount": 402,
-          "title": "All Programming Philosophies Are About State",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ultimatehistoryvideogames.jimdofree.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ultimatehistoryvideogames.jimdofree.com/",
-          "publishedOn": "2023-02-06T07:24:09.000Z",
-          "wordCount": 3478,
-          "title": "History of Video Games (1940's – 2010's) (list of firsts)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blogs.bl.uk/european/2023/02/mikalojus-konstantinas-%C4%8Diurlionis-a-genius-cursed-by-fate.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blogs.bl.uk/european/2023/02/mikalojus-konstantinas-%C4%8Diurlionis-a-genius-cursed-by-fate.html",
-          "publishedOn": "2023-02-06T04:44:31.000Z",
-          "wordCount": 2321,
-          "title": "Mikalojus Konstantinas Čiurlionis: a genius cursed by fate?",
-          "imageUrl": "https://blogs.bl.uk/.a/6a00d8341c464853ef02b685251244200b-pi"
-        },
-        {
-          "id": "https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil",
-          "publishedOn": "2023-02-06T03:14:01.000Z",
-          "wordCount": 1070,
-          "title": "1986's Official UFO Night in Brazil",
-          "imageUrl": "https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil/ftkl7gjx0ayu8dt.jpg/@@images/bb52e783-c131-4f3e-a12c-2220d8cd7053.jpeg"
-        },
-        {
-          "id": "https://patents.google.com/patent/US10144532B2/en",
-          "author": null,
-          "description": "Comments",
-          "link": "https://patents.google.com/patent/US10144532B2/en",
-          "publishedOn": "2023-02-06T02:39:53.000Z",
-          "wordCount": 5777,
-          "title": "Craft using an inertial mass reduction device (Patent by US Navy)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/JaycieErysdren/QCVM",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/JaycieErysdren/QCVM",
-          "publishedOn": "2023-02-06T02:39:31.000Z",
-          "wordCount": 814,
-          "title": "QCVM: Bite-sized QuakeC VM written in C",
-          "imageUrl": "https://repository-images.githubusercontent.com/597879712/f73d46b2-af8d-49bf-9aa9-d22085daa4f3"
-        },
-        {
-          "id": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive",
-          "author": null,
-          "description": "Comments",
-          "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive",
-          "publishedOn": "2023-02-06T02:02:12.000Z",
-          "wordCount": 665,
-          "title": "7.8 magnitude earthquake hits Turkiye",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI",
-          "publishedOn": "2023-02-06T00:36:21.000Z",
-          "wordCount": 1769,
-          "title": "The fraudulent claims made by IBM about Watson and AI (2021)",
-          "imageUrl": "https://www.rogerschank.com/lib/images/roger-schank.jpg"
-        },
-        {
-          "id": "https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/",
-          "publishedOn": "2023-02-06T00:17:44.000Z",
-          "wordCount": 5249,
-          "title": "Announcing Masonry 0.1, and my vision for Rust UI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phpbb.com/community/viewtopic.php?t=2635986",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.phpbb.com/community/viewtopic.php?t=2635986",
-          "publishedOn": "2023-02-05T22:21:43.000Z",
-          "wordCount": 1652,
-          "title": "PhpBB 3.3.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.stableattribution.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.stableattribution.com/",
-          "publishedOn": "2023-02-05T22:11:01.000Z",
-          "wordCount": 544,
-          "title": "Stable Attribution",
-          "imageUrl": "https://www.stableattribution.com/fallback_image.png?cache=1"
-        },
-        {
-          "id": "https://www.economist.com/the-economist-explains/2018/05/08/the-rise-of-universities-diversity-bureaucrats",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.economist.com/the-economist-explains/2018/05/08/the-rise-of-universities-diversity-bureaucrats",
-          "publishedOn": "2023-02-05T21:14:33.000Z",
-          "wordCount": 5799,
-          "title": "The rise of universities’ diversity bureaucrats (2018)",
-          "imageUrl": "https://www.economist.com/img/b/1280/720/90/sites/default/files/20180505_BLP521.jpg"
-        },
-        {
-          "id": "https://rjlipton.wpcomstaging.com/2023/02/05/artificial-intelligence-just-lost-a-leader/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://rjlipton.wpcomstaging.com/2023/02/05/artificial-intelligence-just-lost-a-leader/",
-          "publishedOn": "2023-02-05T20:48:05.000Z",
-          "wordCount": 2601,
-          "title": "Artificial intelligence just lost a leader",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://krebsonsecurity.com/2023/02/finlands-most-wanted-hacker-nabbed-in-france/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://krebsonsecurity.com/2023/02/finlands-most-wanted-hacker-nabbed-in-france/",
-          "publishedOn": "2023-02-05T20:44:09.000Z",
-          "wordCount": 1925,
-          "title": "Finland’s most-wanted hacker nabbed in France",
-          "imageUrl": null
-        },
-        {
-          "id": "https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html",
-          "publishedOn": "2023-02-05T20:36:25.000Z",
-          "wordCount": 6264,
-          "title": "Liquid modernity? (2014)",
-          "imageUrl": "//3.bp.blogspot.com/-GZKgG25gdUA/U2UfovDRzLI/AAAAAAAAJF0/ulOSFV91Kqk/w1200-h630-p-k-no-nu/river-flow-len-stomski.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ia7IKW0yuG0",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=ia7IKW0yuG0",
-          "publishedOn": "2023-02-05T19:25:59.000Z",
-          "wordCount": null,
-          "title": "The cult of conformity in Silicon Valley [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://forum.freecad.org/viewtopic.php?t=75768",
-          "author": null,
-          "description": "Comments",
-          "link": "https://forum.freecad.org/viewtopic.php?t=75768",
-          "publishedOn": "2023-02-05T19:19:24.000Z",
-          "wordCount": 2614,
-          "title": "FreeCAD Day 2023: Report and continued discussion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cartercenter.org/news/pr/2023/2022-guinea-worm-worldwide-cases-announcement.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cartercenter.org/news/pr/2023/2022-guinea-worm-worldwide-cases-announcement.html",
-          "publishedOn": "2023-02-05T19:16:33.000Z",
-          "wordCount": 2707,
-          "title": "Guinea worm disease reaches all-time low",
-          "imageUrl": "https://www.cartercenter.org/resources/images/features/guinea_worm/2022/guinea-worm-frontlines/gw-frontlines-widget.jpg"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41588-022-01242-5",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/s41588-022-01242-5",
-          "publishedOn": "2023-02-05T17:59:59.000Z",
-          "wordCount": 4946,
-          "title": "Gattaca is still pertinent 25 years later",
-          "imageUrl": null
-        },
-        {
-          "id": "http://muezza.ca/thoughts/openbsd_imac_g4/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://muezza.ca/thoughts/openbsd_imac_g4/",
-          "publishedOn": "2023-02-05T16:42:11.000Z",
-          "wordCount": 457,
-          "title": "If you're happy with OpenBSD, probably any computer is good enough",
-          "imageUrl": null
         }
       ]
     },
@@ -9331,6 +9396,26 @@
       "feedUrl": "http://livingthing.danmackinlay.name/feeds/all.atom.xml",
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
+        {
+          "id": "https://danmackinlay.name/notebook/matrix_calculus.html",
+          "author": null,
+          "description": "Matrix differentials\nIndexed tensor calculus\nReferences\n\nWe can generalise high school calculus, which is about scalar functions of\na scalar argument, in various ways to handle matrix-valued functions or matrix-valued arguments and still look tidy.\nOne could generalise this further, by going to full tensor calculus.\nBut it happens that specifically matrix/vector operations are at a useful point of complexity for lots of algorithms.\n(I usually want this for higher order gradient descent.)\nI mention two convenient and popular formalisms for lazy matrix calculus.\nIn practice a mix of each is often useful.\nMatrix differentials\n\n🏗 I need to return to this and tidy it up with some examples.\nA special case of tensor calculus;\nwhere the rank of the argument and value of the function is not too bi…",
+          "link": "https://danmackinlay.name/notebook/matrix_calculus.html",
+          "publishedOn": "2023-03-07T02:41:09.000Z",
+          "wordCount": 879,
+          "title": "Matrix calculus",
+          "imageUrl": "https://danmackinlay.name/images/cubecubes.webp"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/text_generation.html",
+          "author": null,
+          "description": "Interactive LLM hacks\ntext generation tools\nFor science in particular\nrunning LLMs at home\nGrammar and style checking\nReferences\nFriendly user interfaces for text generation with those large language models for the end user.\nNB, since I wrote this, ChatGPT came online and is changing the world.\nI will not be commenting on that, because it is a phenomenon with independent momentum, and sufficient input from the internet commentariat.\nWorth making a listicle here because this domain is full of exponentially much spam because many writers assistant tools are written by spammers to assist spammers.\nSecondary markets are for for grey area applications like university essay generators.\nAs someone who has a stated position against university essays, these purposes do not seem morally distinct to …",
+          "link": "https://danmackinlay.name/notebook/text_generation.html",
+          "publishedOn": "2023-03-07T02:02:56.000Z",
+          "wordCount": 1010,
+          "title": "Practical text generation and writing assistants",
+          "imageUrl": "https://danmackinlay.name/images/Grandville_two_pens.png"
+        },
         {
           "id": "https://danmackinlay.name/notebook/vs_code_for_prose.html",
           "author": null,
@@ -9690,16 +9775,6 @@
           "wordCount": 1848,
           "title": "Stylus input",
           "imageUrl": "https://danmackinlay.name/images/mouse_drag.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/manim.html",
-          "author": null,
-          "description": "Installation\nIntros\nTips and tricks\n\nSVG height is not what it claims\n\nEasings\nUseful extensions\nSecret OpenGL mode\nIn jupyter\nMisc tips\n\nTip tips\nFade out everything\n\nWorkflow\n\nQuick and dirty presentation by screen capture\nManim editor\nVoiceover mode\nInteractive mode\nIn VS Code\n\nAlternatives\n\nGrant Sanderson a.k.a. 3blue1brown’s project manim is a curious passion project to create interactive python plot-compatible animations with mathematics, via code.\nIt is youtube-famous.\nHere is a powerful example of what this tool can do.\nMost importantly, it makes me feel fancy.\nHere are some notes and links I need while using it.\nInstallation\nI believe the community edition (source) is recommended for newcomers rather than the more idiosyncratic 31b1 version.\nManimCommunity/manim: A community-main…",
-          "link": "https://danmackinlay.name/notebook/manim.html",
-          "publishedOn": "2023-02-06T09:05:10.000Z",
-          "wordCount": 1250,
-          "title": "manim",
-          "imageUrl": "https://danmackinlay.name/images/snake_wagon.webp"
         }
       ]
     },
@@ -9946,6 +10021,16 @@
           "publishedOn": "2023-02-21T09:49:17.000Z",
           "wordCount": 6100,
           "title": "HORIZON BLOG: European R&D policy newsbytes (Archived_01) - Science Business",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiP2h0dHBzOi8vd3d3LmNsb3Vkd2FyZHMubmV0L2Ryb3Bib3gtdnMtZ29vZ2xlLWRyaXZlLXZzLW9uZWRyaXZlL9IBAA",
+          "author": null,
+          "description": "Dropbox vs Google Drive vs OneDrive 2023 [Pricing Plans & Cost]  Cloudwards",
+          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmNsb3Vkd2FyZHMubmV0L2Ryb3Bib3gtdnMtZ29vZ2xlLWRyaXZlLXZzLW9uZWRyaXZlL9IBAA?oc=5",
+          "publishedOn": "2023-02-21T08:00:00.000Z",
+          "wordCount": 6115,
+          "title": "Dropbox vs Google Drive vs OneDrive 2023 [Pricing Plans & Cost] - Cloudwards",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -10406,26 +10491,6 @@
           "publishedOn": "2023-02-06T22:54:27.000Z",
           "wordCount": 6062,
           "title": "Open Mic – 7th February 2023 | The Daily Blog - thedailyblog.co.nz",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifWh0dHBzOi8vd3d3Lm56aGVyYWxkLmNvLm56L3dvcmxkL2RpZWQtc3VkZGVubHktYW50aS12YXh4ZXJzLXR3aXN0cy10cmFnZWRpZXMtdG8tcHVzaC12YWNjaW5lLWxpZXMvQkNGU1JMU0tKNUNMWkNDSDNWR09HQ0RDVVUv0gEA",
-          "author": null,
-          "description": "'Died suddenly': Anti vaxxers twists tragedies to push vaccine lies  New Zealand Herald",
-          "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm56aGVyYWxkLmNvLm56L3dvcmxkL2RpZWQtc3VkZGVubHktYW50aS12YXh4ZXJzLXR3aXN0cy10cmFnZWRpZXMtdG8tcHVzaC12YWNjaW5lLWxpZXMvQkNGU1JMU0tKNUNMWkNDSDNWR09HQ0RDVVUv0gEA?oc=5",
-          "publishedOn": "2023-02-06T04:07:15.000Z",
-          "wordCount": 6062,
-          "title": "'Died suddenly': Anti vaxxers twists tragedies to push vaccine lies - New Zealand Herald",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUGh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDIvMDYvdGhlLWRhaWx5LWJsb2ctb3Blbi1taWMtNnRoLWZlYnJ1YXJ5LTIwMjMv0gEA",
-          "author": null,
-          "description": "Open Mic – 6th February 2023 | The Daily Blog  thedailyblog.co.nz",
-          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDIvMDYvdGhlLWRhaWx5LWJsb2ctb3Blbi1taWMtNnRoLWZlYnJ1YXJ5LTIwMjMv0gEA?oc=5",
-          "publishedOn": "2023-02-06T00:01:09.000Z",
-          "wordCount": 6062,
-          "title": "Open Mic – 6th February 2023 | The Daily Blog - thedailyblog.co.nz",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
