@@ -89,6 +89,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/building-complex-forms-vue/",
+          "author": "hello@smashingmagazine.com (Olufunke Moronfolu)",
+          "description": "Did you know that creating a complex form can be progressively enhanced using some Vue features like the v-for and the v-model? In this article, Olufunke shares some basic Vue core features that are super useful when building out the complex form in your day-to-day Vue usage.",
+          "link": "https://smashingmagazine.com/2023/03/building-complex-forms-vue/",
+          "publishedOn": "2023-03-09T10:00:00.000Z",
+          "wordCount": 5512,
+          "title": "Building Complex Forms In Vue",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/building-complex-forms-vue/meta-building-complex-forms-vue.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/building-complex-forms-vue/meta-building-complex-forms-vue.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
           "author": "hello@smashingmagazine.com (Paul Scanlon)",
           "description": "In this article, Paul Scanlon shares a super lightweight approach to creating a Donut chart using conic-gradient(). There are no additional libraries to install or maintain, and there’s no heavy JavaScript that needs to be downloaded by the browser in order for them to work.",
@@ -357,21 +372,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/photo-image-editor-pixo-wordpress/pixo-photo-editor.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/designers-ask-receive-high-quality-feedback/",
-          "author": "hello@smashingmagazine.com (Andy Budd)",
-          "description": "In this article, Andy Budd shares his way of requesting feedback: rather than sharing a linear case study that explains every design revision, the first thing to do would be to better frame the problem.",
-          "link": "https://smashingmagazine.com/2023/02/designers-ask-receive-high-quality-feedback/",
-          "publishedOn": "2023-02-08T11:00:00.000Z",
-          "wordCount": 4566,
-          "title": "How Designers Should Ask For (And Receive) High-Quality Feedback",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designers-ask-receive-high-quality-feedback/designers-ask-receive-high-quality-feedback.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designers-ask-receive-high-quality-feedback/designers-ask-receive-high-quality-feedback.jpg"
         }
       ]
     },
@@ -381,6 +381,276 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://github.com/maxgoedjen/secretive",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/maxgoedjen/secretive",
+          "publishedOn": "2023-03-10T04:06:29.000Z",
+          "wordCount": 1108,
+          "title": "Secretive: Store SSH Keys in the Secure Enclave",
+          "imageUrl": "https://repository-images.githubusercontent.com/241524703/0d0181ba-2467-46c3-9eb3-399334198b91"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=35089996",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=35089996",
+          "publishedOn": "2023-03-10T03:19:28.000Z",
+          "wordCount": 698,
+          "title": "Ask HN: What are you working on to become a better programmer?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/gadgets/2023/03/google-dusts-off-the-failed-google-playbook-to-fight-chatgpt/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/gadgets/2023/03/google-dusts-off-the-failed-google-playbook-to-fight-chatgpt/",
+          "publishedOn": "2023-03-10T02:20:14.000Z",
+          "wordCount": 1908,
+          "title": "Google dusts off the failed Google+ playbook to fight ChatGPT",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/4-760x380.jpg"
+        },
+        {
+          "id": "https://yvettesbridalformal.p1r8.net/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://yvettesbridalformal.p1r8.net/",
+          "publishedOn": "2023-03-10T01:36:37.000Z",
+          "wordCount": 1144,
+          "title": "Yyvette&#x27;s Bridal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://celerdata.com/blog/chatgpt-is-now-finding-bugs-in-databases",
+          "author": null,
+          "description": "Comments",
+          "link": "https://celerdata.com/blog/chatgpt-is-now-finding-bugs-in-databases",
+          "publishedOn": "2023-03-10T01:04:03.000Z",
+          "wordCount": 3005,
+          "title": "ChatGPT Is Now Finding Bugs in Databases",
+          "imageUrl": "https://celerdata.com/hubfs/ChatGPT.webp#keepProtocol"
+        },
+        {
+          "id": "https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html",
+          "publishedOn": "2023-03-10T01:02:19.000Z",
+          "wordCount": 3185,
+          "title": "GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/1/5/3/4/9/shutterstock_439755589-b38d1f415ec04f6b.jpg"
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2023/03/09/bus/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rachelbythebay.com/w/2023/03/09/bus/",
+          "publishedOn": "2023-03-09T23:42:10.000Z",
+          "wordCount": null,
+          "title": "Load &#x27;em up and throw &#x27;em under the bus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nwb.sh/btrfs_swapfile_hibernation/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nwb.sh/btrfs_swapfile_hibernation/",
+          "publishedOn": "2023-03-09T23:16:53.000Z",
+          "wordCount": 2505,
+          "title": "Getting LUKS, Btrfs, Hibernation and Swap file working in tandem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://e360.yale.edu/features/africa-europe-solar-wind-power",
+          "author": null,
+          "description": "Comments",
+          "link": "https://e360.yale.edu/features/africa-europe-solar-wind-power",
+          "publishedOn": "2023-03-09T22:10:04.000Z",
+          "wordCount": 3075,
+          "title": "$22B project to provide 8% of UK energy via undersea cable from North Africa",
+          "imageUrl": "https://e360.yale.edu/assets/site/Noor_Alamy-Small.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vydgkCCXbTA",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=vydgkCCXbTA",
+          "publishedOn": "2023-03-09T21:59:53.000Z",
+          "wordCount": null,
+          "title": "An Update on Dianna&#x27;s Health (Physics Girl) [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://globalgroundsupport.com/vr-deicer-simulator/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://globalgroundsupport.com/vr-deicer-simulator/",
+          "publishedOn": "2023-03-09T21:18:50.000Z",
+          "wordCount": 1498,
+          "title": "VR Airplane Deicer Simulator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Render96/Render96Wiki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Render96/Render96Wiki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29",
+          "publishedOn": "2023-03-09T21:18:40.000Z",
+          "wordCount": 2288,
+          "title": "Cobble_stone (The Texture of Your Childhood)",
+          "imageUrl": "https://repository-images.githubusercontent.com/316615697/a7e5b200-3728-11eb-9ac1-6c9a1b55b2cc"
+        },
+        {
+          "id": "https://techcrunch.com/2023/03/09/silicon-valley-banks-shares-are-tanking-as-a-mess-unfolds/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2023/03/09/silicon-valley-banks-shares-are-tanking-as-a-mess-unfolds/",
+          "publishedOn": "2023-03-09T21:16:48.000Z",
+          "wordCount": 7041,
+          "title": "Bank run on Silicon Valley Bank?",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-561098009.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://ieefa.org/articles/us-solar-and-storage-manufacturing-jobs-expected-grow-115000-2030",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ieefa.org/articles/us-solar-and-storage-manufacturing-jobs-expected-grow-115000-2030",
+          "publishedOn": "2023-03-09T20:41:11.000Z",
+          "wordCount": 830,
+          "title": "U.S. solar and storage manufacturing jobs expected to grow to 115,000 by 2030",
+          "imageUrl": "https://ieefa.org/sites/default/files/2022-05/IEEFA%20metatags.png"
+        },
+        {
+          "id": "https://www.taichi-lang.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.taichi-lang.org/",
+          "publishedOn": "2023-03-09T18:34:24.000Z",
+          "wordCount": 825,
+          "title": "Taichi lang: High-performance parallel programming in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://support.brave.com/hc/en-us/articles/9982188779405-What-does-Copy-clean-link-mean-",
+          "author": null,
+          "description": "Comments",
+          "link": "https://support.brave.com/hc/en-us/articles/9982188779405-What-does-Copy-clean-link-mean-",
+          "publishedOn": "2023-03-09T18:30:32.000Z",
+          "wordCount": null,
+          "title": "What does &quot;Copy clean link&quot; mean?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://apirank.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://apirank.dev/",
+          "publishedOn": "2023-03-09T17:43:37.000Z",
+          "wordCount": 9550,
+          "title": "Show HN: APIRank.dev – We crawled and ranked public APIs from the internet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxel51.com/blog/how-computer-vision-is-changing-manufacturing-in-2023/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://voxel51.com/blog/how-computer-vision-is-changing-manufacturing-in-2023/",
+          "publishedOn": "2023-03-09T16:36:17.000Z",
+          "wordCount": 4663,
+          "title": "How computer vision is changing manufacturing in 2023",
+          "imageUrl": "https://voxel51.com/wp-content/uploads/2023/03/02.23_Blog_Industry_Manu_AV_1-1-1024x576.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=35083093",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=35083093",
+          "publishedOn": "2023-03-09T16:30:45.000Z",
+          "wordCount": 13114,
+          "title": "Launch HN: Second (YC W23) – AI bots that add features to web apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ObservedObserver/chatgpt-i18n",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ObservedObserver/chatgpt-i18n",
+          "publishedOn": "2023-03-09T16:08:41.000Z",
+          "wordCount": 854,
+          "title": "Show HN: ChatGPT-i18n – Translate websites&#x27; locale json files with AI assistance",
+          "imageUrl": "https://opengraph.githubassets.com/8a5b8a042fca5404fe5c575a2c7466d227044afe93171136a5e25d167ff3c99a/ObservedObserver/chatgpt-i18n"
+        },
+        {
+          "id": "https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html",
+          "publishedOn": "2023-03-09T14:29:57.000Z",
+          "wordCount": 4977,
+          "title": "The Quest for Netflix on Asahi Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/",
+          "publishedOn": "2023-03-09T14:07:26.000Z",
+          "wordCount": 8095,
+          "title": "There’s no such thing as a tree (phylogenetically)",
+          "imageUrl": "https://eukaryotewritesblog.files.wordpress.com/2021/05/whatareplants-1.jpg?w=1200"
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-023-00687-w",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-023-00687-w",
+          "publishedOn": "2023-03-09T14:01:21.000Z",
+          "wordCount": 3121,
+          "title": "Chemicals released during wildfires in Australia damaged the ozone layer",
+          "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-023-00687-w/d41586-023-00687-w_24099196.jpg"
+        },
+        {
+          "id": "https://metalbear.co/blog/writing-a-kubernetes-operator/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://metalbear.co/blog/writing-a-kubernetes-operator/",
+          "publishedOn": "2023-03-09T13:41:05.000Z",
+          "wordCount": 2018,
+          "title": "Writing a Kubernetes Operator",
+          "imageUrl": "https://metalbear.co/metalbear.png"
+        },
+        {
+          "id": "https://medium.com/@LinusSchlumberger/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medium.com/@LinusSchlumberger/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42",
+          "publishedOn": "2023-03-09T10:35:59.000Z",
+          "wordCount": 12569,
+          "title": "JavaScript and TypeScript features of the last 3 years",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*2yo_1MdBQE1pOYWV4ueyfQ.png"
+        },
+        {
+          "id": "https://apenwarr.ca/log/20201227",
+          "author": null,
+          "description": "Comments",
+          "link": "https://apenwarr.ca/log/20201227",
+          "publishedOn": "2023-03-09T05:37:36.000Z",
+          "wordCount": 4590,
+          "title": "Systems design explains the world (2020)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.historytoday.com/archive/review/flammable-isle",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.historytoday.com/archive/review/flammable-isle",
+          "publishedOn": "2023-03-09T04:24:09.000Z",
+          "wordCount": 1409,
+          "title": "The familiar story of the 17th century told through unfamiliar voices",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freethegameboy.info/",
           "author": null,
           "description": "Comments",
@@ -389,6 +659,16 @@
           "wordCount": 2675,
           "title": "Battery-free Game Boy",
           "imageUrl": "https://lh5.googleusercontent.com/CluIYbZB0VitXHH6s3L2vtbhiH2O2huCMAucQKCjEYOH5rnwIz9KI1IhNhVsCFWMwt6UxE4BZ9W1C3ZSpLse87Iwizg7Z3_cz3i_FObShBOuIbwj=w1280"
+        },
+        {
+          "id": "https://www.millerwelds.com/equipment/training-solutions/training-equipment/mobilearc-augmented-reality-welding-system-m90560",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.millerwelds.com/equipment/training-solutions/training-equipment/mobilearc-augmented-reality-welding-system-m90560",
+          "publishedOn": "2023-03-09T02:38:25.000Z",
+          "wordCount": null,
+          "title": "Augmented Reality Welding System",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/DanH42/CatchMeIfYouCAN",
@@ -439,6 +719,26 @@
           "wordCount": 603,
           "title": "Disclosure: Supervisor security vulnerability",
           "imageUrl": "https://www.home-assistant.io/images/blog/2023-03-supervisor-security-disclosure/social.png"
+        },
+        {
+          "id": "https://hakaimagazine.com/features/washaway-no-more-an-experimental-beach-barrier-could-be-key-to-rebuilding-eroding-coastlines/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hakaimagazine.com/features/washaway-no-more-an-experimental-beach-barrier-could-be-key-to-rebuilding-eroding-coastlines/",
+          "publishedOn": "2023-03-08T21:57:37.000Z",
+          "wordCount": 2430,
+          "title": "An experimental beach barrier could be key to rebuilding eroding coastlines",
+          "imageUrl": "https://hakaimagazine.com/wp-content/uploads/facebook-rebuilding-coastlines.jpg"
+        },
+        {
+          "id": "https://www.laphamsquarterly.org/roundtable/waiting-brando",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.laphamsquarterly.org/roundtable/waiting-brando",
+          "publishedOn": "2023-03-08T21:46:45.000Z",
+          "wordCount": 5648,
+          "title": "Waiting for Brando: A disastrous 1961 film production of the Iliad",
+          "imageUrl": "https://www.laphamsquarterly.org/sites/default/files/styles/thumbnail/public/iliad_header.jpg?itok=0U0PoFsd"
         },
         {
           "id": "https://gdevelop.io/",
@@ -8879,306 +9179,6 @@
           "wordCount": 1190,
           "title": "Fungi and bacteria are binging on burned soil",
           "imageUrl": "https://news.ucr.edu/sites/default/files/2022-03/holyfirepeteandkobe.jpg"
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2023/02/regular-expressions-make-me-feel-like-a-powerful-wizard-and-thats-not-a-good-thing/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://shkspr.mobi/blog/2023/02/regular-expressions-make-me-feel-like-a-powerful-wizard-and-thats-not-a-good-thing/",
-          "publishedOn": "2023-02-08T16:03:40.000Z",
-          "wordCount": 2246,
-          "title": "Regular Expressions make me feel like a powerful wizard: that's not a good thing",
-          "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2017/11/Confused-Robot.jpg"
-        },
-        {
-          "id": "https://zrok.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://zrok.io/",
-          "publishedOn": "2023-02-08T15:36:41.000Z",
-          "wordCount": 1248,
-          "title": "Zrok: Open-source peer to peer",
-          "imageUrl": "https://zrok.io/wp-content/uploads/2023/01/space3-1327x1536.png"
-        },
-        {
-          "id": "https://sphericalbullshit.wordpress.com/2017/05/13/the-chemistry-of-yes-minister/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sphericalbullshit.wordpress.com/2017/05/13/the-chemistry-of-yes-minister/",
-          "publishedOn": "2023-02-08T15:23:24.000Z",
-          "wordCount": 5787,
-          "title": "The Chemistry of ‘Yes Minister’ (2017)",
-          "imageUrl": "https://sphericalbullshit.files.wordpress.com/2017/05/dioxin.png"
-        },
-        {
-          "id": "https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/",
-          "publishedOn": "2023-02-08T14:50:26.000Z",
-          "wordCount": 1921,
-          "title": "Why does 0.1 and 0.2 = 0.30000000000000004?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jonathanhaidt.substack.com/p/the-teen-mental-illness-epidemic",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jonathanhaidt.substack.com/p/the-teen-mental-illness-epidemic",
-          "publishedOn": "2023-02-08T13:32:35.000Z",
-          "wordCount": 8294,
-          "title": "The teen mental illness epidemic began around 2012",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6328c597-5ebf-4d03-aee3-cd54ed9c0152_1600x900.png"
-        },
-        {
-          "id": "https://www.quantamagazine.org/researchers-discover-a-more-flexible-approach-to-machine-learning-20230207/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/researchers-discover-a-more-flexible-approach-to-machine-learning-20230207/",
-          "publishedOn": "2023-02-08T12:16:44.000Z",
-          "wordCount": 5595,
-          "title": "New neural network architecture inspired by neural system of a worm",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/LiquidNeuralNets-byKristinaArmitage-Social.webp"
-        },
-        {
-          "id": "https://www.gasnewsletter.com/p/49-trentabyte",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gasnewsletter.com/p/49-trentabyte",
-          "publishedOn": "2023-02-08T12:05:09.000Z",
-          "wordCount": 10640,
-          "title": "Trentabyte's analytical way of thinking about music",
-          "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/cb8056a8-7e58-4589-b076-dfbd83adff30/F8084663-0FE9-4B96-9F3E-F6B8553F1E2B_-_Trentabyte_Large.jpeg"
-        },
-        {
-          "id": "https://cohost.org/tomforsyth/post/982199-polynomial-interpola",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cohost.org/tomforsyth/post/982199-polynomial-interpola",
-          "publishedOn": "2023-02-08T11:05:29.000Z",
-          "wordCount": 8367,
-          "title": "Polynomial interpolation",
-          "imageUrl": "https://staging.cohostcdn.org/attachment/a1769a25-c816-4915-a15f-073740d224ee/Polynomila%20interpolation.png"
-        },
-        {
-          "id": "https://www.theguardian.com/uk-news/2023/feb/08/mary-queen-of-scots-prison-letters-finally-decoded",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theguardian.com/uk-news/2023/feb/08/mary-queen-of-scots-prison-letters-finally-decoded",
-          "publishedOn": "2023-02-08T08:40:19.000Z",
-          "wordCount": 4756,
-          "title": "Mary, Queen of Scots prison letters finally decoded",
-          "imageUrl": "https://i.guim.co.uk/img/media/496567686c885d439e6b1ded3a3160d599d8a9ed/772_1230_1181_709/master/1181.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07d8c91db1f1c9e2cf29e22108c00174"
-        },
-        {
-          "id": "https://github.com/obi1kenobi/trustfall",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/obi1kenobi/trustfall",
-          "publishedOn": "2023-02-08T07:34:12.000Z",
-          "wordCount": 1325,
-          "title": "Trustfall: How to Query (Almost) Everything",
-          "imageUrl": "https://opengraph.githubassets.com/74d0d6d64a461deb2c0b0bdde9557989ba63d5319b7f3dbc62bc3a57ac14f2f8/obi1kenobi/trustfall"
-        },
-        {
-          "id": "https://www.residentcontrarian.com/p/a-limited-interest-article-on-employer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.residentcontrarian.com/p/a-limited-interest-article-on-employer",
-          "publishedOn": "2023-02-08T05:05:26.000Z",
-          "wordCount": 8688,
-          "title": "A Limited Interest Article on Employer Value Prop and Hiring",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbae5307b-48b3-426b-871e-65c9f8d54847_1024x1024.png"
-        },
-        {
-          "id": "https://fallows.substack.com/p/as-bad-as-it-gets-without-body-bags",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fallows.substack.com/p/as-bad-as-it-gets-without-body-bags",
-          "publishedOn": "2023-02-08T03:12:03.000Z",
-          "wordCount": 4040,
-          "title": "Why the Austin airport situation was so dangerous",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3061dccb-7282-4ea9-9be9-fc9a38da49ee_1735x727.png"
-        },
-        {
-          "id": "https://electrek.co/2022/07/24/diy-solar-power-electric-bike-1500w/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://electrek.co/2022/07/24/diy-solar-power-electric-bike-1500w/",
-          "publishedOn": "2023-02-08T02:09:43.000Z",
-          "wordCount": 3920,
-          "title": "DIY 1,500W solar power electric bike",
-          "imageUrl": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/solar-power-radwagon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://arxiv.org/abs/2302.02384",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2302.02384",
-          "publishedOn": "2023-02-08T01:46:40.000Z",
-          "wordCount": 631,
-          "title": "CBMC: The C Bounded Model Checker",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://arxiv.org/abs/2302.03642",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2302.03642",
-          "publishedOn": "2023-02-08T01:44:54.000Z",
-          "wordCount": 827,
-          "title": "Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://github.com/mattnigh/ChatGPT3-Free-Prompt-List",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/mattnigh/ChatGPT3-Free-Prompt-List",
-          "publishedOn": "2023-02-08T01:35:12.000Z",
-          "wordCount": 1930,
-          "title": "GitHub: Guide on how to make ChatGPT prompts and a collection of prompts to use",
-          "imageUrl": "https://opengraph.githubassets.com/2ca2f7c60c875ac93562e1bd48c56622dcf1f6a6d24d85ce97472a9d003081df/mattnigh/ChatGPT3-Free-Prompt-List"
-        },
-        {
-          "id": "https://newhumanist.org.uk/articles/6068/intelligence-is-everywhere",
-          "author": null,
-          "description": "Comments",
-          "link": "https://newhumanist.org.uk/articles/6068/intelligence-is-everywhere",
-          "publishedOn": "2023-02-08T01:30:53.000Z",
-          "wordCount": 3675,
-          "title": "Intelligence is everywhere: From AI to cephalopods",
-          "imageUrl": "https://newhumanist.org.uk/images/NewHumanist-Octopus.jpg"
-        },
-        {
-          "id": "https://github.com/blueloveTH/pocketpy",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/blueloveTH/pocketpy",
-          "publishedOn": "2023-02-08T00:49:49.000Z",
-          "wordCount": 1124,
-          "title": "A lightweight (~5000 LOC) Python interpreter for game engines",
-          "imageUrl": "https://opengraph.githubassets.com/29af5a6e093a80aa45a85c246013310e3170fdf310504d0473109395bfc5d797/blueloveTH/pocketpy"
-        },
-        {
-          "id": "https://www.buildt.ai/blog/incorrectusage",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.buildt.ai/blog/incorrectusage",
-          "publishedOn": "2023-02-08T00:47:03.000Z",
-          "wordCount": 1300,
-          "title": "Use GPT-3 incorrectly: reduce costs 40x and increase speed by 5x",
-          "imageUrl": "http://static1.squarespace.com/static/63dac39a0ea2353d0e132a36/63daf57772bc814cc05cac89/63e17cf1ff2cc8787d0aabc1/1675731413684/chat-gpt.jpeg?format=1500w"
-        },
-        {
-          "id": "https://rsc.vet/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://rsc.vet/",
-          "publishedOn": "2023-02-08T00:42:52.000Z",
-          "wordCount": 509,
-          "title": "Play Runescape Classic Again",
-          "imageUrl": null
-        },
-        {
-          "id": "https://unzip.dev/0x00f-webgpu/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://unzip.dev/0x00f-webgpu/",
-          "publishedOn": "2023-02-07T23:58:55.000Z",
-          "wordCount": 1199,
-          "title": "An In-Depth Look at WebGPU",
-          "imageUrl": "https://raw.githubusercontent.com/agamm/unzip-ghost-content/main/2023/02/WebGPU-min.png"
-        },
-        {
-          "id": "https://www.usgs.gov/programs/earthquake-hazards/new-madrid-seismic-zone",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.usgs.gov/programs/earthquake-hazards/new-madrid-seismic-zone",
-          "publishedOn": "2023-02-07T23:57:05.000Z",
-          "wordCount": 10127,
-          "title": "The New Madrid Seismic Zone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bradshawfoundation.com/cosquer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bradshawfoundation.com/cosquer/",
-          "publishedOn": "2023-02-07T23:45:34.000Z",
-          "wordCount": 4297,
-          "title": "Prehistoric Images and Medicines Under the Sea in Cosquer Cave",
-          "imageUrl": "https://www.bradshawfoundation.com/sn/cosquer.jpg"
-        },
-        {
-          "id": "https://www.gamespot.com/articles/nintendo-will-pay-its-workers-10-more/1100-6511268/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gamespot.com/articles/nintendo-will-pay-its-workers-10-more/1100-6511268/",
-          "publishedOn": "2023-02-07T22:40:14.000Z",
-          "wordCount": 5534,
-          "title": "Nintendo Will Pay Its Workers 10% More",
-          "imageUrl": "https://www.gamespot.com/a/uploads/screen_kubrick/1690/16904437/4047719-3851883494-35587.jpg"
-        },
-        {
-          "id": "https://mail.openjdk.org/pipermail/valhalla-spec-experts/2023-February/002223.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mail.openjdk.org/pipermail/valhalla-spec-experts/2023-February/002223.html",
-          "publishedOn": "2023-02-07T21:54:27.000Z",
-          "wordCount": 1371,
-          "title": "Nullness markers to enable flattening",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jobs.ashbyhq.com/Jerry/142d1a0a-56e4-4deb-92bd-20c0e13d35f9",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jobs.ashbyhq.com/Jerry/142d1a0a-56e4-4deb-92bd-20c0e13d35f9",
-          "publishedOn": "2023-02-07T21:01:31.000Z",
-          "wordCount": 1261,
-          "title": "Jerry (YC S17) Is Hiring Sr / Staff Software Engineer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://brooker.co.za/blog/2023/02/07/hot-keys.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://brooker.co.za/blog/2023/02/07/hot-keys.html",
-          "publishedOn": "2023-02-07T19:16:20.000Z",
-          "wordCount": 1204,
-          "title": "Hot keys, scalability, and the Zipf distribution",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/IsabelNAngelo/status/1623013720011194368",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/IsabelNAngelo/status/1623013720011194368",
-          "publishedOn": "2023-02-07T19:05:42.000Z",
-          "wordCount": 498,
-          "title": "Google's Bard shows incorrect information in its launch ad",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai",
-          "publishedOn": "2023-02-07T18:27:42.000Z",
-          "wordCount": 10597,
-          "title": "Microsoft announces new Bing and Edge browser powered by upgraded ChatGPT AI",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/WeF_ov47UrF14bTCciTAKKYRFHo=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24416080/1920x1080_Hero.png"
-        },
-        {
-          "id": "https://blog.zoom.us/a-message-from-eric-yuan-ceo-of-zoom/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.zoom.us/a-message-from-eric-yuan-ceo-of-zoom/",
-          "publishedOn": "2023-02-07T17:30:06.000Z",
-          "wordCount": 1709,
-          "title": "Zoom lays of 15% of employees",
-          "imageUrl": "https://blog.zoom.us/wp-content/uploads/2023/02/blog-global-email.png"
         }
       ]
     },
@@ -9244,6 +9244,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://www.knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/article/living-world/2023/animal-personalities-trip-up-science",
+          "author": "Elizabeth Preston",
+          "description": "Individual behavior patterns may skew studies. A new approach called ‘STRANGE’ could help, by taking into account the habits, tendencies and life experiences of the creatures under scrutiny.",
+          "link": "https://knowablemagazine.org/article/living-world/2023/animal-personalities-trip-up-science",
+          "publishedOn": "2023-03-09T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Animal personalities can trip up science, but there’s a solution",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "88425",
+            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-030923-1-1200x630.jpg"
+          },
+          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-030923-1-1200x630.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/article/living-world/2023/how-animals-follow-their-nose",
           "author": "Dana Mackenzie",
@@ -9341,6 +9356,56 @@
       "feedUrl": "http://livingthing.danmackinlay.name/feeds/all.atom.xml",
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
+        {
+          "id": "https://danmackinlay.name/notebook/markdown_editors.html",
+          "author": null,
+          "description": "VS code\nRstudio\nNotes apps\nTypora\nneutrinote\nMarkdown plus\nMarkdeep\nCommand-line markdown viewers\nThe main point IMO of the markdown format was that it is supposed to be easy to read and not require a specialised editor.\nNonetheless, people inevitably end up wanting one, because we want to integrate documents syncing, or mathematics preview, or image linking, or note taking etc.\nThere are many, both integrated into normal text editors and\nmore specialized editors; see e.g. this review for an overview of some interesting ones.\nIn particular some of the note taking systems use markdown as the backend and double as markdown editors.\n🏗\nVS code\nMy own workflow is based on VS code\nthese days and I use that as much as possible for my markdown editing as well.\nIt has built-in markdown preview, although various friction points for mathematics.\nRstudio\nRStudio has a neatly integrated markdown editor especially for RMarkdown documents, which I also use.\nNotes apps\nNotational Velocity,\njoplin,\nturtl and\nzettlr are all note-taking apps which happen to work in markdown and thus include markdown editors.\nTypora\nTypora is another one that I’ve seen that seems popular.\nAvailable for windows, macOS and Linux. Does look\npretty and highly polished.\nHipster support, e.g. from mathpix.\nneutrinote\nappml/neutrinote: Markdown + Math in Just 3 MB!\nneutriNote\nMarkdown plus\nMarkdown plus has an open source online version\nand offline apps\nyou can buy to support the creators.\nMarkdeep\nmarkdeep is a designerly markdown\nrenderer with good integration to other javascript-markdown outputs.\nCommand-line markdown viewers\nglow\nLowdown",
+          "link": "https://danmackinlay.name/notebook/markdown_editors.html",
+          "publishedOn": "2023-03-10T00:30:30.000Z",
+          "wordCount": 518,
+          "title": "Markdown editors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/git_guis.html",
+          "author": null,
+          "description": "Fake git!\nSublime merge\nGitkraken\nFork\ngit gui\nSmartgit\nGitup\nCycligent Git Horizon\nVS Code VCS integration\n\ngit-graph\nGit History\nGitLens\n\nSourceTree\nLazyGit\ngitui\ntig\nTower\nGitblade\nXCode git integration\nRabbitVCS\ngitinspector\nTortoiseGit\nWorking Copy\nPocket Git\ngit-cola\ngiggle\nSparkleshare\nGit repository management servers\nMerge tools\nIncoming\n\nBy Kerryn Wood\nGit\nis remarkable for how smooth, fast, and tiny it is as a command-line\napplication.\nBecause of some as-yet unarticulated conservation law, this means that all the GUIs for it are clunky, slow, and bloated.\nTo go from the magically simple, speedy exuberance of the git command-line client, to one with better visualisation and more discoverable UX, you must sacrifice time and disk space upon the altar of bloat.\nAnyway, there are is …",
+          "link": "https://danmackinlay.name/notebook/git_guis.html",
+          "publishedOn": "2023-03-10T00:24:59.000Z",
+          "wordCount": 2107,
+          "title": "Git GUIs",
+          "imageUrl": "https://danmackinlay.name/images/octopus_rubik.webp"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/ml_pde.html",
+          "author": null,
+          "description": "Background\nNeural operator\nThe PINN lineage\nWeak formulation\nNeural operator\nMessage passing methods\nDeepONet\nGAN approaches\nAdvection-diffusion PDEs in particular\nInverse problems\nAs implicit representations\nDifferentiable solvers\nDeep Ritz method\nDatasets and training harnesses\nIncoming\nReferences\n\n\\(\\newcommand{\\solop}{\\mathcal{G}^{\\dagger}}\\)\nUsing statistical or machine learning approaches to solve PDEs, and maybe even to perform inference through them.\nThere are many approaches to ML learning of PDEs and I will document on an ad hoc basis as I need them.\nNo claim is made to completeness.\nTODO: To reduce proliferation of unclear symbols by introducing a specific example; which neural nets represent operators, which represent specific functions, between which spaces etc.\nTODO: Harmonis…",
+          "link": "https://danmackinlay.name/notebook/ml_pde.html",
+          "publishedOn": "2023-03-09T09:25:59.000Z",
+          "wordCount": 6516,
+          "title": "Machine learning for partial differential equations",
+          "imageUrl": "https://danmackinlay.name/images/carve_granite_block.webp"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/git.html",
+          "author": null,
+          "description": "Learning git\nHandy git config\n\ngit editor\nIgnore macOS .DS_Store files\n\nHandy git commands\n\nmerging\nSearching\ntrack the history of a file including renames\nClone a single branch\nRemove file from versioning without deleting my copy\ndelete remote branch\nPush to a non-obvious branch\n\nWhat git calls things\nFilters\nCommit hooks\nSubtrees/submodules/subprojects/subdirs/subterranean mole people\n\nSubmodule\nSubtrac\nSubtree\nDownload a sub-directory from a git tree\n\nDeleting all tags\nHelpers\n\ngit-branchless\ngit-undo\ngerrit\nlegit\nrerere\n\nImporting some files across a branch\nGarbage collecting\nEditing history\n\nCleaning out all big files\nDeleting specific things\nExporting a minimal history from some repository\n\nMaking git work with a broken-permission FS\nDetecting if there are changes to commit\nEmergency…",
+          "link": "https://danmackinlay.name/notebook/git.html",
+          "publishedOn": "2023-03-09T09:03:06.000Z",
+          "wordCount": 2111,
+          "title": "Git tricks",
+          "imageUrl": "https://danmackinlay.name/images/bashful_octopus.png"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/javascript_machine_learning.html",
+          "author": null,
+          "description": "Examples\nInfrastructure, tooling\n\nONNX\nTensorflow.js\nIncoming\n\n\n\n\n\nNotes for browser-based machine-learning, for projects like\nsynestizer or other\njavascript AI nerdery.\nExamples\nGaussian Belief Propagation\ngaussianBP/gaussianBP.github.io\nGANLab is a JS-backed\ngenerative adversarial network exploration tool,\npublished as a paper\nwebcam transfer learning\nis an interesting essay in building a good UI for these things. It learns to\nuse your webcam live.\ndiffcam is a webcam delta heatmap for motion detection.\nInfrastructure, tooling\nFirst see the fundamental tools in javascript mathematics.\nHigher-level examples live here.\nONNX\nmicrosoft/onnxruntime allows us to run neural nets in the browser:\nONNX Runtime Web is a Javascript library for running ONNX models on browsers and on Node.js.\nONNX Run…",
+          "link": "https://danmackinlay.name/notebook/javascript_machine_learning.html",
+          "publishedOn": "2023-03-09T08:11:32.000Z",
+          "wordCount": 1025,
+          "title": "Javascript machine learning",
+          "imageUrl": "https://danmackinlay.name/images/pigeon_chariot.png"
+        },
         {
           "id": "https://danmackinlay.name/notebook/matrix_calculus.html",
           "author": null,
@@ -9690,36 +9755,6 @@
           "wordCount": 1857,
           "title": "Predictive coding",
           "imageUrl": "https://danmackinlay.name/images/mongoose_cobra.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/julia_ides.html",
-          "author": null,
-          "description": "Workflow\n\nLiterate coding\n\nIDEs/workbooks/editors\n\nPluto\nVS Code\nJupyter\nIntelliJ\nJuno\n\n\n\nIDE and workflow tips for Julia.\n\nThe julia integrated development environment experience.\nWorkflow\n⚠️ all of this section is hopelessly outdated now.\nThe canonical sensible way to manage julia projects is given by\nBogumił Kamiński’s:\nFor every project keep a separate project environment…The steps to achieve it are easy:\nstart julia in the folder in which you want to create a project\npress ] character to enter package manager mode\nexecute generate [target folder name] and press enter\nYou can activate such an environment with Pkg.activate(\".\") or just use the jupyter IDE which does it automatically.\nGeneral tips:\nLook out for handy interactive introspection tricks, e.g.\n@which\ntells you which method yo…",
-          "link": "https://danmackinlay.name/notebook/julia_ides.html",
-          "publishedOn": "2023-02-08T07:26:31.000Z",
-          "wordCount": 1550,
-          "title": "IDEs for Julia",
-          "imageUrl": "https://danmackinlay.name/images/workstation_1907.jpg"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/online_whiteboards.html",
-          "author": null,
-          "description": "Excalidraw\nFigjam\nMathcha\nMiscellaneous options\nPoint a camera at a physical whiteboard\nOther deliberation tools\n\nOnline collaborative drawing, for, e.g. doing mathematics online or general diagrams.\nMany tools claim to do this, but I have not managed to have a truly satisfactory experience yet, although I have committed not much time to it.\nI was hoping for a slam-dunk best option.\nI suspect that most of the options are going to need some kind of stylus input to be any use, at least for the writing-heavy workflows I care about.\nSo, something that involves a Wacom or an iPad or whatever.\nHere are some candidates.\nExcalidraw\nAn open source option that promises collaboration and end-to-end encryption is Excalidraw\n(source.)\nVirtual whiteboard for sketching hand-drawn like diagrams.\nCollabora…",
-          "link": "https://danmackinlay.name/notebook/online_whiteboards.html",
-          "publishedOn": "2023-02-08T00:08:22.000Z",
-          "wordCount": 769,
-          "title": "Online whiteboards",
-          "imageUrl": "https://danmackinlay.name/images/blackboard_sealife.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/stylus_input.html",
-          "author": null,
-          "description": "Stylus graphics pads\n\nStylus touchscreens\n\nTablet computer as graphics pad\n\nTablet computer as stylus input to real computer\nSpecial case: Remarkable\n\nSmartpens\n\nLivescribe\nMoleskine pen+\nWacom digital folio\n\nother input devices\nMathematical OCR\n\nDragging the mouse\nVarious ways of writing to get input into the computer.\nA fuzzy category.\nI have divided it into single-purpose graphics pads (e.g. wacom pens), tablet computers (.e. iPads) and smartpens, whcih write on paper but then record what happened using some clever tricks.\nStylus graphics pads\nVarious inputs pads!\nWacom is the most recognisable brand, but they are crazy expensive and their drivers are awful on macOS, working unreliably and aggressively enforcing obsolescence.\nTheir competitors’ drivers can surely be any no worse and the…",
-          "link": "https://danmackinlay.name/notebook/stylus_input.html",
-          "publishedOn": "2023-02-07T22:06:25.000Z",
-          "wordCount": 1848,
-          "title": "Stylus input",
-          "imageUrl": "https://danmackinlay.name/images/mouse_drag.webp"
         }
       ]
     },
@@ -10396,46 +10431,6 @@
           "publishedOn": "2023-02-08T19:27:00.000Z",
           "wordCount": 6208,
           "title": "AI chatbot race between Microsoft, Google is loaded with risk - Stuff",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMingFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvdXBzYy1jdXJyZW50LWFmZmFpcnMvdXBzYy1rZXktZmVicnVhcnktOC0yMDIzLWtub3ctYWJvdXQtcG9zdC1kaXNhc3Rlci1tYW5hZ2VtZW50LWFkZGl0aW9uYWwtanVkZ2UtYmFyZC1hbmQtY2hhdGdwdC04NDMyNjY2L9IBowFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvdXBzYy1jdXJyZW50LWFmZmFpcnMvdXBzYy1rZXktZmVicnVhcnktOC0yMDIzLWtub3ctYWJvdXQtcG9zdC1kaXNhc3Rlci1tYW5hZ2VtZW50LWFkZGl0aW9uYWwtanVkZ2UtYmFyZC1hbmQtY2hhdGdwdC04NDMyNjY2L2xpdGUv",
-          "author": null,
-          "description": "UPSC Key- February 8, 2023: Know about Post-disaster management, Additional Judge, Bard and ChatGPT  The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMingFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvdXBzYy1jdXJyZW50LWFmZmFpcnMvdXBzYy1rZXktZmVicnVhcnktOC0yMDIzLWtub3ctYWJvdXQtcG9zdC1kaXNhc3Rlci1tYW5hZ2VtZW50LWFkZGl0aW9uYWwtanVkZ2UtYmFyZC1hbmQtY2hhdGdwdC04NDMyNjY2L9IBowFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvdXBzYy1jdXJyZW50LWFmZmFpcnMvdXBzYy1rZXktZmVicnVhcnktOC0yMDIzLWtub3ctYWJvdXQtcG9zdC1kaXNhc3Rlci1tYW5hZ2VtZW50LWFkZGl0aW9uYWwtanVkZ2UtYmFyZC1hbmQtY2hhdGdwdC04NDMyNjY2L2xpdGUv?oc=5",
-          "publishedOn": "2023-02-08T15:08:50.000Z",
-          "wordCount": 6208,
-          "title": "UPSC Key- February 8, 2023: Know about Post-disaster management, Additional Judge, Bard and ChatGPT - The Indian Express",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibWh0dHBzOi8vd3d3LnN0dWZmLmNvLm56L25hdGlvbmFsL3BvbGl0aWNzLzMwMDgwMjIwMS9saXZlLXRoZS13aW5uZXJzLWFuZC1sb3NlcnMtaW4tZ292ZXJubWVudHMtcG9saWN5LXNoYWtldXDSAQA",
-          "author": null,
-          "description": "Live: The winners and losers in Government's policy shake-up  Stuff",
-          "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnN0dWZmLmNvLm56L25hdGlvbmFsL3BvbGl0aWNzLzMwMDgwMjIwMS9saXZlLXRoZS13aW5uZXJzLWFuZC1sb3NlcnMtaW4tZ292ZXJubWVudHMtcG9saWN5LXNoYWtldXDSAQA?oc=5",
-          "publishedOn": "2023-02-08T03:45:00.000Z",
-          "wordCount": 6208,
-          "title": "Live: The winners and losers in Government's policy shake-up - Stuff",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikwFodHRwczovL3d3dy5uZXdzaHViLmNvLm56L2hvbWUvdGVjaG5vbG9neS8yMDIzLzAyL21pY3Jvc29mdC11bnZlaWxzLXJldmFtcGVkLWJpbmctc2VhcmNoLWVuZ2luZS11c2luZy1haS10ZWNobm9sb2d5LW1vcmUtcG93ZXJmdWwtdGhhbi1jaGF0Z3B0Lmh0bWzSAZcBaHR0cHM6Ly93d3cubmV3c2h1Yi5jby5uei9ob21lL3RlY2hub2xvZ3kvMjAyMy8wMi9taWNyb3NvZnQtdW52ZWlscy1yZXZhbXBlZC1iaW5nLXNlYXJjaC1lbmdpbmUtdXNpbmctYWktdGVjaG5vbG9neS1tb3JlLXBvd2VyZnVsLXRoYW4tY2hhdGdwdC5hbXAuaHRtbA",
-          "author": null,
-          "description": "Microsoft unveils revamped Bing search engine using AI technology more powerful than ChatGPT  Newshub",
-          "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5uZXdzaHViLmNvLm56L2hvbWUvdGVjaG5vbG9neS8yMDIzLzAyL21pY3Jvc29mdC11bnZlaWxzLXJldmFtcGVkLWJpbmctc2VhcmNoLWVuZ2luZS11c2luZy1haS10ZWNobm9sb2d5LW1vcmUtcG93ZXJmdWwtdGhhbi1jaGF0Z3B0Lmh0bWzSAZcBaHR0cHM6Ly93d3cubmV3c2h1Yi5jby5uei9ob21lL3RlY2hub2xvZ3kvMjAyMy8wMi9taWNyb3NvZnQtdW52ZWlscy1yZXZhbXBlZC1iaW5nLXNlYXJjaC1lbmdpbmUtdXNpbmctYWktdGVjaG5vbG9neS1tb3JlLXBvd2VyZnVsLXRoYW4tY2hhdGdwdC5hbXAuaHRtbA?oc=5",
-          "publishedOn": "2023-02-08T00:18:56.000Z",
-          "wordCount": 6208,
-          "title": "Microsoft unveils revamped Bing search engine using AI technology more powerful than ChatGPT - Newshub",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vd3d3LnJlc2VsbGVyLmNvLm56L2FydGljbGUvNzA1Mzk3L3Nub3dmbGFrZS1hY3F1aXJlLWxlYXB5ZWFyLWJvb3N0LWRhdGEtY2xlYW4tcm9vbS1hYmlsaXRpZXMv0gEA",
-          "author": null,
-          "description": "Snowflake to acquire LeapYear to boost data clean room abilities  Reseller News",
-          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnJlc2VsbGVyLmNvLm56L2FydGljbGUvNzA1Mzk3L3Nub3dmbGFrZS1hY3F1aXJlLWxlYXB5ZWFyLWJvb3N0LWRhdGEtY2xlYW4tcm9vbS1hYmlsaXRpZXMv0gEA?oc=5",
-          "publishedOn": "2023-02-08T00:17:58.000Z",
-          "wordCount": 6208,
-          "title": "Snowflake to acquire LeapYear to boost data clean room abilities - Reseller News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
