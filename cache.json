@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=377098",
+          "author": "Richard Oliver Bray",
+          "description": "You know what it’s like to pick up a new language or framework. Sometimes there’s great documentation to help you find your way through it. But even the best documentation doesn’t cover absolutely everything. And when you work with something …\n5 Mistakes I Made When Starting My First React Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/5-mistakes-starting-react/",
+          "publishedOn": "2023-03-10T16:41:52.000Z",
+          "wordCount": 2308,
+          "title": "5 Mistakes I Made When Starting My First React Project",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377098"
+        },
+        {
           "id": "https://css-tricks.com/?p=377074",
           "author": "Mads Stoumann",
           "description": "CSS trigonometry functions are here! Well, they are if you’re using the latest versions of Firefox and Safari, that is. Having this sort of mathematical power in CSS opens up a whole bunch of possibilities. In this tutorial, I thought …\nCreating a Clock with the New CSS sin() and cos() Trigonometry Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -70,16 +80,6 @@
           "wordCount": 1791,
           "title": "Healthcare, Selling Lemons, and the Price of Developer Experience",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377169"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376723",
-          "author": "Saleh Mubashar",
-          "description": "We often think of background images as texture or something that provides contrast for legible content — in other words, not really content. If it was content, you’d probably reach for an <img> anyway, accessibility and whatnot.\nBut there are …\nMoving Backgrounds originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/moving-backgrounds/",
-          "publishedOn": "2023-02-09T15:03:55.000Z",
-          "wordCount": 2774,
-          "title": "Moving Backgrounds",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376723"
         }
       ]
     },
@@ -88,6 +88,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/03/pragmatists-guide-lean-user-research/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Instead of telling you once again what the best practice is and adding to your imposter syndrome, let’s concentrate on some practical approaches to user research that we might be able to fit into our existing projects without being left disillusioned.",
+          "link": "https://smashingmagazine.com/2023/03/pragmatists-guide-lean-user-research/",
+          "publishedOn": "2023-03-10T08:00:00.000Z",
+          "wordCount": 4575,
+          "title": "A Pragmatist’s Guide To Lean User Research",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/pragmatists-guide-lean-user-research/pragmatists-guide-lean-user-research.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/pragmatists-guide-lean-user-research/pragmatists-guide-lean-user-research.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/03/building-complex-forms-vue/",
           "author": "hello@smashingmagazine.com (Olufunke Moronfolu)",
@@ -357,21 +372,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/discovering-primitive-objects-javascript-part1/discovering-primitive-objects-javascript-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/pixo-photo-editor/",
-          "author": "hello@smashingmagazine.com (Hristo Chakarov)",
-          "description": "With so many image editing services available nowadays, it’s good to have one good solution that is applicable for all websites and web apps that need to provide image editing as a feature. Hristo Chakarov explains how Pixo Editor’s easy integration (just a few JavaScript lines) and rich API can save your time and improve your end users’ workflow.",
-          "link": "https://smashingmagazine.com/2023/02/pixo-photo-editor/",
-          "publishedOn": "2023-02-09T09:00:00.000Z",
-          "wordCount": 4695,
-          "title": "Picture Perfect: Meet Pixo, A Photo Editor For Your End Users",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/photo-image-editor-pixo-wordpress/pixo-photo-editor.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/photo-image-editor-pixo-wordpress/pixo-photo-editor.jpg"
         }
       ]
     },
@@ -380,6 +380,266 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://twitter.com/coinbase/status/1634399032767307776",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/coinbase/status/1634399032767307776",
+          "publishedOn": "2023-03-11T03:47:22.000Z",
+          "wordCount": 513,
+          "title": "Coinbase suspending USDC:USD conversions over the weekend",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/circle/status/1634391505988206592",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/circle/status/1634391505988206592",
+          "publishedOn": "2023-03-11T03:20:51.000Z",
+          "wordCount": 513,
+          "title": "$3.3B of the ~$40 billion of USDC reserves remain at SVB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thinkadvisor.com/2023/03/10/wells-fargo-clients-report-missing-deposits-as-bank-works-on-fix/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thinkadvisor.com/2023/03/10/wells-fargo-clients-report-missing-deposits-as-bank-works-on-fix/",
+          "publishedOn": "2023-03-11T02:51:31.000Z",
+          "wordCount": 1845,
+          "title": "Wells Fargo clients report missing deposits as bank works on fix",
+          "imageUrl": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2023/01/Wells_Fargo_Bank_Branch_ALM_640x640.jpg"
+        },
+        {
+          "id": "https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday",
+          "publishedOn": "2023-03-11T02:12:19.000Z",
+          "wordCount": 576,
+          "title": "SVB depositors, investors tried to pull $42B Thursday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ir.firstrepublic.com/static-files/295faa27-f208-4936-81ff-6c8bfa0fb6b5",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ir.firstrepublic.com/static-files/295faa27-f208-4936-81ff-6c8bfa0fb6b5",
+          "publishedOn": "2023-03-11T02:02:56.000Z",
+          "wordCount": 2323,
+          "title": "First Republic Bank files 8-K – Tech only 4% of total deposits; no sector &gt;9%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.economist.com/finance-and-economics/2023/03/10/what-does-silicon-valley-banks-collapse-mean-for-the-financial-system",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.economist.com/finance-and-economics/2023/03/10/what-does-silicon-valley-banks-collapse-mean-for-the-financial-system",
+          "publishedOn": "2023-03-10T23:29:43.000Z",
+          "wordCount": 7868,
+          "title": "What does Silicon Valley Bank’s collapse mean for the financial system?",
+          "imageUrl": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230311_FNP506.jpg"
+        },
+        {
+          "id": "https://www.sfgate.com/tech/article/rippling-pay-silicon-valley-bank-17832441.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sfgate.com/tech/article/rippling-pay-silicon-valley-bank-17832441.php",
+          "publishedOn": "2023-03-10T22:58:35.000Z",
+          "wordCount": 4114,
+          "title": "SF payroll firm Rippling has to delay payouts after Silicon Valley Bank collapse",
+          "imageUrl": "https://s.hdnux.com/photos/01/31/66/77/23556059/3/rawImage.jpg"
+        },
+        {
+          "id": "https://vikashruhil.medium.com/roku-filed-an-8-k-saying-that-of-its-1-9-dc03147d4d58",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vikashruhil.medium.com/roku-filed-an-8-k-saying-that-of-its-1-9-dc03147d4d58",
+          "publishedOn": "2023-03-10T22:47:38.000Z",
+          "wordCount": 997,
+          "title": "Roku filed an 8-K saying that of its $1.9B of cash, $487M is stuck at SVB",
+          "imageUrl": null
+        },
+        {
+          "id": "http://blog.archive.org/2023/03/08/saving-4-million-books-from-landfill/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://blog.archive.org/2023/03/08/saving-4-million-books-from-landfill/",
+          "publishedOn": "2023-03-10T22:45:18.000Z",
+          "wordCount": 2164,
+          "title": "Saving 4M books from landfill",
+          "imageUrl": "http://blog.archive.org/wp-content/uploads/2023/03/BETTERWORLDBOOKS_ICON_LOGOS_WHITE-1024x1024.png"
+        },
+        {
+          "id": "https://www.brex.com/svb-emergency-line",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.brex.com/svb-emergency-line",
+          "publishedOn": "2023-03-10T22:34:46.000Z",
+          "wordCount": 1346,
+          "title": "Emergency bridge loan for SVB customers",
+          "imageUrl": "https://www.brex.com/ogImage.jpg"
+        },
+        {
+          "id": "https://www.developing.dev/p/3-mistakes-i-made-as-an-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.developing.dev/p/3-mistakes-i-made-as-an-engineer",
+          "publishedOn": "2023-03-10T21:31:44.000Z",
+          "wordCount": 2283,
+          "title": "Mistakes I made as an engineer, but had to become a manager to see",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd766e0e-006b-4e14-bf71-17b0dcd4f6a0_853x600.jpeg"
+        },
+        {
+          "id": "http://www.brooock.com/a/svb-collapse-exposes-cracks-in-economy",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.brooock.com/a/svb-collapse-exposes-cracks-in-economy",
+          "publishedOn": "2023-03-10T21:09:28.000Z",
+          "wordCount": 1372,
+          "title": "The collapse of SVB exposes the largest crack in the economy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://research.exoticsilicon.com/articles/unbreaking_utf8_on_the_console",
+          "author": null,
+          "description": "Comments",
+          "link": "https://research.exoticsilicon.com/articles/unbreaking_utf8_on_the_console",
+          "publishedOn": "2023-03-10T21:02:05.000Z",
+          "wordCount": 6215,
+          "title": "Discovering one bug after another in the UTF-8 decoding logic in OpenBSD",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer",
+          "publishedOn": "2023-03-10T21:00:35.000Z",
+          "wordCount": 2044,
+          "title": "Charge Robotics (YC S21) is hiring meches to build robots that build solar farms",
+          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/53eb817991d9012fddfc1a18621adfcc6abe49e0.png?1673570370"
+        },
+        {
+          "id": "https://www.fastcompany.com/90861486/agrivoltaics-crops-under-solar-panels-good-for-panels",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.fastcompany.com/90861486/agrivoltaics-crops-under-solar-panels-good-for-panels",
+          "publishedOn": "2023-03-10T20:45:52.000Z",
+          "wordCount": null,
+          "title": "Growing crops under solar panels",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/",
+          "publishedOn": "2023-03-10T20:16:57.000Z",
+          "wordCount": 1611,
+          "title": "Disambiguating Arm, Arm ARM, ARMv9, ARM9, ARM64, AArch64, A64, A78, ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ggerganov/llama.cpp",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ggerganov/llama.cpp",
+          "publishedOn": "2023-03-10T20:01:54.000Z",
+          "wordCount": 1704,
+          "title": "Llama.cpp: Port of Facebook&#x27;s LLaMA model in C&#x2F;C++, with Apple Silicon support",
+          "imageUrl": "https://opengraph.githubassets.com/61e9c4d81da5dd2d272256f8dba905d1175f72e90595379f95f168596e41469d/ggerganov/llama.cpp"
+        },
+        {
+          "id": "https://defacto2.net/f/ab3914",
+          "author": null,
+          "description": "Comments",
+          "link": "https://defacto2.net/f/ab3914",
+          "publishedOn": "2023-03-10T19:34:57.000Z",
+          "wordCount": 274,
+          "title": "Shane Pitman, leader of the warez group Razor 1911: life after prison (2005)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/s41562-022-01516-2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41562-022-01516-2",
+          "publishedOn": "2023-03-10T18:34:21.000Z",
+          "wordCount": 12286,
+          "title": "Evidence of a predictive coding hierarchy in the human brain listening to speech",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-022-01516-2/MediaObjects/41562_2022_1516_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.fdic.gov/news/press-releases/2023/pr23016.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.fdic.gov/news/press-releases/2023/pr23016.html",
+          "publishedOn": "2023-03-10T16:46:06.000Z",
+          "wordCount": 1692,
+          "title": "FDIC Takes over Silicon Valley Bank",
+          "imageUrl": "https://www.fdic.gov/assets/images/share-fdic-default-1200x630.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=35096366",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=35096366",
+          "publishedOn": "2023-03-10T16:16:28.000Z",
+          "wordCount": 6447,
+          "title": "Launch HN: Defer (YC W23) – Zero-infrastructure background jobs for Node.js",
+          "imageUrl": null
+        },
+        {
+          "id": "http://citoyens.soquij.qc.ca/php/decision.php?ID=B40649560046AC98B6BC3AA9D9C409F7",
+          "author": null,
+          "description": "Comments",
+          "link": "http://citoyens.soquij.qc.ca/php/decision.php?ID=B40649560046AC98B6BC3AA9D9C409F7",
+          "publishedOn": "2023-03-10T15:44:14.000Z",
+          "wordCount": 1080,
+          "title": "Giving the finger is a ‘God-given right’, Canadian judge rules",
+          "imageUrl": null
+        },
+        {
+          "id": "https://fs.blog/why-write/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fs.blog/why-write/",
+          "publishedOn": "2023-03-10T11:54:44.000Z",
+          "wordCount": 907,
+          "title": "Why Write?",
+          "imageUrl": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2023/03/Why-Write.png"
+        },
+        {
+          "id": "https://www.netmeister.org/blog/mx-diversity.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.netmeister.org/blog/mx-diversity.html",
+          "publishedOn": "2023-03-10T11:30:03.000Z",
+          "wordCount": 2970,
+          "title": "Who reads your email?",
+          "imageUrl": "https://www.netmeister.org/blog/images/i-read-your-email.jpg"
+        },
+        {
+          "id": "https://werat.dev/blog/what-a-good-debugger-can-do/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://werat.dev/blog/what-a-good-debugger-can-do/",
+          "publishedOn": "2023-03-10T11:15:19.000Z",
+          "wordCount": 2996,
+          "title": "What a good debugger can do",
+          "imageUrl": "https://werat.dev/blog/what-a-good-debugger-can-do/old-man-yells-at-cloud.jpeg"
+        },
+        {
+          "id": "https://iquilezles.org/articles/texturerepetition/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://iquilezles.org/articles/texturerepetition/",
+          "publishedOn": "2023-03-10T10:23:27.000Z",
+          "wordCount": 1622,
+          "title": "Avoiding visible texture repetition (2015)",
+          "imageUrl": "https://iquilezles.org/logo.jpg"
+        },
         {
           "id": "https://github.com/maxgoedjen/secretive",
           "author": null,
@@ -409,6 +669,16 @@
           "wordCount": 1908,
           "title": "Google dusts off the failed Google+ playbook to fight ChatGPT",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/4-760x380.jpg"
+        },
+        {
+          "id": "https://www.1939nyworldsfair.com/univ_lg_window.aspx?pageTitle=Westinghouse%20Fair%20World&imgType=p&numImg=16&imgNum=4&retURL=Westinghouse_Fair_World/Westinghouse_Fair_World&retUrlExt=aspx&retName=Westinghouse%20Fair%20World&imgName=Westinghouse_Fair_World/images/large/Westinghouse-&contributor=Paul%20M.%20Van%20Dort%20",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.1939nyworldsfair.com/univ_lg_window.aspx?pageTitle=Westinghouse%20Fair%20World&imgType=p&numImg=16&imgNum=4&retURL=Westinghouse_Fair_World/Westinghouse_Fair_World&retUrlExt=aspx&retName=Westinghouse%20Fair%20World&imgName=Westinghouse_Fair_World/images/large/Westinghouse-&contributor=Paul%20M.%20Van%20Dort%20",
+          "publishedOn": "2023-03-10T02:16:33.000Z",
+          "wordCount": 55,
+          "title": "Elektro, the Moto-Man, Is a Friendly “Frankenstein” (1939)",
+          "imageUrl": null
         },
         {
           "id": "https://yvettesbridalformal.p1r8.net/",
@@ -521,6 +791,16 @@
           "imageUrl": "https://ieefa.org/sites/default/files/2022-05/IEEFA%20metatags.png"
         },
         {
+          "id": "https://www.atlasobscura.com/articles/what-is-kiviaq",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atlasobscura.com/articles/what-is-kiviaq",
+          "publishedOn": "2023-03-09T19:21:14.000Z",
+          "wordCount": 8462,
+          "title": "Kiviaq – Greenland’s misunderstood winter delicacy",
+          "imageUrl": "https://img.atlasobscura.com/_0JsZoKTi7kBPis_7AbTilDOHLGKUqAaX7JO-DOMoSs/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jZWE3OGExN2Jj/NjdiNGZmYWRfX1Nl/YWxzIHdfbyBsaXR0/bGUgYmx1ZS5wbmc.png"
+        },
+        {
           "id": "https://www.taichi-lang.org/",
           "author": null,
           "description": "Comments",
@@ -548,6 +828,16 @@
           "publishedOn": "2023-03-09T17:43:37.000Z",
           "wordCount": 9550,
           "title": "Show HN: APIRank.dev – We crawled and ranked public APIs from the internet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://utcc.utoronto.ca/~cks/space/blog/linux/DebconfWhiptailVsXterm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/DebconfWhiptailVsXterm",
+          "publishedOn": "2023-03-09T17:17:14.000Z",
+          "wordCount": 865,
+          "title": "Debconf&#x27;s questions, or whiptail, doesn&#x27;t always work in xterms",
           "imageUrl": null
         },
         {
@@ -619,6 +909,16 @@
           "wordCount": 2018,
           "title": "Writing a Kubernetes Operator",
           "imageUrl": "https://metalbear.co/metalbear.png"
+        },
+        {
+          "id": "https://www.deusinmachina.net/p/the-basics-of-arm64-assembly",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.deusinmachina.net/p/the-basics-of-arm64-assembly",
+          "publishedOn": "2023-03-09T13:07:24.000Z",
+          "wordCount": 6678,
+          "title": "The Basics of Arm64 Assembly",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86a962e7-d536-4195-873f-2da23bf5a682_1280x720.jpeg"
         },
         {
           "id": "https://medium.com/@LinusSchlumberger/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42",
@@ -8869,316 +9169,6 @@
           "wordCount": 498,
           "title": "GitHub to lay off 10% and close all offices",
           "imageUrl": null
-        },
-        {
-          "id": "https://jaykmody.com/blog/gpt-from-scratch/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jaykmody.com/blog/gpt-from-scratch/",
-          "publishedOn": "2023-02-09T16:08:18.000Z",
-          "wordCount": 7497,
-          "title": "A GPT in 60 Lines of NumPy",
-          "imageUrl": " https://jaykmody.com/profile.png "
-        },
-        {
-          "id": "https://blog.thunderbird.net/2023/02/the-future-of-thunderbird-why-were-rebuilding-from-the-ground-up/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.thunderbird.net/2023/02/the-future-of-thunderbird-why-were-rebuilding-from-the-ground-up/",
-          "publishedOn": "2023-02-09T14:40:55.000Z",
-          "wordCount": 2201,
-          "title": "The Future of Thunderbird",
-          "imageUrl": "https://blog.thunderbird.net/files/2023/02/future-of-thunderbird-1.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34723989",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=34723989",
-          "publishedOn": "2023-02-09T14:02:21.000Z",
-          "wordCount": 4012,
-          "title": "Launch HN: Activepieces (YC S22) – Open-Source Zapier Alternative",
-          "imageUrl": null
-        },
-        {
-          "id": "https://giuliomagnifico.blog/networking/2023/01/05/home-network_v4.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://giuliomagnifico.blog/networking/2023/01/05/home-network_v4.html",
-          "publishedOn": "2023-02-09T14:00:49.000Z",
-          "wordCount": 3934,
-          "title": "My network home setup – v4.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.engadget.com/a-robotics-engineer-is-trying-to-make-the-airpods-pro-easier-to-repair-184249580.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.engadget.com/a-robotics-engineer-is-trying-to-make-the-airpods-pro-easier-to-repair-184249580.html",
-          "publishedOn": "2023-02-09T12:49:06.000Z",
-          "wordCount": 2492,
-          "title": "AirPods Pro case converted from Lightning to USB-C with open-source PCB",
-          "imageUrl": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/903ae620-a7e2-11ed-b7eb-6092fcdb4e82"
-        },
-        {
-          "id": "https://mburakerman.github.io/blog/web-rendering-patterns",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mburakerman.github.io/blog/web-rendering-patterns",
-          "publishedOn": "2023-02-09T09:10:45.000Z",
-          "wordCount": 945,
-          "title": "Web Rendering Patterns",
-          "imageUrl": "https://mburakerman.github.io/img/web-rendering-patterns/web-rendering-patterns.png"
-        },
-        {
-          "id": "https://www.surfer.com/blogs/culture/clark-foams-demise-10-years-later-grubby-clark/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.surfer.com/blogs/culture/clark-foams-demise-10-years-later-grubby-clark/",
-          "publishedOn": "2023-02-09T08:48:28.000Z",
-          "wordCount": 4870,
-          "title": "Clark Foam’s demise, 10 years later (2015)",
-          "imageUrl": "https://i0.wp.com/www.surfer.com/wp-content/uploads/2015/12/grubby-clark-morgan_featured.jpg?resize=1200%2C630&ssl=1"
-        },
-        {
-          "id": "https://emacs.stackexchange.com/questions?tab=Votes",
-          "author": null,
-          "description": "Comments",
-          "link": "https://emacs.stackexchange.com/questions?tab=Votes",
-          "publishedOn": "2023-02-09T08:47:07.000Z",
-          "wordCount": 4325,
-          "title": "Emacs StackExchange",
-          "imageUrl": "https://cdn.sstatic.net/Sites/emacs/Img/apple-touch-icon@2.png?v=dbead6deb8b0"
-        },
-        {
-          "id": "https://www.businessinsider.com/cargo-ship-living-quarters-pictures-tour-youtube-video-2021-11",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.businessinsider.com/cargo-ship-living-quarters-pictures-tour-youtube-video-2021-11",
-          "publishedOn": "2023-02-09T07:46:10.000Z",
-          "wordCount": 3915,
-          "title": "See inside a 958-foot cargo ship (2022)",
-          "imageUrl": "https://i.insider.com/61853a65326b26001834f610?width=1200&format=jpeg"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/2284/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/2284/",
-          "publishedOn": "2023-02-09T07:27:25.000Z",
-          "wordCount": 991,
-          "title": "Fragrant fungi rewards Himalayan foragers",
-          "imageUrl": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/2284/images/0wn1PXWJr3KGoorN6zxPNvfiuh5U3hHZeHVukttv.jpeg"
-        },
-        {
-          "id": "https://quantum5.ca/2017/10/19/arm-ways-to-return/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://quantum5.ca/2017/10/19/arm-ways-to-return/",
-          "publishedOn": "2023-02-09T06:29:13.000Z",
-          "wordCount": 969,
-          "title": "ARM Assembly: ∞ Ways to Return (2017)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34719586",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=34719586",
-          "publishedOn": "2023-02-09T03:59:32.000Z",
-          "wordCount": 501,
-          "title": "Ask HN: Is “prompt injection” going to be a new common vulnerability?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linode.com/docs/guides/podman-vs-docker/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.linode.com/docs/guides/podman-vs-docker/",
-          "publishedOn": "2023-02-09T02:46:38.000Z",
-          "wordCount": 1938,
-          "title": "Podman vs. Docker: Comparing the two containerization tools",
-          "imageUrl": "https://www.linode.com/docs/media/images/default_social_image.png"
-        },
-        {
-          "id": "https://guzey.com/2022-lessons/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://guzey.com/2022-lessons/",
-          "publishedOn": "2023-02-09T00:25:31.000Z",
-          "wordCount": 2943,
-          "title": "My 2022 self was wrong about meditation, monitors, and sleep",
-          "imageUrl": "https://guzey.com/files/previews/2022-lessons.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/d41586-023-00347-z",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/d41586-023-00347-z",
-          "publishedOn": "2023-02-08T23:51:19.000Z",
-          "wordCount": 3361,
-          "title": "Covid drug drives viral mutations – and now some want to halt its use",
-          "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-023-00347-z/d41586-023-00347-z_23987516.jpg"
-        },
-        {
-          "id": "https://www.photoprism.app/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.photoprism.app/",
-          "publishedOn": "2023-02-08T23:06:04.000Z",
-          "wordCount": 408,
-          "title": "Photoprism – open-source Google Photos Alternative",
-          "imageUrl": "https://i.photoprism.app/prism?cover=64&style=centered%20dark"
-        },
-        {
-          "id": "https://www.confluent.io/blog/windowing-in-kafka-streams/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.confluent.io/blog/windowing-in-kafka-streams/",
-          "publishedOn": "2023-02-08T22:56:29.000Z",
-          "wordCount": 13197,
-          "title": "Apache Kafka Beyond the Basics: Windowing",
-          "imageUrl": "https://cdn.confluent.io/wp-content/uploads/seo-logo-meadow.png"
-        },
-        {
-          "id": "https://www.vestas.com/en/media/company-news/2023/vestas-unveils-circularity-solution-to-end-landfill-for-c3710818",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.vestas.com/en/media/company-news/2023/vestas-unveils-circularity-solution-to-end-landfill-for-c3710818",
-          "publishedOn": "2023-02-08T22:52:20.000Z",
-          "wordCount": 2113,
-          "title": "Vestas unveils solution to end landfill disposal for wind turbine blades",
-          "imageUrl": "https://vestas.scene7.com/is/image/vestas/V150_2"
-        },
-        {
-          "id": "https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493",
-          "author": null,
-          "description": "Comments",
-          "link": "https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493",
-          "publishedOn": "2023-02-08T21:55:32.000Z",
-          "wordCount": null,
-          "title": "Twitter starts limiting how many tweets you can post per day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linaro.org/blog/top-byte-ignore-for-fun-and-memory-savings/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.linaro.org/blog/top-byte-ignore-for-fun-and-memory-savings/",
-          "publishedOn": "2023-02-08T21:31:49.000Z",
-          "wordCount": 3613,
-          "title": "Top byte ignore for fun and memory savings",
-          "imageUrl": "https://www.linaro.org/assets/images/content/Code_Image_Core_tech.jpg"
-        },
-        {
-          "id": "https://stackoverflow.gg/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://stackoverflow.gg/",
-          "publishedOn": "2023-02-08T20:58:47.000Z",
-          "wordCount": 11,
-          "title": "Show HN: StackOverflow.gg – AI-generated answers to every coding question",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end",
-          "publishedOn": "2023-02-08T20:57:27.000Z",
-          "wordCount": 15230,
-          "title": "Is Google’s 20-year search dominance about to end?",
-          "imageUrl": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230211_WBD002.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2023/02/08/science/giant-penguin-fossil.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2023/02/08/science/giant-penguin-fossil.html",
-          "publishedOn": "2023-02-08T20:28:27.000Z",
-          "wordCount": null,
-          "title": "The Biggest Penguin That Ever Existed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nih.gov/news-events/nih-research-matters/probiotic-blocks-staph-bacteria-colonizing-people",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nih.gov/news-events/nih-research-matters/probiotic-blocks-staph-bacteria-colonizing-people",
-          "publishedOn": "2023-02-08T19:25:51.000Z",
-          "wordCount": 1511,
-          "title": "Probiotic blocks staph bacteria from colonizing people",
-          "imageUrl": "https://www.nih.gov/sites/default/files/news-events/research-matters/2023/20230207-staphylococcus.jpg"
-        },
-        {
-          "id": "https://videovillage.co/filmbox/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://videovillage.co/filmbox/",
-          "publishedOn": "2023-02-08T19:13:06.000Z",
-          "wordCount": 450,
-          "title": "Show HN: Filmbox, physically accurate film emulation, now on Linux and Windows",
-          "imageUrl": "https://videovillage.co/images/filmbox/og-d9d1462f.jpg"
-        },
-        {
-          "id": "https://www.nist.gov/news-events/news/2023/02/nist-selects-lightweight-cryptography-algorithms-protect-small-devices",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nist.gov/news-events/news/2023/02/nist-selects-lightweight-cryptography-algorithms-protect-small-devices",
-          "publishedOn": "2023-02-08T18:44:56.000Z",
-          "wordCount": 2348,
-          "title": "NIST selects ‘lightweight cryptography’ algorithms to protect small devices",
-          "imageUrl": "https://www.nist.gov/sites/default/files/images/2023/02/06/23TL001_update-lightweight_2_cryptography-2.jpg"
-        },
-        {
-          "id": "https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/",
-          "publishedOn": "2023-02-08T17:34:31.000Z",
-          "wordCount": 3786,
-          "title": "OpenSSH Pre-Auth Double Free – Writeup and Proof-of-Concept",
-          "imageUrl": "https://media.jfrog.com/wp-content/uploads/2023/02/08165719/CVE-2023-25136-Writeup-and-PoC-1200x628_1A.png"
-        },
-        {
-          "id": "https://tidyfirst.substack.com/p/signaling-cooperation-employees-dilemma",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tidyfirst.substack.com/p/signaling-cooperation-employees-dilemma",
-          "publishedOn": "2023-02-08T17:05:48.000Z",
-          "wordCount": 3030,
-          "title": "Boss' Dilemma: Taking Responsibility Signals Cooperation",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c3520bb-9305-440c-b1e4-1007d63951f7_1606x968.png"
-        },
-        {
-          "id": "https://www.easypost.com/careers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.easypost.com/careers",
-          "publishedOn": "2023-02-08T17:00:42.000Z",
-          "wordCount": 673,
-          "title": "EasyPost (YC S13) Is Hiring",
-          "imageUrl": "https://assets.easypost.com/assets/images/branding/easypost-primary-icon-padded.6a22a90d555729459c61b33d4cfe29e4.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34710830",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=34710830",
-          "publishedOn": "2023-02-08T16:52:44.000Z",
-          "wordCount": 14758,
-          "title": "Ask HN: How do you deal with information and internet addiction?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ucr.edu/articles/2023/02/07/fungi-and-bacteria-are-binging-burned-soil",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ucr.edu/articles/2023/02/07/fungi-and-bacteria-are-binging-burned-soil",
-          "publishedOn": "2023-02-08T16:46:26.000Z",
-          "wordCount": 1190,
-          "title": "Fungi and bacteria are binging on burned soil",
-          "imageUrl": "https://news.ucr.edu/sites/default/files/2022-03/holyfirepeteandkobe.jpg"
         }
       ]
     },
@@ -9333,21 +9323,6 @@
             "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-021423-1-1200x630.jpg"
           },
           "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-021423-1-1200x630.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/article/technology/2023/green-hydrogen-latin-america",
-          "author": "Pablo Fonseca Q.",
-          "description": "In anticipation of future demand, several projects are underway in the region to produce this clean energy source",
-          "link": "https://knowablemagazine.org/article/technology/2023/green-hydrogen-latin-america",
-          "publishedOn": "2023-02-09T15:00:00.000Z",
-          "wordCount": null,
-          "title": "The rise of green hydrogen in Latin America",
-          "enclosure": {
-            "type": "image/jpeg",
-            "length": "115717",
-            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-020723-2-1200x630.jpg"
-          },
-          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-020723-2-1200x630.jpg"
         }
       ]
     },
@@ -9356,6 +9331,26 @@
       "feedUrl": "http://livingthing.danmackinlay.name/feeds/all.atom.xml",
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
+        {
+          "id": "https://danmackinlay.name/notebook/feed_readers.html",
+          "author": null,
+          "description": "Feed discovery\nFeed readers\n\nFraidycat\nFeedly\nNewsblur\nInoreader\nFeeder\nThe Old Reader\nFeedbin\nBazqux\nNetnewswire\n\nBonus time: DIY feed reader servers\nCreating feeds from sites that don’t have them\n\nUpon the efficient consumption and summarizing of news from around the world.\nRemember feeds? From when we though the internet would provide us timely, pertinent information from around the world on our topics of interest?\nWhen our information streams were not about your aunt’s conspiracy theory memes on a social media feed, but curated lists of expert opinion?\nNo? Did you miss that bit of internet discussion.\nPerhaps a picture best explains it in that case.\n\nThis is the view from my current feed reader of my favourite information sources, showing the freshest updates across the internet.\nI hav…",
+          "link": "https://danmackinlay.name/notebook/feed_readers.html",
+          "publishedOn": "2023-03-11T01:38:21.000Z",
+          "wordCount": 1780,
+          "title": "Feed readers",
+          "imageUrl": "https://danmackinlay.name/images/ticker.webp"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/hugo.html",
+          "author": null,
+          "description": "Hugo sucks at mathematics\nHugo citations\nvia quarto\nfrontends\n\nsite.js\nSkeletron\nCaddy\n\nEvents calendar\nRemote content\n\nthe eponymous Hugo\nhugo is a static site generator which I happen find amenable sometimes.\nIts documentation is confusing and abstruse sometimes.\nI mostly use it at a backend for blogdown but it is useful for other sites.\nPluses:\nfast (build times are quick)\ncompact (does not install hundreds of megabytes of crap when you run it like most node.js-based ones)\nsort of easy, in that I do not need to learn to write javascript components to do basic stuff\npowerful shortcodes to do formatting stunts\ndeep integration of markdown processing\nmany community plugins\nMinuses:\ndocumentation confusing and abstruse\nmathematics support is a dumpster fire\nwhen hugo is used as a backend to…",
+          "link": "https://danmackinlay.name/notebook/hugo.html",
+          "publishedOn": "2023-03-11T01:37:15.000Z",
+          "wordCount": 898,
+          "title": "Hugo",
+          "imageUrl": "https://danmackinlay.name/images/sultry_grundies_man.webp"
+        },
         {
           "id": "https://danmackinlay.name/notebook/markdown_editors.html",
           "author": null,
@@ -9485,6 +9480,16 @@
           "wordCount": 1363,
           "title": "Scheduling jobs on HPC clusters for modern ML nerds",
           "imageUrl": "https://danmackinlay.name/images/festina_lente.png"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/online_whiteboards.html",
+          "author": null,
+          "description": "Excalidraw\nFreeform\nFigjam\nMathcha\nMiscellaneous options\nPoint a camera at a physical whiteboard\nOther deliberation tools\n\nOnline collaborative drawing, for, e.g. doing mathematics online or general diagrams.\nMany tools claim to do this, but I have not managed to have a truly satisfactory experience yet, although I have committed not much time to it.\nI was hoping for a slam-dunk best option.\nI suspect that most of the options are going to need some kind of stylus input to be any use, at least for the writing-heavy workflows I care about.\nHere are some candidates.\nExcalidraw\nAn open source option that promises collaboration and end-to-end encryption is Excalidraw\n(source.)\nVirtual whiteboard for sketching hand-drawn like diagrams.\nCollaborative and end-to-end encrypted.\nThis has little spec…",
+          "link": "https://danmackinlay.name/notebook/online_whiteboards.html",
+          "publishedOn": "2023-02-27T01:09:10.000Z",
+          "wordCount": 805,
+          "title": "Online whiteboards",
+          "imageUrl": "https://danmackinlay.name/images/blackboard_sealife.webp"
         },
         {
           "id": "https://danmackinlay.name/notebook/incoming.html",
@@ -9705,56 +9710,6 @@
           "wordCount": 1670,
           "title": "Hydrology, applied",
           "imageUrl": "https://danmackinlay.name/images/ceara_drought_refugees.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/innovation_diffusion.html",
-          "author": null,
-          "description": "Incoming\nReferences\nPlaceholder.\nModels such as the Bass diffusion model impose an epidemiological structure on the contagion of products, with a survival analysis flavour.\nOr, if you’d like, memetics but for technical ideas rather than beliefs.\n\nIncoming\nGetting The Word Out—by Steven Johnson\nI wrote about the disappointing—though I suppose not surprising—lack of coverage of the death of Dilip Mahalanabis, the Bangladeshi doctor who played a critical role in popularizing Oral Rehydration Therapy, the amazingly simply medical intervention that has saved millions of lives around the world over the past fifty years.\nI noted that as far as I could tell, no mainstream news organization outside of India had run so much as a brief obituary of Mahalanabis, despite the heroic nature of his initial…",
-          "link": "https://danmackinlay.name/notebook/innovation_diffusion.html",
-          "publishedOn": "2023-02-09T11:45:28.000Z",
-          "wordCount": 1015,
-          "title": "Diffusion of innovations",
-          "imageUrl": "https://danmackinlay.name/images/snuff_monkey.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/shells.html",
-          "author": null,
-          "description": "Your list of horrible alternatives\n\nbash\nfish\nPowerShell\nnushell\ncrush\ndash\nzsh\ncosh\noils\nxonsh\nPlumbum\nElvish\nneugram\n\nGeneral tips\n\nSwitching shells\nNext-level piping\n\nRealistically you’re using bash; now what?\n\nThe only thing worse than shell scripting is doing without shell scripting.\nHalf a century on and we are still not great at bespoke automation of tasks.\nThe best option is to have a grad student or an intern to do things for you;\nbut what if you are the grad student or the intern?\nUnix-esque (i.e. POSIX.2) shell scripting is one passable methods for automation of some tasks for those without underpaid human assistants.\nIt is universally available, or at least nearly so, and indeed useful.\nExcept the problem is that shell scripting is a ghastly quagmire of chaos, and, as usual, fo…",
-          "link": "https://danmackinlay.name/notebook/shells.html",
-          "publishedOn": "2023-02-09T11:44:02.000Z",
-          "wordCount": 1333,
-          "title": "Shells",
-          "imageUrl": "https://danmackinlay.name/images/two_tortoises.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/nn_bayes_last_layer.html",
-          "author": null,
-          "description": "Last layer by (generalised) Bayesian linear regression\nLast Layer Laplace\nLast layer ensemble\nReferences\n\na.k.a. Neural Linear models.\nNot a universal approximator in regression problems although they can be for classification (Sharma et al. 2022).\nLast layer by (generalised) Bayesian linear regression\nClassic in the modern setting: Snoek et al. (2015).\nThis looks interesting: Weber et al. (2018)\nWe propose a new method for training neural networks online in a bandit setting.\nSimilar to prior work, we model the uncertainty only in the last layer of the network,\ntreating the rest of the network as a feature extractor. This allows us to successfully\nbalance between exploration and exploitation due to the efficient, closed-form\nuncertainty estimates available for linear models. To train the r…",
-          "link": "https://danmackinlay.name/notebook/nn_bayes_last_layer.html",
-          "publishedOn": "2023-02-09T04:44:28.000Z",
-          "wordCount": 881,
-          "title": "Last-layer Bayes neural nets",
-          "imageUrl": "https://danmackinlay.name/images/crystallography_1957.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/nn_bayes_subnet.html",
-          "author": null,
-          "description": "Is this even principled?\nHow to update a deterministic parameter?\nLast layer\nReferences\n\nBayes NNs where only some weights are random and others are fixed.\nThis raises various difficulties — how to you update a fixed parameter?\nIs this even principled?\nSharma et al. (2022)\nHow to update a deterministic parameter?\nFRom the perspective of bayes, parameters we do not update have zero variance.\nAnd yet we do update them by SGD.\nWhat does that mean? How can we make that statistically well-posed?\nLast layer\nThe most famous one.\nSee Bayes last layer.\nReferences\n“Bayesian Deep Learning via Subnetwork Inference.” In Proceedings of the 38th International Conference on Machine Learning, 2510–21. PMLR.\n\n\nDaxberger, Erik, Eric Nalisnick, James Urquhart Allingham, Javier Antoran, and Jose Miguel Hernandez-Lobato. 2020. “Expressive yet Tractable Bayesian Deep Learning via Subnetwork Inference.” In.\n\n\nIzmailov, Pavel, Wesley J. Maddox, Polina Kirichenko, Timur Garipov, Dmitry Vetrov, and Andrew Gordon Wilson. 2020. “Subspace Inference for Bayesian Deep Learning.” In Proceedings of The 35th Uncertainty in Artificial Intelligence Conference, 1169–79. PMLR.\n\n\nKe, Xiongwen, and Yanan Fan. 2022. “On the Optimization and Pruning for Bayesian Deep Learning.” arXiv.\n\n\nSharma, Mrinank, Sebastian Farquhar, Eric Nalisnick, and Tom Rainforth. 2022. “Do Bayesian Neural Networks Need To Be Fully Stochastic?” arXiv.\n\n\nTran, M.-N., N. Nguyen, D. Nott, and R. Kohn. 2019. “Bayesian Deep Net GLM and GLMM.” Journal of Computational and Graphical Statistics 29 (ja): 1–40.",
-          "link": "https://danmackinlay.name/notebook/nn_bayes_subnet.html",
-          "publishedOn": "2023-02-09T04:44:28.000Z",
-          "wordCount": 531,
-          "title": "Bayes neural nets via subsetting weights",
-          "imageUrl": "https://danmackinlay.name/images/inverse_blocks.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/predictive_coding.html",
-          "author": null,
-          "description": "Layperson intros\n“Free energy principle”\nActual predictions about minds arising from predictive coding models\n\nDark room problem\n\nComputable\nIncoming\nReferences\n\nMaybe related (?) prediction processes.\nTo learn: Is this what the information-dynamics folks are wondering about also, e.g. Ay et al. (2008) or Tishby and Polani (2011)?\nPerhaps this overvew of different brain models will place it in context:\nNeural Annealing: Toward a Neural Theory of Everything.\nThere is some interesting hype in this area, along the lines of understanding biological learning as machine learning:\nPredictive Coding has been Unified with Backpropagation, concerning Millidge, Tschantz, and Buckley (2020b)..\nI have not read the article or the explanation properly, but at first glance it indicates that perhaps I do n…",
-          "link": "https://danmackinlay.name/notebook/predictive_coding.html",
-          "publishedOn": "2023-02-09T00:11:37.000Z",
-          "wordCount": 1857,
-          "title": "Predictive coding",
-          "imageUrl": "https://danmackinlay.name/images/mongoose_cobra.webp"
         }
       ]
     },
@@ -9763,6 +9718,26 @@
       "feedUrl": "http://news.google.com/news?hl=en&output=rss&q=Google+NZ+blog&cf=all&num=30",
       "siteUrl": "https://news.google.com/search?hl=en-US&q=Google+NZ+blog&cf=all&num=30&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiNWh0dHBzOi8vd3d3LndtbmYub3JnL2EtY29udmVyc2F0aW9uLXdpdGgtamFzb24teWFtYXMv0gEA",
+          "author": null,
+          "description": "A Conversation With Jason Yamas - WMNF  WMNF",
+          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LndtbmYub3JnL2EtY29udmVyc2F0aW9uLXdpdGgtamFzb24teWFtYXMv0gEA?oc=5",
+          "publishedOn": "2023-03-10T16:14:55.000Z",
+          "wordCount": 6138,
+          "title": "A Conversation With Jason Yamas - WMNF - WMNF",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMifGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbW9uZXkvc2F2aW5nYW5kaW52ZXN0aW5nL2hvdy1jYW4taS1pbnZlc3QtZG9sbGFyMTAwMDAtYW5kLXR1cm4taXQtaW50by1ldmVuLW1vcmUtbW9uZXkvYXItQUExNVZJQWrSAQA",
+          "author": null,
+          "description": "How Can I Invest $10,000 And Turn It Into Even More Money?  msnNOW",
+          "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbW9uZXkvc2F2aW5nYW5kaW52ZXN0aW5nL2hvdy1jYW4taS1pbnZlc3QtZG9sbGFyMTAwMDAtYW5kLXR1cm4taXQtaW50by1ldmVuLW1vcmUtbW9uZXkvYXItQUExNVZJQWrSAQA?oc=5",
+          "publishedOn": "2023-03-10T14:00:47.000Z",
+          "wordCount": 6138,
+          "title": "How Can I Invest $10,000 And Turn It Into Even More Money? - msnNOW",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiTWh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDMvMDkvdGhlLWRhaWx5LWJsb2ctb3Blbi1taWMtOXRoLW1hcmNoLTIwMjMv0gEA",
           "author": null,
@@ -10371,66 +10346,6 @@
           "publishedOn": "2023-02-09T18:12:48.000Z",
           "wordCount": 6069,
           "title": "Open Mic – 10th February 2023 | The Daily Blog - thedailyblog.co.nz",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vd3d3LnByZGFpbHkuY29tL25ldGZsaXgtY3JlYXRlcy1tb3JlLWNvbmZ1c2lvbi1nb29nbGVzLWFpLWNvc3RzLWNvbXBhbnktMTAwbS1hbmQtbW9yZS_SAQA",
-          "author": null,
-          "description": "Netflix creates more confusion, Google’s AI costs company $100B ...  PR Daily",
-          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnByZGFpbHkuY29tL25ldGZsaXgtY3JlYXRlcy1tb3JlLWNvbmZ1c2lvbi1nb29nbGVzLWFpLWNvc3RzLWNvbXBhbnktMTAwbS1hbmQtbW9yZS_SAQA?oc=5",
-          "publishedOn": "2023-02-09T15:59:20.000Z",
-          "wordCount": 6069,
-          "title": "Netflix creates more confusion, Google’s AI costs company $100B ... - PR Daily",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieWh0dHBzOi8vc2VhcmNoZW5naW5lbGFuZC5jb20vNi1uZXctbWljcm9zb2Z0LWFkcy11cGRhdGVzLWluY2x1ZGluZy1kYXRhLWV4Y2x1c2lvbnMtYW5kLWluLW1hcmtldC1hdWRpZW5jZS1zZWdtZW50cy0zOTI5MjjSAQA",
-          "author": null,
-          "description": "6 new Microsoft Ads updates, including data exclusions and in ...  Search Engine Land",
-          "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vc2VhcmNoZW5naW5lbGFuZC5jb20vNi1uZXctbWljcm9zb2Z0LWFkcy11cGRhdGVzLWluY2x1ZGluZy1kYXRhLWV4Y2x1c2lvbnMtYW5kLWluLW1hcmtldC1hdWRpZW5jZS1zZWdtZW50cy0zOTI5MjjSAQA?oc=5",
-          "publishedOn": "2023-02-09T15:06:00.000Z",
-          "wordCount": 6069,
-          "title": "6 new Microsoft Ads updates, including data exclusions and in ... - Search Engine Land",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiAFodHRwczovL3d3dy50aGVkYWlseXN0YXIubmV0L3RlY2gtc3RhcnR1cC9zY2llbmNlLWdhZGdldHMtYW5kLXRlY2gvdGVjaC1uZXdzL25ld3MvZGlzbmV5LWxheXMtNzAwMC1lbXBsb3llZXMtc3Vic2NyaWJlcnMtZGVjbGluZS0zMjQzMTE20gGMAWh0dHBzOi8vd3d3LnRoZWRhaWx5c3Rhci5uZXQvdGVjaC1zdGFydHVwL3NjaWVuY2UtZ2FkZ2V0cy1hbmQtdGVjaC90ZWNoLW5ld3MvbmV3cy9kaXNuZXktbGF5cy03MDAwLWVtcGxveWVlcy1zdWJzY3JpYmVycy1kZWNsaW5lLTMyNDMxMTY_YW1w",
-          "author": null,
-          "description": "Disney lays off 7,000 employees as subscribers decline  The Daily Star",
-          "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy50aGVkYWlseXN0YXIubmV0L3RlY2gtc3RhcnR1cC9zY2llbmNlLWdhZGdldHMtYW5kLXRlY2gvdGVjaC1uZXdzL25ld3MvZGlzbmV5LWxheXMtNzAwMC1lbXBsb3llZXMtc3Vic2NyaWJlcnMtZGVjbGluZS0zMjQzMTE20gGMAWh0dHBzOi8vd3d3LnRoZWRhaWx5c3Rhci5uZXQvdGVjaC1zdGFydHVwL3NjaWVuY2UtZ2FkZ2V0cy1hbmQtdGVjaC90ZWNoLW5ld3MvbmV3cy9kaXNuZXktbGF5cy03MDAwLWVtcGxveWVlcy1zdWJzY3JpYmVycy1kZWNsaW5lLTMyNDMxMTY_YW1w?oc=5",
-          "publishedOn": "2023-02-09T03:22:41.000Z",
-          "wordCount": 6208,
-          "title": "Disney lays off 7,000 employees as subscribers decline - The Daily Star",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ2h0dHBzOi8vd3d3Lm5ld3NodWIuY28ubnovaG9tZS90ZWNobm9sb2d5LzIwMjMvMDIvZ29vZ2xlLWRldGFpbHMtcGxhbnMtdG8tdXNlLWFpLWluLXNlYXJjaC1yZXN1bHRzLmh0bWzSAWtodHRwczovL3d3dy5uZXdzaHViLmNvLm56L2hvbWUvdGVjaG5vbG9neS8yMDIzLzAyL2dvb2dsZS1kZXRhaWxzLXBsYW5zLXRvLXVzZS1haS1pbi1zZWFyY2gtcmVzdWx0cy5hbXAuaHRtbA",
-          "author": null,
-          "description": "Google details plans to use AI in search results  Newshub",
-          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5ld3NodWIuY28ubnovaG9tZS90ZWNobm9sb2d5LzIwMjMvMDIvZ29vZ2xlLWRldGFpbHMtcGxhbnMtdG8tdXNlLWFpLWluLXNlYXJjaC1yZXN1bHRzLmh0bWzSAWtodHRwczovL3d3dy5uZXdzaHViLmNvLm56L2hvbWUvdGVjaG5vbG9neS8yMDIzLzAyL2dvb2dsZS1kZXRhaWxzLXBsYW5zLXRvLXVzZS1haS1pbi1zZWFyY2gtcmVzdWx0cy5hbXAuaHRtbA?oc=5",
-          "publishedOn": "2023-02-08T22:51:07.000Z",
-          "wordCount": 6069,
-          "title": "Google details plans to use AI in search results - Newshub",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUGh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDIvMDkvdGhlLWRhaWx5LWJsb2ctb3Blbi1taWMtOXRoLWZlYnJ1YXJ5LTIwMjMv0gEA",
-          "author": null,
-          "description": "Open Mic – 9th February 2023 | The Daily Blog  thedailyblog.co.nz",
-          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDIvMDkvdGhlLWRhaWx5LWJsb2ctb3Blbi1taWMtOXRoLWZlYnJ1YXJ5LTIwMjMv0gEA?oc=5",
-          "publishedOn": "2023-02-08T20:03:29.000Z",
-          "wordCount": 6208,
-          "title": "Open Mic – 9th February 2023 | The Daily Blog - thedailyblog.co.nz",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ2h0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzMwMDgwMjYxNy9haS1jaGF0Ym90LXJhY2UtYmV0d2Vlbi1taWNyb3NvZnQtZ29vZ2xlLWlzLWxvYWRlZC13aXRoLXJpc2vSAQA",
-          "author": null,
-          "description": "AI chatbot race between Microsoft, Google is loaded with risk  Stuff",
-          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzMwMDgwMjYxNy9haS1jaGF0Ym90LXJhY2UtYmV0d2Vlbi1taWNyb3NvZnQtZ29vZ2xlLWlzLWxvYWRlZC13aXRoLXJpc2vSAQA?oc=5",
-          "publishedOn": "2023-02-08T19:27:00.000Z",
-          "wordCount": 6208,
-          "title": "AI chatbot race between Microsoft, Google is loaded with risk - Stuff",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
