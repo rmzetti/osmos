@@ -29,6 +29,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Practical guidelines to prevent rage taps and rage clicks with accessible tap targets for icons, links and buttons — on desktop and on mobile. With useful techniques and guidelines.",
+          "link": "https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/",
+          "publishedOn": "2023-04-27T12:00:00.000Z",
+          "wordCount": 4119,
+          "title": "Accessible Target Sizes Cheatsheet",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/accessible-tap-target-sizes-rage-taps-clicks/accessible-tap-target-sizes-rage-taps-clicks.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/accessible-tap-target-sizes-rage-taps-clicks/accessible-tap-target-sizes-rage-taps-clicks.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/04/ux-web3-mass-adoption/",
           "author": "hello@smashingmagazine.com (Pete Boyle)",
           "description": "The decentralized web is our new reality, but Web3 UX is shockingly bad. In this article, Pete Boyle addresses the major shortcomings in Web3 adoption and how we might be able to solve them and make the entire ecosystem more user-friendly.",
@@ -207,21 +222,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/organizing-design-workshops-checklist/organizing-design-workshops-checklist.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/",
-          "author": "hello@smashingmagazine.com (Atila Fassina)",
-          "description": "Dealing with sensitive data is an important topic for any app. In this article, you will find out how to handle sensitive or confidential information in your apps and what Row-Level Security means.",
-          "link": "https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/",
-          "publishedOn": "2023-03-29T12:00:00.000Z",
-          "wordCount": 3730,
-          "title": "Fine-Grained Access Handling And Data Management With Row-Level Security",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/access-handling-data-management-row-level-security/access-handling-data-management-row-level-security.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/access-handling-data-management-row-level-security/access-handling-data-management-row-level-security.jpg"
         }
       ]
     },
@@ -230,6 +230,196 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://pytorch.org/blog/introducing-hidet/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pytorch.org/blog/introducing-hidet/",
+          "publishedOn": "2023-04-28T03:47:38.000Z",
+          "wordCount": 1403,
+          "title": "Hidet: A Deep Learning Compiler for Efficient Model Serving",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
+          "id": "https://www.wsj.com/articles/europe-to-chatgpt-disclose-your-sources-863ef330",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/articles/europe-to-chatgpt-disclose-your-sources-863ef330",
+          "publishedOn": "2023-04-28T01:29:34.000Z",
+          "wordCount": 8163,
+          "title": "Europe to ChatGPT: disclose your sources",
+          "imageUrl": "https://images.wsj.net/im-770849/social"
+        },
+        {
+          "id": "https://blog.flipperzero.one/1-month-battery-life-with-firmware-update/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.flipperzero.one/1-month-battery-life-with-firmware-update/",
+          "publishedOn": "2023-04-27T22:40:04.000Z",
+          "wordCount": 2866,
+          "title": "FlipperZero: 1 Month Battery Life with Firmware Update",
+          "imageUrl": "https://blog.flipperzero.one/content/images/2023/04/flipper_zero_1month_batter_life_firmware_update.jpg"
+        },
+        {
+          "id": "https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/",
+          "publishedOn": "2023-04-27T21:53:08.000Z",
+          "wordCount": 1704,
+          "title": "Year of the Voice – Chapter 2: Let&#x27;s talk",
+          "imageUrl": "https://www.home-assistant.io/images/blog/2023-04-27-year-of-the-voice-chapter-2/social.png"
+        },
+        {
+          "id": "https://mattboegner.com/knowledge-retrieval-architecture-for-llms/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mattboegner.com/knowledge-retrieval-architecture-for-llms/",
+          "publishedOn": "2023-04-27T21:13:16.000Z",
+          "wordCount": 2245,
+          "title": "Current architectural best practices for LLM applications",
+          "imageUrl": "https://mattboegner.com/content/images/2023/01/featured-image-llm-knowledge-architecture.png"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer",
+          "publishedOn": "2023-04-27T21:00:57.000Z",
+          "wordCount": 3020,
+          "title": "Firezone (YC W22) is hiring Rust systems engineers (SF &#x2F; US remote)",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://www.xtdb.com/v2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.xtdb.com/v2",
+          "publishedOn": "2023-04-27T19:42:17.000Z",
+          "wordCount": 2373,
+          "title": "XTDB 2.x Early Access",
+          "imageUrl": "https://xtdb.com/images/social-default.png"
+        },
+        {
+          "id": "https://github.com/dynobo/normcap",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/dynobo/normcap",
+          "publishedOn": "2023-04-27T19:41:23.000Z",
+          "wordCount": 1030,
+          "title": "NormCap: OCR powered screen-capture tool",
+          "imageUrl": "https://opengraph.githubassets.com/a923d947568dfe538bdeed169a3bc8e9f63e5d9ded65327a96220dd66f1d6818/dynobo/normcap"
+        },
+        {
+          "id": "https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330",
+          "publishedOn": "2023-04-27T19:16:45.000Z",
+          "wordCount": 2777,
+          "title": "New nanoparticles can perform gene editing in the lungs",
+          "imageUrl": "https://news.mit.edu/sites/default/files/images/202303/MIT-Lung-RNA-Delivery-01-PRESS.jpg"
+        },
+        {
+          "id": "https://docs.flux.ai/tutorials/ai-for-hardware-design",
+          "author": null,
+          "description": "Comments",
+          "link": "https://docs.flux.ai/tutorials/ai-for-hardware-design",
+          "publishedOn": "2023-04-27T17:55:03.000Z",
+          "wordCount": 335,
+          "title": "ChatGPT for Hardware Design",
+          "imageUrl": null
+        },
+        {
+          "id": "https://austinhenley.com/blog/futureofprogramming2023.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://austinhenley.com/blog/futureofprogramming2023.html",
+          "publishedOn": "2023-04-27T17:26:18.000Z",
+          "wordCount": 590,
+          "title": "The future of programming: Research at CHI 2023",
+          "imageUrl": "https://austinhenley.com/blog/images/academicconference.png"
+        },
+        {
+          "id": "https://www.apple.com/legal/more-resources/dsa/mt/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.apple.com/legal/more-resources/dsa/mt/",
+          "publishedOn": "2023-04-27T17:11:23.000Z",
+          "wordCount": 2657,
+          "title": "Apple Releases App Store Monthly Active User Counts for EU to Comply with DSA",
+          "imageUrl": "https://www.apple.com/legal/images/open_graph_logo.png"
+        },
+        {
+          "id": "https://dfns.dyalog.com/n_Graphs.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dfns.dyalog.com/n_Graphs.htm",
+          "publishedOn": "2023-04-27T17:02:08.000Z",
+          "wordCount": 2917,
+          "title": "Dyalog APL Graphs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/",
+          "publishedOn": "2023-04-27T16:40:50.000Z",
+          "wordCount": 3927,
+          "title": "Hotspot performance engineering fails",
+          "imageUrl": "https://lemire.me/img/portrait2018facebook.jpg"
+        },
+        {
+          "id": "https://brave.com/search-independence/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brave.com/search-independence/",
+          "publishedOn": "2023-04-27T16:37:55.000Z",
+          "wordCount": 2036,
+          "title": "Every web search result in Brave Search is now served by our own index",
+          "imageUrl": null
+        },
+        {
+          "id": "https://electronics.stackexchange.com/questions/664502/using-clothesline-steel-core-wire-rope-for-ac-and-dc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://electronics.stackexchange.com/questions/664502/using-clothesline-steel-core-wire-rope-for-ac-and-dc",
+          "publishedOn": "2023-04-27T16:01:16.000Z",
+          "wordCount": 4651,
+          "title": "As I am currently in a war zone, I don&#x27;t have many options for cabling",
+          "imageUrl": "https://cdn.sstatic.net/Sites/electronics/Img/apple-touch-icon@2.png?v=7b89fddaa66b"
+        },
+        {
+          "id": "https://arstechnica.com/tech-policy/2023/04/colorado-governor-signs-tractor-right-to-repair-law-opposed-by-john-deere/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/tech-policy/2023/04/colorado-governor-signs-tractor-right-to-repair-law-opposed-by-john-deere/",
+          "publishedOn": "2023-04-27T15:26:59.000Z",
+          "wordCount": 1850,
+          "title": "Colorado governor signs tractor right-to-repair law opposed by John Deere",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/getty-tractor-760x380.jpg"
+        },
+        {
+          "id": "https://github.com/moul/quicssh",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/moul/quicssh",
+          "publishedOn": "2023-04-27T15:06:37.000Z",
+          "wordCount": 870,
+          "title": "Quicssh: SSH over QUIC",
+          "imageUrl": "https://opengraph.githubassets.com/1355af560d861bc294d73a5bce6053e9a65a5b1bfb1c46cc7a685dfb0df4b9f1/moul/quicssh"
+        },
+        {
+          "id": "https://blog.datomic.com/2023/04/datomic-is-free.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.datomic.com/2023/04/datomic-is-free.html",
+          "publishedOn": "2023-04-27T13:40:47.000Z",
+          "wordCount": 436,
+          "title": "Datomic is Free",
+          "imageUrl": null
+        },
         {
           "id": "https://gitlab.digilol.net/Siren/vgtu-article/-/blob/4a34721d392b856f26956a9e185e4d8c5371d27d/vgtu.md",
           "author": null,
@@ -319,6 +509,16 @@
           "wordCount": 4014,
           "title": "Google contractors vote to unionize in historic landslide election",
           "imageUrl": "https://s.hdnux.com/photos/01/32/37/57/23722953/3/rawImage.jpg"
+        },
+        {
+          "id": "https://observablehq.com/plot",
+          "author": null,
+          "description": "Comments",
+          "link": "https://observablehq.com/plot",
+          "publishedOn": "2023-04-26T22:40:37.000Z",
+          "wordCount": 208,
+          "title": "Observable Plot: The JavaScript library for exploratory data visualization",
+          "imageUrl": "https://static.observableusercontent.com/thumbnail/64f414fef8a91248865f5759641b0cf537bc87c0aaf57dc368ffe673013eccaa.jpg"
         },
         {
           "id": "https://slate.com/business/2023/04/cars-buttons-touchscreens-vw-porsche-nissan-hyundai.html",
@@ -461,6 +661,66 @@
           "imageUrl": "https://uploads-ssl.webflow.com/63cb480c27e7bc98c7ec69cf/63f72ffeb1dbda52931dd114_Nango-oauth-maze.jpg"
         },
         {
+          "id": "https://www.experimental-history.com/p/science-is-a-strong-link-problem",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.experimental-history.com/p/science-is-a-strong-link-problem",
+          "publishedOn": "2023-04-26T12:37:25.000Z",
+          "wordCount": 7021,
+          "title": "Science is a strong-link problem",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c023909-9571-43f0-bd01-681f89217e48_1717x673.jpeg"
+        },
+        {
+          "id": "https://scrapscript.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scrapscript.org/",
+          "publishedOn": "2023-04-26T11:45:38.000Z",
+          "wordCount": 1566,
+          "title": "Show HN: ScrapScript – A tiny functional language for sharable software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://essays.georgestrakhov.com/the-test-of-prometheus/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://essays.georgestrakhov.com/the-test-of-prometheus/",
+          "publishedOn": "2023-04-26T07:43:37.000Z",
+          "wordCount": 3855,
+          "title": "The Test of Prometheus",
+          "imageUrl": "https://essays.georgestrakhov.com/the-test-of-prometheus/img/two_dimensions_of_intelligence.jpg"
+        },
+        {
+          "id": "https://jewishreviewofbooks.com/jewish-history/13912/freud-as-talmudist/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jewishreviewofbooks.com/jewish-history/13912/freud-as-talmudist/",
+          "publishedOn": "2023-04-26T06:43:20.000Z",
+          "wordCount": 6496,
+          "title": "Freud as Talmudist",
+          "imageUrl": "https://jewishreviewofbooks.com/wp-content/uploads/2023/04/KirschFB-Twitter-1024x512-1.jpg"
+        },
+        {
+          "id": "https://increment.com/teams/the-epistemology-of-software-quality/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://increment.com/teams/the-epistemology-of-software-quality/",
+          "publishedOn": "2023-04-26T06:20:07.000Z",
+          "wordCount": 1896,
+          "title": "The Epistemology of Software Quality",
+          "imageUrl": "https://images.ctfassets.net/3njn2qm7rrbs/55VQNXd3oTavQf9v5yFzyV/6f722ecefb3dfe8992ac8e4087df4b04/cover-2000-262c98ca.jpeg?w=1000"
+        },
+        {
+          "id": "https://www.minidisc.org/mdlpfaq.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.minidisc.org/mdlpfaq.html",
+          "publishedOn": "2023-04-26T06:08:48.000Z",
+          "wordCount": 2584,
+          "title": "Minidisc FAQ: MDLP (“Long-Play”) Mode Topics",
+          "imageUrl": null
+        },
+        {
           "id": "https://silverhammermba.github.io/blog/2023/01/06/gradle",
           "author": null,
           "description": "Comments",
@@ -479,6 +739,16 @@
           "wordCount": 4181,
           "title": "How to use Podman inside of a container",
           "imageUrl": "https://www.redhat.com/sysadmin/sites/default/files/styles/google_discover/public/2021-03/container-in-container-podman.jpg?itok=NiPfzTkW"
+        },
+        {
+          "id": "https://www.laphamsquarterly.org/sea/winelike-sea",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.laphamsquarterly.org/sea/winelike-sea",
+          "publishedOn": "2023-04-26T03:00:08.000Z",
+          "wordCount": 4092,
+          "title": "A Winelike Sea",
+          "imageUrl": "https://www.laphamsquarterly.org/sites/default/files/styles/thumbnail/public/images/essay/seaheads.jpg?itok=t4x8aU0y"
         },
         {
           "id": "https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/",
@@ -539,6 +809,16 @@
           "wordCount": 873,
           "title": "Show HN: Neat – Minimalist CSS Framework",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/benjie-git/CardStock",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/benjie-git/CardStock",
+          "publishedOn": "2023-04-26T00:50:55.000Z",
+          "wordCount": 1659,
+          "title": "CardStock",
+          "imageUrl": "https://opengraph.githubassets.com/aa4e0cabcfbf3e7e26135ecb9f57fe1695c00e06442bd5863ab3025f32951206/benjie-git/CardStock"
         },
         {
           "id": "https://www.3blue1brown.com/lessons/prime-spirals",
@@ -761,6 +1041,16 @@
           "imageUrl": null
         },
         {
+          "id": "http://gmpg.org/xfn/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://gmpg.org/xfn/",
+          "publishedOn": "2023-04-25T08:23:23.000Z",
+          "wordCount": 300,
+          "title": "Xhtml Friends Network (2003)",
+          "imageUrl": null
+        },
+        {
           "id": "https://memgraph.com/blog/optimal-index-with-limited-information",
           "author": null,
           "description": "Comments",
@@ -798,6 +1088,16 @@
           "publishedOn": "2023-04-25T05:21:02.000Z",
           "wordCount": 982,
           "title": "Thinking about our passive exposure to IPv6 issues",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bloomberg.com/opinion/articles/2023-04-24/higher-oil-prices-means-wall-street-s-shale-investments-will-finally-pay-off",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/opinion/articles/2023-04-24/higher-oil-prices-means-wall-street-s-shale-investments-will-finally-pay-off",
+          "publishedOn": "2023-04-25T04:53:39.000Z",
+          "wordCount": 576,
+          "title": "Wall Street Is Finally Going to Make Money Off the Permian",
           "imageUrl": null
         },
         {
@@ -8729,356 +9029,6 @@
           "wordCount": 21958,
           "title": "Original Prusa MK4",
           "imageUrl": "https://cdn.prusa3d.com/content/images/product/default/5508.jpg"
-        },
-        {
-          "id": "https://github.com/pojntfx/go-nbd",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/pojntfx/go-nbd",
-          "publishedOn": "2023-03-29T16:23:21.000Z",
-          "wordCount": 1318,
-          "title": "Show HN: go-nbd – A Pure Go NBD Server and Client",
-          "imageUrl": "https://opengraph.githubassets.com/3fb54006eee79c107dafe8fefa9f41a495e3ccf871710d174bd18bb18e74a60b/pojntfx/go-nbd"
-        },
-        {
-          "id": "https://www.appsmith.com/blog/usage-based-pricing",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.appsmith.com/blog/usage-based-pricing",
-          "publishedOn": "2023-03-29T15:43:49.000Z",
-          "wordCount": 3849,
-          "title": "Our Shift to Usage-Based Pricing",
-          "imageUrl": "https://images.ctfassets.net/lpvian6u6i39/58oDcXnUgfMfTXkj4pOaqj/60a01b5b9d32213be1ff37eb4b87ffc7/Blog_Artwork_5_scales_2.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=35358873",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=35358873",
-          "publishedOn": "2023-03-29T15:43:36.000Z",
-          "wordCount": 4079,
-          "title": "Launch HN: Vocode (YC W23) – Library for voice conversation with LLMs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/Mirrorful/mirrorful",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Mirrorful/mirrorful",
-          "publishedOn": "2023-03-29T15:19:24.000Z",
-          "wordCount": 1500,
-          "title": "Show HN: Mirrorful – A developer-first way to implement designs faster",
-          "imageUrl": "https://repository-images.githubusercontent.com/602174942/f6b24fe9-4eb6-4620-9835-2f1e9f5459f9"
-        },
-        {
-          "id": "https://mitadmissions.org/blogs/entry/how-to-draw-dotted-lines-on-chalkboards-mit-style/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mitadmissions.org/blogs/entry/how-to-draw-dotted-lines-on-chalkboards-mit-style/",
-          "publishedOn": "2023-03-29T12:13:40.000Z",
-          "wordCount": 1995,
-          "title": "Chalk-manship: how to draw dotted lines on chalkboards, MIT style",
-          "imageUrl": "https://mitadmissions.org/wp-content/themes/mit-admissions-theme/static/img/mit-admissions-share.jpg"
-        },
-        {
-          "id": "https://arxiv.org/abs/1908.00490",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/1908.00490",
-          "publishedOn": "2023-03-29T11:18:39.000Z",
-          "wordCount": 832,
-          "title": "The “Terrascope”: On the Possibility of Using the Earth as an Atmospheric Lens",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://www.quantamagazine.org/mathematician-proves-huge-result-on-dangerous-problem-20191211",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/mathematician-proves-huge-result-on-dangerous-problem-20191211",
-          "publishedOn": "2023-03-29T11:13:04.000Z",
-          "wordCount": 7117,
-          "title": "Terence Tao makes progress on the Collatz conjecture (2019)",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/12/CollatzGraph_1200x630.jpg"
-        },
-        {
-          "id": "https://fs.blog/carl-braun-communicating/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fs.blog/carl-braun-communicating/",
-          "publishedOn": "2023-03-29T11:00:15.000Z",
-          "wordCount": 2567,
-          "title": "Carl Braun on communicating like a grown-up (2016)",
-          "imageUrl": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2016/03/Must-Maintain-The-Illusion-I-know-Evyerthing.jpg"
-        },
-        {
-          "id": "https://www.ietf.org/blog/mls-secure-and-usable-end-to-end-encryption/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ietf.org/blog/mls-secure-and-usable-end-to-end-encryption/",
-          "publishedOn": "2023-03-29T08:29:53.000Z",
-          "wordCount": 1259,
-          "title": "Messaging layer security: Secure and usable end-to-end encryption",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
-          "publishedOn": "2023-03-29T04:15:08.000Z",
-          "wordCount": 1707,
-          "title": "Text2Video-Zero Code and Weights Released by Picsart AI Research (12G VRAM)",
-          "imageUrl": "https://opengraph.githubassets.com/28051177fcd55b10d06481b7f365ae9881345dcd7d07f40eb22ecafbcf920371/Picsart-AI-Research/Text2Video-Zero"
-        },
-        {
-          "id": "https://www.eurekalert.org/news-releases/983050?",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.eurekalert.org/news-releases/983050?",
-          "publishedOn": "2023-03-29T03:39:51.000Z",
-          "wordCount": 2402,
-          "title": "Scientists discover why aspirin works so well",
-          "imageUrl": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a712e7c5-ba83-4641-8549-0a61d27548b1/Rendition/thumbnail/Content/Public"
-        },
-        {
-          "id": "https://skybrian.substack.com/p/generative-ai-is-good-at-cooperating",
-          "author": null,
-          "description": "Comments",
-          "link": "https://skybrian.substack.com/p/generative-ai-is-good-at-cooperating",
-          "publishedOn": "2023-03-29T03:23:29.000Z",
-          "wordCount": 2182,
-          "title": "Generative AI is good at cooperating with people and bad at full automation",
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fskybrian.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-117597592%26version%3D9"
-        },
-        {
-          "id": "https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21",
-          "publishedOn": "2023-03-29T03:09:24.000Z",
-          "wordCount": 7599,
-          "title": "Binance sees $2B in outflows as troubles compound",
-          "imageUrl": "https://images.wsj.net/im-752562/social"
-        },
-        {
-          "id": "https://twitter.com/cmuratori/status/1640827575437250561",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/cmuratori/status/1640827575437250561",
-          "publishedOn": "2023-03-29T03:02:42.000Z",
-          "wordCount": 509,
-          "title": "Modern software performance is firmly in its “beyond parody” stage",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theguardian.com/us-news/2023/mar/20/idaho-bonner-hospital-baby-delivery-abortion-ban",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theguardian.com/us-news/2023/mar/20/idaho-bonner-hospital-baby-delivery-abortion-ban",
-          "publishedOn": "2023-03-29T02:40:04.000Z",
-          "wordCount": 4673,
-          "title": "Idaho hospital to stop delivering babies as doctors flee over abortion ban",
-          "imageUrl": "https://i.guim.co.uk/img/media/37faa81bdfe01457d5955d0a9c9fbe63f0c9d7a9/0_52_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6de609848172cc1a0072b7319798e7b"
-        },
-        {
-          "id": "https://www.washingtonpost.com/obituaries/2023/03/28/william-wulf-internet-computers-dies/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.washingtonpost.com/obituaries/2023/03/28/william-wulf-internet-computers-dies/",
-          "publishedOn": "2023-03-29T02:35:10.000Z",
-          "wordCount": 9294,
-          "title": "William Wulf, computer pioneer who opened way for internet, dies at 83",
-          "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IRS7NKWPT5TJ4XF2EA2PXKMOVI.jpg&w=1440"
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Cantu_a_tenore",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Cantu_a_tenore",
-          "publishedOn": "2023-03-29T01:57:41.000Z",
-          "wordCount": 1859,
-          "title": "Cantu a tenore",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sardinia_Canto_a_tenores.jpg"
-        },
-        {
-          "id": "https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650",
-          "publishedOn": "2023-03-29T01:40:54.000Z",
-          "wordCount": 7856,
-          "title": "Disney Eliminates Its Metaverse Division",
-          "imageUrl": "https://images.wsj.net/im-752173/social"
-        },
-        {
-          "id": "https://libraria.dev/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://libraria.dev/",
-          "publishedOn": "2023-03-29T01:11:18.000Z",
-          "wordCount": 43,
-          "title": "Show HN: Customizable, embeddable Chat GPT based on your own documents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theverge.com/2023/3/23/23652939/framework-cooler-master-sff-pc-case",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theverge.com/2023/3/23/23652939/framework-cooler-master-sff-pc-case",
-          "publishedOn": "2023-03-29T00:33:06.000Z",
-          "wordCount": 8791,
-          "title": "$39 Cooler Master case turns your old Framework Laptop parts into a tiny PC",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/B0tpEz1QY4qHteoGXx93ybp6GWg=/0x0:1400x867/1200x628/filters:focal(700x434:701x435)/cdn.vox-cdn.com/uploads/chorus_asset/file/24530241/framework_cooler_master_case_01.jpg"
-        },
-        {
-          "id": "https://www.reuters.com/markets/us/us-fdic-tells-signature-banks-crypto-clients-close-accounts-by-april-5-2023-03-28/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/markets/us/us-fdic-tells-signature-banks-crypto-clients-close-accounts-by-april-5-2023-03-28/",
-          "publishedOn": "2023-03-29T00:08:26.000Z",
-          "wordCount": 3876,
-          "title": "U.S. FDIC tells Signature crypto clients to close accounts by April 5",
-          "imageUrl": "https://www.reuters.com/resizer/nUdvdwmD5bZaJKK85EposDJfqbA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VNCGXBTO45ND5ODLBJ4OXIBXHI.jpg"
-        },
-        {
-          "id": "https://github.com/nomic-ai/gpt4all",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/nomic-ai/gpt4all",
-          "publishedOn": "2023-03-28T23:31:09.000Z",
-          "wordCount": 1412,
-          "title": "Gpt4all: A chatbot trained on ~800k GPT-3.5-Turbo Generations based on LLaMa",
-          "imageUrl": "https://opengraph.githubassets.com/804fef5d8debb651b4b711773494aef021ea9448180f2b354ca19664f2cb7fb9/nomic-ai/gpt4all"
-        },
-        {
-          "id": "https://spectrum.ieee.org/the-ev-transition-explained-2659602311",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spectrum.ieee.org/the-ev-transition-explained-2659602311",
-          "publishedOn": "2023-03-28T21:51:10.000Z",
-          "wordCount": 9678,
-          "title": "The EV Transition Is Harder Than Anyone Thinks",
-          "imageUrl": "https://spectrum.ieee.org/media-library/image-of-a-tangled-line-between-a-car-and-a-charger.png?id=33327369&width=1200&height=600&coordinates=0%2C704%2C0%2C705"
-        },
-        {
-          "id": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
-          "publishedOn": "2023-03-28T21:43:33.000Z",
-          "wordCount": 7137,
-          "title": "Pause Giant AI Experiments: An Open Letter",
-          "imageUrl": "https://futureoflife.org/wp-content/uploads/2023/03/Open-letter-mockup-4.jpg"
-        },
-        {
-          "id": "https://www.techradar.com/news/is-babylon-5-secretly-the-most-influential-tv-show-of-the-past-25-years",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.techradar.com/news/is-babylon-5-secretly-the-most-influential-tv-show-of-the-past-25-years",
-          "publishedOn": "2023-03-28T20:52:08.000Z",
-          "wordCount": 9957,
-          "title": "Is Babylon 5 secretly the most influential TV show of the past 25 years? (2021)",
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/vgsntfeZRTnTASRfJe2Kym-1200-80.jpg"
-        },
-        {
-          "id": "https://www.dolthub.com/blog/2023-03-23-illusion-of-transparency/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.dolthub.com/blog/2023-03-23-illusion-of-transparency/",
-          "publishedOn": "2023-03-28T20:51:51.000Z",
-          "wordCount": 2409,
-          "title": "New health insurance “transparency data” looks suspiciously wrong",
-          "imageUrl": "https://www.dolthub.com/blog/static/17c79ba38919d5ebad1384094a9bf575/6247c/dolt-graphic-blog.png"
-        },
-        {
-          "id": "https://laion.ai/blog/open-flamingo/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://laion.ai/blog/open-flamingo/",
-          "publishedOn": "2023-03-28T20:47:28.000Z",
-          "wordCount": 2166,
-          "title": "Open Flamingo – open framework to train multimodal LLMs",
-          "imageUrl": "https://laion.ai/images/blog/flamingo-logo.png"
-        },
-        {
-          "id": "https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/",
-          "publishedOn": "2023-03-28T18:25:13.000Z",
-          "wordCount": 3737,
-          "title": "EU Commission doesn&#x27;t understand what&#x27;s written in its own chat control bill",
-          "imageUrl": "https://mullvad.net/static/press/MullvadVPN_logo_Round_RGB_Color_positive.png"
-        },
-        {
-          "id": "https://blog.persistent.info/2023/03/infinitemac-dot-org.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.persistent.info/2023/03/infinitemac-dot-org.html",
-          "publishedOn": "2023-03-28T17:53:51.000Z",
-          "wordCount": 3266,
-          "title": "Infinite Mac: Infinitemac.org",
-          "imageUrl": "https://persistent.info/images/infinite-macs.jpeg"
-        },
-        {
-          "id": "https://github.com/Lightning-AI/lit-llama",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Lightning-AI/lit-llama",
-          "publishedOn": "2023-03-28T17:33:08.000Z",
-          "wordCount": 986,
-          "title": "Show HN: A fully open-source (Apache 2.0)implementation of llama",
-          "imageUrl": "https://opengraph.githubassets.com/804fef5d8debb651b4b711773494aef021ea9448180f2b354ca19664f2cb7fb9/Lightning-AI/lit-llama"
-        },
-        {
-          "id": "https://jacobian.org/2023/mar/28/incompetent-but-nice/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jacobian.org/2023/mar/28/incompetent-but-nice/",
-          "publishedOn": "2023-03-28T17:28:04.000Z",
-          "wordCount": 640,
-          "title": "Incompetent but Nice",
-          "imageUrl": "https://jacobian.org/cards/incompetent-but-nice.png"
-        },
-        {
-          "id": "https://github.com/TaxyAI/browser-extension",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/TaxyAI/browser-extension",
-          "publishedOn": "2023-03-28T17:07:56.000Z",
-          "wordCount": 1525,
-          "title": "TaxyAI: Open-source browser automation with GPT-4",
-          "imageUrl": "https://opengraph.githubassets.com/fcd49951b531acf5ab17f9900b588482a30cb1034a4c350f02958926af15a38b/TaxyAI/browser-extension"
-        },
-        {
-          "id": "http://mynor.org/my4th",
-          "author": null,
-          "description": "Comments",
-          "link": "http://mynor.org/my4th",
-          "publishedOn": "2023-03-28T17:00:11.000Z",
-          "wordCount": 11,
-          "title": "My4TH – A minimalistic FORTH computer with discrete CPU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d",
-          "publishedOn": "2023-03-28T16:36:23.000Z",
-          "wordCount": 847,
-          "title": "LLMs and GPT: Some of my favorite learning materials",
-          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
-        },
-        {
-          "id": "https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/",
-          "publishedOn": "2023-03-28T16:34:15.000Z",
-          "wordCount": 3387,
-          "title": "Cerebras-GPT: A Family of Open, Compute-Efficient, Large Language Models",
-          "imageUrl": "https://www.cerebras.net/wp-content/uploads/2023/03/Scaling-laws-blog-banner.png"
         }
       ]
     },
@@ -9144,6 +9094,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://www.knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/article/society/2023/understanding-carjacking",
+          "author": "Ula Chrobak",
+          "description": "Criminologist Bruce Jacobs has spoken to carjackers in detail about their crimes. Here’s what he’s learned in two decades of study.",
+          "link": "https://knowablemagazine.org/article/society/2023/understanding-carjacking",
+          "publishedOn": "2023-04-27T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Understanding carjacking",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "108193",
+            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-042723-1-1200x630.jpg"
+          },
+          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-042723-1-1200x630.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/article/living-world/2023/mysteries-poisonous-amphibians",
           "author": "Geoffrey Giller",
@@ -9263,21 +9228,6 @@
             "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-040323-1-1200x630.jpg"
           },
           "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-040323-1-1200x630.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/article/society/2023/secrets-of-cooperation",
-          "author": "Bob Holmes",
-          "description": "Most people care what others think of them. In many situations, that can be leveraged for the common good.",
-          "link": "https://knowablemagazine.org/article/society/2023/secrets-of-cooperation",
-          "publishedOn": "2023-03-29T15:00:00.000Z",
-          "wordCount": null,
-          "title": "The secrets of cooperation",
-          "enclosure": {
-            "type": "image/jpeg",
-            "length": "108193",
-            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-032923-1-1200x630.jpg"
-          },
-          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-032923-1-1200x630.jpg"
         }
       ]
     },
@@ -9286,6 +9236,56 @@
       "feedUrl": "http://livingthing.danmackinlay.name/feeds/all.atom.xml",
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
+        {
+          "id": "https://danmackinlay.name/notebook/numerical_libraries.html",
+          "author": null,
+          "description": "XLA ecology\n\nDEX\n\nLAPACK ecology\nMKL\nArmadillo\nArrayfire\nEigen\nBlaze\nElemental\nnalgebra\nfaer\nrapl\nGeometry\nAutomatic differentiation\nPDE Solvers\nGPU computation\nReferences\nThere are too many numerical libraries.\nHere are some I am sifting through, skewed towards python-compatible ones.\nNormally when I say numerics I mean floating-point arithmetic, but there is a whole world out there.\nSee swmath for a search engine over published mathematical software (which does not necessarily have anything to do with numbers, but let us stay here for now..)\n\nXLA ecology\nXLA Architecture\nThe input language to XLA is called “HLO IR”, or just HLO (High Level Operations). The semantics of HLO are described on the Operation Semantics page. It is most convenient to think of HLO as a compiler IR. XLA takes gra…",
+          "link": "https://danmackinlay.name/notebook/numerical_libraries.html",
+          "publishedOn": "2023-04-28T01:29:39.000Z",
+          "wordCount": 2455,
+          "title": "Numerical libraries",
+          "imageUrl": "https://danmackinlay.name/images/equationator.jpg"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/hpc_hell_jobs.html",
+          "author": null,
+          "description": "submitit\nThe here document trick\nRequest a multicore job from the scheduler and manage that like a mini cluster in python\nhydra\ntest-tube\nMisc python\nHadoop on the cluster\nMisc julia\nLuxury parallelism with pipelines and coordination\nR-specific\n\nDoing stuff on classic HPC clusters.\nSlurm, torque,\nPlatformLSF\nall implement a similar API providing concurrency guarantees specified by the famous Byzantine committee-designed greasy totem pole priority system.\nEmpirical observation: the IT department for any given cluster often seems reluctant to document which one they are using.\nTypically a campus cluster will come with some gruff example commands that worked for that guy that time, but not much more.\nUsually that guy that time was running a molecular simulation package written in some languag…",
+          "link": "https://danmackinlay.name/notebook/hpc_hell_jobs.html",
+          "publishedOn": "2023-04-28T00:23:21.000Z",
+          "wordCount": 1443,
+          "title": "Scheduling jobs on HPC clusters for modern ML nerds",
+          "imageUrl": "https://danmackinlay.name/images/festina_lente.png"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/python.html",
+          "author": null,
+          "description": "Debugging, profiling and testing\nPiping functions\nPyodide\nIdiom\nipython\nPro tip: store config in .env\nString formatting/interpolation\n\nNon obvious hacks\nf-strings\nTimestamps\nRendering HTML output\nRendering markdown as HTML\n\nCompiling and FFI\nPackaging and environments\nAsynchrony in python\nfunctional-style programming\nExitStack\nEverything is files\n\nWatching files for changes\n\nIDEs\nTyping\nCommand line parsers\nMiscellaneous stuff I always need to look up\nProgress meters\nMisc recommendations\nPython 2 vs 3\n\nNeat python 3 stuff\nPython 2 and 3 compatibility\n\nIncoming\n\nGuido van Rossum and Python, by Sir Frederick Leighton\nA Swiss army knife of coding tools.\nGood\nmatrix library,\ngeneral scientific tools,\nstatistics tools,\nweb servers,\nart tools, and interoperation with many other tools in C, C++, …",
+          "link": "https://danmackinlay.name/notebook/python.html",
+          "publishedOn": "2023-04-27T23:06:11.000Z",
+          "wordCount": 2063,
+          "title": "Python",
+          "imageUrl": "https://danmackinlay.name/images/athlete_and_serpent.webp"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/science_community.html",
+          "author": null,
+          "description": "Mechanism design for science\nIncoming\nIncoming\nReferences\n\nOn heuristic mechanism and institutional design for communities of scientific practice for the common property resource that is human knowledge.\nSociology of science, in other words.\nHow do diverse underfunded teams manage to advance truth with their weird prestige economy despite the many pitfalls of publication filters and such?\nWhat is effective in designing communities, practice and social norms?\nBoth of scientific insiders and outsiders?\nHow much communication is too much?\nHow much iconoclasm is right to defeat groupthink and foster the spread of good ideas?\nAt an individual level we might wonder about soft methodology.\nA place to file questions like this, in other words\n(O’Connor and Wu 2021):\nDiversity of practice is widely …",
+          "link": "https://danmackinlay.name/notebook/science_community.html",
+          "publishedOn": "2023-04-27T22:35:36.000Z",
+          "wordCount": 2983,
+          "title": "Scientific institutions and mechanisms",
+          "imageUrl": "https://danmackinlay.name/images/science_gossip.png"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/bayes_by_backprop.html",
+          "author": null,
+          "description": "Bayesian learning rule\nSGD as MCMC\nStochastic Weight Averaging\nStochastic Gradient Langevin MCMC\nStein Variational GD\nSG Hamiltonian Monte Carlo\nSG thermostats\nSG Fisher scoring\nReferences\n\nRandomly exploring the posterior space.\nBayesian learning rule\nKhan and Rue (2022):\nWe show that a wide-range of well-known learning-algorithms from a variety of fields are all specific instances of a single learning algorithm derived from Bayesian principles. The starting point, is the variational formulation by Zellner (1988), which is an extension of [Eq. 1 to optimize over a well-defined candidate distribution \\(q(\\boldsymbol{\\theta})\\), and for which the minimizer\n\\[\nq_*(\\boldsymbol{\\theta})=\\underset{q(\\boldsymbol{\\theta})}{\\arg \\min } \\quad \\mathbb{E}_q\\left[\\sum_{i=1}^N \\ell\\left(y_i, f_{\\boldsy…",
+          "link": "https://danmackinlay.name/notebook/bayes_by_backprop.html",
+          "publishedOn": "2023-04-27T22:26:50.000Z",
+          "wordCount": 2274,
+          "title": "Bayesian posterior inference via optimisation",
+          "imageUrl": "https://danmackinlay.name/images/Grandville_bellows.png"
+        },
         {
           "id": "https://danmackinlay.name/notebook/recommender_dynamics.html",
           "author": null,
@@ -9845,26 +9845,6 @@
           "wordCount": 386,
           "title": "MLP-Mixer neural networks",
           "imageUrl": "https://danmackinlay.name/iimages/mixing_diamond.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/economics_llm.html",
-          "author": null,
-          "description": "Economics of collective intelligence\n\nDo we need to spend time doing the boring stuff that LLMs automate?\nAre researchers now incentivised to hide special expertise since LLMs will more readily automate published expertise?\n\nWhat to spend my time on\nContent landscape, spamularity, dark forest, textpocalypse\nPR, hype, marketing implications\nInformation search/summary\nReferences\n\nVarious questions about economics of social changes wrought by ready access to LLMs, the latest generation of automation.\nThis is the major “short”-“medium” effect whatever those words mean.\nLonger-sighted persons might care about whether AI will replace us with grey goo.\nEconomics of collective intelligence\nHow do foundation models/ large language models change the economics of knowledge production? Of art producti…",
-          "link": "https://danmackinlay.name/notebook/economics_llm.html",
-          "publishedOn": "2023-03-28T23:08:45.000Z",
-          "wordCount": 1535,
-          "title": "Economics of large language models",
-          "imageUrl": "https://danmackinlay.name/images/elephant_clash.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/llm_economics.html",
-          "author": null,
-          "description": "Economics of collective intelligence\n\nDo we need to spend time doing the boring stuff that LLMs automate?\nAre researchers now incentivised to hide special expertise since LLMs will more readily automate published expertise?\n\nWhat to spend my time on\nContent landscape, spamularity, dark forest, textpocalypse\nPR, hype, marketing implications\nInformation search/summary\n\nVarious economic questions about societies with ready access to LLMs/\nEconomics of collective intelligence\nHow do foundation models/ large language models change the economics of knowledge production? Of art production?\nTo a first order approximation (valid at 03/2023) LLMs provide a way of massively compressing collective knowledge and not yet generating novel knowledge.\nThere is no sharp boundary to these ideas, clearly.\nThi…",
-          "link": "https://danmackinlay.name/notebook/llm_economics.html",
-          "publishedOn": "2023-03-28T23:08:45.000Z",
-          "wordCount": 1388,
-          "title": "Economics of large language models",
-          "imageUrl": "https://danmackinlay.name/images/elephant_clash.webp"
         }
       ]
     },
@@ -10861,36 +10841,6 @@
           "publishedOn": "2023-03-29T22:52:12.000Z",
           "wordCount": 6047,
           "title": "Open Mic – 30th March 2023 | The Daily Blog - thedailyblog.co.nz",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDMvMjkvdGVjaG5vbG9neS9haS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1tdXNrLXJpc2tzLmh0bWzSAQA",
-          "author": null,
-          "description": "Elon Musk and Others Call for Pause on A.I., Citing 'Profound Risks ...  The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDMvMjkvdGVjaG5vbG9neS9haS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1tdXNrLXJpc2tzLmh0bWzSAQA?oc=5",
-          "publishedOn": "2023-03-29T14:23:05.000Z",
-          "wordCount": 6047,
-          "title": "Elon Musk and Others Call for Pause on A.I., Citing 'Profound Risks ... - The New York Times",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL2xpdmUtYmxvZy8xMTA5NS8xMjQ3NjIzNC90cmFuc2Zlci1jZW50cmUtbGl2ZS1tYXJjdXMtcmFzaGZvcmQtcnViYmlzaGVzLXJlcG9ydC1oZS1pcy1kZW1hbmRpbmctNTAway1hLXdlZWstZnJvbS1tYW4tdXRk0gEA",
-          "author": null,
-          "description": "Transfer Centre LIVE! Marcus Rashford rubbishes report he is ...  Sky Sports",
-          "link": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL2xpdmUtYmxvZy8xMTA5NS8xMjQ3NjIzNC90cmFuc2Zlci1jZW50cmUtbGl2ZS1tYXJjdXMtcmFzaGZvcmQtcnViYmlzaGVzLXJlcG9ydC1oZS1pcy1kZW1hbmRpbmctNTAway1hLXdlZWstZnJvbS1tYW4tdXRk0gEA?oc=5",
-          "publishedOn": "2023-03-29T12:30:01.000Z",
-          "wordCount": 6047,
-          "title": "Transfer Centre LIVE! Marcus Rashford rubbishes report he is ... - Sky Sports",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LndoaXRlY29hdGludmVzdG9yLmNvbS8yMDIzLXdjaS1zdXJ2ZXktcmVzdWx0cy_SAQA",
-          "author": null,
-          "description": "The 2023 WCI Survey Results: Here's How Much You Make and ...  The White Coat Investor",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LndoaXRlY29hdGludmVzdG9yLmNvbS8yMDIzLXdjaS1zdXJ2ZXktcmVzdWx0cy_SAQA?oc=5",
-          "publishedOn": "2023-03-29T06:37:21.000Z",
-          "wordCount": 6047,
-          "title": "The 2023 WCI Survey Results: Here's How Much You Make and ... - The White Coat Investor",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
