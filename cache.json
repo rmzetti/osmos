@@ -29,6 +29,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/boost-design-workflow-setapp/",
+          "author": "hello@smashingmagazine.com (Rachel How)",
+          "description": "In this guide, we’ll explore efficient tools to save time and speed up your workflow. Focus on what you do best — designing high-quality work, and let these tools handle the rest!",
+          "link": "https://smashingmagazine.com/2023/05/boost-design-workflow-setapp/",
+          "publishedOn": "2023-05-11T14:00:00.000Z",
+          "wordCount": 4491,
+          "title": "How To Boost Your Design Workflow With Setapp",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/boost-design-workflow-time-saving-tools-setapp/boost-design-workflow-setapp.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/boost-design-workflow-time-saving-tools-setapp/boost-design-workflow-setapp.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
           "author": "hello@smashingmagazine.com (Deepak Kumar)",
           "description": "The Redux Toolkit documentation calls the library a better way to write Redux logic for React apps and a simple and efficient toolkit for Redux development. In this article, you will learn about the Redux toolkit by building an app that tracks project issues.",
@@ -267,21 +282,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/what-is-design-thinking/what-is-design-thinking-sharing-image.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/04/design-effective-user-onboarding-flow/",
-          "author": "hello@smashingmagazine.com (Suzanne Scacca)",
-          "description": "If you want to maximize conversions or collect necessary user information for other purposes, a user onboarding flow is necessary. In this article, you will learn how, with the help of Feathery, to design an effective user onboarding flow for your app.",
-          "link": "https://smashingmagazine.com/2023/04/design-effective-user-onboarding-flow/",
-          "publishedOn": "2023-04-11T18:00:00.000Z",
-          "wordCount": 4986,
-          "title": "How To Design An Effective User Onboarding Flow",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/design-effective-user-onboarding-flow/design-effective-user-onboarding-flow.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/design-effective-user-onboarding-flow/design-effective-user-onboarding-flow.jpg"
         }
       ]
     },
@@ -290,6 +290,306 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://hiranyey.dev/posts/cloudflare/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hiranyey.dev/posts/cloudflare/",
+          "publishedOn": "2023-05-12T03:03:33.000Z",
+          "wordCount": 254,
+          "title": "Cloudflare is slow and Cloudflare cant do much about it",
+          "imageUrl": "https://hiranyey.dev/assets/cloudflare/network_banner.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/23719879/smartphone-price-budget-pixel-7a-editorial",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/23719879/smartphone-price-budget-pixel-7a-editorial",
+          "publishedOn": "2023-05-12T02:33:38.000Z",
+          "wordCount": 4905,
+          "title": "I won’t spend more than $250 on a new smartphone",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/bUPXQXt8RdZn5gz_1bZ3stSv4Qk=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/24643385/DSC04634_processed.jpg"
+        },
+        {
+          "id": "https://thewebivore.com/what-happened-next/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thewebivore.com/what-happened-next/",
+          "publishedOn": "2023-05-12T00:36:55.000Z",
+          "wordCount": 2133,
+          "title": "What happened after I left my software engineering career (2022)",
+          "imageUrl": "http://thewebivore.com/wp-content/uploads/2022/11/dance-letter.png"
+        },
+        {
+          "id": "https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html",
+          "publishedOn": "2023-05-12T00:17:44.000Z",
+          "wordCount": 4160,
+          "title": "How to do distributed locking (2016)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://brave.com/privacy-updates/25-forgetful-browsing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brave.com/privacy-updates/25-forgetful-browsing/",
+          "publishedOn": "2023-05-11T23:15:00.000Z",
+          "wordCount": 2706,
+          "title": "Forgetful Browsing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/golang/go/issues/60078",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/golang/go/issues/60078",
+          "publishedOn": "2023-05-11T23:12:29.000Z",
+          "wordCount": 9012,
+          "title": "Proposal: Less error-prone loop variable scoping",
+          "imageUrl": "https://opengraph.githubassets.com/b27ea5557f0cb7280ff46a2c8a08135ee1286441c76a4ff30a786259a3d92178/golang/go/issues/60078"
+        },
+        {
+          "id": "https://www.cidrap.umn.edu/resilient-drug-supply/drug-shortages-have-worsened-and-may-only-increase-future-experts-say",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cidrap.umn.edu/resilient-drug-supply/drug-shortages-have-worsened-and-may-only-increase-future-experts-say",
+          "publishedOn": "2023-05-11T22:41:25.000Z",
+          "wordCount": 1821,
+          "title": "Drug shortages have worsened and may only increase in the future, experts say",
+          "imageUrl": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/Empty%20pill%20bottles-macwagen.jpg?itok=DyT2rd7P"
+        },
+        {
+          "id": "https://www.onedayyoullfindyourself.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.onedayyoullfindyourself.com/",
+          "publishedOn": "2023-05-11T22:36:00.000Z",
+          "wordCount": 29,
+          "title": "One Day You&#x27;ll Find Yourself",
+          "imageUrl": null
+        },
+        {
+          "id": "https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/",
+          "publishedOn": "2023-05-11T21:14:36.000Z",
+          "wordCount": 1747,
+          "title": "Problems harder than NP-Complete",
+          "imageUrl": "https://buttondown.email/static/images/icons/icon-square@400.png"
+        },
+        {
+          "id": "https://store.google.com/product/pixel_tablet?hl=en-US",
+          "author": null,
+          "description": "Comments",
+          "link": "https://store.google.com/product/pixel_tablet?hl=en-US",
+          "publishedOn": "2023-05-11T21:12:18.000Z",
+          "wordCount": 50276,
+          "title": "Pixel Tablet",
+          "imageUrl": "https://lh3.googleusercontent.com/VRPfQml16IJp9tjEr70sOmNcu3eqtRe-LXoOxWJ32CNkOic-wf-TuY5TPIUZ2EO6cpHACrQZsryh_kzb9UD4RbeTchIGMTHwxA=rw-e365-w1200"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/firezone/jobs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/firezone/jobs",
+          "publishedOn": "2023-05-11T21:01:12.000Z",
+          "wordCount": 1607,
+          "title": "Firezone (YC W22) is hiring Elixir and Rust engineers",
+          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/3fc54695d0f568bcfc91c22ec42e3e9865fc060d.png?1640033042"
+        },
+        {
+          "id": "https://apps.weber.edu/wsuimages/michaelwutz/6510.Trio/Rede-lecture-2-cultures.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://apps.weber.edu/wsuimages/michaelwutz/6510.Trio/Rede-lecture-2-cultures.pdf",
+          "publishedOn": "2023-05-11T20:44:04.000Z",
+          "wordCount": 4789,
+          "title": "The Two Cultures (1959) [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Hobson%27s_choice",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Hobson%27s_choice",
+          "publishedOn": "2023-05-11T19:24:41.000Z",
+          "wordCount": 2495,
+          "title": "Hobson’s choice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://teenage.engineering/products/tp-7",
+          "author": null,
+          "description": "Comments",
+          "link": "https://teenage.engineering/products/tp-7",
+          "publishedOn": "2023-05-11T18:32:11.000Z",
+          "wordCount": 2664,
+          "title": "TP–7 Field Recorder",
+          "imageUrl": "https://teenage.engineering/_img/645bb28938efc47f2e731f5e_1024.webp"
+        },
+        {
+          "id": "https://gandalf.lakera.ai/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gandalf.lakera.ai/",
+          "publishedOn": "2023-05-11T18:04:06.000Z",
+          "wordCount": 8,
+          "title": "Gandalf – Game to make an LLM reveal a secret password",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tailscale.com/blog/session-recording-beta/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tailscale.com/blog/session-recording-beta/",
+          "publishedOn": "2023-05-11T17:49:24.000Z",
+          "wordCount": 810,
+          "title": "Session recording for Tailscale SSH in beta",
+          "imageUrl": "https://tailscale.com/assets/84113/1683812606-social.png"
+        },
+        {
+          "id": "https://www.boringreport.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.boringreport.org/",
+          "publishedOn": "2023-05-11T17:32:41.000Z",
+          "wordCount": 10,
+          "title": "Show HN: Boring Report, a news app that uses AI to desensationalize the news",
+          "imageUrl": null
+        },
+        {
+          "id": "https://meyerweb.com/eric/comment/chech.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://meyerweb.com/eric/comment/chech.html",
+          "publishedOn": "2023-05-11T17:20:44.000Z",
+          "wordCount": 1373,
+          "title": "“Considered Harmful” Essays Considered Harmful (2002)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.anthropic.com/index/100k-context-windows",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anthropic.com/index/100k-context-windows",
+          "publishedOn": "2023-05-11T16:46:19.000Z",
+          "wordCount": 829,
+          "title": "100K Context Windows",
+          "imageUrl": "https://optimise2.assets-servd.host/anthropic-website/production/images/ConsoleGeneralImprovements_Social.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1683744746&s=b1ed3d460b33cfbcc052b65daf00c177"
+        },
+        {
+          "id": "https://moderatormayhem.engine.is/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://moderatormayhem.engine.is/",
+          "publishedOn": "2023-05-11T16:43:58.000Z",
+          "wordCount": 8,
+          "title": "Show HN: Moderator Mayhem, a game about the difficulties of content moderation",
+          "imageUrl": "/moderator-mayhem-1200x630.png"
+        },
+        {
+          "id": "https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/",
+          "publishedOn": "2023-05-11T15:09:04.000Z",
+          "wordCount": 7403,
+          "title": "Electronics Lab Bench Setup Guide",
+          "imageUrl": "https://badar56.files.wordpress.com/2023/01/img_3032-354199627-e1682807119361.jpg?w=1200"
+        },
+        {
+          "id": "http://www.commutercars.com/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.commutercars.com/index.html",
+          "publishedOn": "2023-05-11T14:56:28.000Z",
+          "wordCount": 434,
+          "title": "Commuter Cars Tango",
+          "imageUrl": null
+        },
+        {
+          "id": "https://fusionauth.io/learn/expert-advice/ciam/ciam-vs-iam",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fusionauth.io/learn/expert-advice/ciam/ciam-vs-iam",
+          "publishedOn": "2023-05-11T14:44:01.000Z",
+          "wordCount": 1772,
+          "title": "CIAM vs. IAM: What&#x27;s the difference (2022)",
+          "imageUrl": "https://fusionauth.io/assets/img/advice/ciam-vs-iam/ciam-vs-iam.png"
+        },
+        {
+          "id": "https://www.synthtopia.com/content/2023/05/10/synthstrom-deluge-goes-open-source/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.synthtopia.com/content/2023/05/10/synthstrom-deluge-goes-open-source/",
+          "publishedOn": "2023-05-11T14:40:22.000Z",
+          "wordCount": 2016,
+          "title": "Deluge – sequencer, synthesizer and sampler – goes open source",
+          "imageUrl": "https://www.synthtopia.com/wp-content/uploads/2019/09/synthstrom-deluge-3-e1568725169731.jpg"
+        },
+        {
+          "id": "https://lwn.net/SubscriberLink/930705/4bbe9c26d7884277/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/SubscriberLink/930705/4bbe9c26d7884277/",
+          "publishedOn": "2023-05-11T14:21:17.000Z",
+          "wordCount": 2936,
+          "title": "Faster CPython at PyCon, part one",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+          "publishedOn": "2023-05-11T13:46:03.000Z",
+          "wordCount": 161,
+          "title": "The Birth and Death of JavaScript [video] (2014)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wired.com/story/doug-rushkoff-survival-of-the-richest/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wired.com/story/doug-rushkoff-survival-of-the-richest/",
+          "publishedOn": "2023-05-11T13:12:37.000Z",
+          "wordCount": 33711,
+          "title": "Doug Rushkoff is ready to renounce the digital revolution",
+          "imageUrl": "https://media.wired.com/photos/645549e28ca7067a92af1646/191:100/w_1280,c_limit/Wired_DougRushkoff_Final-3.jpg"
+        },
+        {
+          "id": "https://www.propublica.org/article/ugly-truth-behind-we-buy-ugly-houses",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.propublica.org/article/ugly-truth-behind-we-buy-ugly-houses",
+          "publishedOn": "2023-05-11T12:17:19.000Z",
+          "wordCount": 6509,
+          "title": "The Ugly Truth Behind “We Buy Ugly Houses”",
+          "imageUrl": "https://img.assets-d.propublica.org/v5/images/20230511-homevesters-main-1_2023-05-10-215352_turq.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=2343fad4117e06075ece744da123cb87"
+        },
+        {
+          "id": "https://thomasokken.com/free42/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thomasokken.com/free42/",
+          "publishedOn": "2023-05-11T10:25:03.000Z",
+          "wordCount": 9166,
+          "title": "Free42 – An HP-42S Calculator Simulator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/",
+          "publishedOn": "2023-05-11T10:01:20.000Z",
+          "wordCount": 1389,
+          "title": "Baseline: a unified view of stable web features",
+          "imageUrl": "https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/baseline.png"
+        },
         {
           "id": "https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/",
           "author": null,
@@ -8739,266 +9039,6 @@
           "wordCount": null,
           "title": "Show HN: GPT-4-powered web searches for developers",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/databrickslabs/dolly/tree/master/data",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/databrickslabs/dolly/tree/master/data",
-          "publishedOn": "2023-04-12T15:59:02.000Z",
-          "wordCount": 1471,
-          "title": "Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs",
-          "imageUrl": "https://opengraph.githubassets.com/88b3e497d99af770c1968e2cc6acfbf818a54939c78476a28da08af1198a989a/databrickslabs/dolly"
-        },
-        {
-          "id": "https://beamanalytics.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://beamanalytics.io/",
-          "publishedOn": "2023-04-12T13:40:12.000Z",
-          "wordCount": 519,
-          "title": "Show HN: Google Analytics alternative with the most generous free tier",
-          "imageUrl": "https://beamanalytics.io//homepage.png"
-        },
-        {
-          "id": "https://blog.ferretdb.io/ferretdb-1-0-ga-opensource-mongodb-alternative/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.ferretdb.io/ferretdb-1-0-ga-opensource-mongodb-alternative/",
-          "publishedOn": "2023-04-12T13:39:05.000Z",
-          "wordCount": 1423,
-          "title": "FerretDB: open-source MongoDB alternative",
-          "imageUrl": "https://blog.ferretdb.io/img/blog/ferretdb-v1.0.jpg"
-        },
-        {
-          "id": "https://ianthehenry.com/posts/why-janet/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ianthehenry.com/posts/why-janet/",
-          "publishedOn": "2023-04-12T13:25:10.000Z",
-          "wordCount": 1627,
-          "title": "Why Janet?",
-          "imageUrl": "https://ianthehenry.com/checkerboard.png"
-        },
-        {
-          "id": "https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html",
-          "publishedOn": "2023-04-12T13:09:49.000Z",
-          "wordCount": 3114,
-          "title": "Intel Foundry Services and Arm announce collaboration on SoC design",
-          "imageUrl": "https://www.intel.com/content/dam/www/public/us/en/newsroom/featured/newsroom-intel-manufacturing-feat.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/primitive-asgard-cells-show-life-on-the-brink-of-complexity-20230411/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/primitive-asgard-cells-show-life-on-the-brink-of-complexity-20230411/",
-          "publishedOn": "2023-04-12T09:56:45.000Z",
-          "wordCount": 9756,
-          "title": "Primitive Asgard cells show life on the brink of complexity",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/04/NewArchaea-byAndreasKlingl_LudwigMaximilianUniversity-Social.jpg"
-        },
-        {
-          "id": "https://github.com/everythingishacked/Semaphore",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/everythingishacked/Semaphore",
-          "publishedOn": "2023-04-12T08:24:44.000Z",
-          "wordCount": 802,
-          "title": "Semaphore: A Full-Body Keyboard",
-          "imageUrl": "https://opengraph.githubassets.com/56729dbb6559f1798bcbcd4eaf80022d50b59b78e2b1ec0bc5fedc555a85da1a/everythingishacked/Semaphore"
-        },
-        {
-          "id": "https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/",
-          "publishedOn": "2023-04-12T07:21:12.000Z",
-          "wordCount": 904,
-          "title": "The different uses of Python type hints",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.discoverwildlife.com/animal-facts/could-the-dodo-come-back-from-extinction/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.discoverwildlife.com/animal-facts/could-the-dodo-come-back-from-extinction/",
-          "publishedOn": "2023-04-12T05:37:22.000Z",
-          "wordCount": 4653,
-          "title": "Could the dodo come back from extinction?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blogs.bl.uk/digitisedmanuscripts/2023/04/inside-a-tudor-home.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blogs.bl.uk/digitisedmanuscripts/2023/04/inside-a-tudor-home.html",
-          "publishedOn": "2023-04-12T04:51:31.000Z",
-          "wordCount": 1461,
-          "title": "A Tudor Woman&#x27;s Home",
-          "imageUrl": "https://blogs.bl.uk/.a/6a00d8341c464853ef02af148c6f41200c-pi"
-        },
-        {
-          "id": "https://www.nationalgeographic.com/travel/article/author-paul-theroux-rail-travel",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nationalgeographic.com/travel/article/author-paul-theroux-rail-travel",
-          "publishedOn": "2023-04-12T04:40:49.000Z",
-          "wordCount": 8842,
-          "title": "Paul Theroux reflects on the evolving nature of rail travel",
-          "imageUrl": "https://i.natgeofe.com/n/34ed0726-001b-43f8-afcd-cc355b48d09e/NGT0423PaulTheroux_16x9.jpg?w=1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/news/whole-foods-in-downtown-san-francisco-closes-due-to-spiraling-crime/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nationalreview.com/news/whole-foods-in-downtown-san-francisco-closes-due-to-spiraling-crime/",
-          "publishedOn": "2023-04-12T04:07:48.000Z",
-          "wordCount": 7925,
-          "title": "SF Whole Foods to Close Due to Increased Crime in Area",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/Whole-Foods.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html",
-          "publishedOn": "2023-04-12T02:43:17.000Z",
-          "wordCount": 11789,
-          "title": "Can We Make Bicycles Sustainable Again?",
-          "imageUrl": "https://krisdedecker.typepad.com/.a/6a00e0099229e8883302b75197a7b7200c-600wi"
-        },
-        {
-          "id": "https://simonwillison.net/2023/Apr/12/code-interpreter/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://simonwillison.net/2023/Apr/12/code-interpreter/",
-          "publishedOn": "2023-04-12T02:20:49.000Z",
-          "wordCount": 2122,
-          "title": "Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha",
-          "imageUrl": "https://static.simonwillison.net/static/2023/sqlite-md5-benchmark.jpg"
-        },
-        {
-          "id": "https://engineering.fb.com/2023/04/11/video-engineering/high-quality-audio-xhe-aac-codec-meta/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://engineering.fb.com/2023/04/11/video-engineering/high-quality-audio-xhe-aac-codec-meta/",
-          "publishedOn": "2023-04-12T01:12:36.000Z",
-          "wordCount": 1788,
-          "title": "Why xHE-AAC is being embraced at Meta",
-          "imageUrl": "https://engineering.fb.com/wp-content/uploads/2021/11/Engineering_at_Meta.jpg"
-        },
-        {
-          "id": "https://www.pcgamer.com/eve-online-player-uses-obscure-rule-to-pull-off-the-biggest-heist-in-the-games-history/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.pcgamer.com/eve-online-player-uses-obscure-rule-to-pull-off-the-biggest-heist-in-the-games-history/",
-          "publishedOn": "2023-04-12T00:48:15.000Z",
-          "wordCount": 10197,
-          "title": "Eve Online player uses obscure rule to pull off biggest heist in game history",
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/vpaFe6EzJ23goU4RUxcfo4-1200-80.jpg"
-        },
-        {
-          "id": "https://astralcodexten.substack.com/p/book-review-from-oversight-to-overkill",
-          "author": null,
-          "description": "Comments",
-          "link": "https://astralcodexten.substack.com/p/book-review-from-oversight-to-overkill",
-          "publishedOn": "2023-04-12T00:27:03.000Z",
-          "wordCount": 11819,
-          "title": "From Oversight to Overkill",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F544362ea-3c7c-4b9e-af7f-cb5f9644c04d_513x377.png"
-        },
-        {
-          "id": "https://tuckerconnelly.com/management-leadership",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tuckerconnelly.com/management-leadership",
-          "publishedOn": "2023-04-12T00:11:33.000Z",
-          "wordCount": 7,
-          "title": "Distillation of 20 Management and Leadership Books and Resources",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill",
-          "publishedOn": "2023-04-11T22:25:45.000Z",
-          "wordCount": 3853,
-          "title": "Colorado passes agricultural Right to Repair",
-          "imageUrl": "https://valkyrie.cdn.ifixit.com/media/2023/03/16094247/deere_wrench_3x2.jpg"
-        },
-        {
-          "id": "https://deck.of.cards/old/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://deck.of.cards/old/",
-          "publishedOn": "2023-04-11T21:42:07.000Z",
-          "wordCount": 53,
-          "title": "Deck.of.cards",
-          "imageUrl": "https://deck.of.cards/fb.png"
-        },
-        {
-          "id": "https://www.aptible.com/culture-hub/careers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.aptible.com/culture-hub/careers",
-          "publishedOn": "2023-04-11T21:00:49.000Z",
-          "wordCount": 962,
-          "title": "Aptible (YC S14) Is Hiring: Security Engineer and Head of Product",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/davidgiven/wordgrinder",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/davidgiven/wordgrinder",
-          "publishedOn": "2023-04-11T19:40:30.000Z",
-          "wordCount": 2415,
-          "title": "WordGrinder: Terminal-based distraction free word processor",
-          "imageUrl": "https://opengraph.githubassets.com/7b78caff510a3bdaa7b30232ee35e659ae500113744004c41ec9b891bd4eb30d/davidgiven/wordgrinder"
-        },
-        {
-          "id": "https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/",
-          "publishedOn": "2023-04-11T19:37:27.000Z",
-          "wordCount": 3786,
-          "title": "Car alarms and smoke alarms: the tradeoff between sensitivity and specificity",
-          "imageUrl": "https://secure.gravatar.com/blavatar/12afdd7748fb0d1f7faeb22e23a06832?s=200&ts=1681273814"
-        },
-        {
-          "id": "https://htmx.org/posts/2023-04-11-htmx-1-9-0-is-released/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://htmx.org/posts/2023-04-11-htmx-1-9-0-is-released/",
-          "publishedOn": "2023-04-11T19:35:44.000Z",
-          "wordCount": 178,
-          "title": "Htmx 1.9.0 has been released",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bikepacking.com/plog/steve-roberts-computing-across-america/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bikepacking.com/plog/steve-roberts-computing-across-america/",
-          "publishedOn": "2023-04-11T17:55:18.000Z",
-          "wordCount": 4124,
-          "title": "Steve Roberts: Computing Across America",
-          "imageUrl": "https://bikepacking.com/wp-content/uploads/2023/03/Steve-Roberts-BEHEMOTH-Share-2.jpg"
-        },
-        {
-          "id": "https://www.jetpens.com/blog/The-42-Best-Pens-for-2023-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.jetpens.com/blog/The-42-Best-Pens-for-2023-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974",
-          "publishedOn": "2023-04-11T16:57:30.000Z",
-          "wordCount": 14241,
-          "title": "The Best Pens for 2023: Gel, Ballpoint, Rollerball, and Fountain Pens",
-          "imageUrl": null
         }
       ]
     },
@@ -9064,6 +9104,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://www.knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/article/society/2023/the-challenges-and-promises-climate-lawsuits",
+          "author": "Katarina Zimmer",
+          "description": "Lawsuits against emissions-spewing governments and fossil fuel companies have established themselves as a key tool in the battle against climate change, but they aren’t always successful",
+          "link": "https://knowablemagazine.org/article/society/2023/the-challenges-and-promises-climate-lawsuits",
+          "publishedOn": "2023-05-11T15:00:00.000Z",
+          "wordCount": 242,
+          "title": "The challenges and promises of climate lawsuits",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "108193",
+            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-051123-1-1200x630.jpg"
+          },
+          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-051123-1-1200x630.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/article/health-disease/2023/what-if-we-tolerated-diseases",
           "author": "Liam Drew",
@@ -9198,21 +9253,6 @@
             "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-041323-1-1200x630.jpg"
           },
           "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-041323-1-1200x630.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/article/society/2023/when-criminals-rule-the-land",
-          "author": "Pablo Fonseca Q.",
-          "description": "In Latin America, tens of millions of people live in territories that are governed by outlaws — from powerful drug cartels to crime syndicates. What can be done to restore legitimate law and order?",
-          "link": "https://knowablemagazine.org/article/society/2023/when-criminals-rule-the-land",
-          "publishedOn": "2023-04-12T15:00:00.000Z",
-          "wordCount": null,
-          "title": "When criminals rule the land",
-          "enclosure": {
-            "type": "image/jpeg",
-            "length": "108193",
-            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-041223-1-1200x630.jpg"
-          },
-          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-041223-1-1200x630.jpg"
         }
       ]
     },
@@ -9221,6 +9261,26 @@
       "feedUrl": "http://livingthing.danmackinlay.name/feeds/all.atom.xml",
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
+        {
+          "id": "https://danmackinlay.name/notebook/jax.html",
+          "author": null,
+          "description": "Intros, tutorials\nNeat examples\n\nfun with gradients\n\nIdioms\nDeep learning frameworks\n\nFlax\nEquinox\nStax\nHaiku\ntrax\n\nInference boilerplate stuff\n\nOptax\n\nProbabilistic programming frameworks\n\nNumpyro\nStheno\n\ngraph networks\nDifferential equations and multi-level optimisation\n\ntf2jax\n\nMulti-GPU\nPortability\n\nONNX\n\nReferences\n\njax is a successor to classic python+numpy autograd.\nIt includes various code optimisation, jit-compilations, differentiating and vectorizing.\nSo, a numerical library with certain high performance machine-learning affordances.\nNote, it is not a deep learning framework per se, but rather the producer species at lowest trophic level of a deep learning ecosystem.\nFor information frameworks built upon it, (or I suppose, in this metaphor predator species) read on to later secti…",
+          "link": "https://danmackinlay.name/notebook/jax.html",
+          "publishedOn": "2023-05-11T23:54:17.000Z",
+          "wordCount": 2199,
+          "title": "Jax",
+          "imageUrl": "https://danmackinlay.name/images/dutch_rabbitoh.webp"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/economics_llm.html",
+          "author": null,
+          "description": "Economics of collective intelligence\n\nDo we need to spend time doing the boring stuff that LLMs automate?\nAre researchers now incentivised to hide special expertise since LLMs will more readily automate published expertise?\n\nWhat to spend my time on\nContent landscape, culture landscape, spamularity, dark forest, textpocalypse\nInformation landscape\nEconomic disparity and LLMs\nPR, hype, marketing implications\nInformation search/summary\nIncoming\nReferences\n\nVarious questions about economics of social changes wrought by ready access to LLMs, the latest generation of automation.\nThis is the major “short”-“medium” effect whatever those words mean.\nLonger-sighted persons might also care about whether AI will replace us with grey goo.\nThought had in conversation with Richard Scalzo about Smith (20…",
+          "link": "https://danmackinlay.name/notebook/economics_llm.html",
+          "publishedOn": "2023-05-10T01:22:22.000Z",
+          "wordCount": 1934,
+          "title": "Economics of large language models",
+          "imageUrl": "https://danmackinlay.name/images/elephant_clash.webp"
+        },
         {
           "id": "https://danmackinlay.name/notebook/incoming.html",
           "author": null,
@@ -9800,66 +9860,6 @@
           "wordCount": 753,
           "title": "Indyweb, small web, cozy webb",
           "imageUrl": "https://danmackinlay.name/images/hipster_face.jpg"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/jupyter_front_end.html",
-          "author": null,
-          "description": "Command line\nVS Code Juptyer\nNotebook classic\n\nConfiguring\nAuto-closing parentheses\nNotebook extensions\n\nJupyter lab\n\nJupterlab UI\nCollaborative options\nLab extensions\n\nQuarto\nJupyterbook\nqtconsole\n\nMultiple clients connecting to a single kernel\n\nGoogle colab\nnteract\nhydrogen\nPweave\n\nJupyter, the python code dev environment, is not a monolithic thing, but a whole ecology.\nDifferent language back end kernels talk to various front end interfaces using various protocols for interaction and rendering .\nI can execute python code interactively using several different front-ends, each offering different user experiences.\nBecause the, er, food web of this ecosystem is complicated it is not always easy to know which chunk of code is responsible for which part of the user experience.\nThe default fro…",
-          "link": "https://danmackinlay.name/notebook/jupyter_front_end.html",
-          "publishedOn": "2023-04-12T11:05:04.000Z",
-          "wordCount": 2702,
-          "title": "Jupyter front end systems",
-          "imageUrl": "https://danmackinlay.name/images/lady_ray_gun.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/ml_leakage.html",
-          "author": null,
-          "description": "Cross-validation leakage\nReferences\n\nSelf-deluding cheating in predictive models.\nKyle Polich:\nIf you'd like to make a good prediction, your best bet is to invent a time machine, visit the future, observe the value, and return to the past.\nFor those without access to time travel technology, we need to avoid including information about the future in our training data when building machine learning models\nAsk a Data Scientist: Data Leakage\nKaggle Data Leakage Coursework\nThe ICML 2013 Whale Challenge - Right Whale Redux\nCross-validation leakage\nThe vtreat introduction mentions their why you need hold-out article and also (Perlich and Świrszcz 2011) to discuss leakage via cross validation.\nCross-methods such as cross-validation, and cross-prediction are effective tools for many machine learning, statistics, and data science related applications.\nThey are useful for parameter selection, model selection, impact/target encoding of high cardinality variables, stacking models, and super learning.\nAs cross-methods simulate access to an out of sample data set the same the original data, they are more statistically efficient, lower variance, than partitioning training data into calibration/training/holdout sets.\nHowever, cross-methods do not satisfy the full exchangeability conditions that full hold-out methods have.\nThis introduces some additional statistical trade-offs when using cross-methods, beyond the obvious increases in computational cost.\nSpecifically, cross-methods can introduce an information leak into the modeling process.\nReferences\n“Leakage in Data Mining: Formulation, Detection, and Avoidance.”\n\n\nPerlich, Claudia, and Grzegorz Świrszcz. 2011. “On Cross-Validation and Stacking: Building Seemingly Predictive Models on Random Data.” ACM SIGKDD Explorations Newsletter 12 (2): 11–15.",
-          "link": "https://danmackinlay.name/notebook/ml_leakage.html",
-          "publishedOn": "2023-04-12T08:35:56.000Z",
-          "wordCount": 532,
-          "title": "Leakage in predictive models",
-          "imageUrl": "https://danmackinlay.name/images/card_sharp.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/python_spatial.html",
-          "author": null,
-          "description": "Pangeo\nRasterIO\npyproj\nGeostack\nPysal\nQGIS\nIncoming\nReferences\nPython tools for spatial statistics spatiotemporal processes.\n\nPangeo\nPangeo: A community platform for Big Data geoscience\n\nPangeo is first and foremost a community promoting open, reproducible, and scalable science. This community provides documentation, develops and maintains software, and deploys computing infrastructure to make scientific research and programming easier.\nThe Pangeo software ecosystem involves open source tools such as xarray, iris, dask, jupyter, and many other packages.\nThere is no single software package called “pangeo”; rather, the Pangeo project serves as a coordination point between scientists, software, and computing infrastructure.\nOn this website, scientists can find guides for accessing data and pe…",
-          "link": "https://danmackinlay.name/notebook/python_spatial.html",
-          "publishedOn": "2023-04-12T06:15:38.000Z",
-          "wordCount": 823,
-          "title": "Python spatial statistics",
-          "imageUrl": "https://danmackinlay.name/images/scandinavian_monsters.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/vs_code_python.html",
-          "author": null,
-          "description": "Interaction with/execution of python\n\nInteractive python\njupyter\n\nRefactoring\n“Intellisense”\nDebugger\n\nJupyter debugger is cursed\nUseful configs\n\n\n\nVS Code support for python is getting pretty good.\nHere is where I document how, and my preferred configuration.\n\nInteraction with/execution of python\nInteractive python\nOne thing I discovered by accident today is that the jupyter support includes a fully interactive python code environment that does not at all require the awful jupyter notebook, but operates plain python modules.\nThe magic trick is to put the # %% comment in:\n# %%\nmsg = \"Hello World\"\nprint(msg)\n# %%\nmsg = \"Hello again\"\nprint(msg)\nNow everything after it is one “cell” that I can run with a click.\nPlotting is supported too (opens in a side window).\n\nThe workflow is suspiciously …",
-          "link": "https://danmackinlay.name/notebook/vs_code_python.html",
-          "publishedOn": "2023-04-12T00:11:18.000Z",
-          "wordCount": 1106,
-          "title": "VS Code for python",
-          "imageUrl": "https://danmackinlay.name/images/contraption_lady.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/post/the_property_market_is_pollution.html",
-          "author": null,
-          "description": "By making housing expensive we are condemning ourselves to live boringly\nBy making housing expensive we are draining away the time people could spend on making the community awesome\nBy basing our economy on real estate we are impoverishing ourselves as a nation\nReducing pollution\n\nMinimise the amount of money we spend on this\nChanging the system\nPollution offsets\nFriends don’t let friends do real estate\n\nFurther reading\nReferences\nOne way of thinking about real estate economics.\n\nIncentive fairy dusting everything with choking clouds of money\nAfter doing a bunch of investigating housing markets in Australia something was troubling me, and I could not find a good way of explaining it.\nI just realised the phrase I was missing:\nThe property market is pollution.\nHousing-as-investment is the so…",
-          "link": "https://danmackinlay.name/post/the_property_market_is_pollution.html",
-          "publishedOn": "2023-04-11T23:34:49.000Z",
-          "wordCount": 4570,
-          "title": "The property market is pollution",
-          "imageUrl": "https://danmackinlay.name/images/angel_smog.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/land_economics.html",
-          "author": null,
-          "description": "Incoming\nReferences\n\nAfter much investigating housing markets in Australia, I wrote a post the property market is pollution to summarise my feeling about the real estate trap, and then even more stuff on housing.\n\nI have now convinced myself that just when the world needs dynamism and innovation we are instead spending our time trying to extract rents from the landless.\nThe resemblance of this system to feudalism may be troubling.\nOngoing notes in that theme here.\n\nIncoming\n\nYou cannot take it with you, turns out\nFriday essay: how policies favouring rich, older people make young Australians Generation F-d\nThe Forgotten Philosopher Who Can Fix Our Economy\nConstruction Physics’s Brian Potter on Real Estate, Property Rights, and Negotiation\nUC Berkeley and America’s Scarcity Mindset is a fasc…",
-          "link": "https://danmackinlay.name/notebook/land_economics.html",
-          "publishedOn": "2023-04-11T23:03:50.000Z",
-          "wordCount": 1099,
-          "title": "Real estate economics",
-          "imageUrl": "https://danmackinlay.name/images/burned_out_bldg.png"
         }
       ]
     },
@@ -9868,6 +9868,26 @@
       "feedUrl": "http://news.google.com/news?hl=en&output=rss&q=Google+NZ+blog&cf=all&num=30",
       "siteUrl": "https://news.google.com/search?hl=en-US&q=Google+NZ+blog&cf=all&num=30&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiZGh0dHBzOi8vd3d3LnJlc2VsbGVyLmNvLm56L2FydGljbGUvNzA3MTI0L2RldmVsb3Blci1mb2N1c2VkLXBvcnRhbC1zdGFjay1vdmVyZmxvdy1sYXlzLW9mZi0xMC1zdGFmZi_SAQA",
+          "author": null,
+          "description": "Developer-focused portal Stack Overflow lays off 10% staff  Reseller News",
+          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnJlc2VsbGVyLmNvLm56L2FydGljbGUvNzA3MTI0L2RldmVsb3Blci1mb2N1c2VkLXBvcnRhbC1zdGFjay1vdmVyZmxvdy1sYXlzLW9mZi0xMC1zdGFmZi_SAQA?oc=5",
+          "publishedOn": "2023-05-12T01:09:51.000Z",
+          "wordCount": 6015,
+          "title": "Developer-focused portal Stack Overflow lays off 10% staff - Reseller News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvZGlzY292ZXItdGhlLWxhcmdlc3Qtc2V2ZW5naWxsLXNoYXJrLWV2ZXItY2F1Z2h0LWluLWNhbGlmb3JuaWEv0gEA",
+          "author": null,
+          "description": "Discover The Largest Sevengill Shark Ever Caught in California  AZ Animals",
+          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYS16LWFuaW1hbHMuY29tL2Jsb2cvZGlzY292ZXItdGhlLWxhcmdlc3Qtc2V2ZW5naWxsLXNoYXJrLWV2ZXItY2F1Z2h0LWluLWNhbGlmb3JuaWEv0gEA?oc=5",
+          "publishedOn": "2023-05-11T20:57:35.000Z",
+          "wordCount": 6015,
+          "title": "Discover The Largest Sevengill Shark Ever Caught in California - AZ Animals",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiYGh0dHBzOi8vd3d3LnN0dWZmLmNvLm56L2J1c2luZXNzLzEzMjAwMzM5Ny9nb29nbGUtdW52ZWlscy1pdHMtYmlnLWd1bnMtaW4tZmlnaHQtZm9yLWFpLXN1cHJlbWFjedIBAA",
           "author": null,
@@ -9946,6 +9966,16 @@
           "publishedOn": "2023-05-08T05:35:10.000Z",
           "wordCount": 6022,
           "title": "ServiceNow, Hugging Face's free StarCoder LLM takes on Copilot ... - Reseller News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMid2h0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDUvMDgvZ3Vlc3QtYmxvZy1iZW4tbW9yZ2FuLXRhbnRydW1zLWFuZC10aGUtZHJvbmUtYXR0YWNrLWRlbW9uc3RyYXRlLXJ1c3NpYW4td2Vha25lc3Mv0gEA",
+          "author": null,
+          "description": "GUEST BLOG: Ben Morgan – Tantrums and the drone attack ...  thedailyblog.co.nz",
+          "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDUvMDgvZ3Vlc3QtYmxvZy1iZW4tbW9yZ2FuLXRhbnRydW1zLWFuZC10aGUtZHJvbmUtYXR0YWNrLWRlbW9uc3RyYXRlLXJ1c3NpYW4td2Vha25lc3Mv0gEA?oc=5",
+          "publishedOn": "2023-05-08T04:14:01.000Z",
+          "wordCount": 6015,
+          "title": "GUEST BLOG: Ben Morgan – Tantrums and the drone attack ... - thedailyblog.co.nz",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -10557,46 +10587,6 @@
           "wordCount": 6053,
           "title": "MEDIAWATCH: For 3rd week in a row – The Working Groups is No1 ... - thedailyblog.co.nz",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTmh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDQvMTIvdGhlLWRhaWx5LWJsb2ctb3Blbi1taWMtMTJ0aC1hcHJpbC0yMDIzL9IBAA",
-          "author": null,
-          "description": "Open Mic – 12th April 2023 | The Daily Blog  thedailyblog.co.nz",
-          "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDQvMTIvdGhlLWRhaWx5LWJsb2ctb3Blbi1taWMtMTJ0aC1hcHJpbC0yMDIzL9IBAA?oc=5",
-          "publishedOn": "2023-04-12T06:50:29.000Z",
-          "wordCount": 6053,
-          "title": "Open Mic – 12th April 2023 | The Daily Blog - thedailyblog.co.nz",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigAFodHRwczovL3BhcmFib2xpY2FyYy5jb20vMjAyMy8wNC8xMS9zcGFjZS1zcGFjLWluZGV4LW5hc2RhcS1ncmFudHMtYXN0cmEtc3BhY2UtNm1vbnRoLWV4dGVuc2lvbi1tb3Zlcy1kZWxpc3QtdmlyZ2luLW9yYml0LXN0b2NrL9IBAA",
-          "author": null,
-          "description": "Space SPAC Index: Nasdaq Grants Astra Space 6-Month Extension ...  Parabolic Arc",
-          "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3BhcmFib2xpY2FyYy5jb20vMjAyMy8wNC8xMS9zcGFjZS1zcGFjLWluZGV4LW5hc2RhcS1ncmFudHMtYXN0cmEtc3BhY2UtNm1vbnRoLWV4dGVuc2lvbi1tb3Zlcy1kZWxpc3QtdmlyZ2luLW9yYml0LXN0b2NrL9IBAA?oc=5",
-          "publishedOn": "2023-04-12T00:45:44.000Z",
-          "wordCount": 6053,
-          "title": "Space SPAC Index: Nasdaq Grants Astra Space 6-Month Extension ... - Parabolic Arc",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaGh0dHBzOi8vYWJvdmV0aGVsYXcuY29tLzIwMjMvMDQvdGhlLXVsdGltYXRlLWd1aWRlLXRvLWVkaXNjb3Zlcnktd2l0aC1nb29nbGUtd29ya3NwYWNlLWFuZC1nb29nbGUtdmF1bHQv0gEA",
-          "author": null,
-          "description": "The Ultimate Guide To eDiscovery With Google Workspace And ...  Above the Law",
-          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vYWJvdmV0aGVsYXcuY29tLzIwMjMvMDQvdGhlLXVsdGltYXRlLWd1aWRlLXRvLWVkaXNjb3Zlcnktd2l0aC1nb29nbGUtd29ya3NwYWNlLWFuZC1nb29nbGUtdmF1bHQv0gEA?oc=5",
-          "publishedOn": "2023-04-11T19:33:46.000Z",
-          "wordCount": 6053,
-          "title": "The Ultimate Guide To eDiscovery With Google Workspace And ... - Above the Law",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8zMDA4NjM4L3NhdWNlcy1tYXJrZXQtdG8td2l0bmVzcy1ub3RhYmxlLWdyb3d0aC1ieS1mb3JlY2FzdC1wZXJpb2QtMjAyONIBYmh0dHBzOi8vd3d3Lm9wZW5wci5jb20vYW1wLzMwMDg2Mzgvc2F1Y2VzLW1hcmtldC10by13aXRuZXNzLW5vdGFibGUtZ3Jvd3RoLWJ5LWZvcmVjYXN0LXBlcmlvZC0yMDI4",
-          "author": null,
-          "description": "Sauces Market to Witness Notable Growth by Forecast Period | 2028  openPR",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8zMDA4NjM4L3NhdWNlcy1tYXJrZXQtdG8td2l0bmVzcy1ub3RhYmxlLWdyb3d0aC1ieS1mb3JlY2FzdC1wZXJpb2QtMjAyONIBYmh0dHBzOi8vd3d3Lm9wZW5wci5jb20vYW1wLzMwMDg2Mzgvc2F1Y2VzLW1hcmtldC10by13aXRuZXNzLW5vdGFibGUtZ3Jvd3RoLWJ5LWZvcmVjYXN0LXBlcmlvZC0yMDI4?oc=5",
-          "publishedOn": "2023-04-11T19:07:00.000Z",
-          "wordCount": 6053,
-          "title": "Sauces Market to Witness Notable Growth by Forecast Period | 2028 - openPR",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10614,26 +10604,6 @@
           "wordCount": 2803,
           "title": "RSCPoster 2023 winner cartoons!",
           "imageUrl": "https://errantscience.com/wp-content/uploads/230328_-_Goswami_Coenzyme_Catalysis.png"
-        },
-        {
-          "id": "https://errantscience.com/?p=19877",
-          "author": "John Hammersley",
-          "description": "“Naively optimistic” – this was my opening to a blog post I wrote for Errant Science five and a half years ago, when Overleaf was approaching its fifth anniversary. Five years later, Overleaf is now ten, and after leading the team there for close to a decade I’ve recently moved […]",
-          "link": "https://errantscience.com/blog/2023/04/12/reflecting-on-the-founding-growth-and-success-of-overleaf-part-ii/",
-          "publishedOn": "2023-04-12T12:00:00.000Z",
-          "wordCount": 4956,
-          "title": "Reflecting on the founding, growth and success of Overleaf – Part II",
-          "imageUrl": "https://errantscience.com/wp-content/uploads/230331_-_Overleaf-3.png"
-        },
-        {
-          "id": "http://errantscience.com/?p=18659",
-          "author": "Matthew (@MCeeP)",
-          "description": "Working as a researcher is a job that requires a lot of adaptability. This is understandable given that the core of the scientific method could be loosely described as “I recon this might happen but let’s find out” which obviously leads to some variation in outcomes (e.g. oops that explodes […]",
-          "link": "https://errantscience.com/blog/2023/04/12/adaptable-adaptations-in-research/",
-          "publishedOn": "2023-04-12T12:00:00.000Z",
-          "wordCount": 3262,
-          "title": "Adaptable adaptations in research",
-          "imageUrl": "https://errantscience.com/wp-content/uploads/220107_-_Lockdown_Stoppage.png"
         }
       ]
     }
