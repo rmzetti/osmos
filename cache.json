@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/media-object-float-issues-css-block-formatting-contexts/",
+          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
+          "description": "This article covers common problems using CSS floats and how to solve them using a block formatting context (BFC). Whether you are a beginner or an experienced web developer, you will learn valuable insights and practical solutions for dealing with CSS float issues.",
+          "link": "https://smashingmagazine.com/2023/05/media-object-float-issues-css-block-formatting-contexts/",
+          "publishedOn": "2023-05-15T13:00:00.000Z",
+          "wordCount": 4858,
+          "title": "Solving Media Object Float Issues With CSS Block Formatting Contexts",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/media-object-float-issues-css-block-formatting-contexts/media-object-float-issues-css-block-formatting-contexts.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/media-object-float-issues-css-block-formatting-contexts/media-object-float-issues-css-block-formatting-contexts.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Are sticky headers always a good idea? Best practices for designing sticky headers, with examples, UX guidelines and usability considerations.",
@@ -295,6 +310,246 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted",
+          "publishedOn": "2023-05-16T02:06:55.000Z",
+          "wordCount": 6662,
+          "title": "A promised audit of Twitter&#x27;s encrypted DMs didn&#x27;t occur",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcaaa9354-aad6-407e-b94f-0f1b6c195666_1024x1024.png"
+        },
+        {
+          "id": "https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/",
+          "publishedOn": "2023-05-16T01:47:46.000Z",
+          "wordCount": 1993,
+          "title": "Consumer Credit and the Removal of Medical Collections from Credit Reports",
+          "imageUrl": "https://www.consumerfinance.gov/static/img/logo_open-graph_facebook.d0dedfbe1787.png"
+        },
+        {
+          "id": "https://ultimateelectronicsbook.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ultimateelectronicsbook.com/",
+          "publishedOn": "2023-05-16T01:40:05.000Z",
+          "wordCount": 494,
+          "title": "Ultimate Electronics (2021)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/peoplebox/jobs/kpFkrzX-principal-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/peoplebox/jobs/kpFkrzX-principal-engineer",
+          "publishedOn": "2023-05-16T01:01:01.000Z",
+          "wordCount": 2530,
+          "title": "Peoplebox (YC S22) Is Hiring a Principal Engineer (Back End)",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://github.com/eth-sri/lmql",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/eth-sri/lmql",
+          "publishedOn": "2023-05-16T00:46:43.000Z",
+          "wordCount": 1220,
+          "title": "LMQL: A query language for programming (large) language models",
+          "imageUrl": "https://repository-images.githubusercontent.com/570020780/6b9aca1e-8b32-4ba3-b0ab-cda56c7bde49"
+        },
+        {
+          "id": "https://www.bloomberg.com/news/articles/2023-05-11/ken-griffin-s-hand-picked-math-prodigy-peng-zhao-runs-market-making-empire",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/news/articles/2023-05-11/ken-griffin-s-hand-picked-math-prodigy-peng-zhao-runs-market-making-empire",
+          "publishedOn": "2023-05-16T00:20:47.000Z",
+          "wordCount": 576,
+          "title": "Math prodigy runs market-making empire",
+          "imageUrl": null
+        },
+        {
+          "id": "https://spectrum.ieee.org/vint-cerf-advice",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/vint-cerf-advice",
+          "publishedOn": "2023-05-16T00:14:49.000Z",
+          "wordCount": 8403,
+          "title": "Vint Cerf’s career advice for engineers",
+          "imageUrl": "https://spectrum.ieee.org/media-library/a-white-haired-man-with-a-beard-and-mustache-sits-at-a-table-with-his-hands-folded-in-front-of-a-white-board-with-notes-on-it.jpg?id=33600022&width=1200&height=600&coordinates=0%2C15%2C0%2C15"
+        },
+        {
+          "id": "https://capillaries.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://capillaries.io/",
+          "publishedOn": "2023-05-16T00:13:53.000Z",
+          "wordCount": 231,
+          "title": "Show HN: Capillaries: Distributed data processing with Go and Cassandra",
+          "imageUrl": "http://capillaries.io/i/logo.svg"
+        },
+        {
+          "id": "https://www.baesystems.com/en/article/first-magma-flight-trials",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.baesystems.com/en/article/first-magma-flight-trials",
+          "publishedOn": "2023-05-15T23:54:18.000Z",
+          "wordCount": 1329,
+          "title": "Successful flight trial completion of unmanned aerial vehicle, MAGMA (2017)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hcn.org/articles/south-non-native-species-a-weed-is-swallowing-the-sonoran-desert",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.hcn.org/articles/south-non-native-species-a-weed-is-swallowing-the-sonoran-desert",
+          "publishedOn": "2023-05-15T22:00:30.000Z",
+          "wordCount": 1279,
+          "title": "A weed is swallowing the Sonoran Desert",
+          "imageUrl": "https://www.hcn.org/articles/south-non-native-species-a-weed-is-swallowing-the-sonoran-desert/bigimage_large"
+        },
+        {
+          "id": "https://www.amygoodchild.com/blog/computer-art-50s-and-60s",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.amygoodchild.com/blog/computer-art-50s-and-60s",
+          "publishedOn": "2023-05-15T21:57:52.000Z",
+          "wordCount": 5782,
+          "title": "Early Computer Art in the 50s and 60s",
+          "imageUrl": "http://static1.squarespace.com/static/5f33cddd6aff255aabb0c6cd/5f37d09b551f154577577f01/6459586fc50a732c95d4f88d/1684158859017/whitney+3.png?format=1500w"
+        },
+        {
+          "id": "https://arxiv.org/abs/2305.06161",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2305.06161",
+          "publishedOn": "2023-05-15T21:06:05.000Z",
+          "wordCount": 805,
+          "title": "StarCoder and StarCoderBase: 15.5B parameter models with 8K context length",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/",
+          "publishedOn": "2023-05-15T21:01:20.000Z",
+          "wordCount": 2658,
+          "title": "Case study: fake hardware cryptowallet",
+          "imageUrl": "https://media.kasperskydaily.com/wp-content/uploads/sites/92/2023/05/10060227/fake-trezor-hardware-crypto-wallet-featured.jpg"
+        },
+        {
+          "id": "http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html",
+          "publishedOn": "2023-05-15T20:46:28.000Z",
+          "wordCount": 3143,
+          "title": "Translating Akkadian clay tablets with ChatGPT?",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDT9cI_DvNyCQNJrFhcAa-m9U1NwaKGT9zaXF9srMEsuboFSnrXEaRpouYsuKwK7BpQa9tVE25C3qwSbrthfHNVvRxFwmfEyDd2cJebhmafncbv1wb0yzQjmKszRKg=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://openprocessing.org/sketch/1575230/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openprocessing.org/sketch/1575230/",
+          "publishedOn": "2023-05-15T19:23:54.000Z",
+          "wordCount": 6633,
+          "title": "random(random(random(random())))",
+          "imageUrl": "https://openprocessing.org/sketch/1575230/thumbnail"
+        },
+        {
+          "id": "https://github.com/SysSec-KAIST/LTESniffer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/SysSec-KAIST/LTESniffer",
+          "publishedOn": "2023-05-15T18:08:55.000Z",
+          "wordCount": 3051,
+          "title": "LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper",
+          "imageUrl": "https://opengraph.githubassets.com/77abb1da25e430013694c137196dfa8f77db08def10f1f29c628cc9b428a4a4b/SysSec-KAIST/LTESniffer"
+        },
+        {
+          "id": "https://dynomight.net/procrastination/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dynomight.net/procrastination/",
+          "publishedOn": "2023-05-15T16:23:18.000Z",
+          "wordCount": 2816,
+          "title": "Taxonomy of Procrastination",
+          "imageUrl": "https://dynomight.net/img/procrastination/table.jpg"
+        },
+        {
+          "id": "https://www.theguardian.com/business/2017/may/02/where-oil-rigs-go-to-die",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/business/2017/may/02/where-oil-rigs-go-to-die",
+          "publishedOn": "2023-05-15T15:09:48.000Z",
+          "wordCount": 14938,
+          "title": "Where oil rigs go to die (2017)",
+          "imageUrl": "https://i.guim.co.uk/img/media/e1cdb848a8f21e3c4186d33faac91cd78f01149a/0_131_5076_3045/master/5076.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a01e9152c2a191997951a7ad5433dab"
+        },
+        {
+          "id": "https://www.infoq.com/news/2023/05/gcc13-c2x-features/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.infoq.com/news/2023/05/gcc13-c2x-features/",
+          "publishedOn": "2023-05-15T15:06:10.000Z",
+          "wordCount": 7311,
+          "title": "GCC 13 Supports New C2x Features, Including Nullptr, Enhanced Enumerations",
+          "imageUrl": "https://res.infoq.com/news/2023/05/gcc13-c2x-features/en/headerimage/gcc-13-c2x-1684159306183.jpeg"
+        },
+        {
+          "id": "https://github.com/toverainc/willow",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/toverainc/willow",
+          "publishedOn": "2023-05-15T14:13:35.000Z",
+          "wordCount": 3277,
+          "title": "Show HN: Willow – Open-source privacy-focused voice assistant hardware",
+          "imageUrl": "https://opengraph.githubassets.com/9825918deb2f7b4b16a7ecb9c4a037aff35ea5a22ce8ac1b59546a073157dbac/toverainc/willow"
+        },
+        {
+          "id": "http://wiki.c2.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://wiki.c2.com/",
+          "publishedOn": "2023-05-15T14:01:53.000Z",
+          "wordCount": 780,
+          "title": "Come back, c2.com, we still need you",
+          "imageUrl": null
+        },
+        {
+          "id": "https://warms.maxbittker.repl.co/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://warms.maxbittker.repl.co/",
+          "publishedOn": "2023-05-15T05:23:13.000Z",
+          "wordCount": 17,
+          "title": "Pixpaint",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/whale-shark-sounds",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atlasobscura.com/articles/whale-shark-sounds",
+          "publishedOn": "2023-05-15T05:12:09.000Z",
+          "wordCount": 9307,
+          "title": "Do whale sharks make sounds? An online video raises the question",
+          "imageUrl": "https://img.atlasobscura.com/dJGS1vhzljaMr83OEAvR6BaK4-FW9rNHpR0UYWPDW9M/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy84NTg4ZDA1YjIx/ZmY3YzRmYWNfMjAx/OTA5MDIgLSBTaW1v/biBKIFBpZXJjZW5q/cGllcmNlSFIuanBn.jpg"
+        },
+        {
+          "id": "https://github.com/mitsuhiko/self-replace",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mitsuhiko/self-replace",
+          "publishedOn": "2023-05-15T04:53:30.000Z",
+          "wordCount": 752,
+          "title": "Self-Replace: A Utility For Self Replacing Executables",
+          "imageUrl": "https://opengraph.githubassets.com/7baccec85191a6271071452f4c93faa5d27dc173464d538df6db14fcffbbc40e/mitsuhiko/self-replace"
+        },
+        {
           "id": "https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358",
           "author": null,
           "description": "Comments",
@@ -313,6 +568,16 @@
           "wordCount": 9361,
           "title": "Brex’s Prompt Engineering Guide",
           "imageUrl": "https://opengraph.githubassets.com/d7344f15ca4ae52b033f990c8ff4bb450701eec55396545943f9caa3d658e250/brexhq/prompt-engineering"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=l2SQgjYmVYY",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=l2SQgjYmVYY",
+          "publishedOn": "2023-05-14T23:57:48.000Z",
+          "wordCount": null,
+          "title": "The Miracle of Pakistani Tekken",
+          "imageUrl": null
         },
         {
           "id": "https://plato.stanford.edu/entries/logic-combinatory/",
@@ -475,6 +740,16 @@
           "imageUrl": "https://www.securitymagazine.com/ext/resources/2023/03/08/Cybersecurity-lock-pixabay.jpg?height=635&t=1678302595&width=1200"
         },
         {
+          "id": "https://hpbn.co/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hpbn.co/",
+          "publishedOn": "2023-05-14T12:47:47.000Z",
+          "wordCount": 1095,
+          "title": "High Performance Browser Networking",
+          "imageUrl": null
+        },
+        {
           "id": "https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc",
           "author": null,
           "description": "Comments",
@@ -485,6 +760,16 @@
           "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
         },
         {
+          "id": "https://billydm.github.io/blog/daw-frontend-development-struggles/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://billydm.github.io/blog/daw-frontend-development-struggles/",
+          "publishedOn": "2023-05-14T12:17:03.000Z",
+          "wordCount": 6056,
+          "title": "Digital Audio Workstation Front End Development Struggles",
+          "imageUrl": null
+        },
+        {
           "id": "https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023",
           "author": null,
           "description": "Comments",
@@ -493,6 +778,36 @@
           "wordCount": 4388,
           "title": "The World is Built on Probability (1984)",
           "imageUrl": "https://archive.org/services/img/lev-tarasov-the-world-is-built-on-probability-mir-2023"
+        },
+        {
+          "id": "https://byrnehobart.medium.com/writing-good-career-move-terrible-career-ad672663ea3b",
+          "author": null,
+          "description": "Comments",
+          "link": "https://byrnehobart.medium.com/writing-good-career-move-terrible-career-ad672663ea3b",
+          "publishedOn": "2023-05-14T10:26:42.000Z",
+          "wordCount": 7880,
+          "title": "Writing: Good career move, terrible career (2018)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*5A_6p8chIjK7LFJBgn9_Mg.jpeg"
+        },
+        {
+          "id": "https://makefiletutorial.com/#top",
+          "author": null,
+          "description": "Comments",
+          "link": "https://makefiletutorial.com/#top",
+          "publishedOn": "2023-05-14T09:34:38.000Z",
+          "wordCount": 5623,
+          "title": "Learn Makefiles with the Tastiest Examples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://learningmusic.ableton.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://learningmusic.ableton.com/",
+          "publishedOn": "2023-05-14T06:28:53.000Z",
+          "wordCount": 717,
+          "title": "Get started making music",
+          "imageUrl": "https://learningmusic.ableton.com/images/og-image.jpg"
         },
         {
           "id": "https://www.newyorker.com/culture/cover-story/cover-story-2023-05-15",
@@ -8753,336 +9068,6 @@
           "wordCount": 1715,
           "title": "Coq typeclass resolution is Turing-complete",
           "imageUrl": null
-        },
-        {
-          "id": "https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594",
-          "author": null,
-          "description": "Comments",
-          "link": "https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594",
-          "publishedOn": "2023-04-16T16:27:04.000Z",
-          "wordCount": 4321,
-          "title": "Korean as a Concatenative, Stack-Oriented Language (2017)",
-          "imageUrl": "https://ssl.pstatic.net/static.post/image/icon/post_ico_270X270.png"
-        },
-        {
-          "id": "https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record",
-          "publishedOn": "2023-04-16T16:15:18.000Z",
-          "wordCount": 9464,
-          "title": "Lessons from America’s astonishing economic record",
-          "imageUrl": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230415_LDD001.jpg"
-        },
-        {
-          "id": "https://martinfowler.com/bliki/ConwaysLaw.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://martinfowler.com/bliki/ConwaysLaw.html",
-          "publishedOn": "2023-04-16T15:45:39.000Z",
-          "wordCount": 1414,
-          "title": "Conway’s Law",
-          "imageUrl": "https://martinfowler.com/bliki/images/conwaysLaw/card.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C1KT8PS6Zs4",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=C1KT8PS6Zs4",
-          "publishedOn": "2023-04-16T15:45:11.000Z",
-          "wordCount": null,
-          "title": "Prince Rupert&#x27;s Drop vs Molten Glas [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://clojure.org/about/rationale",
-          "author": null,
-          "description": "Comments",
-          "link": "https://clojure.org/about/rationale",
-          "publishedOn": "2023-04-16T15:34:48.000Z",
-          "wordCount": 1004,
-          "title": "Clojure Rationale (2008)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.alexcharlton.co/projects/booking-com-de-stresser",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.alexcharlton.co/projects/booking-com-de-stresser",
-          "publishedOn": "2023-04-16T15:22:03.000Z",
-          "wordCount": 1312,
-          "title": "De-Stressing Booking.com",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nibblestew.blogspot.com/2023/02/plain-c-api-design-real-world-kobayashi.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nibblestew.blogspot.com/2023/02/plain-c-api-design-real-world-kobayashi.html",
-          "publishedOn": "2023-04-16T15:17:15.000Z",
-          "wordCount": 3459,
-          "title": "Plain C API design, the real world Kobayashi Maru test",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/dmishin/fft-image-experiments",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/dmishin/fft-image-experiments",
-          "publishedOn": "2023-04-16T14:43:18.000Z",
-          "wordCount": 607,
-          "title": "Experiments with plane-filling curves and Fourier transform",
-          "imageUrl": "https://opengraph.githubassets.com/4ad86d53b57fdebb4f6be79941b7fe7b3687a0718ec28c0f2822fbc084f567d6/dmishin/fft-image-experiments"
-        },
-        {
-          "id": "https://www.newyorker.com/culture/cultural-comment/the-battle-over-technos-origins",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newyorker.com/culture/cultural-comment/the-battle-over-technos-origins",
-          "publishedOn": "2023-04-16T13:33:52.000Z",
-          "wordCount": 42228,
-          "title": "The Battle over Techno’s Origins",
-          "imageUrl": "https://media.newyorker.com/photos/643872916c1b3caf9264c723/16:9/w_1280,c_limit/Brown-Techno-Dj-3.jpg"
-        },
-        {
-          "id": "https://magazine.sebastianraschka.com/p/understanding-large-language-models",
-          "author": null,
-          "description": "Comments",
-          "link": "https://magazine.sebastianraschka.com/p/understanding-large-language-models",
-          "publishedOn": "2023-04-16T13:12:06.000Z",
-          "wordCount": 6165,
-          "title": "Understanding large language models: A cross-section of the relevant literature",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9a0766d-2e52-4af0-96c5-3e07a30d6ecb_1868x1130.png"
-        },
-        {
-          "id": "https://dl.acm.org/doi/abs/10.1145/3236774",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dl.acm.org/doi/abs/10.1145/3236774",
-          "publishedOn": "2023-04-16T12:38:38.000Z",
-          "wordCount": 1685,
-          "title": "Build systems à la carte (2018)",
-          "imageUrl": "https://dl.acm.org/cms/asset/00634a82-7888-40af-960e-a3ffb309043e/3243631.cover.jpg"
-        },
-        {
-          "id": "https://samwho.dev/load-balancing/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://samwho.dev/load-balancing/",
-          "publishedOn": "2023-04-16T10:34:12.000Z",
-          "wordCount": 2287,
-          "title": "Load Balancing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/vexx32/PSKoans",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/vexx32/PSKoans",
-          "publishedOn": "2023-04-16T09:17:07.000Z",
-          "wordCount": 1751,
-          "title": "PSKoans: A simple, fun, and interactive way to learn the PowerShell language",
-          "imageUrl": "https://repository-images.githubusercontent.com/139899094/a0dcb680-69bf-11e9-81ae-38bab4cde89b"
-        },
-        {
-          "id": "https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHVersusSSH",
-          "author": null,
-          "description": "Comments",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHVersusSSH",
-          "publishedOn": "2023-04-16T07:19:56.000Z",
-          "wordCount": 597,
-          "title": "OpenSSH versus SSH",
-          "imageUrl": null
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Dishwasher_salmon",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Dishwasher_salmon",
-          "publishedOn": "2023-04-16T02:25:41.000Z",
-          "wordCount": 880,
-          "title": "Dishwasher Salmon",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/2008-08-05ExtremeCooking010.jpg"
-        },
-        {
-          "id": "https://blog.nelhage.com/post/efficiency-vs-resiliency/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.nelhage.com/post/efficiency-vs-resiliency/",
-          "publishedOn": "2023-04-16T02:06:59.000Z",
-          "wordCount": 2062,
-          "title": "Efficiency trades off against resiliency",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace",
-          "publishedOn": "2023-04-16T00:22:52.000Z",
-          "wordCount": 1274,
-          "title": "Mouse scroll wheel acceleration, implemented in user space",
-          "imageUrl": "https://opengraph.githubassets.com/e4135298f814581f7a2fc2b7bd29d59c93d412ee4e9bec3bf629f6aa74ea5ef7/albertz/mouse-scroll-wheel-acceleration-userspace"
-        },
-        {
-          "id": "https://github.com/kovidgoyal/kitty/pull/5969",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/kovidgoyal/kitty/pull/5969",
-          "publishedOn": "2023-04-16T00:06:37.000Z",
-          "wordCount": 3103,
-          "title": "Latest Kitty terminal release features SRGB correct linear gamma blending",
-          "imageUrl": "https://opengraph.githubassets.com/aa527dfdbad34d495a0a490af09d42fcfe5449b5fcf2c05a2976bb107009d019/kovidgoyal/kitty/pull/5969"
-        },
-        {
-          "id": "https://coveragemap.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://coveragemap.com/",
-          "publishedOn": "2023-04-15T23:43:41.000Z",
-          "wordCount": 536,
-          "title": "A Community-Contributed Cellular Coverage Map",
-          "imageUrl": "https://uploads-ssl.webflow.com/634cd9079f22e462e7fb5f13/6421e35fbe42e63a161729a4_home-open-graph.jpg"
-        },
-        {
-          "id": "https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf",
-          "publishedOn": "2023-04-15T22:19:26.000Z",
-          "wordCount": 11511,
-          "title": "Google CEO: “can we change the setting of this group to history-off” [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/",
-          "publishedOn": "2023-04-15T22:13:04.000Z",
-          "wordCount": 1437,
-          "title": "The Red Hat model only worked for Red Hat",
-          "imageUrl": "https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/feature.png"
-        },
-        {
-          "id": "https://paulstamatiou.com/digital-clutter/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://paulstamatiou.com/digital-clutter/",
-          "publishedOn": "2023-04-15T21:44:56.000Z",
-          "wordCount": 2241,
-          "title": "Digital clutter: Learning to let go and stop hoarding terabytes",
-          "imageUrl": null
-        },
-        {
-          "id": "http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html",
-          "publishedOn": "2023-04-15T21:21:53.000Z",
-          "wordCount": 2601,
-          "title": "The FFmpeg&#x2F;Libav situation (2012)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://changelog.complete.org/archives/10478-easily-accessing-all-your-stuff-with-a-zero-trust-mesh-vpn",
-          "author": null,
-          "description": "Comments",
-          "link": "https://changelog.complete.org/archives/10478-easily-accessing-all-your-stuff-with-a-zero-trust-mesh-vpn",
-          "publishedOn": "2023-04-15T21:08:11.000Z",
-          "wordCount": null,
-          "title": "Easily accessing all your stuff with a zero-trust mesh VPN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lifearchitect.ai/chinchilla/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lifearchitect.ai/chinchilla/",
-          "publishedOn": "2023-04-15T20:39:20.000Z",
-          "wordCount": 3051,
-          "title": "33TB of text data for a 1T-parameter model",
-          "imageUrl": "https://s10251.pcdn.co/wp-content/uploads/2023/02/2023-chinchilla-photo-0.jpg"
-        },
-        {
-          "id": "https://www.ft.com/content/c331b279-00e5-4e7d-954f-468f4ee44c31",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ft.com/content/c331b279-00e5-4e7d-954f-468f4ee44c31",
-          "publishedOn": "2023-04-15T20:32:57.000Z",
-          "wordCount": 2275,
-          "title": "Yeah, about that active comeback...",
-          "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9edc1bd1-49d4-4d2d-b8fc-67ce83a0b8da.jpg?source=next-opengraph&fit=scale-down&width=900"
-        },
-        {
-          "id": "http://gabarro.org/ccn/algebraic_graph_calculus.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://gabarro.org/ccn/algebraic_graph_calculus.html",
-          "publishedOn": "2023-04-15T20:22:54.000Z",
-          "wordCount": 3847,
-          "title": "Algebraic graph calculus (2021)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/TechEmails/status/1647317806697050112",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/TechEmails/status/1647317806697050112",
-          "publishedOn": "2023-04-15T19:22:18.000Z",
-          "wordCount": 509,
-          "title": "Microsoft execs on Apple&#x27;s music store (2003)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.aircargonews.net/airlines/freighter-operator/us-doj-charges-10-with-defrauding-polar-air-cargo-worldwide/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.aircargonews.net/airlines/freighter-operator/us-doj-charges-10-with-defrauding-polar-air-cargo-worldwide/",
-          "publishedOn": "2023-04-15T18:47:59.000Z",
-          "wordCount": null,
-          "title": "DOJ charges 10 with fraud in global air freight kickback scheme",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/mlc-ai/web-llm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/mlc-ai/web-llm",
-          "publishedOn": "2023-04-15T18:42:09.000Z",
-          "wordCount": 1819,
-          "title": "Web LLM – WebGPU Powered Inference of Large Language Models",
-          "imageUrl": "https://opengraph.githubassets.com/553721557d370aafd0e80ddde7acbedd7ff4b4237a851989cbb3633d5fa171a0/mlc-ai/web-llm"
-        },
-        {
-          "id": "https://www.lofiatc.com/?icao=KLAX",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.lofiatc.com/?icao=KLAX",
-          "publishedOn": "2023-04-15T18:28:23.000Z",
-          "wordCount": 63,
-          "title": "Lofi air traffic control – LAX",
-          "imageUrl": "/assets/banner.png"
-        },
-        {
-          "id": "https://github.com/vanhoefm/macstealer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/vanhoefm/macstealer",
-          "publishedOn": "2023-04-15T17:46:25.000Z",
-          "wordCount": 5697,
-          "title": "MacStealer allows for WiFi client isolation bypasses",
-          "imageUrl": "https://opengraph.githubassets.com/8c182f7ad6baeb36f1f93345c6034e4966c413a34076acf6c3345670bcc17f5a/vanhoefm/macstealer"
-        },
-        {
-          "id": "https://www.ykilcher.com/OA_Paper_2023_04_15.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ykilcher.com/OA_Paper_2023_04_15.pdf",
-          "publishedOn": "2023-04-15T17:04:33.000Z",
-          "wordCount": 1671,
-          "title": "OpenAssistant Conversations – Democratizing Large Language Model Alignment [pdf]",
-          "imageUrl": null
         }
       ]
     },
@@ -9148,6 +9133,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://www.knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/article/food-environment/2023/bt-crops-successes-failures",
+          "author": "Dan Charles",
+          "description": "Bt crops keep many agricultural pests at bay and have drastically reduced the use of pesticides. But scientists warn that these valuable tools are in jeopardy due to overuse and abuse.",
+          "link": "https://knowablemagazine.org/article/food-environment/2023/bt-crops-successes-failures",
+          "publishedOn": "2023-05-15T15:00:00.000Z",
+          "wordCount": null,
+          "title": "The ever-tenuous success of plants engineered to kill insect foes",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "106105",
+            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-051523-3-1200x630.jpg"
+          },
+          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-051523-3-1200x630.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/article/living-world/2023/get-out-and-count-bugs",
           "author": "Mary Gardiner and Helen Roy",
@@ -9854,26 +9854,6 @@
           "wordCount": 1337,
           "title": "ΦFlow",
           "imageUrl": "https://danmackinlay.name/images/balinese_sculptor.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/recursive_identification.html",
-          "author": null,
-          "description": "Classic systems learning\nThe pushforward trick\nBackpropagation through time\nMethod of adjoints\nIncoming\nReferences\nA grab-bag of perspectives and tricks for recursive identification of dynamical systems, i.e. updating a model which produces the correct forward predictions, over what time horizon.\nThis is common to forecasting and state filtering system identification (including particle version, RNNs and forward operator learning.\nKeywords: multi-step prediction, time horizon, teacher forcing.\nThe various things that are meant by “autoregressive”.\n\nClassic systems learning\nAccording to (Lindström et al. 2012), here are some landmark papers:\nAugmenting the unobserved state vector is a well known technique, used in the\nsystem identification community for decades, see e.g. Ljung (L. Ljung 197…",
-          "link": "https://danmackinlay.name/notebook/recursive_identification.html",
-          "publishedOn": "2023-04-16T01:40:59.000Z",
-          "wordCount": 3015,
-          "title": "Recursive identification",
-          "imageUrl": "https://danmackinlay.name/images/curtate_trochoid.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/ml_pde_operator.html",
-          "author": null,
-          "description": "Fourier neural operator\nU-net\nActive learning\nAlternative transforms in spectral operators\nAvoiding inverse transform\nRecursive estimation\nBoundary conditions\nIncoming\nReferences\n\nNeural operators are a particular way of using statistical or machine learning approaches to solve PDEs, and maybe even to perform inference through them, by learning to predict one step ahead dynamics of the model.\nGeneral notes about identifying forward operators are in recursive identification, notably the pushforward trick.\nFourier neural operator\nZongyi Li blogs a neat trick:\nWe use Fourier transforms to capture resolution-invariant and non-local behaviour in PDE forward-propagators.\nEssentially, we learn to approximate \\(\\mathcal{P}_1: \\mathscr{A}\\to\\mathscr{A}.\\)\nThere is a bouquet of papers designed to le…",
-          "link": "https://danmackinlay.name/notebook/ml_pde_operator.html",
-          "publishedOn": "2023-04-16T01:35:11.000Z",
-          "wordCount": 3575,
-          "title": "Neural PDE operator learning",
-          "imageUrl": "https://danmackinlay.name/images/foremost_astrologer.png"
         }
       ]
     },
@@ -9882,6 +9862,16 @@
       "feedUrl": "http://news.google.com/news?hl=en&output=rss&q=Google+NZ+blog&cf=all&num=30",
       "siteUrl": "https://news.google.com/search?hl=en-US&q=Google+NZ+blog&cf=all&num=30&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMibWh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDUvMTUvZ3Vlc3QtYmxvZy1iZW4tbW9yZ2FuLXB1dGluLWNhbi1raXNzLWtlcmNoLWJyaWRnZS1hbmQtYmFraG11dC1nb29kLWJ5ZS_SAQA",
+          "author": null,
+          "description": "GUEST BLOG: Ben Morgan – Putin can kiss Kerch Bridge and ...  thedailyblog.co.nz",
+          "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdGhlZGFpbHlibG9nLmNvLm56LzIwMjMvMDUvMTUvZ3Vlc3QtYmxvZy1iZW4tbW9yZ2FuLXB1dGluLWNhbi1raXNzLWtlcmNoLWJyaWRnZS1hbmQtYmFraG11dC1nb29kLWJ5ZS_SAQA?oc=5",
+          "publishedOn": "2023-05-15T05:24:12.000Z",
+          "wordCount": 6015,
+          "title": "GUEST BLOG: Ben Morgan – Putin can kiss Kerch Bridge and ... - thedailyblog.co.nz",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiSWh0dHBzOi8vd3d3Lm5ici5jby5uei9ib29rLXJldmlldy9pbnRyZXBpZC1pbnRlcm5ldC1odW50ZXItZm9yLXRoZS10cnV0aC_SAQA",
           "author": null,
