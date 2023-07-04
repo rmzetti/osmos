@@ -2,10 +2,318 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmzetti.github.io/osmos/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-03T04:35:15.303Z</updated>
+    <updated>2023-07-04T04:35:49.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rmzetti.github.io/osmos/index.html"/>
     <link rel="self" href="https://rmzetti.github.io/osmos/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Threads.net]]></title>
+        <id>https://www.threads.net/</id>
+        <link href="https://www.threads.net/"/>
+        <updated>2023-07-04T02:40:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning needs to be effortful to be effective]]></title>
+        <id>https://giansegato.com/essays/edutainment-is-not-learning</id>
+        <link href="https://giansegato.com/essays/edutainment-is-not-learning"/>
+        <updated>2023-07-04T01:02:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaking Bitwarden's Vault with a Nginx vulnerability]]></title>
+        <id>https://labs.hakaioffsec.com/nginx-alias-traversal/</id>
+        <link href="https://labs.hakaioffsec.com/nginx-alias-traversal/"/>
+        <updated>2023-07-03T23:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threads, an Instagram app]]></title>
+        <id>https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002</id>
+        <link href="https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002"/>
+        <updated>2023-07-03T23:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPU Utilization Is Wrong (2017)]]></title>
+        <id>https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html</id>
+        <link href="https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html"/>
+        <updated>2023-07-03T23:11:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Velt (YC W22) Is Hiring Founding Frontend Engineer in US]]></title>
+        <id>https://www.ycombinator.com/companies/velt/jobs/iC33Kfh-founding-frontend-engineer-web-us-only</id>
+        <link href="https://www.ycombinator.com/companies/velt/jobs/iC33Kfh-founding-frontend-engineer-web-us-only"/>
+        <updated>2023-07-03T22:56:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Syncthing]]></title>
+        <id>https://danmackinlay.name/notebook/syncthing.html</id>
+        <link href="https://danmackinlay.name/notebook/syncthing.html"/>
+        <updated>2023-07-03T22:33:07.000Z</updated>
+        <summary type="html"><![CDATA[useful config
+UIs
+Nitty gritty
+Windows
+Cloud deployment
+
+My favourite file synchronsation tool.
+Think dropbox, but without a server, or a third party, or any need to spend money on anything.
+Choose this if… You have a collection of various folders that you need
+shared to various different machines, and you would like many of the
+different machines to be able to edit them. You don’t need a server and thus you
+are happy for syncing to happen if and when the peers are online.
+And you don’t care about iOS.
+And you don’t mind wasting a few CPU cycles (not many by modern standards) on making it decentralised.
+I use syncthing for synchronising my music production files across my studio
+machines, studio backup machines and gig machines.
+Syncthing has an elegant decentralised
+peer-to-peer design.
+I…]]></summary>
+        <author>
+            <name>The Dan MacKinlay family of variably-well-considered enterprises on Dan MacKinlay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things that surprised me while running SQLite in production]]></title>
+        <id>https://www.joseferben.com/posts/3-things-that-surprised-me-while-running-sqlite-in-production/</id>
+        <link href="https://www.joseferben.com/posts/3-things-that-surprised-me-while-running-sqlite-in-production/"/>
+        <updated>2023-07-03T21:57:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Dell’s 6K monitor beat their 8K monitor?]]></title>
+        <id>https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/</id>
+        <link href="https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/"/>
+        <updated>2023-07-03T19:12:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Using C++23 <stacktrace> to get proper crash logs in C++ programs]]></title>
+        <id>https://github.com/TylerGlaiel/Crashlogs</id>
+        <link href="https://github.com/TylerGlaiel/Crashlogs"/>
+        <updated>2023-07-03T18:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Dive into the Math Behind Bitcoin Schnorr Signatures]]></title>
+        <id>https://conduition.io/cryptography/schnorr/</id>
+        <link href="https://conduition.io/cryptography/schnorr/"/>
+        <updated>2023-07-03T17:42:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MartyPC, cycle accurate IBM PC/XT emulator]]></title>
+        <id>https://www.vogons.org/viewtopic.php?t=94972</id>
+        <link href="https://www.vogons.org/viewtopic.php?t=94972"/>
+        <updated>2023-07-03T17:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joins 13 Ways]]></title>
+        <id>https://justinjaffray.com/joins-13-ways/?a=b</id>
+        <link href="https://justinjaffray.com/joins-13-ways/?a=b"/>
+        <updated>2023-07-03T17:01:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SlowDownAndWasteMemory()]]></title>
+        <id>https://github.com/WebKit/WebKit/blob/ab10a90523e06df54bbb8a98e1aed913f79d0af9/Source/JavaScriptCore/runtime/JSArrayBufferView.cpp#L269</id>
+        <link href="https://github.com/WebKit/WebKit/blob/ab10a90523e06df54bbb8a98e1aed913f79d0af9/Source/JavaScriptCore/runtime/JSArrayBufferView.cpp#L269"/>
+        <updated>2023-07-03T16:57:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bfloat16 support coming to Apple's Metal and PyTorch [video]]]></title>
+        <id>https://developer.apple.com/videos/play/wwdc2023/10050/?time=590</id>
+        <link href="https://developer.apple.com/videos/play/wwdc2023/10050/?time=590"/>
+        <updated>2023-07-03T16:42:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where in the USA is this?]]></title>
+        <id>https://pudding.cool/games/where/</id>
+        <link href="https://pudding.cool/games/where/"/>
+        <updated>2023-07-03T16:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodreads was the future of book reviews, then Amazon bought it]]></title>
+        <id>https://www.washingtonpost.com/technology/2023/07/01/amazon-goodreads-elizabeth-gilbert/</id>
+        <link href="https://www.washingtonpost.com/technology/2023/07/01/amazon-goodreads-elizabeth-gilbert/"/>
+        <updated>2023-07-03T16:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Animated Elliptic Curve]]></title>
+        <id>https://curves.xargs.org/</id>
+        <link href="https://curves.xargs.org/"/>
+        <updated>2023-07-03T16:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An interactive guide to SVG paths]]></title>
+        <id>https://www.nan.fyi/svg-paths</id>
+        <link href="https://www.nan.fyi/svg-paths"/>
+        <updated>2023-07-03T15:50:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: JobLens – AI-powered job search for 'Who Is Hiring']]></title>
+        <id>https://www.kadoa.com/joblens</id>
+        <link href="https://www.kadoa.com/joblens"/>
+        <updated>2023-07-03T15:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate Your Network]]></title>
+        <id>https://github.com/automateyournetwork/automate_your_network</id>
+        <link href="https://github.com/automateyournetwork/automate_your_network"/>
+        <updated>2023-07-03T15:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Who is hiring? (July 2023)]]></title>
+        <id>https://news.ycombinator.com/item?id=36573871</id>
+        <link href="https://news.ycombinator.com/item?id=36573871"/>
+        <updated>2023-07-03T15:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Who wants to be hired? (July 2023)]]></title>
+        <id>https://news.ycombinator.com/item?id=36573869</id>
+        <link href="https://news.ycombinator.com/item?id=36573869"/>
+        <updated>2023-07-03T15:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FoundationDB: A Distributed Key-Value Store]]></title>
+        <id>https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext</id>
+        <link href="https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext"/>
+        <updated>2023-07-03T13:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Problems of C, and how Zig addresses them]]></title>
+        <id>https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them</id>
+        <link href="https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them"/>
+        <updated>2023-07-03T13:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cluetrain Manifesto (1999)]]></title>
+        <id>https://www.cluetrain.com/#manifesto</id>
+        <link href="https://www.cluetrain.com/#manifesto"/>
+        <updated>2023-07-03T11:14:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-Oriented Design (2018)]]></title>
+        <id>https://www.dataorienteddesign.com/dodbook/dodmain.html</id>
+        <link href="https://www.dataorienteddesign.com/dodbook/dodmain.html"/>
+        <updated>2023-07-03T10:41:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The evolving Unix attitudes on handling signals in your code]]></title>
+        <id>https://utcc.utoronto.ca/~cks/space/blog/unix/SignalHandlingOverTime</id>
+        <link href="https://utcc.utoronto.ca/~cks/space/blog/unix/SignalHandlingOverTime"/>
+        <updated>2023-07-03T06:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Dutch Village Where Everyone Has Dementia (2014)]]></title>
+        <id>https://www.theatlantic.com/health/archive/2014/11/the-dutch-village-where-everyone-has-dementia/382195/</id>
+        <link href="https://www.theatlantic.com/health/archive/2014/11/the-dutch-village-where-everyone-has-dementia/382195/"/>
+        <updated>2023-07-03T05:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[55 GiB/s FizzBuzz (2021)]]></title>
         <id>https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630</id>
@@ -37,10 +345,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sending audio to LKV373 HDMI extenders (2021)]]></title>
+        <id>https://eta.st/2021/06/20/showtime.html</id>
+        <link href="https://eta.st/2021/06/20/showtime.html"/>
+        <updated>2023-07-03T00:19:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lumia WOA Project – Windows 10 or Windows 11 Desktop OS for Lumia 950/XL]]></title>
         <id>https://woa-project.github.io/LumiaWOA/</id>
         <link href="https://woa-project.github.io/LumiaWOA/"/>
         <updated>2023-07-02T23:42:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OtterCast: FOSS Audio streaming device running Linux using Sochip S3 SiP]]></title>
+        <id>https://github.com/Ottercast/OtterCastAudioV2</id>
+        <link href="https://github.com/Ottercast/OtterCastAudioV2"/>
+        <updated>2023-07-02T23:42:04.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -10046,276 +10374,6 @@ plist files are opaque binary mes…]]></summary>
         <id>https://www.bell-labs.com/usr/dmr/www/</id>
         <link href="https://www.bell-labs.com/usr/dmr/www/"/>
         <updated>2023-06-04T16:55:01.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iceland: The emerging tech-ecosystem of the Nordics]]></title>
-        <id>https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem</id>
-        <link href="https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem"/>
-        <updated>2023-06-04T15:27:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Rarbg on IPFS]]></title>
-        <id>https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/</id>
-        <link href="https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/"/>
-        <updated>2023-06-04T15:07:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anything can be a message queue if you use it wrongly enough]]></title>
-        <id>https://xeiaso.net/blog/anything-message-queue</id>
-        <link href="https://xeiaso.net/blog/anything-message-queue"/>
-        <updated>2023-06-04T15:06:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A not-so-quick introduction to the C++ allocator model]]></title>
-        <id>https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/</id>
-        <link href="https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/"/>
-        <updated>2023-06-04T14:22:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where the Wood-Wide Web Went Wrong]]></title>
-        <id>https://undark.org/2023/05/25/where-the-wood-wide-web-narrative-went-wrong/</id>
-        <link href="https://undark.org/2023/05/25/where-the-wood-wide-web-narrative-went-wrong/"/>
-        <updated>2023-06-04T07:22:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DreamBerd is a perfect programming language]]></title>
-        <id>https://github.com/TodePond/DreamBerd</id>
-        <link href="https://github.com/TodePond/DreamBerd"/>
-        <updated>2023-06-04T07:07:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Stops Millions of Americans From Going Green: Their Landlords - Slashdot]]></title>
-        <id>CBMicWh0dHBzOi8vbmV3cy5zbGFzaGRvdC5vcmcvc3RvcnkvMjMvMDYvMDMvMTY1MjA0L3doYXQtc3RvcHMtbWlsbGlvbnMtb2YtYW1lcmljYW5zLWZyb20tZ29pbmctZ3JlZW4tdGhlaXItbGFuZGxvcmRz0gEA</id>
-        <link href="https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbmV3cy5zbGFzaGRvdC5vcmcvc3RvcnkvMjMvMDYvMDMvMTY1MjA0L3doYXQtc3RvcHMtbWlsbGlvbnMtb2YtYW1lcmljYW5zLWZyb20tZ29pbmctZ3JlZW4tdGhlaXItbGFuZGxvcmRz0gEA?oc=5"/>
-        <updated>2023-06-04T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What Stops Millions of Americans From Going Green: Their Landlords  Slashdot]]></summary>
-        <author>
-            <name>"Google NZ blog" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNU poke: an extensible editor for structured binary data]]></title>
-        <id>http://www.jemarch.net/poke</id>
-        <link href="http://www.jemarch.net/poke"/>
-        <updated>2023-06-04T03:37:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atomic Wallet exploited, users report loss of entire portfolios]]></title>
-        <id>https://cointelegraph.com/news/atomic-wallet-exploited-users-report-loss-of-entire-portfolios</id>
-        <link href="https://cointelegraph.com/news/atomic-wallet-exploited-users-report-loss-of-entire-portfolios"/>
-        <updated>2023-06-04T01:41:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It Will Cost More Than Total Future Production to Clean Up California Oil Sites]]></title>
-        <id>https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits</id>
-        <link href="https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits"/>
-        <updated>2023-06-04T01:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The War on Dogs]]></title>
-        <id>https://www.historytoday.com/archive/history-matters/war-dogs</id>
-        <link href="https://www.historytoday.com/archive/history-matters/war-dogs"/>
-        <updated>2023-06-04T00:47:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thought Cloning: Learning to think while acting by imitating human thinking]]></title>
-        <id>https://arxiv.org/abs/2306.00323</id>
-        <link href="https://arxiv.org/abs/2306.00323"/>
-        <updated>2023-06-03T23:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Induction of a torpor-like state in rodents by ultrasound]]></title>
-        <id>https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests</id>
-        <link href="https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests"/>
-        <updated>2023-06-03T22:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manifesto on the Teaching of Mathematics]]></title>
-        <id>https://intellectualmathematics.com/manifesto/</id>
-        <link href="https://intellectualmathematics.com/manifesto/"/>
-        <updated>2023-06-03T22:01:58.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The death of self-driving cars is greatly exaggerated]]></title>
-        <id>https://www.understandingai.org/p/the-death-of-self-driving-cars-is</id>
-        <link href="https://www.understandingai.org/p/the-death-of-self-driving-cars-is"/>
-        <updated>2023-06-03T21:33:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maglev: Chrome’s New JIT Compiler]]></title>
-        <id>https://blog.chromium.org/2023/06/how-chrome-achieved-high-scores-on.html</id>
-        <link href="https://blog.chromium.org/2023/06/how-chrome-achieved-high-scores-on.html"/>
-        <updated>2023-06-03T21:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPS (2022)]]></title>
-        <id>https://ciechanow.ski/gps/</id>
-        <link href="https://ciechanow.ski/gps/"/>
-        <updated>2023-06-03T20:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports]]></title>
-        <id>https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/</id>
-        <link href="https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/"/>
-        <updated>2023-06-03T20:03:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Still Love Telnet]]></title>
-        <id>https://bash-prompt.net/guides/telnet/</id>
-        <link href="https://bash-prompt.net/guides/telnet/"/>
-        <updated>2023-06-03T19:41:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting time on fire and the temptation of The Button]]></title>
-        <id>https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation</id>
-        <link href="https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation"/>
-        <updated>2023-06-03T18:40:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classic components could be replaced by rubber in next-gen loudspeakers]]></title>
-        <id>https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/</id>
-        <link href="https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/"/>
-        <updated>2023-06-03T18:18:34.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIA, MKUltra, and the cover-up of U.S. germ warfare in the Korean war (2022)]]></title>
-        <id>https://jeff-kaye.medium.com/cia-mkultra-and-the-cover-up-of-u-s-germ-warfare-in-the-korean-war-3e3cce505d35</id>
-        <link href="https://jeff-kaye.medium.com/cia-mkultra-and-the-cover-up-of-u-s-germ-warfare-in-the-korean-war-3e3cce505d35"/>
-        <updated>2023-06-03T18:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reduce vs. Fold in Common Lisp]]></title>
-        <id>https://www.n16f.net/blog/reduce-vs-fold-in-common-lisp/</id>
-        <link href="https://www.n16f.net/blog/reduce-vs-fold-in-common-lisp/"/>
-        <updated>2023-06-03T18:03:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running Apple 1 software on a breadboard computer (Wozmon) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=HlLCtjJzHVI</id>
-        <link href="https://www.youtube.com/watch?v=HlLCtjJzHVI"/>
-        <updated>2023-06-03T17:02:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing]]></title>
-        <id>https://news.ycombinator.com/item?id=36178320</id>
-        <link href="https://news.ycombinator.com/item?id=36178320"/>
-        <updated>2023-06-03T17:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t store cash in Venmo and PayPal, US regulator warns]]></title>
-        <id>https://www.cnn.com/2023/06/02/investing/payment-apps-safety/index.html</id>
-        <link href="https://www.cnn.com/2023/06/02/investing/payment-apps-safety/index.html"/>
-        <updated>2023-06-03T16:56:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Original AI Doomer: Dr. Norbert Wiener]]></title>
-        <id>https://newsletter.pessimistsarchive.org/p/the-original-ai-doomer-dr-norbert</id>
-        <link href="https://newsletter.pessimistsarchive.org/p/the-original-ai-doomer-dr-norbert"/>
-        <updated>2023-06-03T16:45:04.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
