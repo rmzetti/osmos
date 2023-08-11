@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/08/running-page-speed-test-monitoring-versus-measuring/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "What does your performance “stack” look like? There are all kinds of tools available for measuring page speed, but what data and assumptions do they use to measure performance? And speaking of *measuring* performance, there’s quite a difference between that and *monitoring* performance. Let’s dig in!",
+          "link": "https://smashingmagazine.com/2023/08/running-page-speed-test-monitoring-versus-measuring/",
+          "publishedOn": "2023-08-10T08:00:00.000Z",
+          "wordCount": 4415,
+          "title": "Running A Page Speed Test: Monitoring vs. Measuring",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/running-page-speed-test-monitoring-versus-measuring/running-page-speed-test-monitoring-versus-measuring.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/running-page-speed-test-monitoring-versus-measuring/running-page-speed-test-monitoring-versus-measuring.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/08/friction-feature-machine-learning-algorithms/",
           "author": "hello@smashingmagazine.com (Maximillian Piras)",
           "description": "Friction often has a negative connotation in user experience design, but it actually has many benefits. Its best-known use case is mitigating unintended consequences in high-risk scenarios, yet it has a new place in the age of artificial intelligence. Adding strategic friction to interfaces can lead to profound efficiency gains in machine learning algorithms.",
@@ -211,21 +226,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/writing-css-2023/writing-css-2023-sharing-card.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/07/create-rapid-research-program-support-insights-scale/",
-          "author": "hello@smashingmagazine.com (Devin Harold)",
-          "description": "Accelerate your organization’s growth and innovation with the power of Rapid Research. From inception to implementation, here is the step-by-step roadmap on how to build the program from scratch and uncover the untapped ROI opportunities waiting to propel your initiatives to new heights.",
-          "link": "https://smashingmagazine.com/2023/07/create-rapid-research-program-support-insights-scale/",
-          "publishedOn": "2023-07-12T15:00:00.000Z",
-          "wordCount": 7640,
-          "title": "How To Create A Rapid Research Program To Support Insights At Scale",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/create-rapid-research-program-support-insights-scale/create-rapid-research-program-support-insights-scale.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/create-rapid-research-program-support-insights-scale/create-rapid-research-program-support-insights-scale.jpg"
         }
       ]
     },
@@ -234,6 +234,246 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/",
+          "publishedOn": "2023-08-11T03:09:30.000Z",
+          "wordCount": 1063,
+          "title": "Firefox desktop extensions coming soon for the upcoming Android release",
+          "imageUrl": "https://blog.mozilla.org/addons/files/2019/10/Fx-Browser-icon-fullColor-252x252.png"
+        },
+        {
+          "id": "https://github.com/google/git-appraise",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/google/git-appraise",
+          "publishedOn": "2023-08-11T02:52:46.000Z",
+          "wordCount": 1495,
+          "title": "git-appraise – Distributed Code Review for Git",
+          "imageUrl": "https://opengraph.githubassets.com/941a0ab577e807b9bd1d799cc0a538f31ba118c738df33d1c2739f09237d8f4f/google/git-appraise"
+        },
+        {
+          "id": "https://www.javiergonzalez.io/blog/i-fixed-a-bug/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.javiergonzalez.io/blog/i-fixed-a-bug/",
+          "publishedOn": "2023-08-11T02:06:47.000Z",
+          "wordCount": 1369,
+          "title": "I fixed a bug the other day",
+          "imageUrl": "https://javiergonzalez.io/images/social-share.png"
+        },
+        {
+          "id": "https://ofrak.com/tetris/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ofrak.com/tetris/",
+          "publishedOn": "2023-08-10T23:56:03.000Z",
+          "wordCount": 201,
+          "title": "Show HN: Tetris, but the blocks are ARM instructions that execute in the browser",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sqlite.org/json1.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sqlite.org/json1.html",
+          "publishedOn": "2023-08-10T23:14:08.000Z",
+          "wordCount": 4748,
+          "title": "SQLite Functions for Working with JSON",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/id-Software/quake2-rerelease-dll",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/id-Software/quake2-rerelease-dll",
+          "publishedOn": "2023-08-10T22:57:10.000Z",
+          "wordCount": 11575,
+          "title": "Source code for Quake 2 rerelease",
+          "imageUrl": "https://opengraph.githubassets.com/cf5146113ecd9eaf8ee8bf4c8369763254c8fd436a52102fd0dd7fe448a97578/id-Software/quake2-rerelease-dll"
+        },
+        {
+          "id": "https://simonwillison.net/2020/Oct/9/git-scraping/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://simonwillison.net/2020/Oct/9/git-scraping/",
+          "publishedOn": "2023-08-10T21:57:24.000Z",
+          "wordCount": 1292,
+          "title": "Git scraping: track changes over time by scraping to a Git repository",
+          "imageUrl": "https://static.simonwillison.net/static/2020/git-scraping.png"
+        },
+        {
+          "id": "https://github.com/microsoft/Llama-2-Onnx",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/microsoft/Llama-2-Onnx",
+          "publishedOn": "2023-08-10T21:37:17.000Z",
+          "wordCount": 1596,
+          "title": "Llama 2 on ONNX runs locally",
+          "imageUrl": "https://opengraph.githubassets.com/74a911ef800be34f9583d97716c394722b617107745425d4484209ec5fd78314/microsoft/Llama-2-Onnx"
+        },
+        {
+          "id": "https://interrupt.memfault.com/blog/a-modern-c-dev-env",
+          "author": null,
+          "description": "Comments",
+          "link": "https://interrupt.memfault.com/blog/a-modern-c-dev-env",
+          "publishedOn": "2023-08-10T21:08:40.000Z",
+          "wordCount": 6242,
+          "title": "A Modern C Development Environment",
+          "imageUrl": "https://interrupt.memfault.com/img/interrupt-cover-1200px.png"
+        },
+        {
+          "id": "https://blog.networkprofile.org/my-home-network-complete-details-2023/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.networkprofile.org/my-home-network-complete-details-2023/",
+          "publishedOn": "2023-08-10T21:05:20.000Z",
+          "wordCount": 4544,
+          "title": "My Overkill Home Network",
+          "imageUrl": "https://blog.networkprofile.org/content/images/2023/08/2023-08-09-14.56.25.766-2.JPG"
+        },
+        {
+          "id": "https://www.planeandpilotmag.com/news/pilot-talk/grumman-f11-tiger-shoot-itself-down/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.planeandpilotmag.com/news/pilot-talk/grumman-f11-tiger-shoot-itself-down/",
+          "publishedOn": "2023-08-10T21:02:55.000Z",
+          "wordCount": 3948,
+          "title": "A Grumman F11 Tiger Shot Itself Down (2021)",
+          "imageUrl": "https://cdn.planeandpilotmag.com/2021/10/grumman-f11-tiger-shoots-itself-down.jpg"
+        },
+        {
+          "id": "https://tableflow.com/blog/was-y-combinator-worth-it",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tableflow.com/blog/was-y-combinator-worth-it",
+          "publishedOn": "2023-08-10T20:41:05.000Z",
+          "wordCount": 1862,
+          "title": "Was Y Combinator worth it?",
+          "imageUrl": "https://uploads-ssl.webflow.com/64ad2fc8d29b8f5a33d44532/64d53cd8b037383a7aff8da9_batch_uploads-unspecified-32eb8773-7f15-4575-827d-9ec8d37d9ebf-1.jpg"
+        },
+        {
+          "id": "https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license",
+          "publishedOn": "2023-08-10T20:26:37.000Z",
+          "wordCount": 2326,
+          "title": "HashiCorp adopts Business Source License",
+          "imageUrl": "https://www.datocms-assets.com/2885/1600142862-blog-library-product-hashicorp.png"
+        },
+        {
+          "id": "https://www.woodtv.com/news/grand-rapids/1980s-computer-controls-grps-heat-and-ac/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.woodtv.com/news/grand-rapids/1980s-computer-controls-grps-heat-and-ac/",
+          "publishedOn": "2023-08-10T20:12:22.000Z",
+          "wordCount": 8821,
+          "title": "Amiga runs Michigan schools' heating and air conditioning systems (2015)",
+          "imageUrl": "https://www.woodtv.com/wp-content/uploads/sites/51/2015/06/cho99ipw0aex32a-large_38512090_ver1.0.jpg?w=1280"
+        },
+        {
+          "id": "https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/",
+          "publishedOn": "2023-08-10T19:43:23.000Z",
+          "wordCount": 2342,
+          "title": "Muon g-2 doubles down with latest measurement, explores uncharted territory",
+          "imageUrl": "https://news.fnal.gov/wp-content/uploads/2023/08/Hero.jpg"
+        },
+        {
+          "id": "https://news.harvard.edu/gazette/story/2023/08/turns-out-lowly-thymus-may-be-saving-your-life/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.harvard.edu/gazette/story/2023/08/turns-out-lowly-thymus-may-be-saving-your-life/",
+          "publishedOn": "2023-08-10T19:07:38.000Z",
+          "wordCount": 2725,
+          "title": "Turns out lowly thymus may be saving your life",
+          "imageUrl": "https://news.harvard.edu/wp-content/uploads/2023/07/202307x_thymus_illo-1200x630.jpg"
+        },
+        {
+          "id": "https://www.census.gov/library/visualizations/2020/geo/center-of-population-1880-2020.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.census.gov/library/visualizations/2020/geo/center-of-population-1880-2020.html",
+          "publishedOn": "2023-08-10T19:01:33.000Z",
+          "wordCount": 2630,
+          "title": "Median Center of Population for the United States: 1880 to 2020 (2021)",
+          "imageUrl": "https://www.census.gov/content/dam/Census/public/brand/census-logo-sharing-card.jpg"
+        },
+        {
+          "id": "https://graphite.dev/blog/how-an-aws-aurora-feature-cut-db-costs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://graphite.dev/blog/how-an-aws-aurora-feature-cut-db-costs",
+          "publishedOn": "2023-08-10T18:29:48.000Z",
+          "wordCount": 4361,
+          "title": "Aurora I/O optimized config saved 90% DB cost",
+          "imageUrl": "https://www.datocms-assets.com/85246/1691690083-aws-aurora.png"
+        },
+        {
+          "id": "https://evergreenoffgrid.com/water-cooled-rooftop-solar-panels/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://evergreenoffgrid.com/water-cooled-rooftop-solar-panels/",
+          "publishedOn": "2023-08-10T18:05:41.000Z",
+          "wordCount": 5609,
+          "title": "Water Cooled Rooftop Solar Panels",
+          "imageUrl": "https://evergreenoffgrid.com/wp-content/uploads/2022/09/trac-home-bayview75.jpg"
+        },
+        {
+          "id": "https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html",
+          "publishedOn": "2023-08-10T17:59:07.000Z",
+          "wordCount": 5341,
+          "title": "eSignature for Google Docs and Google Drive (Beta)",
+          "imageUrl": "http://2.bp.blogspot.com/-7bZ5EziliZQ/VynIS9F7OAI/AAAAAAAASQ0/BJFntXCAntstZe6hQuo5KTrhi5Dyz9yHgCK4B/s1600/googlelogo_color_200x200.png"
+        },
+        {
+          "id": "https://neovim.io/news/2023/08",
+          "author": null,
+          "description": "Comments",
+          "link": "https://neovim.io/news/2023/08",
+          "publishedOn": "2023-08-10T17:02:14.000Z",
+          "wordCount": 579,
+          "title": "Vim Boss",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/memfault/jobs/zALzwIe-backend-engineer-systems-data",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/memfault/jobs/zALzwIe-backend-engineer-systems-data",
+          "publishedOn": "2023-08-10T17:01:03.000Z",
+          "wordCount": 3249,
+          "title": "Memfault (YC W19) Is Hiring a Data/Back End Engineer",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://physicaleducationandwellness.mit.edu/about/pirate-certificate/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://physicaleducationandwellness.mit.edu/about/pirate-certificate/",
+          "publishedOn": "2023-08-10T16:12:25.000Z",
+          "wordCount": 821,
+          "title": "MIT Pirate Certificate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pair.withgoogle.com/explorables/grokking/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pair.withgoogle.com/explorables/grokking/",
+          "publishedOn": "2023-08-10T13:56:24.000Z",
+          "wordCount": 4429,
+          "title": "Do Machine Learning Models Memorize or Generalize?",
+          "imageUrl": "https://pair.withgoogle.com/explorables/images/grokking.png"
+        },
         {
           "id": "https://thewalrus.ca/medical-tiktok/",
           "author": null,
@@ -335,6 +575,16 @@
           "imageUrl": "https://lever-client-logos.s3.amazonaws.com/a3b2b6dd-16cf-45aa-a206-a4216631569d-1492712480375.png"
         },
         {
+          "id": "https://www.nytimes.com/2023/08/09/arts/music/robbie-robertson-dead.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2023/08/09/arts/music/robbie-robertson-dead.html",
+          "publishedOn": "2023-08-09T20:52:54.000Z",
+          "wordCount": null,
+          "title": "Robbie Robertson has died",
+          "imageUrl": null
+        },
+        {
           "id": "https://dl.acm.org/doi/pdf/10.1145/3570638",
           "author": null,
           "description": "Comments",
@@ -415,6 +665,16 @@
           "imageUrl": "https://opengraph.githubassets.com/82d793f13c08d019d15499d9aa00fee45935ea6eceadeccd18ffae26d968bb03/zknill/sqledge"
         },
         {
+          "id": "https://ava.substack.com/p/therapy-as-a-way-of-aligning-with",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ava.substack.com/p/therapy-as-a-way-of-aligning-with",
+          "publishedOn": "2023-08-09T14:26:46.000Z",
+          "wordCount": 2568,
+          "title": "Therapy as a way of aligning with your subconscious",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d4e987e-2b5c-4f3a-a137-25767e2a16b6_1920x1366.jpeg"
+        },
+        {
           "id": "https://github.com/kognise/arpchat",
           "author": null,
           "description": "Comments",
@@ -443,6 +703,16 @@
           "wordCount": 447,
           "title": "The Garden of Computational Delights",
           "imageUrl": null
+        },
+        {
+          "id": "https://resobscura.substack.com/p/experiencing-scientific-revolutions",
+          "author": null,
+          "description": "Comments",
+          "link": "https://resobscura.substack.com/p/experiencing-scientific-revolutions",
+          "publishedOn": "2023-08-09T11:31:22.000Z",
+          "wordCount": 4380,
+          "title": "Experiencing scientific revolutions: the 1660s and the 2020s",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13a840c1-3ff7-4e8a-8d41-6b08251320a3_604x546.jpeg"
         },
         {
           "id": "https://hackaday.com/2023/08/07/review-beepy-a-palm-sized-linux-hacking-playground/",
@@ -503,6 +773,16 @@
           "wordCount": 1497,
           "title": "Swap_8_and_9: A simple import can modify the Python interpreter",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.sensorwatch.net/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sensorwatch.net/",
+          "publishedOn": "2023-08-09T02:50:52.000Z",
+          "wordCount": 330,
+          "title": "Sensor Watch: a board swap for the classic Casio F-91W wristwatch",
+          "imageUrl": "/featured-background.jpg"
         },
         {
           "id": "https://gist.github.com/wicrum-wicrun/b308b298721ccbe0de9c6c73a6ee4242",
@@ -695,6 +975,16 @@
           "imageUrl": "https://downfall.page/images/share.png"
         },
         {
+          "id": "https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/",
+          "publishedOn": "2023-08-08T17:17:58.000Z",
+          "wordCount": 2762,
+          "title": "Reverse Engineering the Apple Multipeer Connectivity Framework",
+          "imageUrl": "https://www.evilsocket.net/images/2022/cleartext.png"
+        },
+        {
           "id": "https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain",
           "author": null,
           "description": "Comments",
@@ -732,6 +1022,16 @@
           "publishedOn": "2023-08-08T13:58:57.000Z",
           "wordCount": 897,
           "title": "Bye, Gemini",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2023/08/07/realestate/microgrid-solar-power-energy.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2023/08/07/realestate/microgrid-solar-power-energy.html",
+          "publishedOn": "2023-08-08T13:56:54.000Z",
+          "wordCount": null,
+          "title": "Developers are building communities that act as their own miniature power grids",
           "imageUrl": null
         },
         {
@@ -8743,246 +9043,6 @@
           "wordCount": null,
           "title": "Pines – Alpine and Tailwind UI Library",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.google/technology/ai/notebooklm-google-ai/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.google/technology/ai/notebooklm-google-ai/",
-          "publishedOn": "2023-07-12T16:29:12.000Z",
-          "wordCount": 1821,
-          "title": "NotebookLM: An AI Notebook",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_IO_social_share.width-1300.jpg"
-        },
-        {
-          "id": "https://beagleboard.org/beaglev-ahead",
-          "author": null,
-          "description": "Comments",
-          "link": "https://beagleboard.org/beaglev-ahead",
-          "publishedOn": "2023-07-12T15:09:05.000Z",
-          "wordCount": 396,
-          "title": "BeagleV-Ahead RISC-V board",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.atlasobscura.com/articles/history-of-aloha-hawaiian-shirt",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.atlasobscura.com/articles/history-of-aloha-hawaiian-shirt",
-          "publishedOn": "2023-07-12T14:43:03.000Z",
-          "wordCount": 6957,
-          "title": "The aloha shirt has many possible inventors",
-          "imageUrl": "https://img.atlasobscura.com/5aaVjjf5-pB4U3mt_3_W8AjrOvztNyaY5dI7zStlQaU/rt:fit/w:600/c:1094:729:nowe:0:15/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9hYTdiZTYzNi01/NWIyLTRkMDctOWU5/MC03MjA2MWRhMjIy/YzU1OTI4YzFjNmYx/OGJmYWY4MjVfRWx2/aXMucG5n.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bgR3yESAEVE",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=bgR3yESAEVE",
-          "publishedOn": "2023-07-12T13:35:57.000Z",
-          "wordCount": null,
-          "title": "Can Chess, with Hexagons? [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://onthearts.com/p/istanbuls-blue-tile-paradise",
-          "author": null,
-          "description": "Comments",
-          "link": "https://onthearts.com/p/istanbuls-blue-tile-paradise",
-          "publishedOn": "2023-07-12T10:39:24.000Z",
-          "wordCount": 1592,
-          "title": "Istanbul's blue tile paradise",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63fd56b0-926a-4cb7-93a7-585b9b44bae2_1000x690.jpeg"
-        },
-        {
-          "id": "https://paleofuture.com/blog/2023/7/6/when-blue-light-was-the-hot-new-anaesthetic",
-          "author": null,
-          "description": "Comments",
-          "link": "https://paleofuture.com/blog/2023/7/6/when-blue-light-was-the-hot-new-anaesthetic",
-          "publishedOn": "2023-07-12T02:50:35.000Z",
-          "wordCount": 1271,
-          "title": "When a Simple Blue Light Was the Hot New Anaesthetic in Dentistry",
-          "imageUrl": "http://static1.squarespace.com/static/5c647bc99b7d150fe925ea5c/5c6484c2ca70ec2871deb6fa/64a786711a94a2174f25ad7e/1688703438286/1906+technical+world+light+with+bag.png?format=1500w"
-        },
-        {
-          "id": "https://www.servethehome.com/iosafe-1522-nas-review-fireproof-waterproof-powered-by-synology/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.servethehome.com/iosafe-1522-nas-review-fireproof-waterproof-powered-by-synology/",
-          "publishedOn": "2023-07-12T02:46:55.000Z",
-          "wordCount": 7348,
-          "title": "IoSafe 1522 NAS Review Synology Powered Fireproof and Waterproof NAS",
-          "imageUrl": "https://www.servethehome.com/wp-content/uploads/2023/07/ioSafe-1522-Plus-NAS-Front-Angle-1.jpg"
-        },
-        {
-          "id": "https://github.com/theletterf/english-lang",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/theletterf/english-lang",
-          "publishedOn": "2023-07-12T01:51:22.000Z",
-          "wordCount": 1399,
-          "title": "The English Programming Language",
-          "imageUrl": "https://opengraph.githubassets.com/ef579bf64e301ab6f49b2075c2bbb6c87544b1cd9817a25f59e3ae3cbbee855b/theletterf/english-lang"
-        },
-        {
-          "id": "https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/",
-          "publishedOn": "2023-07-12T01:42:15.000Z",
-          "wordCount": 3588,
-          "title": "How the design of Disney parks affects our perspective (2020)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins",
-          "publishedOn": "2023-07-12T01:37:57.000Z",
-          "wordCount": 1233,
-          "title": "Birds make nests out of anti-bird pins",
-          "imageUrl": null
-        },
-        {
-          "id": "https://spaswell.wordpress.com/2016/11/18/dr-gwynne-dyer-geopolitics-in-a-hotter-world-ubc-talk-transcribed-sept-2010/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spaswell.wordpress.com/2016/11/18/dr-gwynne-dyer-geopolitics-in-a-hotter-world-ubc-talk-transcribed-sept-2010/",
-          "publishedOn": "2023-07-12T01:34:40.000Z",
-          "wordCount": 11621,
-          "title": "Geopolitics in a hotter world (2010)",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://www.cbc.ca/radio/undertheinfluence/how-a-chimpanzee-brought-xerox-to-the-masses-1.6756916",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cbc.ca/radio/undertheinfluence/how-a-chimpanzee-brought-xerox-to-the-masses-1.6756916",
-          "publishedOn": "2023-07-12T00:38:45.000Z",
-          "wordCount": 1628,
-          "title": "A chimpanzee brought Xerox to the masses",
-          "imageUrl": "https://i.cbc.ca/1.1477595.1379101124!/httpImage/image.jpg_gen/derivatives/16x9_620/hi-852-xerox-documate-scanner-9618239.jpg"
-        },
-        {
-          "id": "https://www.founderschoicevc.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.founderschoicevc.com/",
-          "publishedOn": "2023-07-11T23:22:14.000Z",
-          "wordCount": 672,
-          "title": "Elo for VC – Founder's Choice",
-          "imageUrl": "https://founderschoicevc.com/social-preview.png"
-        },
-        {
-          "id": "https://wouter.coekaerts.be/2023/breaking-string",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wouter.coekaerts.be/2023/breaking-string",
-          "publishedOn": "2023-07-11T22:14:31.000Z",
-          "wordCount": 1110,
-          "title": "Breaking java.lang.String",
-          "imageUrl": null
-        },
-        {
-          "id": "https://evolutionary.arweave.dev/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://evolutionary.arweave.dev/",
-          "publishedOn": "2023-07-11T21:38:40.000Z",
-          "wordCount": 1105,
-          "title": "Darwin: A framework for evolving decentralized web apps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thefreemovie.buzz/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thefreemovie.buzz/",
-          "publishedOn": "2023-07-11T21:23:10.000Z",
-          "wordCount": 1183,
-          "title": "The Free Movie",
-          "imageUrl": "https://thefreemovie.buzz/social/sharecard-facebook.png"
-        },
-        {
-          "id": "https://www.nytimes.com/2023/07/07/magazine/guam-american-military.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2023/07/07/magazine/guam-american-military.html",
-          "publishedOn": "2023-07-11T21:16:17.000Z",
-          "wordCount": null,
-          "title": "Guam: The America that Americans forget",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html",
-          "publishedOn": "2023-07-11T20:33:10.000Z",
-          "wordCount": 3426,
-          "title": "Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXwh2BcFaLrSYON5d2LpNrzNWhlDh_M2YZnluOHGmSJz-PUvznuMsY3W3jeYMvTHQocsT36mF6SnPiQVQbfYcPWLskz70npFQbdyOH6xWFODuX8HjGe8uhJTNzogaOtHWmk5Cs62p0n-SCyQF5LaOxpzxN95E2joT6xzlhZCVY-TCPis4Zhs-tlg/w1200-h630-p-k-no-nu/dilemma-1.jpg"
-        },
-        {
-          "id": "https://www.landcamp.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.landcamp.org/",
-          "publishedOn": "2023-07-11T20:17:48.000Z",
-          "wordCount": 250,
-          "title": "Show HN: Van, truck or car camp for $0 a night",
-          "imageUrl": null
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Bacon%27s_cipher",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Bacon%27s_cipher",
-          "publishedOn": "2023-07-11T19:33:04.000Z",
-          "wordCount": 1808,
-          "title": "Bacon's Cipher",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/FBacon_alfa1.jpg"
-        },
-        {
-          "id": "https://research.swtch.com/pcdata",
-          "author": null,
-          "description": "Comments",
-          "link": "https://research.swtch.com/pcdata",
-          "publishedOn": "2023-07-11T18:56:06.000Z",
-          "wordCount": 4890,
-          "title": "Storing Data in Control Flow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arxiv.org/abs/2101.00027",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2101.00027",
-          "publishedOn": "2023-07-11T18:19:54.000Z",
-          "wordCount": 688,
-          "title": "The Pile: An 800GB dataset of diverse text for language modeling (2020)",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://www.retroforth.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.retroforth.org/",
-          "publishedOn": "2023-07-11T17:04:53.000Z",
-          "wordCount": 234,
-          "title": "Retro: A modern, pragmatic Forth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gist.github.com/Rich-Harris/0f910048478c2a6505d1c32185b61934",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gist.github.com/Rich-Harris/0f910048478c2a6505d1c32185b61934",
-          "publishedOn": "2023-07-11T16:36:51.000Z",
-          "wordCount": 4621,
-          "title": "Svelte is a language",
-          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
         }
       ]
     },
@@ -9167,21 +9227,6 @@
             "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-071423-1-1200x630.jpg"
           },
           "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-071423-1-1200x630.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/article/living-world/2023/can-probiotics-protect-corals-from-bleaching",
-          "author": "Lesley Evans Ogden",
-          "description": "Lab experiments suggest that a dose of carefully selected microbes may boost the health of these reef-building creatures and their symbiotic algae",
-          "link": "https://knowablemagazine.org/article/living-world/2023/can-probiotics-protect-corals-from-bleaching",
-          "publishedOn": "2023-07-12T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Can probiotics protect corals from problems like bleaching?",
-          "enclosure": {
-            "type": "image/jpeg",
-            "length": "108193",
-            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-063023-1-1200x630.jpg"
-          },
-          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-063023-1-1200x630.jpg"
         }
       ]
     },
@@ -9190,6 +9235,26 @@
       "feedUrl": "http://livingthing.danmackinlay.name/feeds/all.atom.xml",
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
+        {
+          "id": "https://danmackinlay.name/notebook/ar_processes.html",
+          "author": null,
+          "description": "References\n\\[\\renewcommand{\\var}{\\operatorname{Var}}\n\\renewcommand{\\corr}{\\operatorname{Corr}}\n\\renewcommand{\\dd}{\\mathrm{d}}\n\\renewcommand{\\bb}[1]{\\mathbb{#1}}\n\\renewcommand{\\vv}[1]{\\boldsymbol{#1}}\n\\renewcommand{\\rv}[1]{\\mathsf{#1}}\n\\renewcommand{\\vrv}[1]{\\vv{\\rv{#1}}}\n\\renewcommand{\\disteq}{\\stackrel{d}{=}}\n\\renewcommand{\\gvn}{\\mid}\n\\renewcommand{\\Ex}{\\mathbb{E}}\n\\renewcommand{\\Pr}{\\mathbb{P}}\\]\nSome useful generalisations of autoregressive (i.e. AR(1)) processes.\nLinear ones are an intersting case (G. K. Grunwald, Hyndman, and Tedesco 1996; Gary K. Grunwald et al. 2000).\n\nReferences\n“Superposition of Ornstein-Uhlenbeck Type Processes.” Theory of Probability & Its Applications 45 (2): 175–94.\n\n\nBarndorff-Nielsen, Ole Eiler, and Robert Stelzer. 2011. “Multivariate supOU Processes.” The A…",
+          "link": "https://danmackinlay.name/notebook/ar_processes.html",
+          "publishedOn": "2023-08-11T03:34:40.000Z",
+          "wordCount": 551,
+          "title": "Generalised autoregressive processes",
+          "imageUrl": "https://danmackinlay.name/images/birds_stars.png"
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/recipes.html",
+          "author": null,
+          "description": "Cookbooks\nArresting recipes\nIncoming\nReferences\n\nCookbooks\nCollecting many of my irritations about cookbooks\n(No “why”, no tolerance bounds for their recommendations), Joe Pinsker reviews some new “metacookbooks”.\nSamin Nosrat’s Salt Fat Acid Heat](http://www.indiebound.org/book/9781476753836) (Nosrat 2017) sounds like one antidote\nSally Schneider’s Improvisational Cook (Schneider and Robledo 2006) also sounds good.\nSince that article I’ve run into a few more in that vein\n(McGee 2004; Page 2008) and ultimately bought (López-Alt 2015) (via Jehan Kanga).\nOne might hit the archives of website Cook’s science.\nArresting recipes\nBaked crumbed blooming onion\nCrispy based tart\nSalt-cured egg yolks. (Via Thomas Scheckter)\nno knead pan pizza\n\nIncoming\nInteresting Esoterica has a food section includi…",
+          "link": "https://danmackinlay.name/notebook/recipes.html",
+          "publishedOn": "2023-08-10T05:02:31.000Z",
+          "wordCount": 538,
+          "title": "Recipes",
+          "imageUrl": "https://danmackinlay.name/images/pure_food.png"
+        },
         {
           "id": "https://danmackinlay.name/notebook/community.html",
           "author": null,
@@ -9899,16 +9964,6 @@
           "wordCount": 531,
           "title": "Neural learning dynamical systems",
           "imageUrl": "https://danmackinlay.name/images/tramway_spel_RP-P-OB-201.559.avif"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/gp_ensemble.html",
-          "author": null,
-          "description": "References\n\nYes another, lesser-known (?) way of scaling GP regression: a committee of observations subsets\n(Cao and Fleet 2015; Deisenroth and Ng 2015; Rullière et al. 2018; Tresp 2000).\nReferences\n“Generalized Product of Experts for Automatic and Principled Fusion of Gaussian Process Predictions.” arXiv.\n\n\nDeisenroth, Marc, and Jun Wei Ng. 2015. “Distributed Gaussian Processes.” In Proceedings of the 32nd International Conference on Machine Learning, 1481–90. Lille, France: PMLR.\n\n\nJimenez, Felix, and Matthias Katzfuss. 2023. “Scalable Bayesian Optimization Using Vecchia Approximations of Gaussian Processes.” In Proceedings of The 26th International Conference on Artificial Intelligence and Statistics, 1492–512. PMLR.\n\n\nRullière, Didier, Nicolas Durrande, François Bachoc, and Clément Chevalier. 2018. “Nested Kriging Predictions for Datasets with a Large Number of Observations.” Statistics and Computing 28 (4): 849–67.\n\n\nTresp, Volker. 2000. “A Bayesian Committee Machine.” Neural Computation 12 (11): 2719–41.",
-          "link": "https://danmackinlay.name/notebook/gp_ensemble.html",
-          "publishedOn": "2023-07-12T06:26:37.000Z",
-          "wordCount": 410,
-          "title": "Gaussian process ensembles",
-          "imageUrl": "https://danmackinlay.name/images/clarinet_riders_RP-F-F03271.webp"
         }
       ]
     },
@@ -9917,6 +9972,26 @@
       "feedUrl": "http://news.google.com/news?hl=en&output=rss&q=Google+NZ+blog&cf=all&num=30",
       "siteUrl": "https://news.google.com/search?hl=en-US&q=Google+NZ+blog&cf=all&num=30&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiZ2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTA4LTExL3RoZS1sb29wLWF1Z3VzdC0xMW5ld3MtbGl2ZS1tYXVpLWZpcmVzLXZpcmdpbi1nYWxhY3RpYy8xMDI3MTY5NDDSAShodHRwczovL2FtcC5hYmMubmV0LmF1L2FydGljbGUvMTAyNzE2OTQw",
+          "author": null,
+          "description": "The Loop: Videos reveal full devastation of Maui fires, and Virgin Galactic flies tourists to edge of space  ABC News",
+          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTA4LTExL3RoZS1sb29wLWF1Z3VzdC0xMW5ld3MtbGl2ZS1tYXVpLWZpcmVzLXZpcmdpbi1nYWxhY3RpYy8xMDI3MTY5NDDSAShodHRwczovL2FtcC5hYmMubmV0LmF1L2FydGljbGUvMTAyNzE2OTQw?oc=5",
+          "publishedOn": "2023-08-11T03:11:06.000Z",
+          "wordCount": 5962,
+          "title": "The Loop: Videos reveal full devastation of Maui fires, and Virgin Galactic flies tourists to edge of space - ABC News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vZGVjcnlwdC5jby8xNTIwNjAvYWktaXMtbGl0ZXJhbGx5LXRyeWluZy10by1raWxsLXlvdS13aXRoLXRoaXMtZ3JvY2VyeS1zdG9yZS1hcHDSAV5odHRwczovL2RlY3J5cHQuY28vMTUyMDYwL2FpLWlzLWxpdGVyYWxseS10cnlpbmctdG8ta2lsbC15b3Utd2l0aC10aGlzLWdyb2Nlcnktc3RvcmUtYXBwP2FtcD0x",
+          "author": null,
+          "description": "AI Is Literally Trying to Kill You With This Grocery Store App  Decrypt",
+          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZGVjcnlwdC5jby8xNTIwNjAvYWktaXMtbGl0ZXJhbGx5LXRyeWluZy10by1raWxsLXlvdS13aXRoLXRoaXMtZ3JvY2VyeS1zdG9yZS1hcHDSAV5odHRwczovL2RlY3J5cHQuY28vMTUyMDYwL2FpLWlzLWxpdGVyYWxseS10cnlpbmctdG8ta2lsbC15b3Utd2l0aC10aGlzLWdyb2Nlcnktc3RvcmUtYXBwP2FtcD0x?oc=5",
+          "publishedOn": "2023-08-10T19:20:36.000Z",
+          "wordCount": 5962,
+          "title": "AI Is Literally Trying to Kill You With This Grocery Store App - Decrypt",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMikQFodHRwczovL25ld3Muc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzA4LzA4LzIyNDMyMjcvd2hpdGUtaG91c2UtaG9sZHMtZmlyc3QtZXZlci1zdW1taXQtb24tdGhlLXJhbnNvbXdhcmUtY3Jpc2lzLXBsYWd1aW5nLXRoZS1uYXRpb25zLXB1YmxpYy1zY2hvb2xz0gEA",
           "author": null,
@@ -10266,36 +10341,6 @@
           "wordCount": 6027,
           "title": "What is the Meganet? Software engineer explains how it's ... - New Zealand Herald",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiT2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nb29nbGUtdmV0ZXJhbi1zdGVwcy1kb3duLW1hbmFnZXItMDUwMTI4Njk3Lmh0bWzSAVdodHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9nb29nbGUtdmV0ZXJhbi1zdGVwcy1kb3duLW1hbmFnZXItMDUwMTI4Njk3Lmh0bWw",
-          "author": null,
-          "description": "Google Veteran Steps Down as Manager in Cloud Shakeup  Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nb29nbGUtdmV0ZXJhbi1zdGVwcy1kb3duLW1hbmFnZXItMDUwMTI4Njk3Lmh0bWzSAVdodHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9nb29nbGUtdmV0ZXJhbi1zdGVwcy1kb3duLW1hbmFnZXItMDUwMTI4Njk3Lmh0bWw?oc=5",
-          "publishedOn": "2023-07-12T07:59:02.000Z",
-          "wordCount": 5522,
-          "title": "Google Veteran Steps Down as Manager in Cloud Shakeup - Yahoo Finance",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMif2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2lsYWRpdHlhcmF5LzIwMjMvMDcvMTIvY2hpbmVzZS1oYWNrZXJzLWdhaW5lZC1hY2Nlc3MtdG8tc29tZS11cy1nb3Zlcm5tZW50LWVtYWlscy1taWNyb3NvZnQtc2F5cy_SAYMBaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9zaWxhZGl0eWFyYXkvMjAyMy8wNy8xMi9jaGluZXNlLWhhY2tlcnMtZ2FpbmVkLWFjY2Vzcy10by1zb21lLXVzLWdvdmVybm1lbnQtZW1haWxzLW1pY3Jvc29mdC1zYXlzL2FtcC8",
-          "author": null,
-          "description": "Chinese Hackers Gained Access To Some U.S. Government Emails, Microsoft Says  Forbes",
-          "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2lsYWRpdHlhcmF5LzIwMjMvMDcvMTIvY2hpbmVzZS1oYWNrZXJzLWdhaW5lZC1hY2Nlc3MtdG8tc29tZS11cy1nb3Zlcm5tZW50LWVtYWlscy1taWNyb3NvZnQtc2F5cy_SAYMBaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9zaWxhZGl0eWFyYXkvMjAyMy8wNy8xMi9jaGluZXNlLWhhY2tlcnMtZ2FpbmVkLWFjY2Vzcy10by1zb21lLXVzLWdvdmVybm1lbnQtZW1haWxzLW1pY3Jvc29mdC1zYXlzL2FtcC8?oc=5",
-          "publishedOn": "2023-07-12T07:34:07.000Z",
-          "wordCount": 6027,
-          "title": "Chinese Hackers Gained Access To Some U.S. Government Emails, Microsoft Says - Forbes",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihgFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei90aGUtbGlzdGVuZXIvbGlmZS9hbmEtc2Ftd2F5cy1kaWdpdGFsLWJvbmZpcmUtbm90LWFsbC10aGluZ3Mtc2hvdWxkLWJlLXdlbGNvbWVkL0o3VVJCTUtKWE5HMkhDRDdGUTZPU1dRNFdRL9IBAA",
-          "author": null,
-          "description": "Ana Samways' Digital Bonfire: Not all things should be welcomed  New Zealand Herald",
-          "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei90aGUtbGlzdGVuZXIvbGlmZS9hbmEtc2Ftd2F5cy1kaWdpdGFsLWJvbmZpcmUtbm90LWFsbC10aGluZ3Mtc2hvdWxkLWJlLXdlbGNvbWVkL0o3VVJCTUtKWE5HMkhDRDdGUTZPU1dRNFdRL9IBAA?oc=5",
-          "publishedOn": "2023-07-12T00:04:00.000Z",
-          "wordCount": 6027,
-          "title": "Ana Samways' Digital Bonfire: Not all things should be welcomed - New Zealand Herald",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10313,16 +10358,6 @@
           "wordCount": 3094,
           "title": "I’m a science girl in a science world: Aqua does science",
           "imageUrl": "https://errantscience.com/wp-content/uploads/230802_-_Barbie_Comp.Chem_.png"
-        },
-        {
-          "id": "https://errantscience.com/?p=20016",
-          "author": "Matthew (@MCeeP)",
-          "description": "A few months back we were contacted by Dr Johanna Kerch from the University of Göttingen in Germany looking for some cartoony help in helping convey the fun world of ice re-crystallisation.",
-          "link": "https://errantscience.com/blog/2023/07/12/commission-stressed-little-ice-grains/",
-          "publishedOn": "2023-07-12T09:06:53.000Z",
-          "wordCount": 2488,
-          "title": "Commission: Stressed little ice grains",
-          "imageUrl": "https://errantscience.com/wp-content/uploads/230425_-_Johanna_Ice_Cores-2.png"
         }
       ]
     }
