@@ -2,10 +2,390 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rmzetti.github.io/osmos/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-28T04:33:41.071Z</updated>
+    <updated>2023-08-29T04:33:28.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rmzetti.github.io/osmos/index.html"/>
     <link rel="self" href="https://rmzetti.github.io/osmos/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon CEO warns remote workers: ‘It’s probably not going to work out for you’]]></title>
+        <id>https://nypost.com/2023/08/28/amazon-ceo-andy-jassy-warns-remote-workers-its-probably-not-going-to-work-out-for-you/</id>
+        <link href="https://nypost.com/2023/08/28/amazon-ceo-andy-jassy-warns-remote-workers-its-probably-not-going-to-work-out-for-you/"/>
+        <updated>2023-08-29T03:42:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best approach I've seen for hiring junior engineers]]></title>
+        <id>https://www.rubick.com/hiring-new-engineers/</id>
+        <link href="https://www.rubick.com/hiring-new-engineers/"/>
+        <updated>2023-08-29T02:25:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Heart of W. Edwards Deming]]></title>
+        <id>https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards</id>
+        <link href="https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards"/>
+        <updated>2023-08-29T02:23:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interstellar puzzle based on graph theory]]></title>
+        <id>https://treksit.com/</id>
+        <link href="https://treksit.com/"/>
+        <updated>2023-08-29T02:23:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Padlet (YC W13) is hiring in San Francisco and Singapore]]></title>
+        <id>https://padlet.jobs/</id>
+        <link href="https://padlet.jobs/"/>
+        <updated>2023-08-29T01:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New research finds Late Pleistocene glaciations terminated by Earth's axis tilt]]></title>
+        <id>https://phys.org/news/2023-08-late-pleistocene-glaciations-terminated-earth.html</id>
+        <link href="https://phys.org/news/2023-08-late-pleistocene-glaciations-terminated-earth.html"/>
+        <updated>2023-08-29T00:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mirror descent]]></title>
+        <id>https://danmackinlay.name/notebook/bregman_divergences.html</id>
+        <link href="https://danmackinlay.name/notebook/bregman_divergences.html"/>
+        <updated>2023-08-29T00:36:26.000Z</updated>
+        <summary type="html"><![CDATA[References
+
+Bregman divergence
+In mathematics, specifically statistics and information geometry, a Bregman divergence or Bregman distance is a measure of difference between two points, defined in terms of a strictly convex function; they form an important class of divergences. When the points are interpreted as probability distributions – notably as either values of the parameter of a parametric model or as a data set of observed values – the resulting distance is a statistical distance. The most basic Bregman divergence is the squared Euclidean distance.
+Useful in mirror descent.
+Meet the Bregman Divergences ← Inductio Ex Machina ← Mark Reid
+Bregman divergences, dual information geometry, and generalized convexity
+References
+“Clustering with Bregman Divergences.” Journal of Machine Learni…]]></summary>
+        <author>
+            <name>The Dan MacKinlay family of variably-well-considered enterprises on Dan MacKinlay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mirror descent]]></title>
+        <id>https://danmackinlay.name/notebook/gd_mirror.html</id>
+        <link href="https://danmackinlay.name/notebook/gd_mirror.html"/>
+        <updated>2023-08-29T00:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Incoming
+References
+
+First order gradient descent that can “adapt to the problem structure”.
+Q: how does it relate to Natural gradient descent?
+For that has a similar description.
+Beck and Teboulle (2003):
+The mirror descent algorithm (MDA) was introduced by Nemirovsky and Yudin for solving convex optimization problems. This method exhibits an efficiency estimate that is mildly dependent in the decision variables dimension, and thus suitable for solving very large scale optimization problems. We present a new derivation and analysis of this algorithm. We show that the MDA can be viewed as a nonlinear projected-subgradient type method, derived from using a general distance-like function instead of the usual Euclidean squared distance. Within this interpretation, we derive in a simple way convergence and efficiency estimates. We then propose an Entropic mirror descent algorithm for convex minimization over the unit simplex, with a global efficiency estimate proven to be mildly dependent in the dimension of the problem.
+Bubeck’s lectures are good: Bubeck (2019).
+T Lienart, Mirror descent algorithm.
+Incoming
+Xinhua Zhang notes
+Nicholas Harvey notes
+References
+“Potential-Function Proofs for First-Order Methods.” arXiv.
+
+
+Beck, Amir, and Marc Teboulle. 2003. “Mirror Descent and Nonlinear Projected Subgradient Methods for Convex Optimization.” Operations Research Letters 31 (3): 167–75.
+
+
+Bubeck, Sébastien. 2015. Convex Optimization: Algorithms and Complexity. Vol. 8. Foundations and Trends in Machine Learning. Now Publishers.
+
+
+———. 2019. The Five Miracles of Mirror Descent.
+
+
+Jacobsen, Andrew, and Ashok Cutkosky. 2022. “Parameter-Free Mirror Descent.” arXiv.
+
+
+Lee, Jason D., Ioannis Panageas, Georgios Piliouras, Max Simchowitz, Michael I. Jordan, and Benjamin Recht. 2017. “First-Order Methods Almost Always Avoid Saddle Points.” arXiv:1710.07406 [Cs, Math, Stat], October.
+
+
+Wibisono, Andre, and Ashia C. Wilson. 2015. “On Accelerated Methods in Optimization.” arXiv:1509.03616 [Math], September.]]></summary>
+        <author>
+            <name>The Dan MacKinlay family of variably-well-considered enterprises on Dan MacKinlay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebLLM: Llama2 in the Browser]]></title>
+        <id>https://webllm.mlc.ai/</id>
+        <link href="https://webllm.mlc.ai/"/>
+        <updated>2023-08-29T00:19:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The D Programming Language Conference '23]]></title>
+        <id>https://dconf.org/2023/index.html</id>
+        <link href="https://dconf.org/2023/index.html"/>
+        <updated>2023-08-28T23:21:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The sudden demise of Indian vultures killed thousands of people]]></title>
+        <id>https://www.economist.com/graphic-detail/2023/08/22/the-sudden-demise-of-indian-vultures-killed-thousands-of-people</id>
+        <link href="https://www.economist.com/graphic-detail/2023/08/22/the-sudden-demise-of-indian-vultures-killed-thousands-of-people"/>
+        <updated>2023-08-28T22:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bioregions 2023]]></title>
+        <id>https://www.oneearth.org/bioregions-2023/</id>
+        <link href="https://www.oneearth.org/bioregions-2023/"/>
+        <updated>2023-08-28T20:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raise less, build more]]></title>
+        <id>https://trohan.com/2023/08/20/raise-less-build-more/</id>
+        <link href="https://trohan.com/2023/08/20/raise-less-build-more/"/>
+        <updated>2023-08-28T18:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serial adapter/reboot controller for Apple M1/M2]]></title>
+        <id>https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/</id>
+        <link href="https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/"/>
+        <updated>2023-08-28T18:29:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Utopia Clicker]]></title>
+        <id>https://tinysubversions.com/game/utopia/</id>
+        <link href="https://tinysubversions.com/game/utopia/"/>
+        <updated>2023-08-28T18:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Lost Edith Wharton Play Debuts on Stage for the First Time]]></title>
+        <id>https://www.smithsonianmag.com/smart-news/a-lost-edith-wharton-play-is-performed-for-the-first-time-180982795/</id>
+        <link href="https://www.smithsonianmag.com/smart-news/a-lost-edith-wharton-play-is-performed-for-the-first-time-180982795/"/>
+        <updated>2023-08-28T17:13:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Enterprise]]></title>
+        <id>https://openai.com/blog/introducing-chatgpt-enterprise</id>
+        <link href="https://openai.com/blog/introducing-chatgpt-enterprise"/>
+        <updated>2023-08-28T17:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parallel garbage collection for SBCL [pdf]]]></title>
+        <id>https://applied-langua.ge/~hayley/swcl-gc.pdf</id>
+        <link href="https://applied-langua.ge/~hayley/swcl-gc.pdf"/>
+        <updated>2023-08-28T15:59:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC charges Impact Theory for unregistered offering of NFTs]]></title>
+        <id>https://www.sec.gov/news/press-release/2023-163</id>
+        <link href="https://www.sec.gov/news/press-release/2023-163"/>
+        <updated>2023-08-28T15:38:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Startup receives grant for clinical trial of a promising eye treatment]]></title>
+        <id>https://research.usc.edu/news/2023/08/usc-supported-startup-receives-major-grant-for-clinical-trial-of-a-promising-eye-treatment/</id>
+        <link href="https://research.usc.edu/news/2023/08/usc-supported-startup-receives-major-grant-for-clinical-trial-of-a-promising-eye-treatment/"/>
+        <updated>2023-08-28T15:14:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: HyLight (YC S23) – Hydrogen airships to inspect energy infrastructure]]></title>
+        <id>https://news.ycombinator.com/item?id=37295149</id>
+        <link href="https://news.ycombinator.com/item?id=37295149"/>
+        <updated>2023-08-28T15:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lfortran: Modern interactive LLVM-based Fortran compiler]]></title>
+        <id>https://lfortran.org/</id>
+        <link href="https://lfortran.org/"/>
+        <updated>2023-08-28T15:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenTelemetry in 2023]]></title>
+        <id>https://bit.kevinslin.com/p/opentelemetry-in-2023</id>
+        <link href="https://bit.kevinslin.com/p/opentelemetry-in-2023"/>
+        <updated>2023-08-28T14:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing a new concurrent data structure]]></title>
+        <id>https://questdb.io/blog/concurrent-lockfree-datastructure-design-walkthrough/</id>
+        <link href="https://questdb.io/blog/concurrent-lockfree-datastructure-design-walkthrough/"/>
+        <updated>2023-08-28T14:56:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An unexpected find that freed 20GB of unused index space (2021)]]></title>
+        <id>https://hakibenita.com/postgresql-unused-index-size</id>
+        <link href="https://hakibenita.com/postgresql-unused-index-size"/>
+        <updated>2023-08-28T14:42:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falling For Oklch: A Love Story Of Color Spaces, Gamuts, And CSS]]></title>
+        <id>https://smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/</id>
+        <link href="https://smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/"/>
+        <updated>2023-08-28T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The CSS Color Module Level 4 specification defined a slew of new color features when it became a candidate recommendation in 2022, including Oklab and Oklch, which have widened the field of color we have to work with. Explore the Oklch color space and how to start using it in CSS today.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How trees guard their seeds with mast seeding]]></title>
+        <id>https://phys.org/news/2023-08-trees-seeds-secrets-mast-seeding.html</id>
+        <link href="https://phys.org/news/2023-08-trees-seeds-secrets-mast-seeding.html"/>
+        <updated>2023-08-28T12:14:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korean science fiction]]></title>
+        <id>https://arstechnica.com/culture/2023/08/the-strange-secretive-world-of-north-korean-science-fiction/</id>
+        <link href="https://arstechnica.com/culture/2023/08/the-strange-secretive-world-of-north-korean-science-fiction/"/>
+        <updated>2023-08-28T07:39:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Souvenir Spoons Museum]]></title>
+        <id>http://spoonplanet.com/</id>
+        <link href="http://spoonplanet.com/"/>
+        <updated>2023-08-28T06:41:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code generation, programming assistants]]></title>
+        <id>https://danmackinlay.name/notebook/automatic_coding.html</id>
+        <link href="https://danmackinlay.name/notebook/automatic_coding.html"/>
+        <updated>2023-08-28T04:56:18.000Z</updated>
+        <summary type="html"><![CDATA[Github copilot
+Codeium
+Fauxpilot
+Amazon CodeWhisperer
+Incoming
+References
+A cousin to neural automata: writing machines to code for us.
+We might also want to write code to speak for us, which ends up involving similar technology, i.e. large language models.
+I am vaguely concerned about how much of the world is uploading their source code for everything to these code servers.
+The potential for abuse is huge.
+
+Github copilot
+GitHub Copilot uses suggestions from OpenAI Codex to suggest code completion.
+Pro tip. behind a firewall, requires at least the following whitelist exceptions:
+vscode-auth.github.com
+api.github.com
+copilot-proxy.githubusercontent.com
+See Networked VS Code for some more whitelist rules we need for VS Code generally.
+Codeium
+Codeium
+Codeium has been developed by the team a…]]></summary>
+        <author>
+            <name>The Dan MacKinlay family of variably-well-considered enterprises on Dan MacKinlay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dog who served on both sides of the American Revolution]]></title>
+        <id>https://www.smithsonianmag.com/history/the-dog-who-served-on-both-sides-of-the-american-revolution-180982781/</id>
+        <link href="https://www.smithsonianmag.com/history/the-dog-who-served-on-both-sides-of-the-american-revolution-180982781/"/>
+        <updated>2023-08-28T04:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loose lips save sunken ships]]></title>
+        <id>https://hakaimagazine.com/features/loose-lips-save-sunken-ships/</id>
+        <link href="https://hakaimagazine.com/features/loose-lips-save-sunken-ships/"/>
+        <updated>2023-08-28T04:24:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Total data loss after botched GitOps and failed backups]]></title>
         <id>https://firefish.social/notes/9iqefgi8rzfksnqc</id>
@@ -227,6 +607,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Reaching the Unix philosophy's logical extreme with WebAssembly]]></title>
+        <id>https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm</id>
+        <link href="https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm"/>
+        <updated>2023-08-27T16:58:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ham radio enthusiasts vs. High-frequency traders: A battle for the airwaves]]></title>
         <id>https://www.wsj.com/business/entrepreneurship/ham-radio-enthusiasts-vs-high-frequency-traders-a-battle-for-the-airwaves-6d6c5c1f</id>
         <link href="https://www.wsj.com/business/entrepreneurship/ham-radio-enthusiasts-vs-high-frequency-traders-a-battle-for-the-airwaves-6d6c5c1f"/>
@@ -251,6 +641,16 @@
         <id>https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/</id>
         <link href="https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/"/>
         <updated>2023-08-27T13:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can a worker-owned restaurant work?]]></title>
+        <id>https://southseattleemerald.com/2023/08/26/can-a-worker-owned-restaurant-work/</id>
+        <link href="https://southseattleemerald.com/2023/08/26/can-a-worker-owned-restaurant-work/"/>
+        <updated>2023-08-27T06:16:31.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -856,6 +1256,16 @@ Say I want to approximate the in…]]></summary>
         <summary type="html"><![CDATA[The so-called “Double Diamond” is a great way of visualizing an ideal design process — but it’s just not the way most companies deliver new projects or services. Andy Budd proposes a new “Double Diamond” idea that better aligns with the way work actually gets done and highlights the place where design has the most leverage.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Budd)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta's free generative AI tool will help you write code - Reseller News]]></title>
+        <id>CBMiXGh0dHBzOi8vd3d3LnJlc2VsbGVyLmNvLm56L2FydGljbGUvNzA4NTAxL21ldGEtZnJlZS1nZW5lcmF0aXZlLWFpLXRvb2wtd2lsbC1oZWxwLXdyaXRlLWNvZGUv0gEA</id>
+        <link href="https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnJlc2VsbGVyLmNvLm56L2FydGljbGUvNzA4NTAxL21ldGEtZnJlZS1nZW5lcmF0aXZlLWFpLXRvb2wtd2lsbC1oZWxwLXdyaXRlLWNvZGUv0gEA?oc=5"/>
+        <updated>2023-08-25T09:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Meta's free generative AI tool will help you write code  Reseller News]]></summary>
+        <author>
+            <name>"Google NZ blog" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -11379,256 +11789,6 @@ Blames economic collapse due to plague, climate change effecting the harvest, in
         <id>https://www.openwall.com/lists/musl/2023/05/02/1</id>
         <link href="https://www.openwall.com/lists/musl/2023/05/02/1"/>
         <updated>2023-07-30T16:39:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Parts-Bin Approach: Konami’s Contra]]></title>
-        <id>https://nicole.express/2023/the-best-take-on-iran-contra.html</id>
-        <link href="https://nicole.express/2023/the-best-take-on-iran-contra.html"/>
-        <updated>2023-07-30T16:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction to APIs]]></title>
-        <id>https://zapier.com/resources/guides/apis</id>
-        <link href="https://zapier.com/resources/guides/apis"/>
-        <updated>2023-07-30T15:54:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I feel hopeless, rejected, and a burden – One week of empathy training (2019)]]></title>
-        <id>https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/</id>
-        <link href="https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/"/>
-        <updated>2023-07-30T15:53:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secret identities in Dwarf Fortress (2017)]]></title>
-        <id>https://ojs.aaai.org/index.php/AIIDE/article/view/12963</id>
-        <link href="https://ojs.aaai.org/index.php/AIIDE/article/view/12963"/>
-        <updated>2023-07-30T12:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aeolus: A historic end to a trailblazing mission]]></title>
-        <id>https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Aeolus/Aeolus_a_historic_end_to_a_trailblazing_mission</id>
-        <link href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Aeolus/Aeolus_a_historic_end_to_a_trailblazing_mission"/>
-        <updated>2023-07-30T09:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chicago95 – Windows 95 Theme for Linux]]></title>
-        <id>https://github.com/grassmunk/Chicago95</id>
-        <link href="https://github.com/grassmunk/Chicago95"/>
-        <updated>2023-07-30T08:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Doodle celebrates Women's Fifa World Cup 2023 | Mint - Mint]]></title>
-        <id>CBMiZWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9uZXdzL2dvb2dsZS1kb29kbGUtY2VsZWJyYXRlcy13b21lbnMtZmlmYS13b3JsZC1jdXAtMjAyMy0xMTY5MDY4NjI3OTc4Ny5odG1s0gFpaHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL25ld3MvZ29vZ2xlLWRvb2RsZS1jZWxlYnJhdGVzLXdvbWVucy1maWZhLXdvcmxkLWN1cC0yMDIzL2FtcC0xMTY5MDY4NjI3OTc4Ny5odG1s</id>
-        <link href="https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9uZXdzL2dvb2dsZS1kb29kbGUtY2VsZWJyYXRlcy13b21lbnMtZmlmYS13b3JsZC1jdXAtMjAyMy0xMTY5MDY4NjI3OTc4Ny5odG1s0gFpaHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL25ld3MvZ29vZ2xlLWRvb2RsZS1jZWxlYnJhdGVzLXdvbWVucy1maWZhLXdvcmxkLWN1cC0yMDIzL2FtcC0xMTY5MDY4NjI3OTc4Ny5odG1s?oc=5"/>
-        <updated>2023-07-30T04:47:19.000Z</updated>
-        <summary type="html"><![CDATA[Google Doodle celebrates Women's Fifa World Cup 2023 | Mint  Mint]]></summary>
-        <author>
-            <name>"Google NZ blog" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Users Tape System (1976) [pdf]]]></title>
-        <id>https://www.sol20.org/articles/img/CUTS_PE_Mar_76.pdf</id>
-        <link href="https://www.sol20.org/articles/img/CUTS_PE_Mar_76.pdf"/>
-        <updated>2023-07-30T04:24:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wikifunctions]]></title>
-        <id>https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page</id>
-        <link href="https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page"/>
-        <updated>2023-07-30T04:02:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free database of 4,000+ AI tools]]></title>
-        <id>https://gpte.ai/</id>
-        <link href="https://gpte.ai/"/>
-        <updated>2023-07-30T03:52:15.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Problem of Excess Genius, by David Banks (1997)]]></title>
-        <id>https://www.visakanv.com/archives/2021/02/14/the-problem-of-excess-genius-by-david-banks-1997/</id>
-        <link href="https://www.visakanv.com/archives/2021/02/14/the-problem-of-excess-genius-by-david-banks-1997/"/>
-        <updated>2023-07-30T02:35:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Korea Superconductor Papers Published ‘Without Consent’ – Yonhap]]></title>
-        <id>https://www.asiafinancial.com/korea-superconductor-papers-published-without-consent-yonhap</id>
-        <link href="https://www.asiafinancial.com/korea-superconductor-papers-published-without-consent-yonhap"/>
-        <updated>2023-07-30T02:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNU Boot sent a cease and desist to Libreboot]]></title>
-        <id>https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email</id>
-        <link href="https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email"/>
-        <updated>2023-07-30T01:40:25.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snowflake]]></title>
-        <id>https://snowflake.torproject.org/</id>
-        <link href="https://snowflake.torproject.org/"/>
-        <updated>2023-07-30T00:59:52.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Pencils don’t draw straight on replaced iPad screens]]></title>
-        <id>https://arstechnica.com/gadgets/2023/07/apple-pencils-cant-draw-straight-on-third-party-replacement-ipad-screens/</id>
-        <link href="https://arstechnica.com/gadgets/2023/07/apple-pencils-cant-draw-straight-on-third-party-replacement-ipad-screens/"/>
-        <updated>2023-07-30T00:14:56.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASML EUV Lithography Machine Could Keep Moore’s Law on Track]]></title>
-        <id>https://spectrum.ieee.org/high-na-euv</id>
-        <link href="https://spectrum.ieee.org/high-na-euv"/>
-        <updated>2023-07-30T00:07:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Button Pushes You]]></title>
-        <id>https://despens.systems/2022/06/button-pushes-you/</id>
-        <link href="https://despens.systems/2022/06/button-pushes-you/"/>
-        <updated>2023-07-29T23:58:21.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Room Temperature Superconductor Drama and Hope]]></title>
-        <id>https://twitter.com/8teAPi/status/1684385895565365248</id>
-        <link href="https://twitter.com/8teAPi/status/1684385895565365248"/>
-        <updated>2023-07-29T22:58:52.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red algae proteins grafted into tobacco double plant growth]]></title>
-        <id>https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth</id>
-        <link href="https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth"/>
-        <updated>2023-07-29T21:27:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meticulous (YC S21) is hiring #3 engineer to build future of testing]]></title>
-        <id>https://news.ycombinator.com/item?id=36924518</id>
-        <link href="https://news.ycombinator.com/item?id=36924518"/>
-        <updated>2023-07-29T21:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Gogit – Just enough Git (in Go) to push itself to GitHub]]></title>
-        <id>https://benhoyt.com/writings/gogit/</id>
-        <link href="https://benhoyt.com/writings/gogit/"/>
-        <updated>2023-07-29T20:34:26.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Transformer Blueprint]]></title>
-        <id>https://deeprevision.github.io/posts/001-transformer/</id>
-        <link href="https://deeprevision.github.io/posts/001-transformer/"/>
-        <updated>2023-07-29T19:21:55.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source Outdoor Air Quality Monitor]]></title>
-        <id>https://www.airgradient.com/open-air/</id>
-        <link href="https://www.airgradient.com/open-air/"/>
-        <updated>2023-07-29T17:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How fast should you accelerate your kid in math?]]></title>
-        <id>https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your</id>
-        <link href="https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your"/>
-        <updated>2023-07-29T17:53:58.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Army Field Manual on Leadership (1990) [pdf]]]></title>
-        <id>https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf</id>
-        <link href="https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf"/>
-        <updated>2023-07-29T17:32:42.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
