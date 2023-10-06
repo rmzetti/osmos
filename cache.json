@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "Re-create a fancy hover effect where an avatar pops out of a starburst pattern for the frame on hover. The idea is to apply the concepts in a new context and gain another view of how trigonometric functions can influence the way we mask elements in CSS.",
+          "link": "https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/",
+          "publishedOn": "2023-10-05T12:00:00.000Z",
+          "wordCount": 5351,
+          "title": "Re-Creating The Pop-Out Hover Effect With Modern CSS (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/re-creating-pop-out-hover-effect-modern-css-part2/re-creating-pop-out-hover-effect-modern-css-part2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/re-creating-pop-out-hover-effect-modern-css-part2/re-creating-pop-out-hover-effect-modern-css-part2.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/",
           "author": "hello@smashingmagazine.com (Geoff Graham)",
           "description": "Geoff explores the often-overlooked divide between WordPress.org and WordPress.com, shedding light on the blurred lines between open-source ideals and commercial interests.",
@@ -241,21 +256,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/rediscovering-joy-design/rediscovering-joy-happiness-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/09/long-live-test-pyramid/",
-          "author": "hello@smashingmagazine.com (Ramona Schwering)",
-          "description": "Is the Test Pyramid really dead? Discover the more contemporary testing strategies and evaluate the Test Pyramid’s relevance in today’s software development practices.",
-          "link": "https://smashingmagazine.com/2023/09/long-live-test-pyramid/",
-          "publishedOn": "2023-09-06T11:00:00.000Z",
-          "wordCount": 5120,
-          "title": "Long Live The Test Pyramid",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/long-live-test-pyramid/long-live-test-pyramid.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/long-live-test-pyramid/long-live-test-pyramid.jpg"
         }
       ]
     },
@@ -264,6 +264,306 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://blog.sigstore.dev/openpubkey-and-sigstore/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.sigstore.dev/openpubkey-and-sigstore/",
+          "publishedOn": "2023-10-06T03:12:45.000Z",
+          "wordCount": 2967,
+          "title": "OpenPubKey and Sigstore",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way",
+          "publishedOn": "2023-10-06T02:43:49.000Z",
+          "wordCount": 3282,
+          "title": "“Google is clearly buying its way to squelch competitors“",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe461c04-821d-4897-9a20-a9ec29ad945e_6210x4140.jpeg"
+        },
+        {
+          "id": "https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image",
+          "publishedOn": "2023-10-06T02:18:27.000Z",
+          "wordCount": 322,
+          "title": "Ollama is now available as an official Docker image",
+          "imageUrl": "https://ollama.ai/public/icon.png"
+        },
+        {
+          "id": "https://landing.google.co.jp/caps/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://landing.google.co.jp/caps/",
+          "publishedOn": "2023-10-06T00:27:09.000Z",
+          "wordCount": 190,
+          "title": "Gboard Hat Version",
+          "imageUrl": "https://lh3.googleusercontent.com/MIHmYZjyGztJL-r3VPxG3SP8WKzRhvc5m6U4-OviMUf_fxz_LgVPzGELArx3wZ5wSdgiFNtU95Etn2me1ZmG0hz3IQwnDXgBqpp0QDxGSQYCWrrFvr8=w2560-rj"
+        },
+        {
+          "id": "https://blog.regehr.org/archives/28",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.regehr.org/archives/28",
+          "publishedOn": "2023-10-05T23:53:51.000Z",
+          "wordCount": 6888,
+          "title": "Nine ways to break your systems code using volatile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.retrogames.cz/play_493-DOS.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.retrogames.cz/play_493-DOS.php",
+          "publishedOn": "2023-10-05T23:50:12.000Z",
+          "wordCount": 2018,
+          "title": "Play Leisure Suit Larry free in DOS running in browser",
+          "imageUrl": "https://www.retrogames.cz/games/493/DOS_01.gif"
+        },
+        {
+          "id": "https://words.filippo.io/dispatches/seeds-bounty/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://words.filippo.io/dispatches/seeds-bounty/",
+          "publishedOn": "2023-10-05T21:26:52.000Z",
+          "wordCount": 2113,
+          "title": "NIST Elliptic Curves Seeds Bounty",
+          "imageUrl": "https://words.filippo.io/content/images/2023/10/massimo-botturi-zFYUsLk_50Y-unsplash.jpg"
+        },
+        {
+          "id": "https://testanything.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://testanything.org/",
+          "publishedOn": "2023-10-05T19:21:42.000Z",
+          "wordCount": 280,
+          "title": "Test Anything Protocol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://wayve.ai/thinking/scaling-gaia-1/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wayve.ai/thinking/scaling-gaia-1/",
+          "publishedOn": "2023-10-05T18:59:42.000Z",
+          "wordCount": 3467,
+          "title": "Gaia-1 a 9B parameter generative world model for autonomous driving",
+          "imageUrl": "https://wayve.ai/wp-content/uploads/2023/09/Wayve-GAIA-1-Tech-Blog-Thumbnail.jpg"
+        },
+        {
+          "id": "https://blog.replit.com/building-my-first-slack-bot",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.replit.com/building-my-first-slack-bot",
+          "publishedOn": "2023-10-05T18:57:21.000Z",
+          "wordCount": null,
+          "title": "I’m not a programmer, and I used AI to build my first bot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://store.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://store.app/",
+          "publishedOn": "2023-10-05T18:50:10.000Z",
+          "wordCount": 10,
+          "title": "Show HN: An app store just for installable web apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mazzo.li/posts/fast-pipes.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mazzo.li/posts/fast-pipes.html",
+          "publishedOn": "2023-10-05T18:49:29.000Z",
+          "wordCount": 6173,
+          "title": "How fast are Linux pipes anyway? (2022)",
+          "imageUrl": "https://mazzo.li/assets/images/fast-pipes-cover.png"
+        },
+        {
+          "id": "https://abcnews.go.com/Technology/wireStory/hp-fails-derail-claims-bricks-scanners-multifunction-printers-102286365",
+          "author": null,
+          "description": "Comments",
+          "link": "https://abcnews.go.com/Technology/wireStory/hp-fails-derail-claims-bricks-scanners-multifunction-printers-102286365",
+          "publishedOn": "2023-10-05T18:03:22.000Z",
+          "wordCount": 3790,
+          "title": "HP fails to derail claims that it bricks scanners on printers when ink runs low",
+          "imageUrl": "https://i.abcnewsfe.com/a/5cdcc0db-8b34-4fc8-9d22-6ce8640d11f2/wirestory_9d8a0e3b5b49bb408467f7f75735ab0a_12x5.jpg?w=992"
+        },
+        {
+          "id": "https://dotat.at/email.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dotat.at/email.html",
+          "publishedOn": "2023-10-05T18:01:13.000Z",
+          "wordCount": 117,
+          "title": "Dot Dotat.at",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.usni.org/2023/10/04/lockheed-ceo-pitches-pentagon-on-subscription-software",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.usni.org/2023/10/04/lockheed-ceo-pitches-pentagon-on-subscription-software",
+          "publishedOn": "2023-10-05T17:53:52.000Z",
+          "wordCount": null,
+          "title": "Lockheed CEO Pitches Pentagon on Subscription Software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://webfft.net/cir/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://webfft.net/cir/",
+          "publishedOn": "2023-10-05T17:48:36.000Z",
+          "wordCount": 73,
+          "title": "Birdsong Visualizer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.rerun.io/blog/release-0.9",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.rerun.io/blog/release-0.9",
+          "publishedOn": "2023-10-05T17:15:12.000Z",
+          "wordCount": 2644,
+          "title": "Rerun 0.9 – a framework for visualizing streams of multimodal data",
+          "imageUrl": "https://www.rerun.io/og-rerun-0-9.jpg"
+        },
+        {
+          "id": "https://www.wired.com/story/fast-forward-chatbot-hallucinations-are-poisoning-web-search/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wired.com/story/fast-forward-chatbot-hallucinations-are-poisoning-web-search/",
+          "publishedOn": "2023-10-05T17:13:44.000Z",
+          "wordCount": 21092,
+          "title": "Generative AI could make search harder to trust",
+          "imageUrl": "https://media.wired.com/photos/651dec583f56c202434baa79/191:100/w_1280,c_limit/business_chatbot_search_engine_lies.jpg"
+        },
+        {
+          "id": "https://vivaldi.com/blog/vivaldi-browser-launches-on-ios/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vivaldi.com/blog/vivaldi-browser-launches-on-ios/",
+          "publishedOn": "2023-10-05T17:03:39.000Z",
+          "wordCount": 2522,
+          "title": "Vivaldi on iOS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/propelauth/jobs/NogUaq4-backend-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/propelauth/jobs/NogUaq4-backend-engineer",
+          "publishedOn": "2023-10-05T17:00:12.000Z",
+          "wordCount": 2345,
+          "title": "PropelAuth (YC W22) Is Hiring Rust Developers",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Guide_stars_found_as_Euclid_s_navigation_fine_tuned",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Guide_stars_found_as_Euclid_s_navigation_fine_tuned",
+          "publishedOn": "2023-10-05T15:18:01.000Z",
+          "wordCount": 1274,
+          "title": "Guide stars found as Euclid's navigation fine tuned",
+          "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/02/euclid_looking_into_the_universe/24697244-1-eng-GB/Euclid_looking_into_the_Universe_pillars.jpg"
+        },
+        {
+          "id": "https://www.kempa.com/adam-is-there-a-reason-your-laptop-is-in-the-fridge/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.kempa.com/adam-is-there-a-reason-your-laptop-is-in-the-fridge/",
+          "publishedOn": "2023-10-05T14:23:54.000Z",
+          "wordCount": 690,
+          "title": "Adam? ... is there a reason your laptop is in the fridge? (2006)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ronpatrickstuff.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ronpatrickstuff.com/",
+          "publishedOn": "2023-10-05T13:45:28.000Z",
+          "wordCount": 2086,
+          "title": "Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle (2006)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dotat.at/@/2023-05-26-whence-time.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dotat.at/@/2023-05-26-whence-time.html",
+          "publishedOn": "2023-10-05T13:42:37.000Z",
+          "wordCount": 1112,
+          "title": "Where does my computer get the time from?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.robinwieruch.de/linear-algebra-matrix-javascript/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.robinwieruch.de/linear-algebra-matrix-javascript/",
+          "publishedOn": "2023-10-05T13:35:36.000Z",
+          "wordCount": 2416,
+          "title": "Matrix Operations with Math.js",
+          "imageUrl": "https://www.robinwieruch.de/static/4803be8dcfb640c1814b540661e6e9ea/9842e/banner.jpg"
+        },
+        {
+          "id": "https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd",
+          "publishedOn": "2023-10-05T13:27:38.000Z",
+          "wordCount": 74,
+          "title": "Fluid Simulation",
+          "imageUrl": "https://www.notion.so/images/meta/default.png"
+        },
+        {
+          "id": "https://telescoper.blog/2023/10/05/the-return-of-a-small-universe/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://telescoper.blog/2023/10/05/the-return-of-a-small-universe/",
+          "publishedOn": "2023-10-05T13:04:14.000Z",
+          "wordCount": 3125,
+          "title": "The Return of a Small Universe?",
+          "imageUrl": "https://telescoper.files.wordpress.com/2023/10/quote-o-god-i-could-be-bound-in-a-nutshell-and-count-myself-a-king-of-infinite-space-were-william-shakespeare-35-70-19.jpg"
+        },
+        {
+          "id": "https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/",
+          "publishedOn": "2023-10-05T13:02:24.000Z",
+          "wordCount": 2727,
+          "title": "Database Performance at Scale – A free book",
+          "imageUrl": "https://www.scylladb.com/wp-content/uploads/1200x628-data-performance-book-1.png"
+        },
+        {
+          "id": "https://bitmagnet.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bitmagnet.io/",
+          "publishedOn": "2023-10-05T11:44:17.000Z",
+          "wordCount": 1113,
+          "title": "Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search",
+          "imageUrl": null
+        },
+        {
+          "id": "https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/",
+          "publishedOn": "2023-10-05T07:14:43.000Z",
+          "wordCount": 1437,
+          "title": "How I stay motivated as a solo creator",
+          "imageUrl": null
+        },
         {
           "id": "https://www.iflscience.com/pythagorean-theorem-found-on-clay-tablet-1000-years-older-than-pythagoras-70934",
           "author": null,
@@ -8813,256 +9113,6 @@
           "wordCount": 2118,
           "title": "Show HN: Nix Snapshotter – Native understanding of Nix packages for containerd",
           "imageUrl": "https://opengraph.githubassets.com/09dfb9bd8daed28a0c6da3b08da4e5739ab780b53f649af759e2c9e5a68508f5/pdtpartners/nix-snapshotter"
-        },
-        {
-          "id": "https://monthlyreview.org/2009/05/01/why-socialism/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://monthlyreview.org/2009/05/01/why-socialism/",
-          "publishedOn": "2023-09-06T16:21:02.000Z",
-          "wordCount": 6477,
-          "title": "Why Socialism? (1949)",
-          "imageUrl": "https://p4r4f7y4.rocketcdn.me/wp-content/uploads/2009/05/chalk-drawing-of-albert-einstein-e1499809200192.jpeg"
-        },
-        {
-          "id": "https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension",
-          "author": null,
-          "description": "Comments",
-          "link": "https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension",
-          "publishedOn": "2023-09-06T13:21:17.000Z",
-          "wordCount": 4713,
-          "title": "Is this Duplo train track under too much tension?",
-          "imageUrl": "https://cdn.sstatic.net/Sites/puzzling/Img/apple-touch-icon@2.png?v=a7ebbe6c6b60"
-        },
-        {
-          "id": "https://github.com/leandromoreira/linux-network-performance-parameters",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/leandromoreira/linux-network-performance-parameters",
-          "publishedOn": "2023-09-06T11:56:35.000Z",
-          "wordCount": 2600,
-          "title": "Linux network performance parameters",
-          "imageUrl": "https://opengraph.githubassets.com/b18f2d5668780bce0410c8820837b8a162fe31351a618286f43e48a9aed2cc2a/leandromoreira/linux-network-performance-parameters"
-        },
-        {
-          "id": "https://blogs.bl.uk/living-knowledge/2023/08/performing-folk-music-found-in-the-archives-user-stories.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blogs.bl.uk/living-knowledge/2023/08/performing-folk-music-found-in-the-archives-user-stories.html",
-          "publishedOn": "2023-09-06T09:50:44.000Z",
-          "wordCount": 2023,
-          "title": "Performing Folk Music Found in the Archives",
-          "imageUrl": "https://blogs.bl.uk/.a/6a00d8341c464853ef02b751af343b200c-pi"
-        },
-        {
-          "id": "https://www.masswerk.at/nowgobang/2023/skiatron",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.masswerk.at/nowgobang/2023/skiatron",
-          "publishedOn": "2023-09-06T08:00:25.000Z",
-          "wordCount": 1925,
-          "title": "The Skiatron and Early Dark Trace CRTs",
-          "imageUrl": "https://www.masswerk.at/nowgobang/images/2023-skiatron-title.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/alan-turing-and-the-power-of-negative-thinking-20230905/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/alan-turing-and-the-power-of-negative-thinking-20230905/",
-          "publishedOn": "2023-09-06T04:05:33.000Z",
-          "wordCount": 5604,
-          "title": "Proofs based on diagonalization help reveal the limits of algorithms",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/09/Diagonalization-byKristinaArmitage-Social.webp"
-        },
-        {
-          "id": "https://damieng.com/typography/zx-origins/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://damieng.com/typography/zx-origins/",
-          "publishedOn": "2023-09-06T03:18:35.000Z",
-          "wordCount": 1602,
-          "title": "ZX Origins 8x8 bitmap fonts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html",
-          "publishedOn": "2023-09-06T01:57:58.000Z",
-          "wordCount": 10032,
-          "title": "On the 10th anniversary of the Snowden revelations",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyhZ8oMTZBwed-5n7dMj4FYGxNBxrR8NfDPbzx9Te6eeni5ePQDuNKSVPKfGm1TYMJTToHO19ZFzFVvLPJrgJ_yXPPbT06cJrAE7Nr2F5B_NoWy7aHGgdxlD6xqDPf4yy19JIbBk2TfBVZPPoiojdk039bRHMtNCmkzUuznUDeE24c_tEwqEhFaFH7/w1200-h630-p-k-no-nu/10yearsnowden-header.jpg"
-        },
-        {
-          "id": "https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/",
-          "publishedOn": "2023-09-06T01:40:12.000Z",
-          "wordCount": 5192,
-          "title": "Writing Small CLI Programs in Common Lisp (2021)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.historytoday.com/archive/review/bismarcks-war-rachel-chrastil-review",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.historytoday.com/archive/review/bismarcks-war-rachel-chrastil-review",
-          "publishedOn": "2023-09-06T00:59:21.000Z",
-          "wordCount": 1337,
-          "title": "Bismarck’s War",
-          "imageUrl": "https://www.historytoday.com/sites/default/files/2023-09/Bismarck%27s%20War%20Rachel%20Chrastil%20History%20Today.jpg"
-        },
-        {
-          "id": "https://www.troyhunt.com/fighting-api-bots-with-cloudflares-invisible-turnstile/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.troyhunt.com/fighting-api-bots-with-cloudflares-invisible-turnstile/",
-          "publishedOn": "2023-09-06T00:58:30.000Z",
-          "wordCount": 2873,
-          "title": "Fighting API Bots with Cloudflare's Invisible Turnstile",
-          "imageUrl": "https://www.troyhunt.com/content/images/2023/08/2023-08-21_16-38-03.png"
-        },
-        {
-          "id": "https://www.fast.ai/posts/2023-09-04-learning-jumps/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.fast.ai/posts/2023-09-04-learning-jumps/",
-          "publishedOn": "2023-09-06T00:40:05.000Z",
-          "wordCount": 4107,
-          "title": "Can LLMs learn from a single example?",
-          "imageUrl": "https://www.fast.ai/posts/2023-09-04-learning-jumps/2023-09-04-10-09-29.png"
-        },
-        {
-          "id": "https://spectrum.ieee.org/doctorow-interoperability",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spectrum.ieee.org/doctorow-interoperability",
-          "publishedOn": "2023-09-06T00:32:02.000Z",
-          "wordCount": 9927,
-          "title": "Interoperability Can Save the Open Web",
-          "imageUrl": "https://spectrum.ieee.org/media-library/a-partially-open-laptop-sits-on-top-of-opened-chains-and-padlocks.jpg?id=36341064&width=1200&height=600&coordinates=0%2C263%2C0%2C263"
-        },
-        {
-          "id": "https://github.com/YavorGIvanov/sam.cpp",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/YavorGIvanov/sam.cpp",
-          "publishedOn": "2023-09-05T22:49:28.000Z",
-          "wordCount": 1105,
-          "title": "Meta's Segment Anything written with C++ / GGML",
-          "imageUrl": "https://opengraph.githubassets.com/891795878e7c7cb02b0cc7ff54aee060ced7cef25ff4a26e7e5241986297d5a6/YavorGIvanov/sam.cpp"
-        },
-        {
-          "id": "https://perplexity.vercel.app/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://perplexity.vercel.app/",
-          "publishedOn": "2023-09-05T22:42:39.000Z",
-          "wordCount": 30,
-          "title": "Show HN: Fully client-side GPT2 prediction visualizer",
-          "imageUrl": "https://perplexity.vercel.app/img/screenshot.png"
-        },
-        {
-          "id": "https://www.reutersagency.com/authenticity-poc/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reutersagency.com/authenticity-poc/",
-          "publishedOn": "2023-09-05T21:56:40.000Z",
-          "wordCount": 2348,
-          "title": "Preserving trust in photojournalism through authentication technology",
-          "imageUrl": "https://www.reutersagency.com/authenticity-poc/_ipx/w_640/images/photos/device3%20-%20124A0699KJC.jpg"
-        },
-        {
-          "id": "https://www.workatastartup.com/jobs/61922/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.workatastartup.com/jobs/61922/",
-          "publishedOn": "2023-09-05T21:01:16.000Z",
-          "wordCount": 1557,
-          "title": "Emerge (YC W21) is hiring a lead front end engineer (remote, small team)",
-          "imageUrl": "https://yc-workatastartup-production.s3.amazonaws.com/jobs_company_jobs/images/61922/b76a2552d449d85d97e6c93b68b61ec864e8b340.png?1690156434"
-        },
-        {
-          "id": "https://community.aws/posts/how-search-uses-chaos-engineering",
-          "author": null,
-          "description": "Comments",
-          "link": "https://community.aws/posts/how-search-uses-chaos-engineering",
-          "publishedOn": "2023-09-05T20:39:09.000Z",
-          "wordCount": 5705,
-          "title": "How Amazon uses chaos engineering to handle 80k requests per second",
-          "imageUrl": "https://community.aws/raw-post-images/posts/how-search-uses-chaos-engineering/images/figure1.webp"
-        },
-        {
-          "id": "https://play.google.com/store/apps/details?id=tech.ula.devstudio&hl=en_US",
-          "author": null,
-          "description": "Comments",
-          "link": "https://play.google.com/store/apps/details?id=tech.ula.devstudio&hl=en_US",
-          "publishedOn": "2023-09-05T20:36:20.000Z",
-          "wordCount": 14878,
-          "title": "deVStudio – Runs VS Code on Android",
-          "imageUrl": "https://play-lh.googleusercontent.com/8LG16ZJENV23id7zyeE_c4EDbwoRKNzEN9z7soDTVpqhCe6UubN--vMrANdaBMzGyQ"
-        },
-        {
-          "id": "https://bitbytebit.substack.com/p/when-deployments-are-easy-code-becomes",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bitbytebit.substack.com/p/when-deployments-are-easy-code-becomes",
-          "publishedOn": "2023-09-05T20:33:18.000Z",
-          "wordCount": 957,
-          "title": "When deployments are easy, code becomes simpler",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd9d73e7-1dc3-4bc4-affd-f064ec992dc8_768x768.png"
-        },
-        {
-          "id": "https://www.scopeofwork.net/forming-an-edge/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scopeofwork.net/forming-an-edge/",
-          "publishedOn": "2023-09-05T19:21:59.000Z",
-          "wordCount": 2776,
-          "title": "Forming an Edge",
-          "imageUrl": "https://www.scopeofwork.net/content/images/2023/01/Factory.jpg"
-        },
-        {
-          "id": "https://tryklack.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tryklack.com/",
-          "publishedOn": "2023-09-05T17:55:29.000Z",
-          "wordCount": 9,
-          "title": "Klack – Satisfying sound with every keystroke",
-          "imageUrl": "https://cdn.tryklack.com/images/meta.png"
-        },
-        {
-          "id": "https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/",
-          "publishedOn": "2023-09-05T17:39:08.000Z",
-          "wordCount": 20014,
-          "title": "Mentra aims to match neurodivergent jobseekers with jobs",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/09/FoundersPic-1.jpg?resize=1200,675"
-        },
-        {
-          "id": "https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware",
-          "author": null,
-          "description": "Comments",
-          "link": "https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware",
-          "publishedOn": "2023-09-05T17:33:35.000Z",
-          "wordCount": 1705,
-          "title": "If you can use open source, you can build hardware",
-          "imageUrl": "https://redeem-tomorrow.com/api/og/if-you-can-use-open-source-you-can-build-hardware/standard.png"
-        },
-        {
-          "id": "https://github.com/nyaggah/bedframe",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/nyaggah/bedframe",
-          "publishedOn": "2023-09-05T16:33:40.000Z",
-          "wordCount": 877,
-          "title": "Show HN: Bedframe – open-source Browser Extension Development framework",
-          "imageUrl": "https://opengraph.githubassets.com/420b028d08f8703b6355fe71b22efdbeb9bf8636e3b6fa4b9c5099045328efcd/nyaggah/bedframe"
         }
       ]
     },
@@ -9128,6 +9178,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://www.knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/article/living-world/2023/evolution-of-division-of-labor",
+          "author": "Tim Vernimmen",
+          "description": "Social insects and humans share the trait of divvying up tasks, as do some fish. Researchers find that it emerges naturally, and it often doesn’t take a boss to keep things in order.",
+          "link": "https://knowablemagazine.org/article/living-world/2023/evolution-of-division-of-labor",
+          "publishedOn": "2023-10-04T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Division of labor in ants, wasps, bees — and us",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "152903",
+            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-100423-1-1200x630.jpg"
+          },
+          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-100423-1-1200x630.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/article/society/2023/knotty-economics-student-loan-debt",
           "author": "Emily Underwood",
@@ -9262,21 +9327,6 @@
             "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-090723-2-1200x630.jpg"
           },
           "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-090723-2-1200x630.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/article/society/2023/time-to-end-police-deception",
-          "author": "Rachel Moran",
-          "description": "OPINION: The culture of deception in US courts needs to end",
-          "link": "https://knowablemagazine.org/article/society/2023/time-to-end-police-deception",
-          "publishedOn": "2023-09-05T15:00:00.000Z",
-          "wordCount": null,
-          "title": "It’s way past time to stop police ‘testilying’",
-          "enclosure": {
-            "type": "image/jpeg",
-            "length": "108193",
-            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-090523-2-1200x630.jpg"
-          },
-          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-090523-2-1200x630.jpg"
         }
       ]
     },
@@ -9883,6 +9933,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMieWh0dHBzOi8vd3d3LnNreXNwb3J0cy5jb20vZm9vdGJhbGwvbGl2ZS1ibG9nLzMxNzcxLzEyNDc2MjM0L3RyYW5zZmVyLWNlbnRyZS1saXZlLWFyc2VuYWwtd29ya2luZy10by1leHRlbmQtd2hpdGUtY29udHJhY3TSAQA",
+          "author": null,
+          "description": "Transfer Centre LIVE! Newcastle midfielder Bruno Guimaraes signs ...  Sky Sports",
+          "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnNreXNwb3J0cy5jb20vZm9vdGJhbGwvbGl2ZS1ibG9nLzMxNzcxLzEyNDc2MjM0L3RyYW5zZmVyLWNlbnRyZS1saXZlLWFyc2VuYWwtd29ya2luZy10by1leHRlbmQtd2hpdGUtY29udHJhY3TSAQA?oc=5",
+          "publishedOn": "2023-10-02T17:31:43.000Z",
+          "wordCount": 4996,
+          "title": "Transfer Centre LIVE! Newcastle midfielder Bruno Guimaraes signs ... - Sky Sports",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiQ2h0dHBzOi8vZm9ydHVuZS5jb20vMjAyMy8xMC8wMi9haS1jb3BpbG90LXN0YXJ0dXBzLXZlbnR1cmUtY2FwaXRhbC_SAUdodHRwczovL2ZvcnR1bmUuY29tLzIwMjMvMTAvMDIvYWktY29waWxvdC1zdGFydHVwcy12ZW50dXJlLWNhcGl0YWwvYW1wLw",
           "author": null,
           "description": "Why ‘AI copilot’ startups are so hot with VCs right now  Fortune",
@@ -10431,56 +10491,6 @@
           "wordCount": 4968,
           "title": "Election 2023: Updates on 7 September - Call for politicians to ... - RNZ",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicmh0dHBzOi8vd3d3Lm1heWVyYnJvd24uY29tL2VuL3BlcnNwZWN0aXZlcy1ldmVudHMvcHVibGljYXRpb25zLzIwMjMvMDkvZXVyb3BlLWRhaWx5LW5ld3MvZXVyb3BlLWRhaWx5LW5ld3Mtc2VwMDYyM9IBAA",
-          "author": null,
-          "description": "Europe Daily News, 06 September 2023 | Perspectives & Events  Mayer Brown",
-          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm1heWVyYnJvd24uY29tL2VuL3BlcnNwZWN0aXZlcy1ldmVudHMvcHVibGljYXRpb25zLzIwMjMvMDkvZXVyb3BlLWRhaWx5LW5ld3MvZXVyb3BlLWRhaWx5LW5ld3Mtc2VwMDYyM9IBAA?oc=5",
-          "publishedOn": "2023-09-06T11:13:25.000Z",
-          "wordCount": 5339,
-          "title": "Europe Daily News, 06 September 2023 | Perspectives & Events - Mayer Brown",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifGh0dHBzOi8veXJvLnNsYXNoZG90Lm9yZy9zdG9yeS8yMy8wOS8wNi8yMDM1MjM3L2ludGVybmV0LWNvbm5lY3RlZC1jYXJzLWZhaWwtcHJpdmFjeS1hbmQtc2VjdXJpdHktdGVzdHMtY29uZHVjdGVkLWJ5LW1vemlsbGHSAQA",
-          "author": null,
-          "description": "Internet-Connected Cars Fail Privacy and Security Tests Conducted ...  Slashdot",
-          "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8veXJvLnNsYXNoZG90Lm9yZy9zdG9yeS8yMy8wOS8wNi8yMDM1MjM3L2ludGVybmV0LWNvbm5lY3RlZC1jYXJzLWZhaWwtcHJpdmFjeS1hbmQtc2VjdXJpdHktdGVzdHMtY29uZHVjdGVkLWJ5LW1vemlsbGHSAQA?oc=5",
-          "publishedOn": "2023-09-06T07:00:00.000Z",
-          "wordCount": 4993,
-          "title": "Internet-Connected Cars Fail Privacy and Security Tests Conducted ... - Slashdot",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9saXZlLWJsb2cvMjAyMy0wOS0wNS9mdHNlLTEwMC1wb3VuZC1yZXRhaWwtc2FsZXMtYW5kLWJvZS1jb3ZlcmFnZS11ay1tYXJrZXRzLXRvZGF50gEA",
-          "author": null,
-          "description": "LIVE UK Markets Today: FTSE 100, Pound (GBP/USD), Retail Sales ...  Bloomberg",
-          "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9saXZlLWJsb2cvMjAyMy0wOS0wNS9mdHNlLTEwMC1wb3VuZC1yZXRhaWwtc2FsZXMtYW5kLWJvZS1jb3ZlcmFnZS11ay1tYXJrZXRzLXRvZGF50gEA?oc=5",
-          "publishedOn": "2023-09-06T02:53:51.000Z",
-          "wordCount": 4969,
-          "title": "LIVE UK Markets Today: FTSE 100, Pound (GBP/USD), Retail Sales ... - Bloomberg",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiemh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC9ibG9nLzIwMjMvc2VwLzA1L2NpcHJpYW5pLWVuZ2xhbmQtcnVnYnktdW5pb24tZ3JlYXQtZmxhdy1taXN0cnVzdC1vZi1tYXZlcmlja3MtYnJlYWtkb3du0gF6aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0L2Jsb2cvMjAyMy9zZXAvMDUvY2lwcmlhbmktZW5nbGFuZC1ydWdieS11bmlvbi1ncmVhdC1mbGF3LW1pc3RydXN0LW9mLW1hdmVyaWNrcy1icmVha2Rvd24",
-          "author": null,
-          "description": "Cipriani lifts lid on English rugby’s great flaw: a mistrust of mavericks  The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC9ibG9nLzIwMjMvc2VwLzA1L2NpcHJpYW5pLWVuZ2xhbmQtcnVnYnktdW5pb24tZ3JlYXQtZmxhdy1taXN0cnVzdC1vZi1tYXZlcmlja3MtYnJlYWtkb3du0gF6aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0L2Jsb2cvMjAyMy9zZXAvMDUvY2lwcmlhbmktZW5nbGFuZC1ydWdieS11bmlvbi1ncmVhdC1mbGF3LW1pc3RydXN0LW9mLW1hdmVyaWNrcy1icmVha2Rvd24?oc=5",
-          "publishedOn": "2023-09-06T02:33:45.000Z",
-          "wordCount": 4969,
-          "title": "Cipriani lifts lid on English rugby’s great flaw: a mistrust of mavericks - The Guardian",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vd3d3LnN0dWZmLmNvLm56L25hdGlvbmFsLzEzMjg2MDg0MS9ob3ctZGlkLWFuLWFtZXJpY2FuLWZyYXVkc3Rlci1nZXQtYW4tZW50cmVwcmVuZXVyLXZpc2HSAQA",
-          "author": null,
-          "description": "How did an American fraudster get an entrepreneur visa?  Stuff.co.nz",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnN0dWZmLmNvLm56L25hdGlvbmFsLzEzMjg2MDg0MS9ob3ctZGlkLWFuLWFtZXJpY2FuLWZyYXVkc3Rlci1nZXQtYW4tZW50cmVwcmVuZXVyLXZpc2HSAQA?oc=5",
-          "publishedOn": "2023-09-05T20:26:00.000Z",
-          "wordCount": 4969,
-          "title": "How did an American fraudster get an entrepreneur visa? - Stuff.co.nz",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10489,6 +10499,16 @@
       "feedUrl": "https://errantscience.com/feed/",
       "siteUrl": "https://errantscience.com",
       "articles": [
+        {
+          "id": "https://errantscience.com/?p=20061",
+          "author": "Billy Hinchen",
+          "description": "It’s today: your first lab meeting. You’ve got your slides together, tested the animations and so long as that one video loads, everything should be smooth sailing. But you’re probably still worrying \"What if they realise I’m an imposter?!!”. \n\nHere's 8 tips to think about and help you calm down",
+          "link": "https://errantscience.com/blog/2023/10/05/how-to-survive-your-first-lab-meeting-a-calming-guide/",
+          "publishedOn": "2023-10-05T10:00:00.000Z",
+          "wordCount": 3310,
+          "title": "How to survive your first lab meeting: a calming guide",
+          "imageUrl": "https://errantscience.com/wp-content/uploads/230921_-_Weekly_Meetings.png"
+        },
         {
           "id": "https://errantscience.com/?p=20010",
           "author": "Matthew (@MCeeP)",
