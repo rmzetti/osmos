@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/roundup-wcag-explainers/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "WCAG 2.2 officially became a “W3C Recommended” web standard on October 5, 2023, and with it, new success criteria and changes to existing guidelines for accessible user experiences. What are the changes, and how can you conform to them? This roundup provides links to WCAG 2.2 explainers that have been published or updated since the release.",
+          "link": "https://smashingmagazine.com/2023/10/roundup-wcag-explainers/",
+          "publishedOn": "2023-10-21T09:00:00.000Z",
+          "wordCount": 3935,
+          "title": "A Roundup Of WCAG 2.2 Explainers",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/roundup-wcag-explainers/roundup-wcag-explainers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/roundup-wcag-explainers/roundup-wcag-explainers.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-best-practices-guide-part2/",
           "author": "hello@smashingmagazine.com (Daria Karpenko)",
           "description": "Finding the right typeface is tricky as a whole. Dividing the process into steps and having the right information at hand will make this journey a design adventure full of surprises. To avoid sinking into unnecessary details, use this guide as a map for your path. Review various font paraments and learn how to apply them to your designs.",
@@ -271,21 +286,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/waterbear-building-free-platform-impactful-documentaries-part1/waterbear-building-free-platform-impactful-documentaries-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/09/path-css-easing-linear-function/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "With the new CSS `linear()` easing function on the horizon, the possibilities of what we can do to create natural-feeling animations and transitions in the future are greatly expanded. Jhey Tompkins looks at the current state of CSS easing in this article and demonstrates what we can expect from `linear()`, including handy tools to get your hands on it today.",
-          "link": "https://smashingmagazine.com/2023/09/path-css-easing-linear-function/",
-          "publishedOn": "2023-09-22T10:00:00.000Z",
-          "wordCount": 5049,
-          "title": "The Path To Awesome CSS Easing With The linear() Function",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/path-css-easing-linear-function/path-css-easing-linear-function.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/path-css-easing-linear-function/path-css-easing-linear-function.jpg"
         }
       ]
     },
@@ -294,6 +294,216 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://daily.jstor.org/the-pan-american-highway-and-the-darien-gap/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://daily.jstor.org/the-pan-american-highway-and-the-darien-gap/",
+          "publishedOn": "2023-10-22T02:17:55.000Z",
+          "wordCount": 2994,
+          "title": "What happened to the dream of the Pan-American highway?",
+          "imageUrl": "https://daily.jstor.org/wp-content/uploads/2022/11/the_highway_and_the_gap_1050x700.jpg"
+        },
+        {
+          "id": "https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years",
+          "publishedOn": "2023-10-22T01:47:23.000Z",
+          "wordCount": 12895,
+          "title": "Nvidia Wouldn't Exist If CEO Could Turn the Clock Back 30 Years",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/FamXU6hQ6yk3cLCbRL6DuX-1200-80.jpg"
+        },
+        {
+          "id": "https://www.hcn.org/issues/55.8/infographic-mining-an-antiquated-law-rules-mining-in-the-west",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.hcn.org/issues/55.8/infographic-mining-an-antiquated-law-rules-mining-in-the-west",
+          "publishedOn": "2023-10-22T01:13:56.000Z",
+          "wordCount": 1680,
+          "title": "An antiquated law rules mining in the West",
+          "imageUrl": "https://www.hcn.org/issues/55.8/infographic-mining-an-antiquated-law-rules-mining-in-the-west/bigimage_large"
+        },
+        {
+          "id": "https://github.com/ZachGoldberg/Startup-CTO-Handbook",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ZachGoldberg/Startup-CTO-Handbook",
+          "publishedOn": "2023-10-22T00:29:47.000Z",
+          "wordCount": 828,
+          "title": "Startup CTO's Handbook",
+          "imageUrl": "https://opengraph.githubassets.com/4981366b07114443900f6193e7fe5664332d22b252e4c154c8a195f0ee368b6b/ZachGoldberg/Startup-CTO-Handbook"
+        },
+        {
+          "id": "https://nghttp2.org/nghttp3/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nghttp2.org/nghttp3/",
+          "publishedOn": "2023-10-22T00:00:38.000Z",
+          "wordCount": 72,
+          "title": "Nghttp3 1.0.0 – HTTP/3 library written in C",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theguardian.com/uk-news/2023/oct/21/storm-babet-forest-floor-video-mugdock-stirlingshire-scotland",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/uk-news/2023/oct/21/storm-babet-forest-floor-video-mugdock-stirlingshire-scotland",
+          "publishedOn": "2023-10-21T23:47:53.000Z",
+          "wordCount": 4903,
+          "title": "Man captures 'weird anomaly' of Storm Babet lifting forest floor in Scotland",
+          "imageUrl": "https://i.guim.co.uk/img/media/682a42a3039275cdbbf52e4503a9a653f698f9b8/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3480a38a17e6b37cea3f11d915d0eb34"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=37971534",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=37971534",
+          "publishedOn": "2023-10-21T23:42:39.000Z",
+          "wordCount": 444,
+          "title": "HN RSS feeds per user no longer available",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.modernautomatamuseum.com/Clohe/00-CLOHE-EN.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.modernautomatamuseum.com/Clohe/00-CLOHE-EN.htm",
+          "publishedOn": "2023-10-21T23:25:15.000Z",
+          "wordCount": 411,
+          "title": "Clohe: Moving toys in the classroom (automata construction toolkit)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tunnellersmemorial.com/tunnelling-companies/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tunnellersmemorial.com/tunnelling-companies/",
+          "publishedOn": "2023-10-21T22:27:47.000Z",
+          "wordCount": 3723,
+          "title": "Tunnelling Companies in the Great War",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openrefine.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openrefine.org/",
+          "publishedOn": "2023-10-21T21:51:58.000Z",
+          "wordCount": 213,
+          "title": "OpenRefine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext",
+          "publishedOn": "2023-10-21T21:24:07.000Z",
+          "wordCount": 6155,
+          "title": "The decline of computers as a general-purpose technology (2021)",
+          "imageUrl": "https://cacm.acm.org/system/assets/0003/9226/021521_CACMpg65_The-Decline-of1.large.jpg?1613514349&1613514349"
+        },
+        {
+          "id": "https://www.cbc.ca/news/business/canada-entrepreneurs-shortage-solutions-1.7002171",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cbc.ca/news/business/canada-entrepreneurs-shortage-solutions-1.7002171",
+          "publishedOn": "2023-10-21T21:12:35.000Z",
+          "wordCount": 6958,
+          "title": "Canada has fewer entrepreneurs today than it did 20 years ago",
+          "imageUrl": "https://i.cbc.ca/1.7002279.1697756539!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/james-lynn.jpeg"
+        },
+        {
+          "id": "https://www.benburwell.com/posts/transactions-are-not-locks/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.benburwell.com/posts/transactions-are-not-locks/",
+          "publishedOn": "2023-10-21T20:48:59.000Z",
+          "wordCount": 1194,
+          "title": "Transactions Are Not Locks (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.washingtonpost.com/climate-environment/2023/10/21/plants-talk-warning-danger/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.washingtonpost.com/climate-environment/2023/10/21/plants-talk-warning-danger/",
+          "publishedOn": "2023-10-21T17:37:34.000Z",
+          "wordCount": 9125,
+          "title": "How plants communicate with each other when in danger",
+          "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K5NPTQJOBBAL7IUJ5Q5ABB6CIU.jpg&w=1440"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=37968534",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=37968534",
+          "publishedOn": "2023-10-21T17:00:39.000Z",
+          "wordCount": 230,
+          "title": "GoGoGrandparent (YC S16) Is Hiring",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2310.10860",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2310.10860",
+          "publishedOn": "2023-10-21T16:19:37.000Z",
+          "wordCount": 666,
+          "title": "Solvable statistical physics models for large neuronal populations",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://www.ultrafp64.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.ultrafp64.com/",
+          "publishedOn": "2023-10-21T16:01:45.000Z",
+          "wordCount": 1614,
+          "title": "FPGA N64",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju",
+          "publishedOn": "2023-10-21T15:46:40.000Z",
+          "wordCount": 14656,
+          "title": "Keju, China’s difficult civil service test",
+          "imageUrl": "https://epsilon.aeon.co/images/4e582db8-120d-48e8-bcfb-f718d171bc95/header_essay-ming-beamtenprufungen1.jpg"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41564-023-01426-7",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41564-023-01426-7",
+          "publishedOn": "2023-10-21T15:46:09.000Z",
+          "wordCount": 6290,
+          "title": "Human microbiome myths and misconceptions",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41564-023-01426-7/MediaObjects/41564_2023_1426_Fig1_HTML.png"
+        },
+        {
+          "id": "https://codeconfessions.substack.com/p/gpu-computing",
+          "author": null,
+          "description": "Comments",
+          "link": "https://codeconfessions.substack.com/p/gpu-computing",
+          "publishedOn": "2023-10-21T14:36:47.000Z",
+          "wordCount": 8973,
+          "title": "What every developer should know about GPU computing",
+          "imageUrl": "https://images.unsplash.com/photo-1624701928517-44c8ac49d93c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyfHxncHV8ZW58MHx8fHwxNjk3NjQyMzg4fDA&ixlib=rb-4.0.3&q=80&w=1080"
+        },
+        {
+          "id": "https://www.australiangeographic.com.au/topics/history-culture/2023/10/stories-told-by-aboriginal-tasmanians-could-be-oldest-recorded-in-the-world/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.australiangeographic.com.au/topics/history-culture/2023/10/stories-told-by-aboriginal-tasmanians-could-be-oldest-recorded-in-the-world/",
+          "publishedOn": "2023-10-21T05:19:10.000Z",
+          "wordCount": 3816,
+          "title": "Stories told by Aboriginal Tasmanians could be oldest recorded",
+          "imageUrl": "https://www.australiangeographic.com.au/wp-content/uploads/2023/10/144731-56-scaled.jpg"
+        },
         {
           "id": "https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html",
           "author": null,
@@ -323,6 +533,16 @@
           "wordCount": 3737,
           "title": "NASA's Voyager Team Focuses on Software Patch, Thrusters",
           "imageUrl": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Voyager-artists-concept-16.jpg"
+        },
+        {
+          "id": "https://lithub.com/the-past-is-messy-and-repeats-itself-the-trap-of-fairytale-victory-endings-in-historical-fiction/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lithub.com/the-past-is-messy-and-repeats-itself-the-trap-of-fairytale-victory-endings-in-historical-fiction/",
+          "publishedOn": "2023-10-21T03:04:49.000Z",
+          "wordCount": 3266,
+          "title": "The Trap of Fairytale Victory Endings in Historical Fiction",
+          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2023/10/d-day-british-forces-during-the-invasion-of-normandy-6-june-1944-b5257-6e9fd1-1024.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=byNaO_zn2fI",
@@ -455,6 +675,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.ems1.com/ambulance-safety/articles/14-groups-issue-joint-statement-on-ems-use-of-lights-sirens-AAfswfKx2gaog3dy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ems1.com/ambulance-safety/articles/14-groups-issue-joint-statement-on-ems-use-of-lights-sirens-AAfswfKx2gaog3dy/",
+          "publishedOn": "2023-10-20T19:00:00.000Z",
+          "wordCount": 3088,
+          "title": "14 Groups issue joint statement on EMS use of lights, sirens (2022)",
+          "imageUrl": "https://media.cdn.lexipol.com/article-images/AP20089606627192.jpg?w=1600&format=jpg&quality=87&crop=72%2C0%2C1024%2C576"
+        },
+        {
           "id": "https://geany.org/",
           "author": null,
           "description": "Comments",
@@ -535,6 +765,16 @@
           "imageUrl": "https://www.c82.net/images/thumbs/hummingbirds.jpg"
         },
         {
+          "id": "https://susam.net/cfr.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://susam.net/cfr.html",
+          "publishedOn": "2023-10-20T13:56:48.000Z",
+          "wordCount": 1477,
+          "title": "Show HN: CFR[]: Very minimal drawing language with 5 commands: C, F, R, [, ]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nature.com/articles/d41586-023-02894-x",
           "author": null,
           "description": "Comments",
@@ -573,6 +813,46 @@
           "wordCount": 7697,
           "title": "Encrypted traffic interception on Hetzner and Linode targeting Jabber service",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.tcl.tk/about/history.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tcl.tk/about/history.html",
+          "publishedOn": "2023-10-20T12:01:25.000Z",
+          "wordCount": 3279,
+          "title": "History of Tcl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wired.com/story/22-year-old-builds-chips-parents-garage/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wired.com/story/22-year-old-builds-chips-parents-garage/",
+          "publishedOn": "2023-10-20T09:34:54.000Z",
+          "wordCount": 24860,
+          "title": "22-year-old builds chips in his parents' garage (2022)",
+          "imageUrl": "https://media.wired.com/photos/61e75334f355cd4b798a0001/191:100/w_1280,c_limit/Business_Sam%20Zeloof_0258.jpg"
+        },
+        {
+          "id": "https://www.openfaas.com/blog/large-scale-functions/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.openfaas.com/blog/large-scale-functions/",
+          "publishedOn": "2023-10-20T09:31:17.000Z",
+          "wordCount": 2969,
+          "title": "Scaling to 15000 Functions and Beyond",
+          "imageUrl": "https://www.openfaas.com/images/2023-10-scale-operator/background.jpg"
+        },
+        {
+          "id": "https://duncanlock.net/blog/2021/01/12/using-asciidoc-and-asciidoctor-for-blogging/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://duncanlock.net/blog/2021/01/12/using-asciidoc-and-asciidoctor-for-blogging/",
+          "publishedOn": "2023-10-20T09:03:29.000Z",
+          "wordCount": 3120,
+          "title": "Using AsciiDoc and Asciidoctor for Blogging",
+          "imageUrl": "https://duncanlock.net/images/favicon-128x128.png"
         },
         {
           "id": "https://nota-lang.org/#def-nota",
@@ -823,6 +1103,26 @@
           "wordCount": 1340,
           "title": "Blaze: Fast query execution engine for Apache Spark",
           "imageUrl": "https://opengraph.githubassets.com/67ace699990154d6fe3d25c303e6de181b2c0af2c5a945294ff49ca6f4a7a3f3/blaze-init/blaze"
+        },
+        {
+          "id": "https://marcellerusu.com/using_prolog_as_the_ast.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://marcellerusu.com/using_prolog_as_the_ast.html",
+          "publishedOn": "2023-10-19T12:00:52.000Z",
+          "wordCount": 1295,
+          "title": "Using Prolog as the AST",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ivoyager.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ivoyager.dev/",
+          "publishedOn": "2023-10-19T11:43:10.000Z",
+          "wordCount": 5562,
+          "title": "Open-Source Software Planetarium",
+          "imageUrl": "https://www.ivoyager.dev/wp-content/uploads/2019/10/Jupiter-Europa-Io-1200x630.jpg"
         },
         {
           "id": "http://antirez.com/news/139",
@@ -8703,356 +9003,6 @@
           "wordCount": 781,
           "title": "Show HN: Rapidpages – OSS alternative to vercel's v0",
           "imageUrl": "https://opengraph.githubassets.com/58961b655692f4850f7611572c2f7a9ea32c9b6a8fa5182309c8e3e7a4c7bd7f/rapidpages/rapidpages"
-        },
-        {
-          "id": "https://arxiv.org/abs/2309.12252",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2309.12252",
-          "publishedOn": "2023-09-22T16:17:09.000Z",
-          "wordCount": 681,
-          "title": "Parallelizing non-linear sequential models over the sequence length",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://nautilus.institute/blog/2023/raw-water/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nautilus.institute/blog/2023/raw-water/",
-          "publishedOn": "2023-09-22T16:04:30.000Z",
-          "wordCount": 869,
-          "title": "Raw Water: Quenching Your Thirst for SQL Injection",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bradfrost.com/blog/post/the-design-system-ecosystem/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bradfrost.com/blog/post/the-design-system-ecosystem/",
-          "publishedOn": "2023-09-22T15:49:32.000Z",
-          "wordCount": 5444,
-          "title": "The Design System Ecosystem",
-          "imageUrl": "https://bradfrost.com/wp-content/uploads/2023/09/CleanShot-2023-09-21-at-10.57.22.png"
-        },
-        {
-          "id": "https://sunestra.fr/posts/repair/scope/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sunestra.fr/posts/repair/scope/",
-          "publishedOn": "2023-09-22T15:27:40.000Z",
-          "wordCount": 1510,
-          "title": "Dumpster Tektronix 2465B Restoration",
-          "imageUrl": "https://sunestra.fr/img/favicon/pink.png"
-        },
-        {
-          "id": "https://www.scientificamerican.com/article/the-equinox-is-not-what-you-think-it-is/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scientificamerican.com/article/the-equinox-is-not-what-you-think-it-is/",
-          "publishedOn": "2023-09-22T15:26:58.000Z",
-          "wordCount": 5789,
-          "title": "The equinox is not what you think it is",
-          "imageUrl": "https://static.scientificamerican.com/sciam/cache/file/26ECD45B-70D2-47F6-A04015BC0B968FB1.jpg"
-        },
-        {
-          "id": "https://paisa.fyi/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://paisa.fyi/",
-          "publishedOn": "2023-09-22T15:08:32.000Z",
-          "wordCount": 404,
-          "title": "Show HN: Paisa – Open-Source Personal Finance Manager",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.neuralmechanisms.org/videolectures.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.neuralmechanisms.org/videolectures.html",
-          "publishedOn": "2023-09-22T14:58:44.000Z",
-          "wordCount": 1722,
-          "title": "A beginner's guide to neural mechanisms",
-          "imageUrl": "https://www.neuralmechanisms.org/uploads/1/2/2/7/122705973/cropped-brains-logo-scaled-down-to-200_9.png"
-        },
-        {
-          "id": "https://phys.org/news/2023-09-hidden-ocean-source-carbon-dioxide.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2023-09-hidden-ocean-source-carbon-dioxide.html",
-          "publishedOn": "2023-09-22T14:56:50.000Z",
-          "wordCount": 2526,
-          "title": "Hidden ocean the source of carbon dioxide on Jupiter moon",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/2023/jupiters-moon-europa-w.jpg"
-        },
-        {
-          "id": "https://sumar.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sumar.io/",
-          "publishedOn": "2023-09-22T14:42:46.000Z",
-          "wordCount": 148,
-          "title": "Sumario now Open Source and runs on Fly.io",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/",
-          "publishedOn": "2023-09-22T14:28:20.000Z",
-          "wordCount": 1400,
-          "title": "Responsive type scales with composable CSS utilities",
-          "imageUrl": "https://tobiasahlin.com/static/-social/og_blog-responsive-fluid-css-type-scales.jpg"
-        },
-        {
-          "id": "https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better",
-          "publishedOn": "2023-09-22T14:21:22.000Z",
-          "wordCount": 2608,
-          "title": "GitHub Actions could be so much better",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jacobdoescode.com/piano-tabs",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jacobdoescode.com/piano-tabs",
-          "publishedOn": "2023-09-22T13:02:21.000Z",
-          "wordCount": 319,
-          "title": "Show HN: Learn piano without sheet music",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bambulab.com/en-eu/a1-mini",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bambulab.com/en-eu/a1-mini",
-          "publishedOn": "2023-09-22T12:43:28.000Z",
-          "wordCount": 12371,
-          "title": "Bambu Lab A1 Mini",
-          "imageUrl": null
-        },
-        {
-          "id": "https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices",
-          "author": null,
-          "description": "Comments",
-          "link": "https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices",
-          "publishedOn": "2023-09-22T12:31:12.000Z",
-          "wordCount": 710,
-          "title": "Principles for building and scaling feature flag systems",
-          "imageUrl": "https://docs.getunleash.io/img/logo.png"
-        },
-        {
-          "id": "https://swatinem.de/blog/optimized-strings/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://swatinem.de/blog/optimized-strings/",
-          "publishedOn": "2023-09-22T10:02:32.000Z",
-          "wordCount": 1310,
-          "title": "Choosing a more optimal `String` type",
-          "imageUrl": null
-        },
-        {
-          "id": "https://vgel.me/posts/handmade-transformer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://vgel.me/posts/handmade-transformer/",
-          "publishedOn": "2023-09-22T08:22:28.000Z",
-          "wordCount": 6630,
-          "title": "I made a transformer to predict a simple sequence manually",
-          "imageUrl": null
-        },
-        {
-          "id": "https://herman.bearblog.dev/the-frustration-loop/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://herman.bearblog.dev/the-frustration-loop/",
-          "publishedOn": "2023-09-22T04:43:22.000Z",
-          "wordCount": 1110,
-          "title": "The Frustration Loop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daily.jstor.org/the-poet-is-a-man-who-feigns/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://daily.jstor.org/the-poet-is-a-man-who-feigns/",
-          "publishedOn": "2023-09-22T03:35:31.000Z",
-          "wordCount": 4642,
-          "title": "“The Poet Is a Man Who Feigns”",
-          "imageUrl": "https://daily.jstor.org/wp-content/uploads/2023/09/the_poet_is_a_man_who_feigns_1050x700.jpg"
-        },
-        {
-          "id": "https://www.cam.ac.uk/research/news/suppressing-negative-thoughts-may-be-good-for-mental-health-after-all-study-suggests",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cam.ac.uk/research/news/suppressing-negative-thoughts-may-be-good-for-mental-health-after-all-study-suggests",
-          "publishedOn": "2023-09-22T02:35:22.000Z",
-          "wordCount": 3234,
-          "title": "Suppressing negative thoughts may be good for mental health after all",
-          "imageUrl": "https://www.cam.ac.uk/sites/www.cam.ac.uk/files/news/research/news/suppressing.jpg"
-        },
-        {
-          "id": "https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/",
-          "publishedOn": "2023-09-22T01:29:41.000Z",
-          "wordCount": 20442,
-          "title": "Luiz André Barroso has died",
-          "imageUrl": "https://media.wired.com/photos/650c8405f4d6fc60ac033ae7/191:100/w_1280,c_limit/Luiz-Barroso-Memorium-Google-Business-1244124843.jpg"
-        },
-        {
-          "id": "https://www.copetti.org/writings/consoles/nintendo-3ds/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.copetti.org/writings/consoles/nintendo-3ds/",
-          "publishedOn": "2023-09-22T00:31:55.000Z",
-          "wordCount": 22311,
-          "title": "Nintendo 3DS Architecture",
-          "imageUrl": "https://www.copetti.org/images/consoles/nintendo3ds/diagram_hud261010f8fda45b6fb91d14bdc6124f7_88175_1200x0_resize_catmullrom_3.7b5a496558fddf3972d3b3c0bf45e63b.png"
-        },
-        {
-          "id": "https://phys.org/news/2023-09-technique-3d-metals-nanoscale-reveals.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2023-09-technique-3d-metals-nanoscale-reveals.html",
-          "publishedOn": "2023-09-22T00:31:09.000Z",
-          "wordCount": 2208,
-          "title": "Technique for 3D printing metals at the nanoscale reveals surprise benefit",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/2023/technique-for-3d-print.jpg"
-        },
-        {
-          "id": "https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html",
-          "publishedOn": "2023-09-22T00:29:44.000Z",
-          "wordCount": 27937,
-          "title": "Outperforming larger language models with less training data and smaller models",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7i39GKWT7_noICLVOMuf2x7v7wM21MXu9deGmnVlsieFv9m_rJOb5ytwiI_A9T3N4N1vZCVprlgbs7dePmQ1qjkcz-mT0nkeyLq-LmkF4oJB-ofCmrv81jqXMHPHe8Tl1dQSbDAPS9gADUUByZHBygkr-jlwbfIx3FM14n5cAbE7ZFVm84K6UDQLfeArm/w1200-h630-p-k-no-nu/hero.jpg"
-        },
-        {
-          "id": "http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/",
-          "publishedOn": "2023-09-21T23:08:46.000Z",
-          "wordCount": 798,
-          "title": "Haskell WebAssembly in the Browser",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.kagi.com/unlimited-searches-for-10",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.kagi.com/unlimited-searches-for-10",
-          "publishedOn": "2023-09-21T20:32:53.000Z",
-          "wordCount": 1763,
-          "title": "Unlimited Kagi searches for $10 per month",
-          "imageUrl": null
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2023/09/21/hurricane/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://rachelbythebay.com/w/2023/09/21/hurricane/",
-          "publishedOn": "2023-09-21T20:09:31.000Z",
-          "wordCount": null,
-          "title": "A customer stuck due to a hurricane who needed SSH",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam",
-          "publishedOn": "2023-09-21T20:04:31.000Z",
-          "wordCount": 2828,
-          "title": "Android 14 adds support for using your smartphone as a webcam",
-          "imageUrl": "https://assets-global.website-files.com/602d2f7be70ffc3452f5a079/650b601e4f0b88dc1a4b69d5_Android_14_device_as_webcam_hero.png"
-        },
-        {
-          "id": "https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter",
-          "author": null,
-          "description": "Comments",
-          "link": "https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter",
-          "publishedOn": "2023-09-21T19:56:21.000Z",
-          "wordCount": 10,
-          "title": "LabelContactRelationYoungerCousinMothersSiblingsDaughterOrFathersSistersDaughter",
-          "imageUrl": "https://docs.developer.apple.com/tutorials/developer-og.jpg"
-        },
-        {
-          "id": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/",
-          "publishedOn": "2023-09-21T19:31:24.000Z",
-          "wordCount": 1161,
-          "title": "Speeding up the JavaScript ecosystem – Polyfills gone rogue",
-          "imageUrl": "https://marvinh.dev/media/me-twitter.jpg"
-        },
-        {
-          "id": "https://varunshenoy.substack.com/p/why-open-source-ai-will-win",
-          "author": null,
-          "description": "Comments",
-          "link": "https://varunshenoy.substack.com/p/why-open-source-ai-will-win",
-          "publishedOn": "2023-09-21T19:17:24.000Z",
-          "wordCount": 6091,
-          "title": "Open source AI will win",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2b0b5e5-873d-4e42-ab88-855c510bf814_1216x832.png"
-        },
-        {
-          "id": "https://webbtelescope.org/contents/news-releases/2023/news-2023-113",
-          "author": null,
-          "description": "Comments",
-          "link": "https://webbtelescope.org/contents/news-releases/2023/news-2023-113",
-          "publishedOn": "2023-09-21T18:52:54.000Z",
-          "wordCount": null,
-          "title": "NASA’s Webb finds carbon source on surface of Jupiter’s moon Europa",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thelig.ht/ui-apps-are-broken/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thelig.ht/ui-apps-are-broken/",
-          "publishedOn": "2023-09-21T17:34:11.000Z",
-          "wordCount": 1673,
-          "title": "Most UI applications are broken real-time applications",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.isosceles.com/the-webp-0day/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.isosceles.com/the-webp-0day/",
-          "publishedOn": "2023-09-21T17:21:39.000Z",
-          "wordCount": 4174,
-          "title": "The WebP 0day",
-          "imageUrl": "https://blog.isosceles.com/content/images/2023/09/webp0.png"
-        },
-        {
-          "id": "https://faq.usps.com/s/article/USPS-In-Person-Identity-Proofing",
-          "author": null,
-          "description": "Comments",
-          "link": "https://faq.usps.com/s/article/USPS-In-Person-Identity-Proofing",
-          "publishedOn": "2023-09-21T17:06:08.000Z",
-          "wordCount": null,
-          "title": "USPS In-Person Identity Proofing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://onesignal.com/careers/4264311006",
-          "author": null,
-          "description": "Comments",
-          "link": "https://onesignal.com/careers/4264311006",
-          "publishedOn": "2023-09-21T17:00:48.000Z",
-          "wordCount": 383,
-          "title": "OneSignal (YC S11), email and push notification platform, is hiring engineers",
-          "imageUrl": "https://media-cms.onesignal.com/cms/_1200x630_crop_center-center_82_none/onesignalcom.jpg?mtime=1676495779"
         }
       ]
     },
@@ -10308,16 +10258,6 @@
           "wordCount": 3310,
           "title": "How to survive your first lab meeting: a calming guide",
           "imageUrl": "https://errantscience.com/wp-content/uploads/230921_-_Weekly_Meetings.png"
-        },
-        {
-          "id": "https://errantscience.com/?p=20010",
-          "author": "Matthew (@MCeeP)",
-          "description": "Research is in many ways a subject of debate. Ideas are presented with evidence and through repetition and discussion they are tested and examined. Every discovery or methodology in science is subject to inquiry, dissection and disagreement because that is at the very core, the point of the scientific method. […]",
-          "link": "https://errantscience.com/blog/2023/09/22/announcing-the-best-lab-liquid-award/",
-          "publishedOn": "2023-09-22T10:00:00.000Z",
-          "wordCount": 3211,
-          "title": "Announcing the best lab liquid award",
-          "imageUrl": "https://errantscience.com/wp-content/uploads/230711_-_Water_Glass-1.png"
         }
       ]
     }
