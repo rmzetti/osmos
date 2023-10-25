@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "Having access to a free reporting tool like Lighthouse in DevTools is a great start for diagnosing performance issues by identifying bottlenecks on the main thread. Even better are paid tools like [SpeedCurve](https://www.speedcurve.com/?utm_source=smashingmag&utm_medium=magazine&utm_campaign=sm7_2023&utm_id=sm7_2023&utm_term=sm7_2023) to dig deeper into the data for more targeted insights and to produce visual reports to help make a case for performance improvements for your team and other stakeholders.",
+          "link": "https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/",
+          "publishedOn": "2023-10-24T18:00:00.000Z",
+          "wordCount": 6098,
+          "title": "The Fight For The Main Thread",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/fight-main-thread/speedcurve-fight-main-thread.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/fight-main-thread/speedcurve-fight-main-thread.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/removing-object-properties-javascript/",
           "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "description": "Removing properties from an object in JavaScript might not be the most exciting job, but there are many ways to achieve it, each revealing a fundamental aspect of how JavaScript works. Juan Diego Rodríguez explores each technique in this article.",
@@ -286,21 +301,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-65/smashing-podcast-episode-65.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/09/waterbear-building-free-platform-impactful-documentaries-part1/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "Adrian’s kicking off a two-part series, sharing his journey as a lead developer. In the process, you will learn about the lessons and insights Adrian gained at work, including the strategies that went into the technical stack of the project and what it looks like to collaborate with a team he is leading for the first time.",
-          "link": "https://smashingmagazine.com/2023/09/waterbear-building-free-platform-impactful-documentaries-part1/",
-          "publishedOn": "2023-09-25T10:00:00.000Z",
-          "wordCount": 5742,
-          "title": "WaterBear: Building A Free Platform For Impactful Documentaries (Part 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/waterbear-building-free-platform-impactful-documentaries-part1/waterbear-building-free-platform-impactful-documentaries-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/waterbear-building-free-platform-impactful-documentaries-part1/waterbear-building-free-platform-impactful-documentaries-part1.jpg"
         }
       ]
     },
@@ -309,6 +309,236 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://news.harvard.edu/gazette/story/2023/10/heated-yoga-may-reduce-depression-in-adults/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.harvard.edu/gazette/story/2023/10/heated-yoga-may-reduce-depression-in-adults/",
+          "publishedOn": "2023-10-25T02:19:27.000Z",
+          "wordCount": 2544,
+          "title": "Heated yoga may reduce depression in adults",
+          "imageUrl": "https://news.harvard.edu/wp-content/uploads/2023/10/2500.yoga_-1200x630.jpg"
+        },
+        {
+          "id": "https://www.caltech.edu/about/news/ligo-surpasses-the-quantum-limit",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.caltech.edu/about/news/ligo-surpasses-the-quantum-limit",
+          "publishedOn": "2023-10-25T01:51:35.000Z",
+          "wordCount": 3245,
+          "title": "LIGO Surpasses the Quantum Limit",
+          "imageUrl": "https://caltech-prod.s3.amazonaws.com/main/images/LIGO-1_GeorgiaMansell-WEB.width-600.jpg"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Judas_goat",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Judas_goat",
+          "publishedOn": "2023-10-25T01:07:56.000Z",
+          "wordCount": 1175,
+          "title": "Judas goat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://portal.alien.top/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://portal.alien.top/",
+          "publishedOn": "2023-10-24T23:18:49.000Z",
+          "wordCount": 71,
+          "title": "Show HN: Fediverser Portal – Bring your subreddits to Lemmy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://restaurants.rip/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://restaurants.rip/",
+          "publishedOn": "2023-10-24T22:54:17.000Z",
+          "wordCount": 86,
+          "title": "Show HN: Restaurants in Peace – leave a remembrance for a closed restaurant",
+          "imageUrl": "/static/core/time.3c0feed63dcb.gif"
+        },
+        {
+          "id": "https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review",
+          "publishedOn": "2023-10-24T22:24:20.000Z",
+          "wordCount": 34608,
+          "title": "Life After “Calvin and Hobbes”",
+          "imageUrl": "https://media.newyorker.com/photos/6531464c50a5aa8c76cec520/16:9/w_1280,c_limit/231030_r43252.jpg"
+        },
+        {
+          "id": "https://fastify.dev/docs/latest/Guides/Prototype-Poisoning/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fastify.dev/docs/latest/Guides/Prototype-Poisoning/",
+          "publishedOn": "2023-10-24T20:57:38.000Z",
+          "wordCount": 2914,
+          "title": "Prototype poisoning (2019)",
+          "imageUrl": "https://fastify.io/img/logos/fastify-black.svg"
+        },
+        {
+          "id": "https://www.nbcbayarea.com/investigations/googles-waymo-safety-study-on-driverless-cars/3311188/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nbcbayarea.com/investigations/googles-waymo-safety-study-on-driverless-cars/3311188/",
+          "publishedOn": "2023-10-24T20:08:26.000Z",
+          "wordCount": 6899,
+          "title": "Waymo says insurance data shows its driverless cars are safer than humans",
+          "imageUrl": "https://media.nbcbayarea.com/2023/08/107198068-1677072362289-gettyimages-1247366528-1257451-fi-waymo-self-driving-car-0298-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
+        },
+        {
+          "id": "https://docs.google.com/document/d/1iL0fYmMmariFoSvLd9U5nPVH1uFKC7bvVasUcYq78So/edit",
+          "author": null,
+          "description": "Comments",
+          "link": "https://docs.google.com/document/d/1iL0fYmMmariFoSvLd9U5nPVH1uFKC7bvVasUcYq78So/edit",
+          "publishedOn": "2023-10-24T20:07:08.000Z",
+          "wordCount": 71888,
+          "title": "The OSI Deprogrammer",
+          "imageUrl": "https://lh7-us.googleusercontent.com/docs/AHkbwyIqzpBpisNY5OzLLEiVdV88q7oFK82aYxMvUjWyH9yWtjhGbQOMcEYcypDepg9QDXPcTmWqhU_PkNuNWPXzQ-9nHUZGbCi0G9f6ipU23HfW=w1200-h630-p"
+        },
+        {
+          "id": "https://gittuf.github.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gittuf.github.io/",
+          "publishedOn": "2023-10-24T19:31:59.000Z",
+          "wordCount": 282,
+          "title": "Gittuf – a security layer for Git",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/",
+          "publishedOn": "2023-10-24T17:55:33.000Z",
+          "wordCount": 5966,
+          "title": "California suspends Cruise's autonomous vehicle deployment",
+          "imageUrl": "https://www.reuters.com/resizer/9-MpALxsvP1nc9bOL6oy7Zunpzs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7J5WGYMFKBJ2TADPBKOO4FKOWM.jpg"
+        },
+        {
+          "id": "https://www.ligo.caltech.edu/news/ligo20231023",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ligo.caltech.edu/news/ligo20231023",
+          "publishedOn": "2023-10-24T17:25:01.000Z",
+          "wordCount": 2633,
+          "title": "LIGO Surpasses the Quantum Limit",
+          "imageUrl": "https://www.ligo.caltech.edu/system/news_items/images/215/page/Picture1_GeorgiaMansell.jpg?1697147770"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/livedocs/jobs/IqaU8e4-marketing-coordinator",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/livedocs/jobs/IqaU8e4-marketing-coordinator",
+          "publishedOn": "2023-10-24T17:01:00.000Z",
+          "wordCount": 3181,
+          "title": "Livedocs (YC W22) Is Hiring",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://mchap.io/that-time-the-city-of-seattle-accidentally-gave-me-32m-emails-for-40-dollars4997.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mchap.io/that-time-the-city-of-seattle-accidentally-gave-me-32m-emails-for-40-dollars4997.html",
+          "publishedOn": "2023-10-24T16:47:57.000Z",
+          "wordCount": 2911,
+          "title": "The City of Seattle accidentally gave me 32M emails for $40 (2018)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bloomberg.com/news/articles/2023-10-24/meta-sued-by-california-states-over-harmful-youth-marketing",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/news/articles/2023-10-24/meta-sued-by-california-states-over-harmful-youth-marketing",
+          "publishedOn": "2023-10-24T15:48:22.000Z",
+          "wordCount": 576,
+          "title": "Meta sued by states over harmful youth marketing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe",
+          "publishedOn": "2023-10-24T15:47:24.000Z",
+          "wordCount": 10167,
+          "title": "Server-side sandboxing: Containers and seccomp",
+          "imageUrl": "https://cdn.sanity.io/images/599r6htc/localized/33740a40342c74e22034a5ba24de386948311d5e-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "id": "https://brilliant.org/challenges/halfsies/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brilliant.org/challenges/halfsies/",
+          "publishedOn": "2023-10-24T15:30:45.000Z",
+          "wordCount": 290,
+          "title": "Halfsies",
+          "imageUrl": "https://ds055uzetaobb.cloudfront.net/brioche/uploads/lessons/halfsies-image-share-1200x630-tPoXuV.png"
+        },
+        {
+          "id": "https://words.filippo.io/dispatches/parameters/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://words.filippo.io/dispatches/parameters/",
+          "publishedOn": "2023-10-24T15:00:51.000Z",
+          "wordCount": 2779,
+          "title": "Why we don’t generate elliptic curves every day",
+          "imageUrl": "https://words.filippo.io/content/images/2023/10/news---1--2--2.jpeg"
+        },
+        {
+          "id": "https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem",
+          "publishedOn": "2023-10-24T14:09:10.000Z",
+          "wordCount": 2438,
+          "title": "Reconciliation is a knapsack problem",
+          "imageUrl": "https://cdn.sanity.io/images/8nmbzj0x/production/87287b9604676f856dd16e3086a0c279edb09c29-2048x1024.png?w=1200"
+        },
+        {
+          "id": "https://www.stackfix.com/blog/the-ideation-flywheel",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.stackfix.com/blog/the-ideation-flywheel",
+          "publishedOn": "2023-10-24T13:50:11.000Z",
+          "wordCount": 2791,
+          "title": "The Ideation Flywheel: A mental model for deciding which startup ideas to pursue",
+          "imageUrl": "https://assets-global.website-files.com/62f4c9faed6f6288d7d2eb8d/653695a20df9aad23685255e_%27Paddy%20in%20Jackson%20Pollock%20Style%20(2)..png"
+        },
+        {
+          "id": "https://animatedai.github.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://animatedai.github.io/",
+          "publishedOn": "2023-10-24T13:39:54.000Z",
+          "wordCount": 178,
+          "title": "Animated AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://codeforces.com/blog/entry/85638",
+          "author": null,
+          "description": "Comments",
+          "link": "https://codeforces.com/blog/entry/85638",
+          "publishedOn": "2023-10-24T13:29:54.000Z",
+          "wordCount": 6590,
+          "title": "Voronoi Diagram and Delaunay Triangulation in O(nlog(n)) (2020)",
+          "imageUrl": "//codeforces.org/s/59907/images/codeforces-sponsored-by-ton.png"
+        },
+        {
+          "id": "https://resobscura.substack.com/p/there-should-be-more-cash-prizes",
+          "author": null,
+          "description": "Comments",
+          "link": "https://resobscura.substack.com/p/there-should-be-more-cash-prizes",
+          "publishedOn": "2023-10-24T12:25:34.000Z",
+          "wordCount": 5579,
+          "title": "There should be more cash prizes for solving historical mysteries",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a467684-e14a-4814-a174-ed398b81aa85_600x330.jpeg"
+        },
         {
           "id": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259587/",
           "author": null,
@@ -550,6 +780,16 @@
           "imageUrl": "https://mswjs.io/og-image.jpg"
         },
         {
+          "id": "https://simonwillison.net/2023/Oct/23/embeddings/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://simonwillison.net/2023/Oct/23/embeddings/",
+          "publishedOn": "2023-10-23T13:42:12.000Z",
+          "wordCount": 5060,
+          "title": "Embeddings: What they are and why they matter",
+          "imageUrl": "https://static.simonwillison.net/static/2023/embeddings/embeddings.003.jpeg"
+        },
+        {
           "id": "https://github.com/mthiim/dilithium-java",
           "author": null,
           "description": "Comments",
@@ -780,6 +1020,46 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.around.com/bugs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.around.com/bugs/",
+          "publishedOn": "2023-10-22T14:09:47.000Z",
+          "wordCount": 4534,
+          "title": "Chasing bugs in the electronic village (1992)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lFlu60qs7_4",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=lFlu60qs7_4",
+          "publishedOn": "2023-10-22T13:56:36.000Z",
+          "wordCount": null,
+          "title": "One Line in the Oldest Math Text Hinted at Hidden Universes [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://icecube.wisc.edu/science/icecube/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://icecube.wisc.edu/science/icecube/",
+          "publishedOn": "2023-10-22T13:45:51.000Z",
+          "wordCount": 6189,
+          "title": "IceCube – South Pole Neutrino Observatory",
+          "imageUrl": "https://res.cloudinary.com/icecube/images/w_300,h_75,c_scale/q_auto/v1605759647/Header_Science_1800x450/Header_Science_1800x450.jpg?_i=AA"
+        },
+        {
+          "id": "https://www.eejournal.com/article/before-computers-were-logic-diagrams-and-machines/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.eejournal.com/article/before-computers-were-logic-diagrams-and-machines/",
+          "publishedOn": "2023-10-22T13:43:58.000Z",
+          "wordCount": 7991,
+          "title": "Before computers were logic diagrams and machines",
+          "imageUrl": "https://www.eejournal.com/wp-content/uploads/2023/10/max-0264-image-for-home-page-ramon-lull-type-diagram.jpg"
+        },
+        {
           "id": "https://www.uber.com/en-GB/blog/up-portable-microservices-ready-for-the-cloud/",
           "author": null,
           "description": "Comments",
@@ -798,6 +1078,26 @@
           "wordCount": 1993,
           "title": "Four historians tell us a ghost story",
           "imageUrl": "https://www.historytoday.com/sites/default/files/2023-09/Historians%20Ghost%20Stories%20History%20Today%20OG%20Preview%20%281%29.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZUY2AtBD6Sk",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=ZUY2AtBD6Sk",
+          "publishedOn": "2023-10-22T12:47:08.000Z",
+          "wordCount": null,
+          "title": "Development Secrets of the Original Kirby [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://javednissar.ca/wait-equation",
+          "author": null,
+          "description": "Comments",
+          "link": "https://javednissar.ca/wait-equation",
+          "publishedOn": "2023-10-22T12:42:44.000Z",
+          "wordCount": 938,
+          "title": "The Wait Equation and AI Investment",
+          "imageUrl": null
         },
         {
           "id": "https://www.bbc.co.uk/blogs/thereporters/rorycellanjones/2011/05/a_15_computer_to_inspire_young.html",
@@ -8768,266 +9068,6 @@
           "wordCount": 985,
           "title": "Ian's Shoelace Site",
           "imageUrl": null
-        },
-        {
-          "id": "http://sainthelenaisland.info/communications.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "http://sainthelenaisland.info/communications.htm",
-          "publishedOn": "2023-09-25T15:55:44.000Z",
-          "wordCount": 8426,
-          "title": "Saint Helena Island Communications",
-          "imageUrl": null
-        },
-        {
-          "id": "https://forum.kerbalspaceprogram.com/topic/219607-ksp2-is-spamming-the-windows-registry-over-weeksmonths-until-the-game-will-stop-working-permanently/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://forum.kerbalspaceprogram.com/topic/219607-ksp2-is-spamming-the-windows-registry-over-weeksmonths-until-the-game-will-stop-working-permanently/",
-          "publishedOn": "2023-09-25T15:00:33.000Z",
-          "wordCount": 5997,
-          "title": "KSP2 is spamming the Windows Registry until the game stops working",
-          "imageUrl": null
-        },
-        {
-          "id": "https://phys.org/news/2023-09-donated-artifacts-treasure-trove-neanderthal.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2023-09-donated-artifacts-treasure-trove-neanderthal.html",
-          "publishedOn": "2023-09-25T14:35:22.000Z",
-          "wordCount": 1941,
-          "title": "Box of donated artifacts turns out to be treasure trove of Neanderthal bones",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/2023/box-of-donated-artifac.jpg"
-        },
-        {
-          "id": "https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/",
-          "publishedOn": "2023-09-25T12:19:32.000Z",
-          "wordCount": 966,
-          "title": "The Casino in Your Pocket",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=37642076",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=37642076",
-          "publishedOn": "2023-09-25T11:24:16.000Z",
-          "wordCount": 609,
-          "title": "Ask HN: Android low latency audio in 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cloud.google.com/blog/products/infrastructure/introducing-the-nuvem-subsea-cable/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cloud.google.com/blog/products/infrastructure/introducing-the-nuvem-subsea-cable/",
-          "publishedOn": "2023-09-25T10:21:12.000Z",
-          "wordCount": 3352,
-          "title": "Nuvem, a subsea cable to connect Portugal, Bermuda, and the U.S.",
-          "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/infrastructure_header.max-2000x809.png"
-        },
-        {
-          "id": "https://www.themarginalian.org/2023/09/18/the-sirens-of-mars/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.themarginalian.org/2023/09/18/the-sirens-of-mars/",
-          "publishedOn": "2023-09-25T10:06:41.000Z",
-          "wordCount": 4182,
-          "title": "Mars and Our Search for Meaning",
-          "imageUrl": "https://www.themarginalian.org/wp-content/uploads/2023/09/mars1.jpg?fit=1200%2C630&ssl=1"
-        },
-        {
-          "id": "https://hothardware.com/reviews/intel-meteor-lake-architecture",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hothardware.com/reviews/intel-meteor-lake-architecture",
-          "publishedOn": "2023-09-25T09:49:15.000Z",
-          "wordCount": 4993,
-          "title": "Intel Meteor Lake Architecture",
-          "imageUrl": "https://images.hothardware.com/contentimages/article/3359/content/small_intel-meteor-lake-hero.jpg"
-        },
-        {
-          "id": "https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/",
-          "publishedOn": "2023-09-25T07:39:03.000Z",
-          "wordCount": 6317,
-          "title": "Intel’s Ponte Vecchio: Chiplets Gone Crazy",
-          "imageUrl": "https://i0.wp.com/chipsandcheese.com/wp-content/uploads/2023/07/hotchips_pvc_chiplets.png?fit=955%2C535&ssl=1"
-        },
-        {
-          "id": "https://www.nytimes.com/2023/09/17/opinion/sports-zen-mental-subtraction.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2023/09/17/opinion/sports-zen-mental-subtraction.html",
-          "publishedOn": "2023-09-25T03:04:38.000Z",
-          "wordCount": null,
-          "title": "When I stopped trying to self-optimize, I got better",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors",
-          "publishedOn": "2023-09-25T02:41:37.000Z",
-          "wordCount": 6403,
-          "title": "WGA and the studios reach tentative deal to end writers' strike",
-          "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/d8a38c5/2147483647/strip/true/crop/4000x2100+0+359/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9e%2Fbe%2Fbc33a89645b49180a389c6ced476%2F1294124-me-writers-strike-portraits-10-mjc.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=37639010",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=37639010",
-          "publishedOn": "2023-09-25T02:17:39.000Z",
-          "wordCount": 124,
-          "title": "Tell HN: There is a new highlights page on HN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://crystaldoc.info/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://crystaldoc.info/",
-          "publishedOn": "2023-09-25T02:00:06.000Z",
-          "wordCount": 172,
-          "title": "Show HN: Crystaldoc.info – Crystal Shards API Documentation Hosting",
-          "imageUrl": null
-        },
-        {
-          "id": "http://erlang.org/pipermail/erlang-questions/2011-May/058768.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://erlang.org/pipermail/erlang-questions/2011-May/058768.html",
-          "publishedOn": "2023-09-25T01:53:28.000Z",
-          "wordCount": 1453,
-          "title": "Why do we need modules at all? (2011)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests",
-          "publishedOn": "2023-09-25T01:44:22.000Z",
-          "wordCount": 1294,
-          "title": "Type 2 diabetes rates in US youth rose 62% after Covid pandemic began",
-          "imageUrl": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/finger_prick_blood_glucose.jpg?itok=2zXxFVJr"
-        },
-        {
-          "id": "https://blog.britishnewspaperarchive.co.uk/2023/09/21/understanding-the-open-air-schools-of-the-1900s/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.britishnewspaperarchive.co.uk/2023/09/21/understanding-the-open-air-schools-of-the-1900s/",
-          "publishedOn": "2023-09-25T00:02:15.000Z",
-          "wordCount": 4379,
-          "title": "Open Air Schools of the 1900s",
-          "imageUrl": "https://blog.britishnewspaperarchive.co.uk/wp-content/uploads/2023/09/Screenshot-2023-09-20-112830-300x223.png"
-        },
-        {
-          "id": "https://tcrf.net/The_Cutting_Room_Floor",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tcrf.net/The_Cutting_Room_Floor",
-          "publishedOn": "2023-09-24T22:49:21.000Z",
-          "wordCount": 799,
-          "title": "The Cutting Room Floor–unearthing unused and cut content from video games",
-          "imageUrl": null
-        },
-        {
-          "id": "http://janismac.github.io/ControlChallenges/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://janismac.github.io/ControlChallenges/",
-          "publishedOn": "2023-09-24T20:44:47.000Z",
-          "wordCount": 176,
-          "title": "PID Control Challenges",
-          "imageUrl": null
-        },
-        {
-          "id": "https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/",
-          "publishedOn": "2023-09-24T20:30:01.000Z",
-          "wordCount": 2289,
-          "title": "Choose Postgres queue technology",
-          "imageUrl": "/img/choose_boring_tech_cost2.jpeg"
-        },
-        {
-          "id": "https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning",
-          "author": null,
-          "description": "Comments",
-          "link": "https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning",
-          "publishedOn": "2023-09-24T20:23:34.000Z",
-          "wordCount": 5970,
-          "title": "Our humble attempt at “how much data do you need to fine-tune”",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f079c70-0515-4bf6-8254-1229be88fe96_1472x416.png"
-        },
-        {
-          "id": "https://github.com/mohamed-chs/chatgpt-history-export-to-md",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/mohamed-chs/chatgpt-history-export-to-md",
-          "publishedOn": "2023-09-24T20:13:47.000Z",
-          "wordCount": 1718,
-          "title": "Show HN: Get your entire ChatGPT history in Markdown files",
-          "imageUrl": "https://opengraph.githubassets.com/f5ab52e257f1f851306eca62d185b96a5de4b5122eeae27dc1e62bd353be6553/mohamed-chs/chatgpt-history-export-to-md"
-        },
-        {
-          "id": "https://en.osm.town/@openstreetmap/111120663721969898",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.osm.town/@openstreetmap/111120663721969898",
-          "publishedOn": "2023-09-24T19:51:05.000Z",
-          "wordCount": 131,
-          "title": "There's a new map style on OpenStreetMap.org",
-          "imageUrl": "https://cdn.masto.host/enosmtown/media_attachments/files/111/120/641/540/173/957/original/67e575312802ac02.jpg"
-        },
-        {
-          "id": "https://underjord.io/unpacking-elixir-resilience.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://underjord.io/unpacking-elixir-resilience.html",
-          "publishedOn": "2023-09-24T19:48:14.000Z",
-          "wordCount": 1869,
-          "title": "Unpacking Elixir: Resilience",
-          "imageUrl": "https://underjord.io/img/preview.png"
-        },
-        {
-          "id": "https://www.dpreview.com/articles/7338941576/how-two-photographers-captured-the-same-millisecond-in-time",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.dpreview.com/articles/7338941576/how-two-photographers-captured-the-same-millisecond-in-time",
-          "publishedOn": "2023-09-24T19:01:10.000Z",
-          "wordCount": 9980,
-          "title": "Two photographers captured the same millisecond in time (2018)",
-          "imageUrl": "https://4.img-dpreview.com/files/p/E~TS940x788~articles/7338941576/carboncopy_feat.jpeg"
-        },
-        {
-          "id": "https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring",
-          "publishedOn": "2023-09-24T18:50:16.000Z",
-          "wordCount": 2382,
-          "title": "μMon: Stupid simple monitoring (2022)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Yu18ZqWgQM4",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=Yu18ZqWgQM4",
-          "publishedOn": "2023-09-24T17:59:39.000Z",
-          "wordCount": null,
-          "title": "Brightline Orlando's first train: 125 mph from MCO to MIA [video]",
-          "imageUrl": null
         }
       ]
     },
@@ -9584,106 +9624,6 @@
           "wordCount": 941,
           "title": "Misrule, punks and ravers",
           "imageUrl": "https://danmackinlay.name/images/monkey_groping_RP-P-1891-A-16321.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/adhd.html",
-          "author": null,
-          "description": "Medicating\nImplications for learning\nincoming\nReferences\n\nAnother category of brain I am interested in.\nAs yet, I know less about it that depression, addiction or personality disorders, which is to say, very little indeed.\nMedicating\nCurious about the psychopharmacology of stimulants in particular, e.g. Handelman and Sumiya (2022).\nImplications for learning\nWe tend to think about attention as a learning mechanism now.\nWhat does ADHD say about the human learnining mechanism?\nPollak (2023):\nIndeed, children with ADHD needed more trials to reach the criterion, suggesting poor learning. However, they needed more trials under both the constant and the partial reinforcement conditions. On the extinction phase, children with ADHD made fewer previously-rewarded choices, suggesting faster extinctio…",
-          "link": "https://danmackinlay.name/notebook/adhd.html",
-          "publishedOn": "2023-09-25T12:53:54.000Z",
-          "wordCount": 851,
-          "title": "Attention Deficit (Hyperactivity) Disorder",
-          "imageUrl": "https://danmackinlay.name/images/monkey_n_chains.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/power_generation.html",
-          "author": null,
-          "description": "Fun with solar\nWind stuff\nNuclear fission\nFossil fuels\nPower markets and grids\n“Energetics”\nIncoming\nReferences\nI am no power system expert, but enough interesting links on the theme pop up that I may as well record them.\nFun with solar\nSolar! who hates solar?\n\nHere check out this 1916 solar power generator\nWind stuff\nTBD\nNuclear fission\nHow expensive is it? How safe?\nIt’s complicated (Wheatley, Sovacool, and Sornette 2017; Wheatley, Sovacool, and Sornette 2016) but in short, sometimes dangerous.\nOTOH other things are also dangerous.\nApparently there is an argument that it does not need to be expensive: Why has nuclear power been a flop?, which asserts that nuclear power suffers from cost disease.\nI am not qualified to assess that.\n\n1916 power station control room\nWithout knowing much abou…",
-          "link": "https://danmackinlay.name/notebook/power_generation.html",
-          "publishedOn": "2023-09-25T08:41:30.000Z",
-          "wordCount": 777,
-          "title": "Power generation, engineering and use",
-          "imageUrl": "https://danmackinlay.name/images/maadi_solar_power.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/probabilistic_numerics.html",
-          "author": null,
-          "description": "Questions\nIncoming\nReferences\n\nProbabilistic Numerics claims:\nProbabilistic numerics (PN) aims to quantify uncertainty arising from intractable or incomplete numerical computation and from stochastic input. This new paradigm treats a numerical problem as one of statistical inference instead. The probabilistic viewpoint provides a principled way to encode structural knowledge about a problem. By giving an explicit role to uncertainty from all sources, in particular from the computation itself, PN gives rise to new applications beyond the scope of classical methods.\nTypical numerical tasks to which PN may be applied include optimization, integration, the solution of ordinary and partial differential equations, and the basic tasks of linear algebra, e.g. solution of linear systems and eigenva…",
-          "link": "https://danmackinlay.name/notebook/probabilistic_numerics.html",
-          "publishedOn": "2023-09-25T08:41:03.000Z",
-          "wordCount": 697,
-          "title": "Probabilistic numnerics",
-          "imageUrl": "https://danmackinlay.name/images/tramway_spel_RP-P-OB-201.559.avif"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/weaponized_design.html",
-          "author": null,
-          "description": "Solarpunk\nA man in uniform\nIncoming\nMaking things pretty in the service of politics\nSee also the smart city,\nludics.\nSolarpunk\nSee solarpunk.\nA man in uniform\nNate Powell, in About Face\ndiagrams the contemporary evolution of Nazi Chic.\n\n\nNate Powell, About Face\nIncoming\nFascinating urban and institutional design at SF Planters:\nWe install planters so you don't have to look at homeless people.\nWe let customers anonymously request planter placements, help you conduct the involuntary sweeps through DPW, and then rapidly install our planter barricades overnight.\nTo prevent advocacy groups and city officials from blocking our work, there is no community feedback processes or transparency around locations chosen.",
-          "link": "https://danmackinlay.name/notebook/weaponized_design.html",
-          "publishedOn": "2023-09-25T08:36:39.000Z",
-          "wordCount": 351,
-          "title": "Weaponised design",
-          "imageUrl": "https://danmackinlay.name/images/nate_powell_about_face_6.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/climate_ml.html",
-          "author": null,
-          "description": "ML for climate drivers\nML for climate solutions\nIncoming\nReferences\n\nHow to model the world with data-hungry methods.\nHow to think our way out of climate crisis/\nML for climate drivers\nESA - Trio of Sentinel satellites map methane super-emitters\nIn a recent paper published in Remote Sensing of Environment (Schuit et al. 2023), researchers from SRON found that the Sentinel-3 satellites can retrieve methane enhancements from its shortwave infrared band measurements. Impressively, it can detect the largest methane leaks of at least 10 tonnes per hour, depending on factors like location and wind conditions, every single day.\nSee also Pandey et al. (2023).\n\n\n\n\nML for climate solutions\nJeff Dean’s NeurIPS 2019 talk suggests ideas.\nHis talk is an advertisement for tensorflow probability as a solution for machine learning for physics simulations for making nuclear fusion feasible etc.\nIncoming\npangeo-data/awesome-open-climate-science: Awesome Open Atmospheric, Ocean, and Climate Science\nBluteshi/awesome-climate-research: A curated list of resources about various climate research topics\nThe rise of machine learning in weather forecasting | ECMWF\nReferences\n“Daily Detection and Quantification of Methane Leaks Using Sentinel-3: A Tiered Satellite Observation Approach with Sentinel-2 and Sentinel-5p.” Remote Sensing of Environment 296 (October): 113716.\n\n\nRolnick, David, Priya L. Donti, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, et al. 2019. “Tackling Climate Change with Machine Learning.” arXiv:1906.05433 [Cs, Stat], November.\n\n\nSchiermeier, Quirin. 2018. “Droughts, Heatwaves and Floods: How to Tell When Climate Change Is to Blame.” News. Nature.\n\n\nSchuit, Berend J., Joannes D. Maasakkers, Pieter Bijl, Gourav Mahapatra, Anne-Wil van den Berg, Sudhanshu Pandey, Alba Lorente, et al. 2023. “Automated detection and monitoring of methane super-emitters using satellite data.” Atmospheric Chemistry and Physics 23 (16): 9071–98.",
-          "link": "https://danmackinlay.name/notebook/climate_ml.html",
-          "publishedOn": "2023-09-25T08:09:19.000Z",
-          "wordCount": 562,
-          "title": "Machine learning for climate systems",
-          "imageUrl": "https://danmackinlay.name/images/la_physique_cupid_RP-P-OB-51.158.avif"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/python.html",
-          "author": null,
-          "description": "Debugging, profiling and testing\nLinting\nPyodide\nIdiom\nipython\nPro tip: store config in .env\nPretty printing\nString formatting/interpolation\n\nNon obvious hacks\nf-strings\nTimestamps\nRendering HTML output\nRendering markdown as HTML\n\nCompiling and FFI\nPackaging and environments\nAsynchrony in python\nfunctional-style programming\nIDEs\nTyping\n\nMultiple dispatch\n\nCommand line parsers\nExceptions\nMiscellaneous stuff I always need to look up\nProgress meters\nImages\nPiping functions\nExitStack\nEverything is files\n\nWatching files for changes\n\nMisc recommendations\nPython 2 vs 3\n\nNeat python 3 stuff\nPython 2 and 3 compatibility\n\nIncoming\n\nGuido van Rossum and Python, by Sir Frederick Leighton\nA Swiss army knife of coding tools.\nGood\nmatrix library,\ngeneral scientific tools,\nstatistics tools,\nweb servers,\na…",
-          "link": "https://danmackinlay.name/notebook/python.html",
-          "publishedOn": "2023-09-25T07:55:32.000Z",
-          "wordCount": 2370,
-          "title": "Python",
-          "imageUrl": "https://danmackinlay.name/images/athlete_and_serpent.webp"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/superstimuli.html",
-          "author": null,
-          "description": "Incoming\nReferences\n\nGoodhart-Moloch-supernormal-alignment-utility-addiction:\nErik Hoel, Exit the supersensorium touches upon many themes; dreaming, addiction, myths and the entertainment-industrial complex.\nSee also Living in the Supersensorium - by David Gasca.\n\nIncoming\nThat Naomi Klein quote\nMusical Heresies (Part 1) - by Roger’s Bacon\nTime Flies: U.S. Adults Now Spend Nearly Half a Day Interacting with Media\nReferences\n“Models That Learn How Humans Learn: The Case of Decision-Making and Its Disorders.” PLOS Computational Biology 15 (6): e1006903.\n\n\nDezfouli, Amir, Richard Nock, and Peter Dayan. 2020. “Adversarial Vulnerabilities of Human Decision-Making.” Proceedings of the National Academy of Sciences 117 (46): 29221–28.\n\n\nKozyreva, Anastasia, Sam Wineburg, Stephan Lewandowsky, and Ralph Hertwig. 2023. “Critical Ignoring as a Core Competence for Digital Citizens.” Current Directions in Psychological Science 32 (1): 81–88.\n\n\nPaasonen, Susanna. 2021. Dependent, Distracted, Bored: Affective Formations in Networked Media.",
-          "link": "https://danmackinlay.name/notebook/superstimuli.html",
-          "publishedOn": "2023-09-25T01:32:10.000Z",
-          "wordCount": 391,
-          "title": "Superstimuli",
-          "imageUrl": "https://danmackinlay.name/images/skeezy_men_RP-P-2015-26-767.avif"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/currently.html",
-          "author": null,
-          "description": "Triage\nCurrently writing\nCommoncog\ngraphical models\n“transfer” learning\nInternal\nICML 2023 workshop\nNeurips 2022 follow-ups\nConf, publication venues\nNeurips 2022\nNeurips 2021\nMusic\nHot topics\nStein stuff\nnewsletter migration\nGP research\n\nInvenia’s GP expansion ideas\n\nSDEs, optimisation and gradient flows\nCareer tips and metalearning\nEnsembles and particle methods\nFoundations of ML\nnonparametrics\nReferences\n\nStuff that I am currently actively reading or otherwise working upon.\nIf you are looking at this, and you aren’t me, you may need to consider re-evaluating your hobbies.\nSee also my more aspirational\npaper reading list.\nTriage\nCXAI 2023\nEtalumis: Scientific simulators as probabilistic programs - Oxford AI4Science Lab\nCurrently writing\nNot all published yet, expect broken links.\nHuman su…",
-          "link": "https://danmackinlay.name/notebook/currently.html",
-          "publishedOn": "2023-09-24T23:45:40.000Z",
-          "wordCount": 1921,
-          "title": "Probably actually reading/writing",
-          "imageUrl": "https://danmackinlay.name/images/vacuum_reader.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/vs_code.html",
-          "author": null,
-          "description": "But actually VS Codium\nInstallation\nBuilt-in Browser\nMultiple workspaces\nMultiple Windows, one workspace\nSearching\nPython\nCursors, navigating, selection\n\nEnhanced navigation extensions\nGo to symbol doesn’t work\n\nImportant keyboard shortcuts\n\nSnippets\n\nLaTeX\nSettings sync\nMisc extensions of interest\n\nemoji and unicode\nAutomatic coding\n\nNetworked VS Code\nEditing prose\nVisualize weird stuff\nVarious config one needs\n\nHover/tooltip/hint/autocompletion things are too intrusive\nWhich language is that file?\nPrivacy\n\nBonus tips/gotchas\n\nHorizontal scrolling despite wordwrap\ngit editor\nLaunching VS code from command line\nFish shell\n\n\n\n\n\nA code editor.\nVS Code is something more powerful than a text editor, and less heavy than a classic IDE.\nIt is Microsoft’s in-house competitor to the code editor\nAto…",
-          "link": "https://danmackinlay.name/notebook/vs_code.html",
-          "publishedOn": "2023-09-24T22:41:06.000Z",
-          "wordCount": 1845,
-          "title": "VS Code / VS Codium",
-          "imageUrl": "https://danmackinlay.name/images/hooded_sketcher.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/moloch_vs_slack.html",
-          "author": null,
-          "description": "Incoming\nReferences\n\nI would like to connect this to metis and ecological ideas of creative destruction.\nFor now, here is the work of someone else.\nImmoral mazes is an essay series by Zvi Mowshowitz about a bunch of topics dear to me in one package which I am therefore looking forward to reading.\nThere is a summary.\nA long time ago, Scott Alexander wrote Meditations on Moloch.\nMoloch represents the inevitability of competitive selection pressure, given a long enough time horizon, completely binding all behavior, and thus destroying all value, then all life.\nThis hasn’t fully happened yet. But it will. Unless we use this one opportunity offered to us by our technological progress before that happens, and stop it.\nA less long time ago, I introduced the (pre-existing) concept of Slack. Slack …",
-          "link": "https://danmackinlay.name/notebook/moloch_vs_slack.html",
-          "publishedOn": "2023-09-24T22:08:46.000Z",
-          "wordCount": 1058,
-          "title": "Moloch, slack and hyperselection",
-          "imageUrl": "https://danmackinlay.name/images/suit_flower.jpg"
         }
       ]
     },
@@ -10271,26 +10211,6 @@
           "wordCount": 4993,
           "title": "Ukraine war latest: Ukraine makes 'important progress' in ... - Sky News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMid2h0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L3VrcmFpbmUtcnVzc2lhLXdhci1sYXRlc3QtZHJvbmVzLW9kZXNhLXB1dGluLWNvdW50ZXJvZmZlbnNpdmUtc2t5LW5ld3MtYmxvZy11cGRhdGVzLTEyNTQxNzEz0gEA",
-          "author": null,
-          "description": "Ukraine war latest: Ukraine makes 'important progress' in ...  Sky News",
-          "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L3VrcmFpbmUtcnVzc2lhLXdhci1sYXRlc3QtZHJvbmVzLW9kZXNhLXB1dGluLWNvdW50ZXJvZmZlbnNpdmUtc2t5LW5ld3MtYmxvZy11cGRhdGVzLTEyNTQxNzEz0gEA?oc=5",
-          "publishedOn": "2023-09-25T09:57:22.000Z",
-          "wordCount": 4993,
-          "title": "Ukraine war latest: Ukraine makes 'important progress' in ... - Sky News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRWh0dHBzOi8vd3d3LmFib3V0YW1hem9uLmNvbS9uZXdzL2NvbXBhbnktbmV3cy9hbWF6b24tYXdzLWFudGhyb3BpYy1hadIBAA",
-          "author": null,
-          "description": "Amazon will invest up to $4B in Anthropic to advance generative AI  About Amazon",
-          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmFib3V0YW1hem9uLmNvbS9uZXdzL2NvbXBhbnktbmV3cy9hbWF6b24tYXdzLWFudGhyb3BpYy1hadIBAA?oc=5",
-          "publishedOn": "2023-09-25T07:14:22.000Z",
-          "wordCount": 4993,
-          "title": "Amazon will invest up to $4B in Anthropic to advance generative AI - About Amazon",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10299,6 +10219,16 @@
       "feedUrl": "https://errantscience.com/feed/",
       "siteUrl": "https://errantscience.com",
       "articles": [
+        {
+          "id": "https://errantscience.com/?p=20105",
+          "author": "Matthew (@MCeeP)",
+          "description": "Last week we put up a post on Facebook, Instagram and Mastodon asking for some sciency ideas to cartoon. We asked because first off we wanted to draw the things you want to see and secondly it’s always important to make sure there are not areas that are missing some […]",
+          "link": "https://errantscience.com/blog/2023/10/24/we-cartooned-a-bunch-of-our-comments/",
+          "publishedOn": "2023-10-24T09:00:00.000Z",
+          "wordCount": 3059,
+          "title": "We cartooned a bunch of our comments",
+          "imageUrl": "https://errantscience.com/wp-content/uploads/Untitled-6.png"
+        },
         {
           "id": "https://errantscience.com/?p=20061",
           "author": "Billy Hinchen",
