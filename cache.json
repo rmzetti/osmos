@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/",
+          "author": "hello@smashingmagazine.com (Maxwell Barvian)",
+          "description": "The CSS `clamp()` function is often paired with viewport units for “fluid” font sizing that scales the text up and down at different viewport sizes. As common as this technique is, several voices warn that it opens up situations where text can fail WCAG Success Criterion 1.4.4, which specifies that text should scale up to at least 200% when the user’s browser reaches its 500% maximum zoom level. Max Barvian takes a deep look at the issue and offers ideas to help address it.",
+          "link": "https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/",
+          "publishedOn": "2023-11-07T18:00:00.000Z",
+          "wordCount": 4966,
+          "title": "Addressing Accessibility Concerns With Using Fluid Type",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/addressing-accessibility-concerns-fluid-type/addressing-accessibility-concerns-fluid-type.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/addressing-accessibility-concerns-fluid-type/addressing-accessibility-concerns-fluid-type.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/11/search-ideal-privacy-icon/",
           "author": "hello@smashingmagazine.com (Preethi Sam)",
           "description": "Icons are capable of enhancing the content that surrounds them, but they have to be self-explanatory for that to happen. We have icons for things we like (a thumbs up), things we can share (a box topped with an up arrow), and even for protection against malicious online attacks (a shield), but what are the options we have for representing “privacy”?",
@@ -256,21 +271,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/overview-large-language-model-concepts-use-cases-tools/overview-large-language-model-concepts-use-cases-tools.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
-          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "description": "Discover how to incorporate a variety of media formats, such as images, videos, GIFs, SVGs, and so on, in a Gatsby website. Juan Rodriguez shares what he’s learned about optimizing files for improved performance after working with different plugins and techniques.",
-          "link": "https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
-          "publishedOn": "2023-10-09T11:00:00.000Z",
-          "wordCount": 6125,
-          "title": "Gatsby Headaches: Working With Media (Part 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/gatsby-headaches-working-media-part1/gatsby-headaches-working-media-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/gatsby-headaches-working-media-part1/gatsby-headaches-working-media-part1.jpg"
         }
       ]
     },
@@ -279,6 +279,256 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.theregister.com/2023/11/07/hitman_for_hire_jail/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theregister.com/2023/11/07/hitman_for_hire_jail/",
+          "publishedOn": "2023-11-08T02:55:32.000Z",
+          "wordCount": 1715,
+          "title": "Woman jailed after RentaHitman.com assassin turned out to be – surprise – FBI",
+          "imageUrl": "https://regmedia.co.uk/2023/11/06/hitman_shutterstock.jpg"
+        },
+        {
+          "id": "https://antidepressantsortolkien.vercel.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://antidepressantsortolkien.vercel.app/",
+          "publishedOn": "2023-11-08T02:53:20.000Z",
+          "wordCount": 177,
+          "title": "Antidepressants or Tolkien",
+          "imageUrl": "https://antidepressantsortolkien.now.sh/assets/thumb.jpg"
+        },
+        {
+          "id": "https://www.timeanddate.com/time/change/panama/panama",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.timeanddate.com/time/change/panama/panama",
+          "publishedOn": "2023-11-08T01:20:05.000Z",
+          "wordCount": 615,
+          "title": "Panama observes EST all year. Daylight Saving Time has never been used here",
+          "imageUrl": "https://www.timeanddate.com/scripts/cityog.php?title=Time%20Changes%20in&city=Panama&country=Panama&image=panama1"
+        },
+        {
+          "id": "https://www.engguidebook.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.engguidebook.com/",
+          "publishedOn": "2023-11-08T00:46:17.000Z",
+          "wordCount": 1509,
+          "title": "The Software Engineer's Guidebook",
+          "imageUrl": "https://www.engguidebook.com/assets/images/Engguidebook_full_cover.png"
+        },
+        {
+          "id": "https://www.theregister.com/2023/11/07/bing_gpu_oracle/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theregister.com/2023/11/07/bing_gpu_oracle/",
+          "publishedOn": "2023-11-08T00:01:16.000Z",
+          "wordCount": 1718,
+          "title": "Bing Chat is so hungry for GPUs, Microsoft will rent them from Oracle",
+          "imageUrl": "https://regmedia.co.uk/2023/11/07/shutterstock_bing_oracle.jpg"
+        },
+        {
+          "id": "https://arxiv.org/abs/2311.00176",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2311.00176",
+          "publishedOn": "2023-11-07T23:44:23.000Z",
+          "wordCount": 697,
+          "title": "ChipNeMo: Domain-Adapted LLMs for Chip Design",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-023-03398-4",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-023-03398-4",
+          "publishedOn": "2023-11-07T23:44:13.000Z",
+          "wordCount": 4350,
+          "title": "Nature retracts controversial superconductivity paper by embattled physicist",
+          "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-023-03398-4/d41586-023-03398-4_26239310.jpg"
+        },
+        {
+          "id": "http://tumbleforth.hardcoded.net/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://tumbleforth.hardcoded.net/",
+          "publishedOn": "2023-11-07T23:23:22.000Z",
+          "wordCount": 284,
+          "title": "Tumble Forth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://wasmfx.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wasmfx.dev/",
+          "publishedOn": "2023-11-07T23:04:21.000Z",
+          "wordCount": 293,
+          "title": "WasmFX: Effect Handlers for WebAssembly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nintendo.co.jp/corporate/release/en/2023/231108.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nintendo.co.jp/corporate/release/en/2023/231108.html",
+          "publishedOn": "2023-11-07T22:30:07.000Z",
+          "wordCount": 556,
+          "title": "Development of a Live-Action Film of the Legend of Zelda to Start",
+          "imageUrl": "https://www.nintendo.co.jp/img/og_nintendo.png"
+        },
+        {
+          "id": "https://observablehq.com/@tomlarkworthy/robocoop",
+          "author": null,
+          "description": "Comments",
+          "link": "https://observablehq.com/@tomlarkworthy/robocoop",
+          "publishedOn": "2023-11-07T22:07:05.000Z",
+          "wordCount": 3009,
+          "title": "Show HN: Roboco-op, a computational blackboard for efficient human/AI collab",
+          "imageUrl": "https://static.observableusercontent.com/thumbnail/875cfc2e9a274ba40e828c752f1abe3ccff0cf52e630ad4a62cacd94ec38e769.jpg"
+        },
+        {
+          "id": "https://spectrum.ieee.org/warehouse-robots",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/warehouse-robots",
+          "publishedOn": "2023-11-07T21:58:08.000Z",
+          "wordCount": 9987,
+          "title": "Chopstick robot handle boxes with ease",
+          "imageUrl": "https://spectrum.ieee.org/media-library/two-men-stand-next-to-a-black-mechanical-robotic-frame-taller-than-they-are-which-big-chopstick-grippers-connected-to-movable-t.jpg?id=50393306&width=1200&height=600&coordinates=0%2C414%2C0%2C415"
+        },
+        {
+          "id": "https://words.filippo.io/dispatches/kyber-math/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://words.filippo.io/dispatches/kyber-math/",
+          "publishedOn": "2023-11-07T21:54:14.000Z",
+          "wordCount": 2711,
+          "title": "Enough Polynomials and Linear Algebra to Implement Kyber",
+          "imageUrl": "https://words.filippo.io/content/images/2023/11/news---1--1--1.jpeg"
+        },
+        {
+          "id": "https://gleam.run/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gleam.run/",
+          "publishedOn": "2023-11-07T21:53:29.000Z",
+          "wordCount": 563,
+          "title": "Gleam: a type safe language on the Erlang VM",
+          "imageUrl": "https://gleam.run//images/og-image.png"
+        },
+        {
+          "id": "https://scotthelme.co.uk/what-the-qwac/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scotthelme.co.uk/what-the-qwac/",
+          "publishedOn": "2023-11-07T21:40:30.000Z",
+          "wordCount": 2905,
+          "title": "What the QWAC? an EV Certificate all over again",
+          "imageUrl": "https://scotthelme.co.uk/content/images/2023/11/ec.png"
+        },
+        {
+          "id": "https://prolost.com/blog/scarybts",
+          "author": null,
+          "description": "Comments",
+          "link": "https://prolost.com/blog/scarybts",
+          "publishedOn": "2023-11-07T21:08:58.000Z",
+          "wordCount": 4162,
+          "title": "What does and doesn't matter about Apple shooting their October event on iPhone",
+          "imageUrl": "http://static1.squarespace.com/static/53f4e093e4b085e4457080e1/53f4ecffe4b048248b205988/6549717174a74b3d8221d4bd/1699400466726/BTS_02_iPhone+%2800353%29.jpg?format=1500w"
+        },
+        {
+          "id": "https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/",
+          "publishedOn": "2023-11-07T20:57:02.000Z",
+          "wordCount": 5915,
+          "title": "Core to core latency data on large systems",
+          "imageUrl": "https://i0.wp.com/chipsandcheese.com/wp-content/uploads/2023/08/c2c_bdw.png?fit=1200%2C611&ssl=1"
+        },
+        {
+          "id": "http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html",
+          "publishedOn": "2023-11-07T20:36:43.000Z",
+          "wordCount": 6856,
+          "title": "Writing a Compiler is Surprisingly Easy (part 1)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.riverphillips.dev/blog/go-cfs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.riverphillips.dev/blog/go-cfs/",
+          "publishedOn": "2023-11-07T19:10:04.000Z",
+          "wordCount": 1104,
+          "title": "Go, Containers, and the Linux Scheduler",
+          "imageUrl": "https://www.riverphillips.dev/blog-placeholder-1.jpg"
+        },
+        {
+          "id": "https://onlinelibrary.wiley.com/doi/10.1002/admi.202300452",
+          "author": null,
+          "description": "Comments",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1002/admi.202300452",
+          "publishedOn": "2023-11-07T19:07:35.000Z",
+          "wordCount": null,
+          "title": "Solar Splitting of CO2 with 3D-Printed Hierarchically Channeled Ceria Structures",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine",
+          "publishedOn": "2023-11-07T18:32:56.000Z",
+          "wordCount": 2557,
+          "title": "Northlight technology in Alan Wake 2",
+          "imageUrl": "https://assets-global.website-files.com/64630b03551142e3347ae3da/6544f5f198b2f2c31181ae3d_NL_AW2_4K.jpg"
+        },
+        {
+          "id": "https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/",
+          "publishedOn": "2023-11-07T18:07:55.000Z",
+          "wordCount": 5481,
+          "title": "Seeing like a bank",
+          "imageUrl": "https://www.bitsaboutmoney.com/content/images/2023/11/DALL-E-2023-11-07-11.09.57---Illustrate-an-American-political-cartoon-style-image--vividly-colored--depicting-the-theme--Seeing-Like-A-Bank-.-The-image-should-feature-an-anthropom.png"
+        },
+        {
+          "id": "https://apply.workable.com/oven/j/A7A1388873/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://apply.workable.com/oven/j/A7A1388873/",
+          "publishedOn": "2023-11-07T17:00:54.000Z",
+          "wordCount": 232,
+          "title": "Bun (YC S19) Is Hiring Systems Engineers in San Francisco (C/C++ or Zig)",
+          "imageUrl": "https://www.workable.com/assets/facebook-preview.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AcTqcyv-V1I",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=AcTqcyv-V1I",
+          "publishedOn": "2023-11-07T15:19:31.000Z",
+          "wordCount": null,
+          "title": "The Stern-Gerlach Experiment (1967) [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness",
+          "publishedOn": "2023-11-07T13:58:52.000Z",
+          "wordCount": 1746,
+          "title": "Euclid's First Images",
+          "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/euclid_s_first_images_the_dazzling_edge_of_darkness/25172602-1-eng-GB/Euclid_s_first_images_the_dazzling_edge_of_darkness_pillars.jpg"
+        },
         {
           "id": "https://dang.ai/ai-graveyard",
           "author": null,
@@ -500,6 +750,16 @@
           "imageUrl": "https://scx2.b-cdn.net/gfx/news/2023/strong-evidence-for-ne.jpg"
         },
         {
+          "id": "https://my.matterport.com/show/?m=oj5FSKsTt7o",
+          "author": null,
+          "description": "Comments",
+          "link": "https://my.matterport.com/show/?m=oj5FSKsTt7o",
+          "publishedOn": "2023-11-06T10:08:36.000Z",
+          "wordCount": 162,
+          "title": "Barcelona Supercomputing Center",
+          "imageUrl": "https://my.matterport.com/api/v2/player/models/oj5FSKsTt7o/thumb/"
+        },
+        {
           "id": "https://www.ibm.com/design/language/ibm-logos/rebus/",
           "author": null,
           "description": "Comments",
@@ -508,6 +768,16 @@
           "wordCount": 26060,
           "title": "IBM Rebus",
           "imageUrl": null
+        },
+        {
+          "id": "https://rednafi.com/misc/oh_my_poor_business_logic/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rednafi.com/misc/oh_my_poor_business_logic/",
+          "publishedOn": "2023-11-06T05:58:00.000Z",
+          "wordCount": 1300,
+          "title": "Oh my poor business logic",
+          "imageUrl": "https://rednafi.com/images/home/cover.webp"
         },
         {
           "id": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9450498/",
@@ -588,6 +858,16 @@
           "wordCount": 11284,
           "title": "A brain injury removed my ability to perceive time",
           "imageUrl": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/11/man_alarm_clocks_drowning_sea_time_concept_1398845180.jpg"
+        },
+        {
+          "id": "https://newcome.wordpress.com/2022/11/28/the-quest-for-modularity/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://newcome.wordpress.com/2022/11/28/the-quest-for-modularity/",
+          "publishedOn": "2023-11-05T21:39:54.000Z",
+          "wordCount": 2095,
+          "title": "The Quest for Modularity",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
         {
           "id": "https://lareviewofbooks.org/article/acids-first-convert-cary-grant-on-edward-j-delaneys-the-acrobat/",
@@ -780,6 +1060,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.atlasobscura.com/articles/strange-maps-paris-catacombs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atlasobscura.com/articles/strange-maps-paris-catacombs",
+          "publishedOn": "2023-11-05T12:51:06.000Z",
+          "wordCount": 6721,
+          "title": "The Fight Between Cataphiles and Underground Police in the Paris Catacombs",
+          "imageUrl": "https://img.atlasobscura.com/SFx-KE9WhnKzsPKPc2ZMtIIVV6b6qQsP2QIv03DYz-8/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9mYjA3NDgxYi0z/MWE4LTRlNDktOWZj/NS00MTk0NmJkYTNj/MzAwYTFhODc3ZDFm/YTE5NDQ5Yjlfc2h1/dHRlcnN0b2NrXzc3/MTg1MTMzNS5qcGc.jpg"
+        },
+        {
           "id": "https://www.nytimes.com/2023/11/05/business/banks-accounts-close-suddenly.html",
           "author": null,
           "description": "Comments",
@@ -788,6 +1078,16 @@
           "wordCount": null,
           "title": "Why banks are suddenly closing down customer accounts",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Battelle/movfuscator",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Battelle/movfuscator",
+          "publishedOn": "2023-11-05T12:33:39.000Z",
+          "wordCount": 2343,
+          "title": "M/o/Vfuscator: A single instruction C compiler",
+          "imageUrl": "https://opengraph.githubassets.com/990a0905a8ab5f09de7dbf9a22c95c8c355e88eb68a0b3cacc835a4549153093/Battelle/movfuscator"
         },
         {
           "id": "http://www.suzukimusic.co.uk/omnichord-heaven/index.html",
@@ -8708,356 +9008,6 @@
           "wordCount": 2633,
           "title": "Lensm, a tool for viewing disassembly",
           "imageUrl": "https://assets-global.website-files.com/602eda09fc78af5a419706be/62d57ea2d33f399744c345c8_storj-blog-cover-lensm.jpg"
-        },
-        {
-          "id": "https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/",
-          "publishedOn": "2023-10-09T16:28:56.000Z",
-          "wordCount": 5923,
-          "title": "789 KB Linux Without MMU on RISC-V",
-          "imageUrl": "https://popovicu.com/789%20KB%20Linux%20Without%20MMU%20on%20RISC-V.png"
-        },
-        {
-          "id": "https://crystalverse.com/pyramid-salt-crystals/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://crystalverse.com/pyramid-salt-crystals/",
-          "publishedOn": "2023-10-09T16:21:51.000Z",
-          "wordCount": 11444,
-          "title": "Make your own pyramid salt crystals",
-          "imageUrl": "https://crystalverse.com/wp-content/uploads/2022/09/pyramid-salt-crystals.jpg"
-        },
-        {
-          "id": "https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool",
-          "author": null,
-          "description": "Comments",
-          "link": "https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool",
-          "publishedOn": "2023-10-09T14:36:23.000Z",
-          "wordCount": 5911,
-          "title": "The pivot table, the spreadsheet's most powerful tool (2020)",
-          "imageUrl": "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/78df0370c1f7fe75d99255fc265d3365.jpg"
-        },
-        {
-          "id": "https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/",
-          "publishedOn": "2023-10-09T14:00:40.000Z",
-          "wordCount": 2719,
-          "title": "Text showdown: Gap Buffers vs. Ropes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy",
-          "publishedOn": "2023-10-09T12:16:28.000Z",
-          "wordCount": 2933,
-          "title": "The Prosecutor's Fallacy (2018)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://paulplowman.com/stuff/uk-address-oddities/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://paulplowman.com/stuff/uk-address-oddities/",
-          "publishedOn": "2023-10-09T10:46:49.000Z",
-          "wordCount": 6230,
-          "title": "UK Address Oddities (2018)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://incompetech.com/graphpaper/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://incompetech.com/graphpaper/",
-          "publishedOn": "2023-10-09T10:14:56.000Z",
-          "wordCount": 1015,
-          "title": "Free Online Graph Paper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/",
-          "publishedOn": "2023-10-09T09:40:26.000Z",
-          "wordCount": 13305,
-          "title": "USB inventor explains why the connector was not designed to be reversible (2019)",
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/Qy44o8MqBVzAk62f7L5vDd-1200-80.jpg"
-        },
-        {
-          "id": "https://emulation.gametechwiki.com/index.php/CRT_shaders",
-          "author": null,
-          "description": "Comments",
-          "link": "https://emulation.gametechwiki.com/index.php/CRT_shaders",
-          "publishedOn": "2023-10-09T09:38:19.000Z",
-          "wordCount": null,
-          "title": "CRT Shaders",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.aarsen.me/posts/2022-11-18-i-assert-thee.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.aarsen.me/posts/2022-11-18-i-assert-thee.html",
-          "publishedOn": "2023-10-09T09:21:52.000Z",
-          "wordCount": 1226,
-          "title": "How to assert for fun and profit (2022)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://spectrum.ieee.org/disney-robot",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spectrum.ieee.org/disney-robot",
-          "publishedOn": "2023-10-09T07:44:54.000Z",
-          "wordCount": 9554,
-          "title": "Disney packed big emotion into a little robot",
-          "imageUrl": "https://spectrum.ieee.org/media-library/an-animated-gif-showing-a-small-white-legged-robot-cutely-interacting-with-a-researcher-in-a-robotics-lab.jpg?id=48631463&width=1200&height=600&coordinates=0%2C212%2C0%2C212"
-        },
-        {
-          "id": "https://www.bbc.com/future/article/20231006-the-soviet-spacecraft-cemetery-in-the-pacific",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/future/article/20231006-the-soviet-spacecraft-cemetery-in-the-pacific",
-          "publishedOn": "2023-10-09T05:41:46.000Z",
-          "wordCount": 29271,
-          "title": "The Soviet spacecraft cemetery in the Pacific",
-          "imageUrl": "https://ychef.files.bbci.co.uk/live/624x351/p0gk8yk1.jpg"
-        },
-        {
-          "id": "https://github.com/httpie/desktop",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/httpie/desktop",
-          "publishedOn": "2023-10-09T01:29:53.000Z",
-          "wordCount": 729,
-          "title": "HTTPie Desktop: cross-platform API testing client for humans",
-          "imageUrl": "https://repository-images.githubusercontent.com/434563814/37a18332-60c6-40e4-b48e-ed3ea07e918a"
-        },
-        {
-          "id": "https://status.coinbase.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://status.coinbase.com/",
-          "publishedOn": "2023-10-09T01:22:13.000Z",
-          "wordCount": 11887,
-          "title": "Coinbase Outage",
-          "imageUrl": null
-        },
-        {
-          "id": "https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html",
-          "publishedOn": "2023-10-09T01:20:18.000Z",
-          "wordCount": 318,
-          "title": "Impacts of Lack of Sleep",
-          "imageUrl": null
-        },
-        {
-          "id": "https://internetnz.nz/assets/Archives/External-report-on-nz-DNSSEC-chain-validation-incident-on-May-2023.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://internetnz.nz/assets/Archives/External-report-on-nz-DNSSEC-chain-validation-incident-on-May-2023.pdf",
-          "publishedOn": "2023-10-09T00:54:29.000Z",
-          "wordCount": 43353,
-          "title": "Review of the .nz DNSSEC Chain Validation Incident on 29-30 May 2023 [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nullprogram.com/blog/2023/10/08/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nullprogram.com/blog/2023/10/08/",
-          "publishedOn": "2023-10-09T00:30:03.000Z",
-          "wordCount": 2128,
-          "title": "My personal C coding style as of late 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://archive.fosdem.org/2023/schedule/event/rv_selfhosting_all_the_way_down/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://archive.fosdem.org/2023/schedule/event/rv_selfhosting_all_the_way_down/",
-          "publishedOn": "2023-10-09T00:07:12.000Z",
-          "wordCount": 612,
-          "title": "Self-Hosting (Almost) All the Way Down [video]",
-          "imageUrl": "https://fosdem.org/2023/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png"
-        },
-        {
-          "id": "https://www.sharoma.com/minidisc/hacking.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sharoma.com/minidisc/hacking.htm",
-          "publishedOn": "2023-10-08T23:52:48.000Z",
-          "wordCount": 3350,
-          "title": "MiniDisc Hacking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://eprint.iacr.org/2022/1303.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eprint.iacr.org/2022/1303.pdf",
-          "publishedOn": "2023-10-08T22:08:28.000Z",
-          "wordCount": 23183,
-          "title": "Fast and Clean: Auditable high-performance assembly via constraint solving [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://fabiensanglard.net/40/index.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fabiensanglard.net/40/index.html",
-          "publishedOn": "2023-10-08T21:55:09.000Z",
-          "wordCount": 918,
-          "title": "Forty years of programming",
-          "imageUrl": null
-        },
-        {
-          "id": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/",
-          "publishedOn": "2023-10-08T21:46:38.000Z",
-          "wordCount": 1506,
-          "title": "Speeding up the JavaScript ecosystem – The barrel file debacle",
-          "imageUrl": "https://marvinh.dev/media/me-twitter.jpg"
-        },
-        {
-          "id": "https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html",
-          "publishedOn": "2023-10-08T21:42:11.000Z",
-          "wordCount": 373,
-          "title": "Metals Fuse Together in Space",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thechipletter.substack.com/p/seven-projects-innovating-around",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thechipletter.substack.com/p/seven-projects-innovating-around",
-          "publishedOn": "2023-10-08T20:59:57.000Z",
-          "wordCount": 5230,
-          "title": "Projects Innovating Around RISC-V",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee7f0f6d-8a46-41b4-9ad0-52a92bc19e99_2048x1736.jpeg"
-        },
-        {
-          "id": "https://www.rubick.com/demo-driven-development/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.rubick.com/demo-driven-development/",
-          "publishedOn": "2023-10-08T20:59:55.000Z",
-          "wordCount": 3782,
-          "title": "Demo-driven development (2021)",
-          "imageUrl": "https://rubick.com/static/77f61c7763120ae7a8a8fd57136264d9/14b42/fast.jpg"
-        },
-        {
-          "id": "https://www.applevis.com/blog/we-deserve-better-apple-why-i-can-no-longer-recommend-mac-fellow-blind-computer-users",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.applevis.com/blog/we-deserve-better-apple-why-i-can-no-longer-recommend-mac-fellow-blind-computer-users",
-          "publishedOn": "2023-10-08T19:59:20.000Z",
-          "wordCount": 2092,
-          "title": "Why I can no longer recommend a Mac to fellow blind computer users",
-          "imageUrl": null
-        },
-        {
-          "id": "https://wandb.ai/byyoung3/ml-news/reports/Fine-Tuning-Mistral7B-on-Python-Code-With-A-Single-GPU---Vmlldzo1NTg0NzY5",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wandb.ai/byyoung3/ml-news/reports/Fine-Tuning-Mistral7B-on-Python-Code-With-A-Single-GPU---Vmlldzo1NTg0NzY5",
-          "publishedOn": "2023-10-08T19:48:47.000Z",
-          "wordCount": 1380,
-          "title": "Fine-Tuning Mistral7B on Python Code",
-          "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/5584769/preview.png?md5=5e1ded7db55526a1e16d289caf233985"
-        },
-        {
-          "id": "https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html",
-          "publishedOn": "2023-10-08T19:37:21.000Z",
-          "wordCount": 20867,
-          "title": "Amazon launches Project Kuiper satellite internet prototypes",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107312549-1696589497336-gettyimages-1708745411-AA_06102023_1365772.jpeg?v=1696611619&w=1920&h=1080"
-        },
-        {
-          "id": "https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049",
-          "author": null,
-          "description": "Comments",
-          "link": "https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049",
-          "publishedOn": "2023-10-08T17:31:10.000Z",
-          "wordCount": 375,
-          "title": "Mitigations=off considered harmful or spurious SIGILL on AMD Zen4",
-          "imageUrl": "https://forum.level1techs.com/uploads/default/original/4X/b/0/0/b000c440a9b791d12680d05e49ca5512f72f8fe0.jpeg"
-        },
-        {
-          "id": "https://www.scientificamerican.com/article/know-yourself-better-by-writing-what-pops-into-your-head/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scientificamerican.com/article/know-yourself-better-by-writing-what-pops-into-your-head/",
-          "publishedOn": "2023-10-08T17:08:11.000Z",
-          "wordCount": 5661,
-          "title": "Writing down unfiltered thoughts enhances self-knowledge",
-          "imageUrl": "https://static.scientificamerican.com/sciam/cache/file/47E9743C-1716-4EE2-B86C4E8FCDC0932A.jpg"
-        },
-        {
-          "id": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailThreeForwardingFormats",
-          "author": null,
-          "description": "Comments",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailThreeForwardingFormats",
-          "publishedOn": "2023-10-08T17:04:56.000Z",
-          "wordCount": 857,
-          "title": "The three modern formats for email forwarded by people",
-          "imageUrl": null
-        },
-        {
-          "id": "https://extreme-parkour.github.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://extreme-parkour.github.io/",
-          "publishedOn": "2023-10-08T17:00:11.000Z",
-          "wordCount": 328,
-          "title": "Extreme parkour with legged robots",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/OpenIPC",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/OpenIPC",
-          "publishedOn": "2023-10-08T16:57:02.000Z",
-          "wordCount": 800,
-          "title": "OpenIPC: Alternative open firmware for your IP camera",
-          "imageUrl": "https://avatars.githubusercontent.com/u/46071473?s=280&v=4"
-        },
-        {
-          "id": "https://tailscale.dev/blog/docker-mod-tailscale",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tailscale.dev/blog/docker-mod-tailscale",
-          "publishedOn": "2023-10-08T16:51:28.000Z",
-          "wordCount": 9732,
-          "title": "The Tailscale Universal Docker Mod",
-          "imageUrl": "https://tailscale.dev/images/hero/shipyard-vibes.png"
-        },
-        {
-          "id": "https://blog.frankel.ch/rust-from-python/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.frankel.ch/rust-from-python/",
-          "publishedOn": "2023-10-08T16:34:46.000Z",
-          "wordCount": null,
-          "title": "Calling Rust from Python",
-          "imageUrl": null
         }
       ]
     },
@@ -9123,6 +9073,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://www.knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/article/living-world/2023/genes-that-shape-facial-features",
+          "author": "Bob Holmes",
+          "description": "After turning up hundreds of genes with hard-to-predict effects, some scientists are now probing the grander developmental processes that shape face geometry",
+          "link": "https://knowablemagazine.org/article/living-world/2023/genes-that-shape-facial-features",
+          "publishedOn": "2023-11-07T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Untangling the genetics that underlie our facial features",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "108193",
+            "url": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-110723-1-1200x630.jpg"
+          },
+          "imageUrl": "https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-110723-1-1200x630.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/article/physical-world/2023/the-challenge-of-fusion-power",
           "author": "M. Mitchell Waldrop",
@@ -10080,36 +10045,6 @@
           "publishedOn": "2023-10-09T17:48:03.000Z",
           "wordCount": 4996,
           "title": "Deoria Violence Live: Akhilesh Yadav accuses BJP of exploiting Deoria violence for political gains - Economic Times",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiwFodHRwczovL3d3dy5idXNpbmVzc3Bvc3QuaWUvaXJpc2gtdGF0bGVyL3RoZS1hZHZlbnR1cmVzcy1wYXJ0LW9uZS1pLWhhdmUtYmVlbi10cmF2ZWxsaW5nLXNsb3dseS1mb3Itb3Zlci1mb3VyLXllYXJzLWFuZC1teS1saWZlLWhhcy1jaGFuZ2Uv0gEA",
-          "author": null,
-          "description": "The Adventuress, part one: “I have been travelling slowly for over ...  Business Post",
-          "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5idXNpbmVzc3Bvc3QuaWUvaXJpc2gtdGF0bGVyL3RoZS1hZHZlbnR1cmVzcy1wYXJ0LW9uZS1pLWhhdmUtYmVlbi10cmF2ZWxsaW5nLXNsb3dseS1mb3Itb3Zlci1mb3VyLXllYXJzLWFuZC1teS1saWZlLWhhcy1jaGFuZ2Uv0gEA?oc=5",
-          "publishedOn": "2023-10-09T08:16:59.000Z",
-          "wordCount": 4996,
-          "title": "The Adventuress, part one: “I have been travelling slowly for over ... - Business Post",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirgFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vd29ybGQvbGl2ZS8yMDIzL29jdC8wOS9ydXNzaWEtdWtyYWluZS13YXItbGl2ZS1ydXNzaWFuLW9mZmljaWFscy10by1kaXNjdXNzLXJldm9raW5nLWtleS1udWNsZWFyLXRyZWF0eS10d28ta2lsbGVkLWluLXNoZWxsaW5nLWluLXNvdXRoZXJuLXVrcmFpbmXSAa4BaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkL2xpdmUvMjAyMy9vY3QvMDkvcnVzc2lhLXVrcmFpbmUtd2FyLWxpdmUtcnVzc2lhbi1vZmZpY2lhbHMtdG8tZGlzY3Vzcy1yZXZva2luZy1rZXktbnVjbGVhci10cmVhdHktdHdvLWtpbGxlZC1pbi1zaGVsbGluZy1pbi1zb3V0aGVybi11a3JhaW5l",
-          "author": null,
-          "description": "Russia-Ukraine war: Zelenskiy to visit Romania on Tuesday in first trip since Russian invasion – as it happened  The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vd29ybGQvbGl2ZS8yMDIzL29jdC8wOS9ydXNzaWEtdWtyYWluZS13YXItbGl2ZS1ydXNzaWFuLW9mZmljaWFscy10by1kaXNjdXNzLXJldm9raW5nLWtleS1udWNsZWFyLXRyZWF0eS10d28ta2lsbGVkLWluLXNoZWxsaW5nLWluLXNvdXRoZXJuLXVrcmFpbmXSAa4BaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkL2xpdmUvMjAyMy9vY3QvMDkvcnVzc2lhLXVrcmFpbmUtd2FyLWxpdmUtcnVzc2lhbi1vZmZpY2lhbHMtdG8tZGlzY3Vzcy1yZXZva2luZy1rZXktbnVjbGVhci10cmVhdHktdHdvLWtpbGxlZC1pbi1zaGVsbGluZy1pbi1zb3V0aGVybi11a3JhaW5l?oc=5",
-          "publishedOn": "2023-10-09T07:00:00.000Z",
-          "wordCount": 5001,
-          "title": "Russia-Ukraine war: Zelenskiy to visit Romania on Tuesday in first trip since Russian invasion – as it happened - The Guardian",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL3Nwb3J0L2NyaWNrZXQvaW5kaWEtYXVzdHJhbGlhLWxpdmUtY3JpY2tldC1zY29yZS1yZXN1bHQtYjI0MjYwNTYuaHRtbNIBAA",
-          "author": null,
-          "description": "India vs Australia LIVE: Cricket score and updates from World Cup  The Independent",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL3Nwb3J0L2NyaWNrZXQvaW5kaWEtYXVzdHJhbGlhLWxpdmUtY3JpY2tldC1zY29yZS1yZXN1bHQtYjI0MjYwNTYuaHRtbNIBAA?oc=5",
-          "publishedOn": "2023-10-08T17:23:00.000Z",
-          "wordCount": 4996,
-          "title": "India vs Australia LIVE: Cricket score and updates from World Cup - The Independent",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
