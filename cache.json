@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/11/creating-accessible-ui-animations/",
+          "author": "hello@smashingmagazine.com (Oriana García)",
+          "description": "Animation and accessibility are often seen as two separate powers at odds with one another. How is it possible to strike a balance between elements that move and the possible negative effects they expose to users who are sensitive to motion? Oriana García explains how her team at Mercado Libre tackled the challenge by creating guiding principles for applying animation to user interfaces and incorporating them into the team’s design system.",
+          "link": "https://smashingmagazine.com/2023/11/creating-accessible-ui-animations/",
+          "publishedOn": "2023-11-10T10:00:00.000Z",
+          "wordCount": 5167,
+          "title": "Creating Accessible UI Animations",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/creating-accessible-ui-animations/creating-accessible-ui-animations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/creating-accessible-ui-animations/creating-accessible-ui-animations.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/11/wordpress-playground-5-minute-install-instant-spin-up/",
           "author": "hello@smashingmagazine.com (Ganesh Dahal)",
           "description": "WordPress Playground began as an experiment to see what a self-hosted WordPress experience might look like without the requirement of having to actually install WordPress. A year later, the experiment has evolved into a full-fledged project. Ganesh Dahal demonstrates how WordPress Playground works and gets deep into how it might be used.",
@@ -256,21 +271,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/ux-research-learn-from-lt-columbo/",
-          "author": "hello@smashingmagazine.com (Slava Shestopalov)",
-          "description": "Working in the area of UX sometimes feels like a crime drama. Can’t believe it? Then look at these fun parallels between modern UX practices and a classical TV detective.",
-          "link": "https://smashingmagazine.com/2023/10/ux-research-learn-from-lt-columbo/",
-          "publishedOn": "2023-10-12T08:00:00.000Z",
-          "wordCount": 5360,
-          "title": "Everything I Know About UX Research I First Learned From Lt. Columbo",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ux-research-learn-from-lt-columbo/ux-research-learn-from-lt-columbo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ux-research-learn-from-lt-columbo/ux-research-learn-from-lt-columbo.jpg"
         }
       ]
     },
@@ -279,6 +279,296 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.spacex.com/launches/mission/?missionId=starship-flight-2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.spacex.com/launches/mission/?missionId=starship-flight-2",
+          "publishedOn": "2023-11-11T03:47:31.000Z",
+          "wordCount": 567,
+          "title": "11/17/23 starship test 2",
+          "imageUrl": "https://www.spacex.com/static/images/share.jpg"
+        },
+        {
+          "id": "https://www.theguardian.com/inequality/2023/oct/07/angus-deaton-interview-book-economics-in-america",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/inequality/2023/oct/07/angus-deaton-interview-book-economics-in-america",
+          "publishedOn": "2023-11-11T02:47:32.000Z",
+          "wordCount": 6007,
+          "title": "Angus Deaton on inequality: 'The war on poverty has become a war on the poor'",
+          "imageUrl": "https://i.guim.co.uk/img/media/ee7ba600ddf254db926fb13d8227426a83eb5ec4/0_273_4896_2938/master/4896.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3aff3d7c91d457d15f1e7aa293023ade"
+        },
+        {
+          "id": "https://alan.norbauer.com/articles/browser-debugging-tricks",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alan.norbauer.com/articles/browser-debugging-tricks",
+          "publishedOn": "2023-11-11T01:35:17.000Z",
+          "wordCount": 6576,
+          "title": "Weird Debugging Tricks the Browser Doesn't Want You to Know",
+          "imageUrl": "https://alan.norbauer.com/articles/browser-debugging-tricks/opengraph-image?2d034a2e04ba9655"
+        },
+        {
+          "id": "https://bellard.org/pi/pi_n2/pi_n2.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bellard.org/pi/pi_n2/pi_n2.html",
+          "publishedOn": "2023-11-11T01:08:22.000Z",
+          "wordCount": 574,
+          "title": "Computation of the n'th digit of pi in any base in O(n^2) (1997)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/firezone/jobs/8mVSALy-rust-engineer-contract",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/firezone/jobs/8mVSALy-rust-engineer-contract",
+          "publishedOn": "2023-11-11T01:05:22.000Z",
+          "wordCount": 2458,
+          "title": "Firezone (YC W22) is hiring a Rust contractor to build a Windows client",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://mashable.com/article/maine-moveit-ransomware-attack",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mashable.com/article/maine-moveit-ransomware-attack",
+          "publishedOn": "2023-11-11T00:18:15.000Z",
+          "wordCount": 1927,
+          "title": "Entire population of Maine's just had its data stolen in a ransomware attack",
+          "imageUrl": "https://helios-i.mashable.com/imagery/articles/02flslTqsPgqP1z3c7tkfaW/hero-image.fill.size_1200x675.v1699639493.jpg"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2023/nov/10/iceland-declares-state-of-emergency-over-volcanic-eruption-threat",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/world/2023/nov/10/iceland-declares-state-of-emergency-over-volcanic-eruption-threat",
+          "publishedOn": "2023-11-10T21:51:15.000Z",
+          "wordCount": 4992,
+          "title": "Iceland declares state of emergency over volcanic eruption threat",
+          "imageUrl": "https://i.guim.co.uk/img/media/7b689029b042e69c5c7606e2e746e36ea87b6521/0_189_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da332c93ac56d7cb88bd95fc9a026674"
+        },
+        {
+          "id": "https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats",
+          "publishedOn": "2023-11-10T21:30:33.000Z",
+          "wordCount": 4509,
+          "title": "The hijacking of rare Japanese KitKats",
+          "imageUrl": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/11/09/dw-kitkats2-231109.jpg"
+        },
+        {
+          "id": "https://www.jeffwofford.com/?p=2089",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jeffwofford.com/?p=2089",
+          "publishedOn": "2023-11-10T20:42:09.000Z",
+          "wordCount": 3659,
+          "title": "How to boss without being bossy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.businessinsider.com/amazon-gives-apple-special-treatment-while-others-suffer-junk-ads-2023-11",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.businessinsider.com/amazon-gives-apple-special-treatment-while-others-suffer-junk-ads-2023-11",
+          "publishedOn": "2023-11-10T20:39:33.000Z",
+          "wordCount": 6449,
+          "title": "Apple asked Amazon to block rival ads",
+          "imageUrl": "https://i.insider.com/654aaecc36d588dc55cc9d52?width=1200&format=jpeg"
+        },
+        {
+          "id": "https://re.factorcode.org/2023/11/factor-is-faster-than-zig.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://re.factorcode.org/2023/11/factor-is-faster-than-zig.html",
+          "publishedOn": "2023-11-10T20:25:03.000Z",
+          "wordCount": 2526,
+          "title": "Hashmaps in Factor are faster than in Zig",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/",
+          "publishedOn": "2023-11-10T20:08:32.000Z",
+          "wordCount": 1713,
+          "title": "Ottoman-Era Bird Palaces",
+          "imageUrl": "https://www.thisiscolossal.com/wp-content/uploads/2017/07/house-5.jpg"
+        },
+        {
+          "id": "https://twitter.com/krea_ai/status/1723067313392320607",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/krea_ai/status/1723067313392320607",
+          "publishedOn": "2023-11-10T20:06:08.000Z",
+          "wordCount": 515,
+          "title": "Real-time image editing using latent consistency models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cbc.ca/news/science/echidna-video-1.7024966",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cbc.ca/news/science/echidna-video-1.7024966",
+          "publishedOn": "2023-11-10T19:53:28.000Z",
+          "wordCount": 2124,
+          "title": "Attenborough’s long-beaked echidna rediscovered in Indonesia",
+          "imageUrl": "https://i.cbc.ca/1.7024992.1699629353!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/wildlife-echidna.JPG"
+        },
+        {
+          "id": "https://www.archaeology.org/news/11887-231108-amarna-burial-teratoma",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.archaeology.org/news/11887-231108-amarna-burial-teratoma",
+          "publishedOn": "2023-11-10T19:43:23.000Z",
+          "wordCount": 986,
+          "title": "Rare Ovarian Tumor Discovered in Egyptian New Kingdom Burial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.unixtimestamp.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.unixtimestamp.com/",
+          "publishedOn": "2023-11-10T18:54:54.000Z",
+          "wordCount": 2007,
+          "title": "The Unix timestamp will begin with 17 this Tuesday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Eltanin_Antenna",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Eltanin_Antenna",
+          "publishedOn": "2023-11-10T18:54:33.000Z",
+          "wordCount": 989,
+          "title": "Eltanin Antenna",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Eltanin_Antenna.jpg"
+        },
+        {
+          "id": "https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e",
+          "publishedOn": "2023-11-10T18:08:34.000Z",
+          "wordCount": 6351,
+          "title": "Google Cloud TPU Multislice Training",
+          "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/compute_7XaotWm.max-2600x2600.jpg"
+        },
+        {
+          "id": "https://webbtelescope.org/contents/news-releases/2023/news-2023-146.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://webbtelescope.org/contents/news-releases/2023/news-2023-146.html",
+          "publishedOn": "2023-11-10T17:50:29.000Z",
+          "wordCount": null,
+          "title": "NASA's Webb, Hubble combine to create most colorful view of universe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dl.acm.org/doi/10.1145/3586183.3606779",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dl.acm.org/doi/10.1145/3586183.3606779",
+          "publishedOn": "2023-11-10T17:48:59.000Z",
+          "wordCount": 3099,
+          "title": "Semantic Hearing: Programming Acoustic Scenes with Binaural Hearables",
+          "imageUrl": "https://dl.acm.org/cms/asset/dd1f8183-24c1-44ba-b0f8-8c0bbf0b7d1e/3586183.cover.jpg"
+        },
+        {
+          "id": "https://protege.stanford.edu/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://protege.stanford.edu/",
+          "publishedOn": "2023-11-10T17:29:05.000Z",
+          "wordCount": 639,
+          "title": "Protégé: A free, open-source ontology editor for building intelligent systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.builder.io/blog/build-ai",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.builder.io/blog/build-ai",
+          "publishedOn": "2023-11-10T17:20:08.000Z",
+          "wordCount": 14596,
+          "title": "Don't build AI products the way everyone else is doing it",
+          "imageUrl": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F2a5e28c14c6c4737a9970edb69b4f58d?width=1200"
+        },
+        {
+          "id": "https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md",
+          "publishedOn": "2023-11-10T17:07:31.000Z",
+          "wordCount": 4081,
+          "title": "Texture Healing for Monospace Fonts",
+          "imageUrl": "https://repository-images.githubusercontent.com/696444975/5cb76f7f-1fae-4033-bb7d-310d71bfe39e"
+        },
+        {
+          "id": "https://www.bloomberg.com/news/articles/2023-10-25/new-york-restaurants-bars-fight-back-against-reservations-by-bots",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/news/articles/2023-10-25/new-york-restaurants-bars-fight-back-against-reservations-by-bots",
+          "publishedOn": "2023-11-10T16:33:39.000Z",
+          "wordCount": 576,
+          "title": "New York restaurants fight back against reservations by bots",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.helen.fi/en/news/2021/gigantic-heat-caverns-in-mustikkamaa-filled",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.helen.fi/en/news/2021/gigantic-heat-caverns-in-mustikkamaa-filled",
+          "publishedOn": "2023-11-10T15:46:38.000Z",
+          "wordCount": 1192,
+          "title": "Gigantic heat caverns in Mustikkamaa have now been filled with water (2021)",
+          "imageUrl": "https://www.helen.fi/globalassets/uutiskuvat/lämpö-ja-jäähdytys/helen_mustikkamaa_infograafi1_pikkukuva.jpg"
+        },
+        {
+          "id": "https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/",
+          "publishedOn": "2023-11-10T15:26:11.000Z",
+          "wordCount": 1615,
+          "title": "The Svalbard fibre optic cable connection",
+          "imageUrl": "https://spacenorway.no/wp-content/uploads/2022/03/Troll-stasjonen-scaled.jpg"
+        },
+        {
+          "id": "https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v",
+          "publishedOn": "2023-11-10T13:42:21.000Z",
+          "wordCount": 1065,
+          "title": "Nordic is getting involved in RISC-V",
+          "imageUrl": "https://blog.nordicsemi.com/hubfs/Why%20Nordic%20is%20getting%20involved%20with%20RISC-V.png#keepProtocol"
+        },
+        {
+          "id": "https://sidecart.xyz/blog/2023/11/01/lessons-learned-by-software-guy-venturing-into-hardware/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sidecart.xyz/blog/2023/11/01/lessons-learned-by-software-guy-venturing-into-hardware/",
+          "publishedOn": "2023-11-10T08:30:18.000Z",
+          "wordCount": 3244,
+          "title": "Lessons learned by a software guy venturing into hardware",
+          "imageUrl": "https://sidecart.xyz/assets/images/board-batches.png"
+        },
+        {
+          "id": "https://flak.tedunangst.com/post/write-your-own-terminal",
+          "author": null,
+          "description": "Comments",
+          "link": "https://flak.tedunangst.com/post/write-your-own-terminal",
+          "publishedOn": "2023-11-10T08:15:26.000Z",
+          "wordCount": 1282,
+          "title": "Write Your Own Terminal",
+          "imageUrl": null
+        },
         {
           "id": "https://xeiaso.net/notes/cursorless-alien-magic/",
           "author": null,
@@ -308,6 +598,16 @@
           "wordCount": 2661,
           "title": "Why does so much government tech investment deliver so little?",
           "imageUrl": "https://www.airstreet.com/blog/government-tech-investment.png"
+        },
+        {
+          "id": "https://whyy.org/segments/father-of-cell-phone-reflects-on-making-first-call-and-history-50-years-ago/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://whyy.org/segments/father-of-cell-phone-reflects-on-making-first-call-and-history-50-years-ago/",
+          "publishedOn": "2023-11-10T01:02:43.000Z",
+          "wordCount": 3158,
+          "title": "'Father of cell phone' reflects on making first call and history 50 years ago",
+          "imageUrl": "https://whyy.org/wp-content/uploads/2023/04/MartinCooper1200FB.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=38213590",
@@ -8748,266 +9048,6 @@
           "wordCount": 2335,
           "title": "OpenAI is too cheap to beat",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0866ffe3-ff87-4f83-ba5c-b327f403b8fc_1024x1024.png"
-        },
-        {
-          "id": "https://dynomight.substack.com/p/midwit-home",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dynomight.substack.com/p/midwit-home",
-          "publishedOn": "2023-10-12T16:31:17.000Z",
-          "wordCount": 7078,
-          "title": "The midwit home",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa505d5ab-5fd6-43d1-9fe0-ef4a22042c27_1440x900.jpeg"
-        },
-        {
-          "id": "https://jesseduffield.com/Can%27t-Be-Fcked/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jesseduffield.com/Can%27t-Be-Fcked/",
-          "publishedOn": "2023-10-12T16:21:10.000Z",
-          "wordCount": 1004,
-          "title": "Can't be fucked: Underrated cause of tech debt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://spectrum.ieee.org/depth-of-field",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spectrum.ieee.org/depth-of-field",
-          "publishedOn": "2023-10-12T16:18:02.000Z",
-          "wordCount": 8972,
-          "title": "Impossible photo feat now possible via holography",
-          "imageUrl": "https://spectrum.ieee.org/media-library/a-series-of-10-images-with-two-logos-in-varying-states-of-focus.jpg?id=49389985&width=1200&height=600&coordinates=0%2C13%2C0%2C17"
-        },
-        {
-          "id": "https://www.desmos.com/3d",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.desmos.com/3d",
-          "publishedOn": "2023-10-12T16:05:23.000Z",
-          "wordCount": null,
-          "title": "Desmos 3D graphing calculator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.withedge.com/p/when-xml-in-word-became-illegal",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.withedge.com/p/when-xml-in-word-became-illegal",
-          "publishedOn": "2023-10-12T14:49:31.000Z",
-          "wordCount": 2587,
-          "title": "When XML in Word Became Illegal",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8434987-ce04-45fa-b3ff-4ec9a314d855_384x384.png"
-        },
-        {
-          "id": "https://www.diceright.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.diceright.com/",
-          "publishedOn": "2023-10-12T14:35:56.000Z",
-          "wordCount": 284,
-          "title": "Show HN: I built a virtual tabletop for playing Dungeons and Dragons",
-          "imageUrl": null
-        },
-        {
-          "id": "https://12factor.net/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://12factor.net/",
-          "publishedOn": "2023-10-12T14:19:46.000Z",
-          "wordCount": 497,
-          "title": "The Twelve-Factor App (2011)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://scrollprize.org/firstletters",
-          "author": null,
-          "description": "Comments",
-          "link": "https://scrollprize.org/firstletters",
-          "publishedOn": "2023-10-12T14:11:18.000Z",
-          "wordCount": 1828,
-          "title": "First word discovered in unopened Herculaneum scroll by CS student",
-          "imageUrl": "https://scrollprize.org/img/firstletters/purple_card-new.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=37857231",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=37857231",
-          "publishedOn": "2023-10-12T13:58:38.000Z",
-          "wordCount": 18514,
-          "title": "Ask HN: Show me your half baked project",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openintro-ims2.netlify.app/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://openintro-ims2.netlify.app/",
-          "publishedOn": "2023-10-12T08:45:10.000Z",
-          "wordCount": 1700,
-          "title": "Introduction to Modern Statistics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html",
-          "publishedOn": "2023-10-12T02:45:51.000Z",
-          "wordCount": 2822,
-          "title": "LSP could have been better",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/n0a/telegram-get-remote-ip",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/n0a/telegram-get-remote-ip",
-          "publishedOn": "2023-10-12T02:32:15.000Z",
-          "wordCount": 901,
-          "title": "Telegram Reveals Remote IP Address When Answering Calls",
-          "imageUrl": "https://opengraph.githubassets.com/ebf2b6b604294462629c1ae65945ef3d3f859b2e40c614cf9291f0eef908097f/n0a/telegram-get-remote-ip"
-        },
-        {
-          "id": "https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/",
-          "publishedOn": "2023-10-12T00:34:59.000Z",
-          "wordCount": 2961,
-          "title": "Using OpenBSD Relayd(8) as an Application Layer Gateway",
-          "imageUrl": "https://www.tumfatig.net/images/default.png"
-        },
-        {
-          "id": "https://github.com/microsoft/snmalloc",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/microsoft/snmalloc",
-          "publishedOn": "2023-10-11T22:33:59.000Z",
-          "wordCount": 1269,
-          "title": "Snmalloc: A Message Passing Allocator",
-          "imageUrl": "https://opengraph.githubassets.com/80af8344a442c6128418772f59e208ddb26c500568d169997a6461da6e8b9ef2/microsoft/snmalloc"
-        },
-        {
-          "id": "https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/",
-          "publishedOn": "2023-10-11T22:17:47.000Z",
-          "wordCount": 4305,
-          "title": "AVX10/128 is a silly idea and should be removed from the specification",
-          "imageUrl": "https://i0.wp.com/chipsandcheese.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-07-at-6.28.06-PM.png?fit=1200%2C763&ssl=1"
-        },
-        {
-          "id": "https://spectrum.ieee.org/yugoslavia-diy-microcomputer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spectrum.ieee.org/yugoslavia-diy-microcomputer",
-          "publishedOn": "2023-10-11T21:47:09.000Z",
-          "wordCount": 9833,
-          "title": "Galaksija: The Soviet-Era, Z80-based microcomputer",
-          "imageUrl": "https://spectrum.ieee.org/media-library/a-circuit-board-with-integrated-circuits-and-a-keyboard-is-connected-to-a-monitor-via-a-signal-converter-box.png?id=34667160&width=1200&height=600&coordinates=0%2C238%2C0%2C238"
-        },
-        {
-          "id": "https://spectrum.ieee.org/all-sky-camera",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spectrum.ieee.org/all-sky-camera",
-          "publishedOn": "2023-10-11T21:28:55.000Z",
-          "wordCount": 9567,
-          "title": "Roll Your Own All-Sky, Raspberry Pi Camera",
-          "imageUrl": "https://spectrum.ieee.org/media-library/this-illustration-shows-the-camera-housed-in-a-box-with-the-end-of-the-lens-poking-out-the-top-covered-by-a-transparent-dome.jpg?id=34161347&width=1200&height=600&coordinates=0%2C315%2C0%2C315"
-        },
-        {
-          "id": "https://btco.github.io/qx82/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://btco.github.io/qx82/",
-          "publishedOn": "2023-10-11T21:27:14.000Z",
-          "wordCount": 448,
-          "title": "QX82: Tiny JavaScript game/experience engine inspired by retro 80s computing",
-          "imageUrl": "https://btco.github.io/qx82/images/og.png"
-        },
-        {
-          "id": "https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html",
-          "publishedOn": "2023-10-11T21:06:44.000Z",
-          "wordCount": 4516,
-          "title": "Grind – A first person shooter for Amiga 500",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicybcxLJAPSbuQyK3nzjBKqm0v9Katv4cgQbRDw6tL-VXvcIBMBFuZdV78u-gb1W2AQfQxur0pWPVSoJvQhtTOAH-BeQ_A6k9Us3HXxl80oXNi6mJWePdsPeztqbeCzL-hurHBPdaMHOOZu4PgVkYPbTPUwWa6bygnUQsS8GYj_DIc3mM8DXNPbFbVF5A/w1200-h630-p-k-no-nu/GRIND.jpg"
-        },
-        {
-          "id": "http://cprr.org/Museum/Ephemera/Comparative_TT_1868.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://cprr.org/Museum/Ephemera/Comparative_TT_1868.html",
-          "publishedOn": "2023-10-11T21:05:20.000Z",
-          "wordCount": 468,
-          "title": "Railroad \"Time Zones\" of the United States (1868)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://projecttbr.com/?goodreadsProfile=121455547-bella-vice-van-heyde&library=nypl,spl&format=ebook-kindle",
-          "author": null,
-          "description": "Comments",
-          "link": "https://projecttbr.com/?goodreadsProfile=121455547-bella-vice-van-heyde&library=nypl,spl&format=ebook-kindle",
-          "publishedOn": "2023-10-11T21:01:17.000Z",
-          "wordCount": 4,
-          "title": "Show HN: See library availabilities for your Goodreads want-to-read list",
-          "imageUrl": null
-        },
-        {
-          "id": "https://matklad.github.io/2023/10/11/unix-structured-concurrency.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://matklad.github.io/2023/10/11/unix-structured-concurrency.html",
-          "publishedOn": "2023-10-11T20:46:30.000Z",
-          "wordCount": 707,
-          "title": "Unix Structured Concurrency",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/anderspitman/obligator",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/anderspitman/obligator",
-          "publishedOn": "2023-10-11T18:59:20.000Z",
-          "wordCount": 1949,
-          "title": "Show HN: Obligator – An OpenID Connect server for self-hosters",
-          "imageUrl": "https://opengraph.githubassets.com/3877e060ceb340a4604b80e748d600f0d0003fd28a0f8dfe9eebdd9a83418055/anderspitman/obligator"
-        },
-        {
-          "id": "https://arxiv.org/abs/2310.06625",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2310.06625",
-          "publishedOn": "2023-10-11T18:25:37.000Z",
-          "wordCount": 724,
-          "title": "Inverted Transformers Are Effective for Time Series Forecasting",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://direct.starlink.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://direct.starlink.com/",
-          "publishedOn": "2023-10-11T18:18:00.000Z",
-          "wordCount": 1713,
-          "title": "Starlink Direct to Cell",
-          "imageUrl": "https://direct.starlink.com/wp-content/uploads/2023/10/BG-image-scaled.jpg"
-        },
-        {
-          "id": "https://www.vinerobots.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.vinerobots.org/",
-          "publishedOn": "2023-10-11T18:11:08.000Z",
-          "wordCount": 709,
-          "title": "Vine Robots: Learn to Make Your Own",
-          "imageUrl": "http://img.youtube.com/vi/oRjFFgAZQnk/0.jpg"
         }
       ]
     },
@@ -9215,6 +9255,16 @@
       "feedUrl": "http://livingthing.danmackinlay.name/feeds/all.atom.xml",
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
+        {
+          "id": "https://danmackinlay.name/notebook/ethical_consumption.html",
+          "author": null,
+          "description": "Unilateral action and missing mechanisms\nLimits to direct consumer effects\nSize of effects\nRecruiting versus alienating consumers\nJevons effects\nFood in particular\nAsymmetries\nBlowback effects: Virtue signalling\nPump-priming\nMovement-building\nOffsetting\nIncoming\nReferences\n\nAn interesting area of applied moral philosophy.\nCan buying products strategically be an effective way to improve the outcomes I care about in the world?\nWhat kind of cost-effectiveness can we expect from this intervention?\ntl;dr I am generally skeptical of ROI of ethical consumption and would start trying to make the world better in\none of the many other ways I can do so.\nBut ethical consumption is probably not pointless if it does not displace those other higher-value activities; it is just frequently low ROI and only…",
+          "link": "https://danmackinlay.name/notebook/ethical_consumption.html",
+          "publishedOn": "2023-11-10T05:22:37.000Z",
+          "wordCount": 1169,
+          "title": "Ethical consumption",
+          "imageUrl": "https://danmackinlay.name/images/demon_smoke.png"
+        },
         {
           "id": "https://danmackinlay.name/notebook/movement_design.html",
           "author": null,
@@ -9456,6 +9506,16 @@
           "imageUrl": "https://danmackinlay.name/images/hanging_python.webp"
         },
         {
+          "id": "https://danmackinlay.name/notebook/vs_code_python.html",
+          "author": null,
+          "description": "Interaction with/execution of python\n\nInteractive python\nJupyter\n\nDebugger\n\nInteractive/jupyter kernel debugger\nUseful configs\n\nRefactoring\n“Intellisense”\nLinting\nVS Code support for python is getting pretty good.\nHere is where I document how, and my preferred configuration.\n\nInteraction with/execution of python\nInteractive python\nTIL that VS code’s so-called jupyter support includes a fully interactive python code environment that does not require the awful jupyter notebook file-format/interface, but operates plain python modules.\nThe trick is to put the magic # %% comment in:\n# %%\nmsg = \"Hello World\"\nprint(msg)\n# %%\nmsg = \"Hello again\"\nprint(msg)\nNow everything after that comment is one “cell” that I can run with a click or Ctrl-Enter.\nNB: that keyboard shortcut to execute the cell somet…",
+          "link": "https://danmackinlay.name/notebook/vs_code_python.html",
+          "publishedOn": "2023-10-17T02:20:45.000Z",
+          "wordCount": 1499,
+          "title": "VS Code for python",
+          "imageUrl": "https://danmackinlay.name/images/contraption_lady.webp"
+        },
+        {
           "id": "https://danmackinlay.name/notebook/pytorch.html",
           "author": null,
           "description": "Getting started\nFunctorch\nGotchas and tips\n\nPytorch can’t actually do big linear algebra calcs\nMutation\nComplex numbers\ndo not use torch.diag\n\nGoing faster\n\nOn Apple devices\n\nDiagnostics, debugging\n\nHooks\nPretty printing\nMemory leaks\nIs the GPU working?\nLogging and profiling\nVisualising network graphs\n\nStructured (multi-)linear algebra\n\nEinstein convention\nLinearOperator\nKeOps\n\nCustom Functions\nFancy gradients\n\nStochastic gradients\nASD(FGHJK)L\nbackpack\nPyHessian\nRegularization gradients\n\nAdvanced optimisation\n\nParameterizations\nConstrained optimisation\n\nProbabilistic programming\nCurve interpolation, quadrature, and ODEs\nRecurrent nets\nDistributed\nE-Z wrappers\n\nLightning\nFabric\nCatalyst\nfast.ai\n\nDomain libraries\nEvolution\nIncoming\nReferences\nSuccessor to Lua’s torch.\nEvil twin to Googles’s …",
@@ -9504,16 +9564,6 @@
           "wordCount": 1531,
           "title": "Classification",
           "imageUrl": "https://danmackinlay.name/images/The_Last_judgement.avif"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/internet_search.html",
-          "author": null,
-          "description": "Search with notionally good privacy\n\nMojeek\nStartpage\nDuckDuckGo\nBrave\nQwant\nRunnaroo\nSearch encrypt\n\nDIY search proxies\n\nsearx\nmysearch\n\nFancy search\n\nYou\nOthers\n\nDecentralised search\nIncoming\nDiscovering my website’s search\n\nSearch with notionally good privacy\nI don’t want large search businesses to know what I am searching for.\nAlso, some argue, monopoly search engines make the internet boring.\nHere are some links to search engines which may redress these problem.\nMany of these make strong claims to protect user privacy, although few offer substantive guarantees in excess of inspecting tracking headers.\nSome of them repackage other searches; some run their own indices.\nMost of them have very unclear business models.\nMojeek\nMojeek/Mojeek Focus (Bookmark) Search Engine\nMojeek was created …",
-          "link": "https://danmackinlay.name/notebook/internet_search.html",
-          "publishedOn": "2023-10-11T20:13:25.000Z",
-          "wordCount": 946,
-          "title": "Internet search engines",
-          "imageUrl": "https://danmackinlay.name/images/swag_guy.png"
         }
       ]
     },
@@ -9522,6 +9572,16 @@
       "feedUrl": "http://news.google.com/news?hl=en&output=rss&q=Google+NZ+blog&cf=all&num=30",
       "siteUrl": "https://news.google.com/search?hl=en-US&q=Google+NZ+blog&cf=all&num=30&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMid2h0dHBzOi8vd3d3Lm56aGVyYWxkLmNvLm56L3RyYXZlbC9ob3ctdG8tcmVjb2duaXNlLWZha2UtdHJhdmVsLXRoYXRzLWJlZW4taW5maWx0cmF0ZWQtYnktYWkvTTJGQTRENDNYQkdRTk9IVVcyRzNQSFBPR00v0gEA",
+          "author": null,
+          "description": "How to recognise fake travel that’s been infiltrated by AI  New Zealand Herald",
+          "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm56aGVyYWxkLmNvLm56L3RyYXZlbC9ob3ctdG8tcmVjb2duaXNlLWZha2UtdHJhdmVsLXRoYXRzLWJlZW4taW5maWx0cmF0ZWQtYnktYWkvTTJGQTRENDNYQkdRTk9IVVcyRzNQSFBPR00v0gEA?oc=5",
+          "publishedOn": "2023-11-10T19:00:00.000Z",
+          "wordCount": 5022,
+          "title": "How to recognise fake travel that’s been infiltrated by AI - New Zealand Herald",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiXWh0dHBzOi8vd3d3Lm1zbmJjLmNvbS90aGUtcmVpZG91dC9yZWlkb3V0LWJsb2cvYWktZXhwZXJ0LWNvbmNlcm5zLXJvYm90LXJldm9sdXRpb24tcmNuYTEyMzkwONIBPWh0dHBzOi8vd3d3Lm1zbmJjLmNvbS9tc25iYy9hbXAvc2hvd3MvcmVpZG91dC9ibG9nL3JjbmExMjM5MDg",
           "author": null,
@@ -10090,16 +10150,6 @@
           "publishedOn": "2023-10-12T16:53:23.000Z",
           "wordCount": 5002,
           "title": "Google Pixel 8 Pro Turns Out To Be Stronger Than The IPhone 15 ... - Gadget Tendency",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9iZXN0LWJ1eXMvdHJlbmRzLWFuZC1ldmVudHMvYmVzdC1hZHZlbnQtY2FsZW5kYXJz0gEA",
-          "author": null,
-          "description": "Shop the best advent calendars of 2023  Daily Mail",
-          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9iZXN0LWJ1eXMvdHJlbmRzLWFuZC1ldmVudHMvYmVzdC1hZHZlbnQtY2FsZW5kYXJz0gEA?oc=5",
-          "publishedOn": "2023-10-12T07:00:00.000Z",
-          "wordCount": 5001,
-          "title": "Shop the best advent calendars of 2023 - Daily Mail",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
