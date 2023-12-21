@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/",
+          "author": "hello@smashingmagazine.com (Šime Vidas)",
+          "description": "Since the introduction of CSS viewport units in 2012, many of us have been using `width: 100vw` as a way to set an element’s width to the full width of the viewport. But, as Šime Vidas explains in this deep dive, `100vw` does not always represent the full width of the viewport due to differences in how browsers handle scrollbars.",
+          "link": "https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/",
+          "publishedOn": "2023-12-20T10:00:00.000Z",
+          "wordCount": 7419,
+          "title": "New CSS Viewport Units Do Not Solve The Classic Scrollbar Problem",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-viewport-units-not-solve-classic-scrollbar-problem/new-css-viewport-units-not-solve-classic-scrollbar-problem.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-viewport-units-not-solve-classic-scrollbar-problem/new-css-viewport-units-not-solve-classic-scrollbar-problem.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/",
           "author": "hello@smashingmagazine.com (Luis Ouriach)",
           "description": "Part 2 concentrates on the key points from Luis’ framework and practical tips about managing a design system that should be both robust and easy to adopt.",
@@ -196,21 +211,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/",
-          "author": "hello@smashingmagazine.com (Victor Yocco & Dana Daniels)",
-          "description": "Product teams benefit from knowing their users’ needs and how they respond to product updates as they build out the roadmap of a product. This article covers Voice of Customer programs and is aimed at those who work on a product team as well as executives who are looking for how to better inform your products using insight from users.",
-          "link": "https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/",
-          "publishedOn": "2023-11-21T12:00:00.000Z",
-          "wordCount": 7486,
-          "title": "Creating And Maintaining A Voice Of Customer Program",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/creating-maintaining-voice-customer-program/creating-maintaining-voice-customer-program.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/creating-maintaining-voice-customer-program/creating-maintaining-voice-customer-program.jpg"
         }
       ]
     },
@@ -219,6 +219,236 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.latimes.com/environment/story/2023-12-20/california-workers-say-herbicide-is-giving-them-parkinsons",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.latimes.com/environment/story/2023-12-20/california-workers-say-herbicide-is-giving-them-parkinsons",
+          "publishedOn": "2023-12-21T02:37:55.000Z",
+          "wordCount": 7832,
+          "title": "U.S. workers say banned weed killer in 50 countries is giving them Parkinson's",
+          "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/2b71078/2147483647/strip/true/crop/5648x2965+0+396/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9a%2Fd6%2F0f29d0c84c76a28c9429806bbcdb%2F1366606-me-parkinsons-paraquat-lawsuit16-ms.jpg"
+        },
+        {
+          "id": "https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/",
+          "publishedOn": "2023-12-21T02:12:41.000Z",
+          "wordCount": 22458,
+          "title": "A closer look at e/OS: Murena's privacy-first 'deGoogled' Android alternative",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/09/murena-eos-fairphone-4-side.jpg?resize=1200,900"
+        },
+        {
+          "id": "https://embracethered.com/blog/posts/2023/openai-data-exfiltration-first-mitigations-implemented/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://embracethered.com/blog/posts/2023/openai-data-exfiltration-first-mitigations-implemented/",
+          "publishedOn": "2023-12-21T01:38:10.000Z",
+          "wordCount": 995,
+          "title": "OpenAI Begins Tackling ChatGPT Data Leak Vulnerability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tailwindui.com/templates/catalyst",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tailwindui.com/templates/catalyst",
+          "publishedOn": "2023-12-21T01:31:47.000Z",
+          "wordCount": 1411,
+          "title": "Catalyst – Tailwind CSS Application UI Kit",
+          "imageUrl": "https://tailwindui.com/img/templates/catalyst/twitter.png"
+        },
+        {
+          "id": "https://press.princeton.edu/ideas/what-its-like-to-be-a-bee",
+          "author": null,
+          "description": "Comments",
+          "link": "https://press.princeton.edu/ideas/what-its-like-to-be-a-bee",
+          "publishedOn": "2023-12-20T23:57:44.000Z",
+          "wordCount": 6473,
+          "title": "What It's Like to Be a Bee",
+          "imageUrl": "https://press.princeton.edu/sites/default/files/styles/facebook/public/image/2023-11/kelsey-krajewski-hGA9eOkhjAQ-unsplash_crop.jpg?h=a034d9b3&itok=4leQVgdU"
+        },
+        {
+          "id": "https://news.stanford.edu/2023/12/20/breast-cancer-metastasis-off-switch-revealed/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.stanford.edu/2023/12/20/breast-cancer-metastasis-off-switch-revealed/",
+          "publishedOn": "2023-12-20T23:51:38.000Z",
+          "wordCount": 2578,
+          "title": "Researchers uncover on/off switch for breast cancer metastasis",
+          "imageUrl": "https://news.stanford.edu/wp-content/uploads/2023/12/wang_li_horizontal_hires.jpeg"
+        },
+        {
+          "id": "https://support.apple.com/en-gb/HT213465",
+          "author": null,
+          "description": "Comments",
+          "link": "https://support.apple.com/en-gb/HT213465",
+          "publishedOn": "2023-12-20T22:46:35.000Z",
+          "wordCount": 3376,
+          "title": "iMessage Key Verification",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.panoptica.app/research/7-ways-to-escape-a-container",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.panoptica.app/research/7-ways-to-escape-a-container",
+          "publishedOn": "2023-12-20T22:40:14.000Z",
+          "wordCount": 9184,
+          "title": "How to Escape a Container",
+          "imageUrl": "https://www.panoptica.app/wp-content/uploads/2023/08/shutterstock_2038221926-scaled.jpg"
+        },
+        {
+          "id": "https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f",
+          "publishedOn": "2023-12-20T21:00:33.000Z",
+          "wordCount": 1344,
+          "title": "TigerEye (YC S22) is hiring an experienced front end engineer",
+          "imageUrl": "https://app.ashbyhq.com/api/images/org-theme-social/5126ccfd-7867-4f30-99df-a6f6babeae7b/0724e1ee-3292-4814-abbe-a4424a895996.png"
+        },
+        {
+          "id": "https://www.sixdegreesofwikipedia.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sixdegreesofwikipedia.com/",
+          "publishedOn": "2023-12-20T20:26:43.000Z",
+          "wordCount": 16,
+          "title": "Six Degrees of Wikipedia",
+          "imageUrl": "https://sixdegreesofwikipedia.com//sdowSquareLogo.png"
+        },
+        {
+          "id": "https://lockedinspace.com/posts/002.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lockedinspace.com/posts/002.html",
+          "publishedOn": "2023-12-20T19:57:48.000Z",
+          "wordCount": 320,
+          "title": "Lessons on building business value",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openpipe.ai/blog/mistral-7b-fine-tune-optimized",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openpipe.ai/blog/mistral-7b-fine-tune-optimized",
+          "publishedOn": "2023-12-20T19:50:24.000Z",
+          "wordCount": 2543,
+          "title": "Mistral 7B Fine-Tune Optimized",
+          "imageUrl": "https://framerusercontent.com/images/O2HuVsgNWtYu18MJcUbFEFDZY2g.png"
+        },
+        {
+          "id": "https://www.righto.com/2023/12/HP-silicon-on-sapphire-phi-chip.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.righto.com/2023/12/HP-silicon-on-sapphire-phi-chip.html",
+          "publishedOn": "2023-12-20T19:05:11.000Z",
+          "wordCount": 5711,
+          "title": "The transparent chip inside a vintage Hewlett-Packard floppy drive",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWE4Rk5VvDb6YOoLkfW-FboNoX9kvJT8tKW7lfgyGS17_TVm0WGa7mLd3ndZ85clresWJMeoVwVvEpIFQJYs0eesHCiAyv8sE1-MJ_T8s65iZvTaMERqZQcIg6m3cXYrF8=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://blog.notryan.com/009.txt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.notryan.com/009.txt",
+          "publishedOn": "2023-12-20T17:55:22.000Z",
+          "wordCount": 1552,
+          "title": "100 Lines of C, in a Closet (2020)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lwn.net/Articles/884875/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/Articles/884875/",
+          "publishedOn": "2023-12-20T16:53:05.000Z",
+          "wordCount": 3766,
+          "title": "Uniting the Linux random-number devices (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://wireflow.co/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wireflow.co/",
+          "publishedOn": "2023-12-20T15:55:07.000Z",
+          "wordCount": 52,
+          "title": "Wireflow – free, online, open source tool for creating user-flow prototypes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug",
+          "publishedOn": "2023-12-20T14:56:26.000Z",
+          "wordCount": 4497,
+          "title": "Volkswagen, Porsche, and Audi say they will use Tesla's EV charging plug",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/zliSdSOXedi8trmHOj4lxqK2J6g=/0x0:1000x1114/1200x628/filters:focal(500x557:501x558)/cdn.vox-cdn.com/uploads/chorus_asset/file/25174783/17363_VolkswagenAudiPorscheandScoutMotorsbrandstoimplementtheNorthAmericanChargingStandardinfutureelectricvehicles.jpg"
+        },
+        {
+          "id": "https://github.com/johnma2006/mamba-minimal",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/johnma2006/mamba-minimal",
+          "publishedOn": "2023-12-20T13:58:51.000Z",
+          "wordCount": 781,
+          "title": "Implementation of Mamba in one file of PyTorch",
+          "imageUrl": "https://opengraph.githubassets.com/1e793770e80ed65494cddba199ab8e0c21e56b27ee3feee7034e53bf5c2760e5/johnma2006/mamba-minimal"
+        },
+        {
+          "id": "https://nathan.ho.name/posts/acoustic-sounds/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nathan.ho.name/posts/acoustic-sounds/",
+          "publishedOn": "2023-12-20T13:48:09.000Z",
+          "wordCount": 1474,
+          "title": "Making synthesized sounds more acoustic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/SJTU-IPADS/PowerInfer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/SJTU-IPADS/PowerInfer",
+          "publishedOn": "2023-12-20T13:46:08.000Z",
+          "wordCount": 1894,
+          "title": "High-Speed Large Language Model Serving on PCs with Consumer-Grade GPUs",
+          "imageUrl": "https://opengraph.githubassets.com/cce3ae2420cc8b6a4d433dca013d6c8df57949366b90c767966d7df110d92a78/SJTU-IPADS/PowerInfer"
+        },
+        {
+          "id": "https://www.tomshardware.com/tech-industry/quantum-computing/ibm-demonstrates-useful-quantum-computing-within-133-qubit-heron-announces-entry-into-quantum-centric-supercomputing-era",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tomshardware.com/tech-industry/quantum-computing/ibm-demonstrates-useful-quantum-computing-within-133-qubit-heron-announces-entry-into-quantum-centric-supercomputing-era",
+          "publishedOn": "2023-12-20T13:05:53.000Z",
+          "wordCount": 21393,
+          "title": "IBM demonstrates 133-qubit Heron",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/XBgfzYTzMMYoseCZjiUuyg-1200-80.png"
+        },
+        {
+          "id": "https://victorguyard.com/projects/createxcapstone",
+          "author": null,
+          "description": "Comments",
+          "link": "https://victorguyard.com/projects/createxcapstone",
+          "publishedOn": "2023-12-20T09:51:03.000Z",
+          "wordCount": 2161,
+          "title": "Creating a Disc Golf picker upper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://techcrunch.com/2023/12/20/bird-bankruptcy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2023/12/20/bird-bankruptcy/",
+          "publishedOn": "2023-12-20T09:21:01.000Z",
+          "wordCount": 18201,
+          "title": "Electric scooter company Bird files for bankruptcy",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1149449644.jpg?resize=1200,798"
+        },
         {
           "id": "https://www.tesla.com/blog/all-our-patent-are-belong-you",
           "author": null,
@@ -280,6 +510,16 @@
           "imageUrl": "https://tim.siosm.fr/assets/images/fedora-kinoite-desktop.webp"
         },
         {
+          "id": "https://www.switchyardmag.com/issue-1/bulgarianfrontier",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.switchyardmag.com/issue-1/bulgarianfrontier",
+          "publishedOn": "2023-12-19T21:59:39.000Z",
+          "wordCount": 6832,
+          "title": "The Closing of the Bulgarian Frontier",
+          "imageUrl": "http://static1.squarespace.com/static/65203ed8bebd9d456c1ad651/6529e1a1ecc7e60d996474c1/652e0d3fd11d3d0e62042dcc/1701231910910/Bulgaria_3_web.jpg?format=1500w"
+        },
+        {
           "id": "https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/",
           "author": null,
           "description": "Comments",
@@ -298,6 +538,16 @@
           "wordCount": 1954,
           "title": "Vulkan video extensions for accelerated H.264 and H.265 encode",
           "imageUrl": "https://www.khronos.org/assets/images/Khronos-250px-with-tagline-New.png"
+        },
+        {
+          "id": "http://blog.pamelafox.org/2023/12/my-failed-attempt-at-using-closet-as.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://blog.pamelafox.org/2023/12/my-failed-attempt-at-using-closet-as.html",
+          "publishedOn": "2023-12-19T20:05:37.000Z",
+          "wordCount": 3891,
+          "title": "My failed attempt at using a closet as an office",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjwdt1zfI6zqmunIbcrFHBYH3TWxco-rpTD0xMXFg9rngGJs8xE-iEgM5B1Y7LyxIoJ8avY1jb7qBFXfDcGEK_3om_pOrwj37ZksmWWfldVKCttzsXx8Sj_5ZRlp61vxCYDPqfzYMremVKU-kt6LNxKFar4hYOI2pwCpT8tfLgJg4s3ji0lSfryH3c2g/w1200-h630-p-k-no-nu/layout.png"
         },
         {
           "id": "https://captain-of-coit.github.io/cs2-ecs-explorer/#system/Game.Simulation.ServiceFeeSystem",
@@ -420,6 +670,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker",
+          "publishedOn": "2023-12-19T13:40:23.000Z",
+          "wordCount": 1156,
+          "title": "Blogging Like a Hacker (2008)",
+          "imageUrl": null
+        },
+        {
           "id": "https://webbtelescope.org/contents/news-releases/2023/news-2023-150",
           "author": null,
           "description": "Comments",
@@ -470,6 +730,26 @@
           "imageUrl": "https://opengraph.githubassets.com/7c60c9caaab884e0e0364c538e2e26e9bea4db381204beb1fe22270c58d4ffc7/TuneNN/TuneNN"
         },
         {
+          "id": "https://www.tokyodev.com/articles/all-code-is-technical-debt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tokyodev.com/articles/all-code-is-technical-debt",
+          "publishedOn": "2023-12-19T10:46:47.000Z",
+          "wordCount": 2585,
+          "title": "All code is technical debt",
+          "imageUrl": "https://www.tokyodev.com/a/all-code-is-technical-debt/social_preview.png"
+        },
+        {
+          "id": "https://neumannspace.com/neumann-drive/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://neumannspace.com/neumann-drive/",
+          "publishedOn": "2023-12-19T10:33:19.000Z",
+          "wordCount": 17831,
+          "title": "Neumann Drive: A Pulsed Cathodic Arc Thruster for Spacecrafts",
+          "imageUrl": "https://neumannspace.com/wp-content/uploads/2022/07/Blue-stars-motion-blured.jpg"
+        },
+        {
           "id": "https://techcrunch.com/2023/12/07/spotify-layoffs-podcast-industry-fallout/",
           "author": null,
           "description": "Comments",
@@ -488,6 +768,16 @@
           "wordCount": 1294,
           "title": "Humans progressively feel agency over events triggered before their actions",
           "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
+          "id": "https://lisa.sunder.net/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lisa.sunder.net/",
+          "publishedOn": "2023-12-19T09:06:33.000Z",
+          "wordCount": 2189,
+          "title": "Lisa Emulator Project",
+          "imageUrl": null
         },
         {
           "id": "https://osshistory.org/p/the-world-before-git",
@@ -548,6 +838,16 @@
           "wordCount": 636,
           "title": "The first experimental support for LK99-type superconductivity",
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html",
+          "publishedOn": "2023-12-19T02:50:22.000Z",
+          "wordCount": 651,
+          "title": "Improving Emacs Isearch Usability with Transient",
+          "imageUrl": "http://yummymelon.com/devnull/images/opengraph-default.jpg"
         },
         {
           "id": "https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook",
@@ -8698,356 +8998,6 @@
           "wordCount": 5687,
           "title": "Code Search at Google: Han-Wen and Zoekt",
           "imageUrl": "https://storage.googleapis.com/sourcegraph-assets/blog/blog-building-foundation-code-search.jpg"
-        },
-        {
-          "id": "https://pickcode.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pickcode.io/",
-          "publishedOn": "2023-11-21T16:16:38.000Z",
-          "wordCount": 405,
-          "title": "Show HN: New visual language for teaching kids to code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XSkjdfaHxhw",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=XSkjdfaHxhw",
-          "publishedOn": "2023-11-21T15:00:29.000Z",
-          "wordCount": null,
-          "title": "Candela P-12 taking off – Electric hydrofoiling passenger vessel [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://resobscura.substack.com/p/margaret-mead-technocracy-and-the",
-          "author": null,
-          "description": "Comments",
-          "link": "https://resobscura.substack.com/p/margaret-mead-technocracy-and-the",
-          "publishedOn": "2023-11-21T14:37:04.000Z",
-          "wordCount": 6371,
-          "title": "Margaret Mead, technocracy, and the origins of AI's ideological divide",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f6f3a35-31ab-4893-8fdd-25051c032fb2_578x800.jpeg"
-        },
-        {
-          "id": "https://arxiv.org/abs/2311.10770",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2311.10770",
-          "publishedOn": "2023-11-21T14:31:08.000Z",
-          "wordCount": 627,
-          "title": "Exponentially faster language modelling",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://wiki.csswg.org/ideas/mistakes",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wiki.csswg.org/ideas/mistakes",
-          "publishedOn": "2023-11-21T14:02:15.000Z",
-          "wordCount": 1006,
-          "title": "Mistakes in the Design of CSS (2013)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theguardian.com/travel/2023/nov/21/people-dance-on-tables-welcome-to-belgrades-kafana-pub-culture",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theguardian.com/travel/2023/nov/21/people-dance-on-tables-welcome-to-belgrades-kafana-pub-culture",
-          "publishedOn": "2023-11-21T11:43:10.000Z",
-          "wordCount": 5539,
-          "title": "Belgrade's kafana pub culture",
-          "imageUrl": "https://i.guim.co.uk/img/media/a152073360601f629211ad6efddd40d95b309caf/0_96_2048_1229/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25621b5b144fd47ca073d80ef9aac2b2"
-        },
-        {
-          "id": "https://makepixelsdance.github.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://makepixelsdance.github.io/",
-          "publishedOn": "2023-11-21T11:32:18.000Z",
-          "wordCount": 650,
-          "title": "Make Pixels Dance: High-Dynamic Video Generation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theatlantic.com/technology/archive/2023/11/ai-ethics-academia/675913/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theatlantic.com/technology/archive/2023/11/ai-ethics-academia/675913/",
-          "publishedOn": "2023-11-21T11:28:40.000Z",
-          "wordCount": 7349,
-          "title": "My north star for the future of AI",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/baZa6GkkSEeTFg25FZ-zDVnw-eM=/0x43:2000x1085/1200x625/media/img/mt/2023/11/AI_research/original.jpg"
-        },
-        {
-          "id": "https://www.fluentsearch.net/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.fluentsearch.net/",
-          "publishedOn": "2023-11-21T06:52:32.000Z",
-          "wordCount": 151,
-          "title": "Fluent Search",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.alignmentforum.org/posts/odtMt7zbMuuyavaZB/when-do-brains-beat-brawn-in-chess-an-experiment",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.alignmentforum.org/posts/odtMt7zbMuuyavaZB/when-do-brains-beat-brawn-in-chess-an-experiment",
-          "publishedOn": "2023-11-21T06:35:48.000Z",
-          "wordCount": 11475,
-          "title": "When do \"brains beat brawn\" in chess? An experiment",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07120b51-4b5f-4e42-bfec-f3b48084678e_940x848.png"
-        },
-        {
-          "id": "https://www.nytimes.com/2023/11/20/podcasts/mayhem-at-openai-our-interview-with-sam-altman.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2023/11/20/podcasts/mayhem-at-openai-our-interview-with-sam-altman.html",
-          "publishedOn": "2023-11-21T04:09:07.000Z",
-          "wordCount": null,
-          "title": "NYT interviews Sam Altman (11/20/23)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arstechnica.com/gadgets/2023/11/framework-laptop-prices-go-as-low-as-639-thanks-to-refurbs-and-factory-seconds/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arstechnica.com/gadgets/2023/11/framework-laptop-prices-go-as-low-as-639-thanks-to-refurbs-and-factory-seconds/",
-          "publishedOn": "2023-11-21T03:57:26.000Z",
-          "wordCount": 1887,
-          "title": "Framework Laptop prices go as low as $639 thanks to refurbs and factory seconds",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_1034-760x380.jpeg"
-        },
-        {
-          "id": "https://www.newyorker.com/news/daily-comment/the-next-power-plant-is-on-the-roof-and-in-the-basement",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newyorker.com/news/daily-comment/the-next-power-plant-is-on-the-roof-and-in-the-basement",
-          "publishedOn": "2023-11-21T03:41:05.000Z",
-          "wordCount": 35090,
-          "title": "The Next Power Plant Is on the Roof and in the Basement",
-          "imageUrl": "https://media.newyorker.com/photos/6557b8748b37c4c27554eedc/16:9/w_1280,c_limit/McKibben-VPPs.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/space/2023/11/heres-why-this-weekends-starship-launch-was-actually-a-huge-success/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arstechnica.com/space/2023/11/heres-why-this-weekends-starship-launch-was-actually-a-huge-success/",
-          "publishedOn": "2023-11-21T03:39:23.000Z",
-          "wordCount": 1840,
-          "title": "Sorry doubters, Starship had a remarkably successful flight",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/starship-1-760x380.jpg"
-        },
-        {
-          "id": "https://cleanenergyrevolution.co/2023/11/20/tesla-model-3-fault-rate-is-the-highest-of-any-car-report/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cleanenergyrevolution.co/2023/11/20/tesla-model-3-fault-rate-is-the-highest-of-any-car-report/",
-          "publishedOn": "2023-11-21T03:33:06.000Z",
-          "wordCount": 2551,
-          "title": "Tesla Model 3 fault rate is the highest of any car: report",
-          "imageUrl": "https://cleanenergyrevolution.co/wp-content/uploads/2023/02/9h-1.jpg"
-        },
-        {
-          "id": "https://observablehq.com/@ldgrp/sydney-trees-jacaranda",
-          "author": null,
-          "description": "Comments",
-          "link": "https://observablehq.com/@ldgrp/sydney-trees-jacaranda",
-          "publishedOn": "2023-11-21T01:44:47.000Z",
-          "wordCount": 1304,
-          "title": "How many jacaranda trees are there in Sydney?",
-          "imageUrl": "https://static.observableusercontent.com/thumbnail/979f4cbbb14dd512858373bb0c14dc04480b41a7a7e4a3e2c97a01d0c9800112.jpg"
-        },
-        {
-          "id": "https://popehat.substack.com/p/my-free-speech-means-you-have-to",
-          "author": null,
-          "description": "Comments",
-          "link": "https://popehat.substack.com/p/my-free-speech-means-you-have-to",
-          "publishedOn": "2023-11-21T01:20:48.000Z",
-          "wordCount": 3223,
-          "title": "My Free Speech Means You Have to Shut Up",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffae09559-c27d-414d-a4fb-81dd30e4e895_1257x456.jpeg"
-        },
-        {
-          "id": "https://phys.org/news/2023-11-brightest-disturbed-earth-atmosphere-year.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2023-11-brightest-disturbed-earth-atmosphere-year.html",
-          "publishedOn": "2023-11-21T00:46:58.000Z",
-          "wordCount": 2012,
-          "title": "Brightest flash ever disturbed Earth's atmosphere last year",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/2023/an-artists-impression-2.jpg"
-        },
-        {
-          "id": "https://twitter.com/KateClarkTweets/status/1726732841730326862",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/KateClarkTweets/status/1726732841730326862",
-          "publishedOn": "2023-11-21T00:36:26.000Z",
-          "wordCount": 1548,
-          "title": "Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/britishlibrary/status/1726618361398722754",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/britishlibrary/status/1726618361398722754",
-          "publishedOn": "2023-11-20T23:56:00.000Z",
-          "wordCount": 1742,
-          "title": "British Library has been offline for three weeks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html",
-          "publishedOn": "2023-11-20T23:47:05.000Z",
-          "wordCount": 1013,
-          "title": "Stack buffer overflow attack: 211BSD on the PDP-11",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC1tCj7TAGD7L7LRzQfgXX5eUnlWCGmJgD2MfNBYghcm4Yt6LnhHOJ0suNSwJamfPuv7WZHL8oNKXbhalckCTsMAGJLyLjVVm93PXxVWUozFYAL9H2-lNKu999IIgAdtVpQCA0ZOS7QwUHfpXJmK-jNu-mo3w2Bk3tK6KRTZHChK1QopX19ls29ipZQhI/w1200-h630-p-k-no-nu/belong-to-us-pdp11.png"
-        },
-        {
-          "id": "https://www.businessinsider.com/openais-employees-given-explanations-why-sam-altman-out-2023-11",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.businessinsider.com/openais-employees-given-explanations-why-sam-altman-out-2023-11",
-          "publishedOn": "2023-11-20T23:31:57.000Z",
-          "wordCount": 4922,
-          "title": "OpenAI's employees were given two explanations for why Sam Altman was fired",
-          "imageUrl": "https://i.insider.com/655bd70b22cf74a5739a7df7?width=1200&format=jpeg"
-        },
-        {
-          "id": "https://www.sec.gov/news/press-release/2023-237",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sec.gov/news/press-release/2023-237",
-          "publishedOn": "2023-11-20T23:16:19.000Z",
-          "wordCount": null,
-          "title": "SEC charges Kraken for operating as an unregistered securities exchange",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-46203-y",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/s41598-023-46203-y",
-          "publishedOn": "2023-11-20T21:58:36.000Z",
-          "wordCount": 6283,
-          "title": "Inhibition of ALDH2 by quercetin glucuronide to explain red wine headaches",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-46203-y/MediaObjects/41598_2023_46203_Fig1_HTML.png"
-        },
-        {
-          "id": "https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566",
-          "publishedOn": "2023-11-20T21:58:33.000Z",
-          "wordCount": 16116,
-          "title": "Finley (YC W21) Is Hiring Capital Markets Team Members",
-          "imageUrl": "https://lever-client-logos.s3.us-west-2.amazonaws.com/43be64f4-9596-4af6-bdcd-762165889f75-1614125072291.png"
-        },
-        {
-          "id": "https://www.cnn.com/2023/10/31/health/fda-considers-crispr-treatment-cure-sickle-cell/index.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cnn.com/2023/10/31/health/fda-considers-crispr-treatment-cure-sickle-cell/index.html",
-          "publishedOn": "2023-11-20T21:18:00.000Z",
-          "wordCount": 42213,
-          "title": "FDA considers first CRISPR gene editing treatment that may cure sickle cell",
-          "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230928132232-01-sickle-cell-blood-transfusion-file.jpg?c=16x9&q=w_800,c_fill"
-        },
-        {
-          "id": "https://www.freebsd.org/releases/14.0R/announce/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.freebsd.org/releases/14.0R/announce/",
-          "publishedOn": "2023-11-20T21:16:35.000Z",
-          "wordCount": 2624,
-          "title": "FreeBSD 14.0-Release",
-          "imageUrl": "https://www.freebsd.org/images/logo-thepowertoserve.png"
-        },
-        {
-          "id": "https://tailscale.com/blog/quic-udp-throughput/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tailscale.com/blog/quic-udp-throughput/",
-          "publishedOn": "2023-11-20T21:07:55.000Z",
-          "wordCount": 3399,
-          "title": "Increasing QUIC and UDP Throughput over Tailscale",
-          "imageUrl": "https://tailscale.com/blog/quic-udp-throughput/social.png"
-        },
-        {
-          "id": "https://epic.org/dont-take-it-at-face-value-why-tsas-implementation-of-facial-recognition-is-more-dangerous-than-you-think/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://epic.org/dont-take-it-at-face-value-why-tsas-implementation-of-facial-recognition-is-more-dangerous-than-you-think/",
-          "publishedOn": "2023-11-20T21:02:11.000Z",
-          "wordCount": 2178,
-          "title": "Why TSA's Implementation of Facial Recognition Is More Dangerous Than You Think",
-          "imageUrl": "https://epic.org/wp-content/uploads/fly-images/26870/face-identification-1200x630-c.jpg"
-        },
-        {
-          "id": "https://typst.app/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://typst.app/",
-          "publishedOn": "2023-11-20T20:44:03.000Z",
-          "wordCount": 597,
-          "title": "Typst – Compose Papers Faster",
-          "imageUrl": "https://typst.app/assets/social.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=38353473",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=38353473",
-          "publishedOn": "2023-11-20T19:47:49.000Z",
-          "wordCount": 4432,
-          "title": "Launch HN: Stralis (YC W23) – Hydrogen electric aircraft for medium-haul travel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arxiv.org/abs/2311.08516",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2311.08516",
-          "publishedOn": "2023-11-20T19:35:27.000Z",
-          "wordCount": 649,
-          "title": "LLMs cannot find reasoning errors, but can correct them",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://www.itbrew.com/stories/2023/11/17/after-boeing-declines-to-pay-up-ransomware-group-leaks-45-gb-of-data",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.itbrew.com/stories/2023/11/17/after-boeing-declines-to-pay-up-ransomware-group-leaks-45-gb-of-data",
-          "publishedOn": "2023-11-20T18:47:18.000Z",
-          "wordCount": 2428,
-          "title": "After Boeing declines to pay up, ransomware group leaks 45 GB of data",
-          "imageUrl": "https://cdn.sanity.io/images/bl383u0v/production/111a21a43b49014de454a114aee8741640576536-1500x1000.jpg?rect=0,106,1500,788&w=1200&h=630&q=70&fit=crop&auto=format"
-        },
-        {
-          "id": "https://brandonspark.github.io/150/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://brandonspark.github.io/150/",
-          "publishedOn": "2023-11-20T17:34:50.000Z",
-          "wordCount": 537,
-          "title": "15-150: Principles of Functional Programming",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.collabora.com/news-and-blog/news-and-events/nvk-reaches-vulkan-conformance.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.collabora.com/news-and-blog/news-and-events/nvk-reaches-vulkan-conformance.html",
-          "publishedOn": "2023-11-20T17:34:39.000Z",
-          "wordCount": 940,
-          "title": "NVK reaches Vulkan 1.0 conformance",
-          "imageUrl": "https://www.collabora.com/assets/images/blog/NVK-Conformance.jpg"
         }
       ]
     },
@@ -9113,6 +9063,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/physical-world/2023/central-american-volcanoes-clues-earth-geological-evolution",
+          "author": "Pablo Fonseca Q.",
+          "description": "Along 1,100 kilometers, from Mexico to Costa Rica, lies the Central American volcanic arc, where the variety of magma types make for a geological paradise",
+          "link": "https://knowablemagazine.org/content/article/physical-world/2023/central-american-volcanoes-clues-earth-geological-evolution",
+          "publishedOn": "2023-12-21T04:34:06.252Z",
+          "wordCount": 5637,
+          "title": "Central American volcanoes offer clues to Earth’s geological evolution",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/volcanic-arc-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/volcanic-arc-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/living-world/2023/genes-that-shape-facial-features",
           "author": null,
@@ -9466,6 +9431,16 @@
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
         {
+          "id": "https://danmackinlay.name/notebook/nn_compressing_with.html",
+          "author": null,
+          "description": "References\n\nNot compressing neural networks themselves, but rather using them to compress other things, in the sense of using neural nets to reconstruct signals (images, audio, video) with low error from a small bit-rate summary, especially in concert with existing noisy data transmission pipelines.\nOf course, we might try to do both at once and then think about minimum description length.\nthat might be interesting.\nDescript Audio Codec / descriptinc/descript-audio-codec “ State-of-the-art audio codec with 90x compression factor. Supports 44.1kHz, 24kHz, and 16kHz mono/stereo audio.” (Kumar et al. 2023)\nImage Compression with Neural Networks – Google AI Blog\nmlomnitz/DiffJPEG\nrshin/differentiable-jpeg: Code for \"JPEG-resistant Adversarial Images\"\nReferences\n“Towards a Perceptual Loss: Usin…",
+          "link": "https://danmackinlay.name/notebook/nn_compressing_with.html",
+          "publishedOn": "2023-12-20T07:06:48.000Z",
+          "wordCount": 630,
+          "title": "Neural codecs and compression algorithms",
+          "imageUrl": "https://danmackinlay.name/images/pressure_screw.png"
+        },
+        {
           "id": "https://danmackinlay.name/notebook/static_site_comments.html",
           "author": null,
           "description": "Bake comments into the site code\nHypothes.is\nSelf-hosted comment server\nHosted comment server less suspect than disqus\nComments as github issues\nComments as github discussions\n\ncommenters in the shade of a blog post\nHosting comments is a weak point for static sites, since by definition there is no content server to wait around for random drive-by interactions from the internet.\nBut it is feasible by leveraging various other hosted services, in a slightly laborious, quirky, two-tiers-of-content kind of way.\nI used the hosted Disqus system but it was\nbloated\nand suspect, so I seek alternatives.\nStart with Cloudcannon’s Commenting for Jamstack overview\nBen Fedidat’s reviews.\nHugo’s suggestions\nPeter Baumgartner’s reviews\nThere is a virtue in staying with well supported options— e.g. quarto su…",
@@ -9774,26 +9749,6 @@
           "wordCount": 750,
           "title": "Learning from ranking, learning to predict ranking",
           "imageUrl": "https://danmackinlay.name/images/weighing_opinions_RP-P-OB-89.829.avif"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/dataviz.html",
-          "author": null,
-          "description": "References\n\nA grab-bag of links about making data visually comprehensible.\nFor now this is mostly a lift of people I want to link to, but I might also share some insight into good communicative graphic design if, heaven forfend, I end up needing to pretend to be a graphic designer in some dire strait.\nA weird corner of this discipline is the specialisation, data dashboards, which appeals to executives and thus has money in it, so has its own notebook.\ncxli233/FriendsDontLetFriends: Friends don't let friends make certain types of data visualization - What are they and why are they bad.\nData cuisine visualises statistics via Michelin-star-lookin’ food\nA tour through the visualisation zoo\nMitchell Whitelaw is a practitioner and also a critic of this area.\nSmall multiples is a fun agency in Sydney doing visualisations of intriguing data sets.\nMiriam Quick.\nOmid Kashan\nDavid McCandless founder of …\nInformation is Beautiful is a classic blog of datavis project\nFlowingData likewise blogs tasty links in this area.\nrawgraphs unifies a lot of hip ideas about graphing in a web context.\nThe workds of data visualisation granddaddy, French engineer Charles-Joseph Minard, are online.\nReferences\n“A Tour Through the Visualization Zoo.” Queue 8 (5): 20:20–30.\n\n\nLucchesi, Lydia R., Petra M. Kuhnert, and Christopher K. Wikle. 2021. “Vizumap: An R Package for Visualising Uncertainty in Spatial Data.” Journal of Open Source Software 6 (59): 2409.\n\n\nMcInnes, Leland, John Healy, and James Melville. 2018. “UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction.” arXiv:1802.03426 [Cs, Stat], December.\n\n\nOlah, Chris, Alexander Mordvintsev, and Ludwig Schubert. 2017. “Feature Visualization.” Distill 2 (11): e7.\n\n\nWickham, Hadley. 2010. Ggplot2: Elegant Graphics for Data Analysis (Use R!). Springer.",
-          "link": "https://danmackinlay.name/notebook/dataviz.html",
-          "publishedOn": "2023-11-21T03:20:33.000Z",
-          "wordCount": 535,
-          "title": "Visualising data",
-          "imageUrl": "https://danmackinlay.name/images/lookit.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/incoming.html",
-          "author": null,
-          "description": "To subscribe to\nTo post to team chat\nLinks\nIllustrations\nHomeless links\n\nThings that I think should be noted and filed in an orderly fashion, but which I lack time to address right now.\nContent will change incessantly.\nTo subscribe to\nJesse Meadows - Sluggish\nBig things start small: How Substack sparked its early community of writers\nOuroboros housing collective\nTo post to team chat\ncxli233/FriendsDontLetFriends: Friends don't let friends make certain types of data visualization - What are they and why are they bad.\n\n\nOpenAI’s Misalignment and Microsoft’s Gain – Stratechery by Ben Thompson\n\n\nText-to-CAD: Risks and Opportunities\n\n\nWhy Infinite Coin-Flipping is Bad - by Sarah Constantin\n\n\nAI Breakfast: “Watch this pendulum robot go 37mph, carry up to 100kg of boxes: The world is gonna change…",
-          "link": "https://danmackinlay.name/notebook/incoming.html",
-          "publishedOn": "2023-11-21T03:19:23.000Z",
-          "wordCount": 6918,
-          "title": "Incoming links and notes",
-          "imageUrl": "https://danmackinlay.name/images/lobster_served.png"
         }
       ]
     },
@@ -10001,16 +9956,6 @@
           "wordCount": 5021,
           "title": "Physical Security Demand Surges as Global Data Center ... - PR Newswire UK",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2xpZmVzdHlsZS9zYW0tYWx0bWFuLW9wZW5haS1jaGF0Z3B0LWVsb24tbXVzay1iMTEyMTc0MS5odG1s0gEA",
-          "author": null,
-          "description": "Sam Altman: what drives the tech guru who has been forced out of ...  Evening Standard",
-          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2xpZmVzdHlsZS9zYW0tYWx0bWFuLW9wZW5haS1jaGF0Z3B0LWVsb24tbXVzay1iMTEyMTc0MS5odG1s0gEA?oc=5",
-          "publishedOn": "2023-11-21T10:56:56.000Z",
-          "wordCount": 5021,
-          "title": "Sam Altman: what drives the tech guru who has been forced out of ... - Evening Standard",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10018,18 +9963,7 @@
       "title": "ErrantScience",
       "feedUrl": "https://errantscience.com/feed/",
       "siteUrl": "https://errantscience.com",
-      "articles": [
-        {
-          "id": "http://errantscience.com/?p=18575",
-          "author": "Matthew (@MCeeP)",
-          "description": "If there is one universal shared experience that I can, with some confidence, claim all researchers share then it is the love of free food. Be it biscuits, fruit, small strangely shaped corn things or sweets, every researcher feels the flutter of excitement at the addition of the word free […]",
-          "link": "https://errantscience.com/blog/2023/11/21/free-food/",
-          "publishedOn": "2023-11-21T13:00:00.000Z",
-          "wordCount": 3283,
-          "title": "Research is better with free food",
-          "imageUrl": "https://errantscience.com/wp-content/uploads/210603_-_Free_Food_Stratergy.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
