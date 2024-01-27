@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/01/guide-retrieval-augmented-generation-language-models/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "Language models have shown impressive capabilities. But that doesn’t mean they’re without faults, as anyone who has witnessed a ChatGPT “hallucination” can attest. In this article, Joas Pambou diagnoses the symptoms that cause hallucinations and explains not only what RAG is but also different approaches for using it to solve language model limitations.",
+          "link": "https://smashingmagazine.com/2024/01/guide-retrieval-augmented-generation-language-models/",
+          "publishedOn": "2024-01-26T15:00:00.000Z",
+          "wordCount": 6693,
+          "title": "A Simple Guide To Retrieval Augmented Generation Language Models",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/guide-retrieval-augmented-generation-language-models/guide-retrieval-augmented-generation-language-models.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/guide-retrieval-augmented-generation-language-models/guide-retrieval-augmented-generation-language-models.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/01/css-blurry-shimmer-effect/",
           "author": "hello@smashingmagazine.com (Yair Even Or)",
           "description": "Taking inspiration from shadows, author Yair Even Or creates the same sort of thing, only with a blurring effect in place of the shadow. Read along for a step-by-step explanation of how it comes together using a combination of masks, gradients, and the good ol’ `backdrop-filter` property.",
@@ -121,21 +136,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-january-2024/jan-23-bird-bird-bird-bird-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
-          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "description": "JavaScript may be the most popular client-side language in the world, but it’s far from perfect and not without its quirks. Juan Diego Rodriguez examines several “absurd” JavaScript eccentricities and explains how they made it into the language as well as how to avoid them in your own code.",
-          "link": "https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
-          "publishedOn": "2023-12-28T10:00:00.000Z",
-          "wordCount": 5416,
-          "title": "Making Sense Of “Senseless” JavaScript Features",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/making-sense-of-senseless-javascript-features/making-sense-of-senseless-javascript-features.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/making-sense-of-senseless-javascript-features/making-sense-of-senseless-javascript-features.jpg"
         }
       ]
     },
@@ -144,6 +144,266 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://domainincite.com/29381-icann-picks-the-domain-it-will-never-ever-release",
+          "author": null,
+          "description": "Comments",
+          "link": "https://domainincite.com/29381-icann-picks-the-domain-it-will-never-ever-release",
+          "publishedOn": "2024-01-27T03:45:15.000Z",
+          "wordCount": 2749,
+          "title": "ICANN picks the domain it will never, ever release",
+          "imageUrl": "https://domainincite.com/wp-content/uploads/2023/06/di-for-facebook.png"
+        },
+        {
+          "id": "https://rclone.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rclone.org/",
+          "publishedOn": "2024-01-27T02:50:19.000Z",
+          "wordCount": 1218,
+          "title": "Rclone syncs your files to cloud storage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.twitter.com/latifnasser/status/1750952860131729544",
+          "author": null,
+          "description": "Comments",
+          "link": "https://m.twitter.com/latifnasser/status/1750952860131729544",
+          "publishedOn": "2024-01-27T02:22:52.000Z",
+          "wordCount": null,
+          "title": "Something peculiar in my 2yo's bedroom led me to a revelation about our universe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/vdjagilev/nmap-formatter",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/vdjagilev/nmap-formatter",
+          "publishedOn": "2024-01-27T02:06:52.000Z",
+          "wordCount": 1458,
+          "title": "NMAP-formatter: convert NMAP results to HTML, CSV, JSON, graphviz (dot), SQLite",
+          "imageUrl": "https://opengraph.githubassets.com/ed5b0a6b74b469ddb388b9ae55db4a89abcb9efdbac0d4afd5c56790a42f637f/vdjagilev/nmap-formatter"
+        },
+        {
+          "id": "https://ret2pop.nullring.xyz/blog/stem.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ret2pop.nullring.xyz/blog/stem.html",
+          "publishedOn": "2024-01-27T00:50:47.000Z",
+          "wordCount": 3293,
+          "title": "Stem, a stack-based language with metaprogramming and a C FLI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://open-web-advocacy.org/blog/apple-dma-changes/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://open-web-advocacy.org/blog/apple-dma-changes/",
+          "publishedOn": "2024-01-27T00:49:23.000Z",
+          "wordCount": 768,
+          "title": "Apple's plan to allow browser competition dubbed unworkable",
+          "imageUrl": "https://open-web-advocacy.org/images/logo-192.png"
+        },
+        {
+          "id": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479490/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479490/",
+          "publishedOn": "2024-01-26T23:37:18.000Z",
+          "wordCount": 8434,
+          "title": "Developmental timing of trauma associated with depressive symptoms in adulthood",
+          "imageUrl": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
+        },
+        {
+          "id": "https://www.seacoastonline.com/story/news/2024/01/26/teatotaller-cafe-owner-wins-instagram-case-nh-supreme-court/72345276007/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.seacoastonline.com/story/news/2024/01/26/teatotaller-cafe-owner-wins-instagram-case-nh-supreme-court/72345276007/",
+          "publishedOn": "2024-01-26T23:36:19.000Z",
+          "wordCount": 3456,
+          "title": "A New Hampshire cafe owner sued Meta for deleting his account and won",
+          "imageUrl": "https://www.seacoastonline.com/gcdn/authoring/2020/03/10/NPOH/ghows-SO-f7b5646c-40a8-4a99-abfc-f09567afb0c5-0acaac9d.jpeg?crop=4031,2277,x0,y373&width=3200&height=1808&format=pjpg&auto=webp"
+        },
+        {
+          "id": "https://spectrum.ieee.org/medal-of-honor-bob-kahn",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/medal-of-honor-bob-kahn",
+          "publishedOn": "2024-01-26T22:54:09.000Z",
+          "wordCount": 9015,
+          "title": "2024 IEEE Medal of Honor Goes to Bob Kahn",
+          "imageUrl": "https://spectrum.ieee.org/media-library/portrait-of-an-elderly-man-posing-in-a-black-suit-and-blue-shirt-and-tie.jpg?id=51194896&width=1200&height=600&coordinates=0%2C61%2C0%2C240"
+        },
+        {
+          "id": "https://www.techradar.com/pro/google-is-rapidly-turning-into-a-formidable-opponent-to-bff-nvidia-the-tpu-v5p-ai-chip-powering-its-hypercomputer-is-faster-and-has-more-memory-and-bandwidth-than-ever-before-beating-even-the-mighty-h100",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.techradar.com/pro/google-is-rapidly-turning-into-a-formidable-opponent-to-bff-nvidia-the-tpu-v5p-ai-chip-powering-its-hypercomputer-is-faster-and-has-more-memory-and-bandwidth-than-ever-before-beating-even-the-mighty-h100",
+          "publishedOn": "2024-01-26T21:18:43.000Z",
+          "wordCount": 18167,
+          "title": "Google TPU v5p beats Nvidia H100",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/3a5b921de608f739c438d7e3aaa86a61-1200-80.jpg"
+        },
+        {
+          "id": "https://www.platoedu.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.platoedu.org/",
+          "publishedOn": "2024-01-26T21:04:38.000Z",
+          "wordCount": 3,
+          "title": "Show HN: Anki/Duolingo like app using Educational YouTube videos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yaky.dev/2024-01-25-pinephone-post-daily-driver-review/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://yaky.dev/2024-01-25-pinephone-post-daily-driver-review/",
+          "publishedOn": "2024-01-26T18:05:04.000Z",
+          "wordCount": 3301,
+          "title": "PinePhone review after a month of daily driving",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.eia.gov/todayinenergy/detail.php?id=56880",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=56880",
+          "publishedOn": "2024-01-26T17:43:36.000Z",
+          "wordCount": 1851,
+          "title": "As solar capacity grows, duck curves are getting deeper in California",
+          "imageUrl": "https://www.eia.gov/todayinenergy/images/2023.06.21/main.png?1706329996"
+        },
+        {
+          "id": "https://skii.dev/rook-to-xss/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://skii.dev/rook-to-xss/",
+          "publishedOn": "2024-01-26T17:03:40.000Z",
+          "wordCount": 2787,
+          "title": "How I hacked chess.com with a rookie exploit",
+          "imageUrl": "https://images.unsplash.com/photo-1538221566857-f20f826391c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxjaGVzc3xlbnwwfHx8fDE3MDYyMTgwMDJ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+        },
+        {
+          "id": "https://arxiv.org/abs/2401.13782",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2401.13782",
+          "publishedOn": "2024-01-26T16:57:45.000Z",
+          "wordCount": 704,
+          "title": "Tweets to Citations: The Impact of Social Media Influencers on AI Research",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://untranslatable.co/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://untranslatable.co/",
+          "publishedOn": "2024-01-26T16:47:28.000Z",
+          "wordCount": 350,
+          "title": "Untranslatable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.awais.io/o1-visa/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.awais.io/o1-visa/",
+          "publishedOn": "2024-01-26T15:45:50.000Z",
+          "wordCount": 1861,
+          "title": "How I got an O-1 visa as a software engineer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/",
+          "publishedOn": "2024-01-26T15:31:04.000Z",
+          "wordCount": 994,
+          "title": "Lossy CSS compression for fun and loss (or profit)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://apnews.com/article/israel-gaza-genocide-court-south-africa-27cf84e16082cde798395a95e9143c06",
+          "author": null,
+          "description": "Comments",
+          "link": "https://apnews.com/article/israel-gaza-genocide-court-south-africa-27cf84e16082cde798395a95e9143c06",
+          "publishedOn": "2024-01-26T14:35:06.000Z",
+          "wordCount": 7001,
+          "title": "ICJ orders Israel to prevent genocide in Gaza, stops short of ordering ceasefire",
+          "imageUrl": "https://dims.apnews.com/dims4/default/3afdb36/2147483647/strip/true/crop/6052x3404+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2F5b%2F4c95991d380722bc138fa2b54195%2F693da7b0dd6a47728bdd762c7f9e55b5"
+        },
+        {
+          "id": "https://github.com/oasislinux/oasis",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/oasislinux/oasis",
+          "publishedOn": "2024-01-26T14:11:36.000Z",
+          "wordCount": 1780,
+          "title": "Oasis – a small, statically-linked Linux system",
+          "imageUrl": "https://opengraph.githubassets.com/e77172be804e05e48de49b97d2bb22a335888e527f095c88276cadb7be9a79f2/oasislinux/oasis"
+        },
+        {
+          "id": "https://www.tinysa.org/wiki/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tinysa.org/wiki/",
+          "publishedOn": "2024-01-26T13:51:13.000Z",
+          "wordCount": 1017,
+          "title": "TinySA – small spectrum analyzer and signal generator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html",
+          "publishedOn": "2024-01-26T13:38:21.000Z",
+          "wordCount": 1911,
+          "title": "Details of the new Suzuki Omnichord OM-108",
+          "imageUrl": "assets/images/ogp.png"
+        },
+        {
+          "id": "https://jacquesmattheij.com/cnc-lasers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jacquesmattheij.com/cnc-lasers/",
+          "publishedOn": "2024-01-26T12:17:00.000Z",
+          "wordCount": 9324,
+          "title": "CNC Lasers for Cutting and Engraving",
+          "imageUrl": null
+        },
+        {
+          "id": "https://veera.app/mesh_allocator.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://veera.app/mesh_allocator.html",
+          "publishedOn": "2024-01-26T10:54:10.000Z",
+          "wordCount": 496,
+          "title": "Understanding Mesh Allocator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.historytoday.com/archive/head-head/how-french-was-medieval-england",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.historytoday.com/archive/head-head/how-french-was-medieval-england",
+          "publishedOn": "2024-01-26T05:24:11.000Z",
+          "wordCount": 1725,
+          "title": "How French was medieval England?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.washingtonpost.com/books/2024/01/19/oxford-philosophy-history-book-krishnan/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.washingtonpost.com/books/2024/01/19/oxford-philosophy-history-book-krishnan/",
+          "publishedOn": "2024-01-26T05:18:30.000Z",
+          "wordCount": 9019,
+          "title": "A Terribly Serious adventure: Philosophy and war at Oxford",
+          "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BWEFGUJTPBACREORMDXJ3K5HCA_size-normalized.jpg&w=1440"
+        },
         {
           "id": "https://www.downtownjoshbrown.com/p/rich-people-dont-talk-robots",
           "author": null,
@@ -385,6 +645,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://github.com/spc476/mod_blog",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/spc476/mod_blog",
+          "publishedOn": "2024-01-25T12:29:15.000Z",
+          "wordCount": 867,
+          "title": "Mod_blog: A Blogging Engine in C",
+          "imageUrl": "https://opengraph.githubassets.com/cbc96cf15e181e245fc4ffc0ea4e066354d83cd6adb87f6071b1b72c946c4156/spc476/mod_blog"
+        },
+        {
           "id": "https://susam.net/blog/jenkins-quicksort.html",
           "author": null,
           "description": "Comments",
@@ -393,6 +663,16 @@
           "wordCount": 2130,
           "title": "Quicksort with Jenkins for fun and no profit",
           "imageUrl": null
+        },
+        {
+          "id": "https://d.glezos.com/comp-plan-for-sales-reps/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://d.glezos.com/comp-plan-for-sales-reps/",
+          "publishedOn": "2024-01-25T06:33:38.000Z",
+          "wordCount": 1272,
+          "title": "Just another practical sales rep comp plan",
+          "imageUrl": "https://d.glezos.com/content/images/size/w1200/2024/01/Screenshot-2024-01-24-160056-3-1.png"
         },
         {
           "id": "https://github.com/lucidrains/self-rewarding-lm-pytorch",
@@ -563,6 +843,16 @@
           "wordCount": 23679,
           "title": "OpenAI scrapped a promise to disclose key documents to the public",
           "imageUrl": "https://media.wired.com/photos/65b04a6e6fec05778bba3912/191:100/w_1280,c_limit/OpenAI-Becoming-More-Private-Business-1795088641.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run",
+          "publishedOn": "2024-01-24T19:15:17.000Z",
+          "wordCount": 9820,
+          "title": "The ghostly radio station that no one claims to run",
+          "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p05bbj96.jpg"
         },
         {
           "id": "https://babashka.org/",
@@ -8583,356 +8873,6 @@
           "wordCount": null,
           "title": "Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA",
           "imageUrl": null
-        },
-        {
-          "id": "https://anytype.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://anytype.io/",
-          "publishedOn": "2023-12-28T16:00:21.000Z",
-          "wordCount": 1911,
-          "title": "Show HN: Anytype – local-first, P2P knowledge management",
-          "imageUrl": "https://anytype.io/ogimage.jpg"
-        },
-        {
-          "id": "https://github.com/hunar4321/particle-life",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/hunar4321/particle-life",
-          "publishedOn": "2023-12-28T15:52:17.000Z",
-          "wordCount": 1718,
-          "title": "Particle Life",
-          "imageUrl": "https://opengraph.githubassets.com/f611f3acae5eba49372dc106a7532b762cb377933b4cf61165429c291590e212/hunar4321/particle-life"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PYpD6g6nLd0",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=PYpD6g6nLd0",
-          "publishedOn": "2023-12-28T14:09:13.000Z",
-          "wordCount": null,
-          "title": "Personics: The cassette-based iTunes Store of the 1980s [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.gregegan.net/FOUNDATIONS/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gregegan.net/FOUNDATIONS/",
-          "publishedOn": "2023-12-28T13:28:10.000Z",
-          "wordCount": 379,
-          "title": "Foundations (1997-2000)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dubroy.com/blog/cold-blooded-software/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dubroy.com/blog/cold-blooded-software/",
-          "publishedOn": "2023-12-28T13:22:56.000Z",
-          "wordCount": 677,
-          "title": "Cold-blooded software",
-          "imageUrl": null
-        },
-        {
-          "id": "https://fernandovillalba.substack.com/p/its-not-microservice-or-monolith",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fernandovillalba.substack.com/p/its-not-microservice-or-monolith",
-          "publishedOn": "2023-12-28T12:56:02.000Z",
-          "wordCount": 4897,
-          "title": "It's not microservice or monolith; it's cognitive load",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6fe8814-89f3-4c53-8b73-f8e1b0c7cc66_1200x600.png"
-        },
-        {
-          "id": "https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and",
-          "publishedOn": "2023-12-28T11:38:57.000Z",
-          "wordCount": 6592,
-          "title": "IDEs we had 30 years ago",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffedc5d3b-9816-439d-9aa8-0e04c3e40572_1264x948.png"
-        },
-        {
-          "id": "https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops",
-          "author": null,
-          "description": "Comments",
-          "link": "https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops",
-          "publishedOn": "2023-12-28T09:17:46.000Z",
-          "wordCount": 1264,
-          "title": "You've just been fucked by psyops [video]",
-          "imageUrl": "https://static.media.ccc.de/media/congress/2023/12326-f7375255-379f-4423-a47f-2920246a0916_preview.jpg"
-        },
-        {
-          "id": "https://www.abc.net.au/news/2023-12-28/google-maps-sending-people-wrong-way-quairading-shire/103207090",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.abc.net.au/news/2023-12-28/google-maps-sending-people-wrong-way-quairading-shire/103207090",
-          "publishedOn": "2023-12-28T09:08:19.000Z",
-          "wordCount": 3142,
-          "title": "Quairading shire erects signs telling travellers to ignore Google Maps",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/974253979f54a3562f792b2019285a07?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=90&width=862&height=485"
-        },
-        {
-          "id": "https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/",
-          "publishedOn": "2023-12-28T09:08:05.000Z",
-          "wordCount": 1821,
-          "title": "Formally modeled Dreidel for no good reason",
-          "imageUrl": "https://assets.buttondown.email/images/b665a8db-c930-4215-80b1-d8b89661b34f.png?w=960&fit=max"
-        },
-        {
-          "id": "https://github.com/mcandre/lichen",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/mcandre/lichen",
-          "publishedOn": "2023-12-28T08:22:17.000Z",
-          "wordCount": 2104,
-          "title": "Lichen: The Sed Build System",
-          "imageUrl": "https://opengraph.githubassets.com/ea9e60572e46c2a282cbcd626b68c4bee509573aacd58cc42637ce54c399bb8d/mcandre/lichen"
-        },
-        {
-          "id": "https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html",
-          "publishedOn": "2023-12-28T06:11:31.000Z",
-          "wordCount": 1989,
-          "title": "4B If Statements",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/martinmimigames/little-file-explorer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/martinmimigames/little-file-explorer",
-          "publishedOn": "2023-12-28T04:11:13.000Z",
-          "wordCount": 1150,
-          "title": "Little File Explorer – ~40KB File Manager for Android 1.0 and above",
-          "imageUrl": "https://opengraph.githubassets.com/30b8845104f730591651b7e4aabeffe0bf154d5f8a0d117dbfff9bd67fff7097/martinmimigames/little-file-explorer"
-        },
-        {
-          "id": "https://blog.sanctum.geek.nz/series/unix-as-ide/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.sanctum.geek.nz/series/unix-as-ide/",
-          "publishedOn": "2023-12-28T03:05:45.000Z",
-          "wordCount": 9909,
-          "title": "Unix as IDE (2012)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.developmentsimplyput.com/post/variance-invariance-covariance-contravariance-dotnet",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.developmentsimplyput.com/post/variance-invariance-covariance-contravariance-dotnet",
-          "publishedOn": "2023-12-28T03:01:25.000Z",
-          "wordCount": 17331,
-          "title": "Invariance, Covariance, and Contravariance in .NET C#",
-          "imageUrl": "https://static.wixstatic.com/media/488a99_4d3235c0651e47f09b9a0629d39d2ce4~mv2.png/v1/fill/w_1400,h_935,al_c/488a99_4d3235c0651e47f09b9a0629d39d2ce4~mv2.png"
-        },
-        {
-          "id": "https://tvtropes.org/pmwiki/pmwiki.php/Series/TheSmothersBrothersComedyHour",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tvtropes.org/pmwiki/pmwiki.php/Series/TheSmothersBrothersComedyHour",
-          "publishedOn": "2023-12-28T02:52:00.000Z",
-          "wordCount": 5003,
-          "title": "The Smothers Brothers Comedy Hour",
-          "imageUrl": "https://static.tvtropes.org/pmwiki/pub/images/smothers_brothers_comedy_hour.jpg"
-        },
-        {
-          "id": "https://walterkirn.substack.com/p/generation-junk",
-          "author": null,
-          "description": "Comments",
-          "link": "https://walterkirn.substack.com/p/generation-junk",
-          "publishedOn": "2023-12-28T02:44:12.000Z",
-          "wordCount": 3536,
-          "title": "Generation Junk",
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fwalterkirn.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D720959357%26version%3D9"
-        },
-        {
-          "id": "https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists",
-          "publishedOn": "2023-12-28T02:33:43.000Z",
-          "wordCount": 570,
-          "title": "Book list for streetfighting computer scientists",
-          "imageUrl": "https://nick-black.com/images/answers.jpg"
-        },
-        {
-          "id": "https://www.ramijames.com/thoughts/docs-deserve-more-respect",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ramijames.com/thoughts/docs-deserve-more-respect",
-          "publishedOn": "2023-12-28T01:03:49.000Z",
-          "wordCount": 1645,
-          "title": "Docs Deserve More Respect",
-          "imageUrl": "http://static1.squarespace.com/static/64e5d9126169f2457a405bb5/t/65870a6aff5066124f23c387/1703348842618/SEO.png?format=1500w"
-        },
-        {
-          "id": "https://getjerry.com/careers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://getjerry.com/careers",
-          "publishedOn": "2023-12-28T01:01:39.000Z",
-          "wordCount": 3795,
-          "title": "Jerry (YC S17) Is Hiring PMs, Engineers, Data Roles (Remote)",
-          "imageUrl": "https://d3tg988c3hqr9r.cloudfront.net/_next/image?url=https%3A%2F%2Fgetjerry.com%2F_next%2Fstatic%2Fimages%2Fhero-4ef006be0d945d96..jpg&w=640&q=75"
-        },
-        {
-          "id": "https://game-icons.net/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://game-icons.net/",
-          "publishedOn": "2023-12-28T00:28:21.000Z",
-          "wordCount": 229,
-          "title": "Game-icons.net: Free icons for your games",
-          "imageUrl": null
-        },
-        {
-          "id": "https://streaming.media.ccc.de/37c3/relive/12142",
-          "author": null,
-          "description": "Comments",
-          "link": "https://streaming.media.ccc.de/37c3/relive/12142",
-          "publishedOn": "2023-12-27T23:56:37.000Z",
-          "wordCount": 52,
-          "title": "Breaking \"DRM\" in Polish trains [video] – 37c3 presentation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://valetudo.cloud/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://valetudo.cloud/",
-          "publishedOn": "2023-12-27T23:51:24.000Z",
-          "wordCount": 991,
-          "title": "Valetudo – Cloud replacement for vacuum robots enabling local-only operation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities",
-          "author": null,
-          "description": "Comments",
-          "link": "https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities",
-          "publishedOn": "2023-12-27T23:43:42.000Z",
-          "wordCount": 650,
-          "title": "No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://notjoemartinez.com/blog/chromadb_for_yt-fts/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://notjoemartinez.com/blog/chromadb_for_yt-fts/",
-          "publishedOn": "2023-12-27T23:04:49.000Z",
-          "wordCount": 1424,
-          "title": "Challenges with semantic search on transcribed audio files",
-          "imageUrl": "/img/semantic_search_audio_files.png"
-        },
-        {
-          "id": "https://github.com/jasonjmcghee/rem",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/jasonjmcghee/rem",
-          "publishedOn": "2023-12-27T22:56:22.000Z",
-          "wordCount": 999,
-          "title": "Show HN: Rem: Remember Everything (open source)",
-          "imageUrl": "https://opengraph.githubassets.com/c093185d94b1fbbcc7c7795b05725daabd204b0b0daf1f5ce5b0d038f608b3aa/jasonjmcghee/rem"
-        },
-        {
-          "id": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
-          "publishedOn": "2023-12-27T20:50:04.000Z",
-          "wordCount": 6,
-          "title": "3D Map of Shinjuku Station in Three.js",
-          "imageUrl": null
-        },
-        {
-          "id": "https://allegralaboratory.net/a-claxonomy-of-mexico-citys-traffic/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://allegralaboratory.net/a-claxonomy-of-mexico-citys-traffic/",
-          "publishedOn": "2023-12-27T20:09:37.000Z",
-          "wordCount": 5516,
-          "title": "A Claxonomy of Mexico City's Traffic",
-          "imageUrl": "https://allegralaboratory.net/wp-content/uploads/2023/02/IMG_3791-1.jpg"
-        },
-        {
-          "id": "https://www.eia.gov/todayinenergy/detail.php?id=61106",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.eia.gov/todayinenergy/detail.php?id=61106",
-          "publishedOn": "2023-12-27T19:19:37.000Z",
-          "wordCount": 2247,
-          "title": "First new U.S. nuclear reactor since 2016 is now in operation",
-          "imageUrl": "https://www.eia.gov/todayinenergy/images/2023.12.26/main.png?1703738009"
-        },
-        {
-          "id": "https://webdevelopmenthistory.com/index/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://webdevelopmenthistory.com/index/",
-          "publishedOn": "2023-12-27T19:04:52.000Z",
-          "wordCount": 1198,
-          "title": "Web Development History – Internet history for the technically curious",
-          "imageUrl": "https://webdevelopmenthistory.com/wp-content/uploads/2020/11/wdh_logo3.png"
-        },
-        {
-          "id": "https://apnews.com/article/tom-smothers-dies-smothers-brothers-3e1727faf1b6469da7b2cfc7b2874c56",
-          "author": null,
-          "description": "Comments",
-          "link": "https://apnews.com/article/tom-smothers-dies-smothers-brothers-3e1727faf1b6469da7b2cfc7b2874c56",
-          "publishedOn": "2023-12-27T18:36:16.000Z",
-          "wordCount": 4086,
-          "title": "Comedian Tom Smothers has died",
-          "imageUrl": "https://dims.apnews.com/dims4/default/1f4dc56/2147483647/strip/true/crop/1500x844+0+78/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8a%2Fac%2F3ae2847a9be2b9d8b58236d2b07f%2F4df3379bb4994f899af777ec4b9e9bcb"
-        },
-        {
-          "id": "http://zenorogue.blogspot.com/2023/12/hyperrogue-130.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://zenorogue.blogspot.com/2023/12/hyperrogue-130.html",
-          "publishedOn": "2023-12-27T18:20:17.000Z",
-          "wordCount": 3016,
-          "title": "HyperRogue, a open-source non-Euclidean roguelike: new weapons",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdUFcMqwAdBGzn-BFFVR6z_2oM6eJKE3C_sJDJ7BnIkOeeLpp-p3BbW0C-mB40Ad794iIB7_8Bub3JA9HzKphy_tqSNQxYZD6f_AWZ0KozmQQt7H8Q-C=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit",
-          "publishedOn": "2023-12-27T18:18:36.000Z",
-          "wordCount": 1920,
-          "title": "What's up Python? Epic CPython commit, Django 5 and 2FA for PyPI",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5e32a68-541e-402f-9eaf-e451af7552d4_966x966.png"
-        },
-        {
-          "id": "https://pluto-lang.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pluto-lang.org/",
-          "publishedOn": "2023-12-27T17:25:53.000Z",
-          "wordCount": 145,
-          "title": "Pluto, a Modern Lua Dialect",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/j1b4whvmIOc",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/shorts/j1b4whvmIOc",
-          "publishedOn": "2023-12-27T16:56:18.000Z",
-          "wordCount": 1512,
-          "title": "Chinese villagers capture video of falling Long March rocket booster [video]",
-          "imageUrl": "https://i.ytimg.com/vi/j1b4whvmIOc/hqdefault.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLB4TnlOrnAXfdEGZBtLnlNjOKIx1w"
         }
       ]
     },
@@ -9492,6 +9432,16 @@
       "feedUrl": "http://news.google.com/news?hl=en&output=rss&q=Google+NZ+blog&cf=all&num=30",
       "siteUrl": "https://news.google.com/search?hl=en-US&q=Google+NZ+blog&cf=all&num=30&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiQmh0dHBzOi8vZGVzdGluYXRpb25sZXNzdHJhdmVsLmNvbS9mYW1vdXMtcm9hZC1waG90by1vZi1tb3VudC1jb29rL9IBAA",
+          "author": null,
+          "description": "How to Take the Famous Mount Cook Road Photo - BEST Kept Secret  Destinationless Travel",
+          "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vZGVzdGluYXRpb25sZXNzdHJhdmVsLmNvbS9mYW1vdXMtcm9hZC1waG90by1vZi1tb3VudC1jb29rL9IBAA?oc=5",
+          "publishedOn": "2024-01-24T18:51:13.000Z",
+          "wordCount": 5016,
+          "title": "How to Take the Famous Mount Cook Road Photo - BEST Kept Secret - Destinationless Travel",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiOGh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC90aGUtYmVzdC1hdWRpby1ib29rLXNpdGVz0gEA",
           "author": null,
