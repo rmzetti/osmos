@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "The Performance API is a set of standards for measuring and evaluating performance metrics with JavaScript. This article demonstrates how to use the Performance API to generate performance metrics directly in the DOM to create your own reporting.",
+          "link": "https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/",
+          "publishedOn": "2024-02-27T12:00:00.000Z",
+          "wordCount": 5331,
+          "title": "Reporting Core Web Vitals With The Performance API",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/reporting-core-web-vitals-performance-api/reporting-core-web-vitals-performance-api.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/reporting-core-web-vitals-performance-api/reporting-core-web-vitals-performance-api.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/",
           "author": "hello@smashingmagazine.com (Yichan Wang)",
           "description": "Digital designer Yichan Wang has put together this collection of strategies and selling points to help you encourage and advocate for accessibility in your place of work, including useful scripts you can use as starting points.",
@@ -196,21 +211,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2024/feb-24-love-myself-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/01/feature-centricity-harming-product/",
-          "author": "hello@smashingmagazine.com (Andy Budd)",
-          "description": "Most product teams commonly adopt a feature-centric mindset, finding them convenient for brainstorming, drafting requirement documents, and integrating into backlogs and ticketing systems. In this article, Andy Budd shows how fixation with features might be holding you back and how making a few small tweaks to your process could make an entire world of difference.",
-          "link": "https://smashingmagazine.com/2024/01/feature-centricity-harming-product/",
-          "publishedOn": "2024-01-29T15:00:00.000Z",
-          "wordCount": 5275,
-          "title": "The Feature Trap: Why Feature Centricity Is Harming Your Product",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/feature-centricity-harming-product/feature-centricity-harming-product.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/feature-centricity-harming-product/feature-centricity-harming-product.jpg"
         }
       ]
     },
@@ -219,6 +219,236 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.kyleboddy.com/2024/01/28/building-deep-learning-machines-unorthodox-gpus/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.kyleboddy.com/2024/01/28/building-deep-learning-machines-unorthodox-gpus/",
+          "publishedOn": "2024-02-28T01:48:23.000Z",
+          "wordCount": null,
+          "title": "Building Unorthodox Deep Learning GPU Machines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.gobolinux.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.gobolinux.org/",
+          "publishedOn": "2024-02-28T01:15:56.000Z",
+          "wordCount": 1461,
+          "title": "GoboLinux",
+          "imageUrl": "https://gobolinux.org/images/gobolinux_frontpage.png"
+        },
+        {
+          "id": "https://recurse.chat/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://recurse.chat/",
+          "publishedOn": "2024-02-28T00:40:00.000Z",
+          "wordCount": 199,
+          "title": "Show HN: I made an app to use local AI as daily driver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://echoes.prototape.fm/p/digital-audio-songbook-a-love-letter",
+          "author": null,
+          "description": "Comments",
+          "link": "https://echoes.prototape.fm/p/digital-audio-songbook-a-love-letter",
+          "publishedOn": "2024-02-28T00:32:38.000Z",
+          "wordCount": 4725,
+          "title": "Digital Audio Songbook: A Love Letter to My Unfinished Songs",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3cb58cf7-ca73-4000-a2ff-4aab4282c10f.heic"
+        },
+        {
+          "id": "https://openjdk.org/jeps/467",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openjdk.org/jeps/467",
+          "publishedOn": "2024-02-27T23:21:42.000Z",
+          "wordCount": 4340,
+          "title": "JEP 467: Markdown Documentation Comments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://testcontainers.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://testcontainers.com/",
+          "publishedOn": "2024-02-27T23:15:57.000Z",
+          "wordCount": 703,
+          "title": "Testcontainers",
+          "imageUrl": "https://testcontainers.com//images/share-image.png"
+        },
+        {
+          "id": "https://larahogan.me/blog/desk-moves/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://larahogan.me/blog/desk-moves/",
+          "publishedOn": "2024-02-27T22:34:34.000Z",
+          "wordCount": 2532,
+          "title": "Dealing with surprising human emotions: desk moves (2017)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2",
+          "publishedOn": "2024-02-27T21:46:41.000Z",
+          "wordCount": null,
+          "title": "U.S. opens UnitedHealth antitrust probe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://overkill.wtf/nintendo-sue-yuzu-emulator/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://overkill.wtf/nintendo-sue-yuzu-emulator/",
+          "publishedOn": "2024-02-27T21:25:50.000Z",
+          "wordCount": 2073,
+          "title": "Nintendo is suing the creators of Switch emulator Yuzu",
+          "imageUrl": "https://overkill.wtf/content/images/2024/02/yuzu-switch-lawsuit.jpg"
+        },
+        {
+          "id": "https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything",
+          "author": null,
+          "description": "Comments",
+          "link": "https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything",
+          "publishedOn": "2024-02-27T21:18:24.000Z",
+          "wordCount": null,
+          "title": "Does this 8088 code in the Leisure Suit Larry 2 game do anything?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+          "author": null,
+          "description": "Comments",
+          "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+          "publishedOn": "2024-02-27T20:53:39.000Z",
+          "wordCount": null,
+          "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/SuperTux/supertux",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/SuperTux/supertux",
+          "publishedOn": "2024-02-27T19:42:21.000Z",
+          "wordCount": 3591,
+          "title": "SuperTux",
+          "imageUrl": "https://opengraph.githubassets.com/5b375ccfe1f18fda805c83201c151bf2584c65dc64acc5bd6a5ae60881afacaf/SuperTux/supertux"
+        },
+        {
+          "id": "https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai",
+          "publishedOn": "2024-02-27T19:02:22.000Z",
+          "wordCount": 576,
+          "title": "Apple to wind down electric car effort after decadelong odyssey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://agraef.github.io/pure-lang/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://agraef.github.io/pure-lang/",
+          "publishedOn": "2024-02-27T17:38:51.000Z",
+          "wordCount": 736,
+          "title": "Pure Programming Language",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.browserless.io/blog/2024/02/26/unblock-api/?apcid=00620de59ffc742367908900&utm_campaign=unblock-api-announcement&utm_content=unblock-api-announcement&utm_medium=email&utm_source=ortto",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.browserless.io/blog/2024/02/26/unblock-api/?apcid=00620de59ffc742367908900&utm_campaign=unblock-api-announcement&utm_content=unblock-api-announcement&utm_medium=email&utm_source=ortto",
+          "publishedOn": "2024-02-27T17:30:10.000Z",
+          "wordCount": 1898,
+          "title": "The /unblock API from Browserless: dodging bot detection as a service",
+          "imageUrl": "https://www.browserless.io/static/f7d167bfab98efe2ec91fa6ca07ccd61/9585e/unblock-API.jpg"
+        },
+        {
+          "id": "https://www.japantimes.co.jp/business/2024/02/22/companies/fast-fashion-shein-temu-global-cargo/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.japantimes.co.jp/business/2024/02/22/companies/fast-fashion-shein-temu-global-cargo/",
+          "publishedOn": "2024-02-27T16:39:23.000Z",
+          "wordCount": 5982,
+          "title": "Rise of fast-fashion Shein, Temu roils global air cargo industry",
+          "imageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/22/281943.jpg"
+        },
+        {
+          "id": "https://ciechanow.ski/airfoil/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ciechanow.ski/airfoil/",
+          "publishedOn": "2024-02-27T16:32:49.000Z",
+          "wordCount": 14549,
+          "title": "Airfoil",
+          "imageUrl": "https://ciechanow.ski/images/og/airfoil.png"
+        },
+        {
+          "id": "https://the-engi-nerd.github.io/posts/welcome/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://the-engi-nerd.github.io/posts/welcome/",
+          "publishedOn": "2024-02-27T15:32:36.000Z",
+          "wordCount": 3141,
+          "title": "Testing the F-35C Tailhook",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/bruin-data/ingestr",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/bruin-data/ingestr",
+          "publishedOn": "2024-02-27T15:18:13.000Z",
+          "wordCount": 2561,
+          "title": "Show HN: I built an open-source data copy tool called ingestr",
+          "imageUrl": "https://opengraph.githubassets.com/4226ee98002c6df79c552ad189f5fd0c050a2085a3fc88d8cc86ee3bc5ac7f94/bruin-data/ingestr"
+        },
+        {
+          "id": "https://github.com/piercefreeman/mountaineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/piercefreeman/mountaineer",
+          "publishedOn": "2024-02-27T14:59:53.000Z",
+          "wordCount": 7175,
+          "title": "Show HN: Mountaineer – Webapps in Python and React",
+          "imageUrl": "https://opengraph.githubassets.com/162727abb0db402afdd24fa38f5df8844296cdea85f65ffac67c5e631e933c60/piercefreeman/mountaineer"
+        },
+        {
+          "id": "https://github.com/ankane/blazer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ankane/blazer",
+          "publishedOn": "2024-02-27T14:13:38.000Z",
+          "wordCount": 16982,
+          "title": "Blazer: Business intelligence made simple",
+          "imageUrl": "https://opengraph.githubassets.com/ebd0a0c0251e99a8da007bac82f2763f615234847ac74ad7ed0c9b7a8e37e3d3/ankane/blazer"
+        },
+        {
+          "id": "https://beltmag.com/consider-the-pawpaw/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://beltmag.com/consider-the-pawpaw/",
+          "publishedOn": "2024-02-27T13:11:47.000Z",
+          "wordCount": 10405,
+          "title": "Consider the Pawpaw",
+          "imageUrl": "https://beltmag.com/wp-content/uploads/2024/02/Asimina_triloba-scaled.jpg"
+        },
+        {
+          "id": "https://aeon.co/essays/the-strange-and-turbulent-global-world-of-ant-geopolitics",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aeon.co/essays/the-strange-and-turbulent-global-world-of-ant-geopolitics",
+          "publishedOn": "2024-02-27T12:57:43.000Z",
+          "wordCount": 14515,
+          "title": "Ant Geopolitics",
+          "imageUrl": "https://images.aeonmedia.co/images/dba996b6-6c46-41ae-9087-36a37750d87f/essay-98657942-invicta50.jpg?width=1200&quality=75&format=auto"
+        },
         {
           "id": "https://www.sfchronicle.com/crime/article/tesla-fires-soma-18686583.php",
           "author": null,
@@ -290,6 +520,16 @@
           "imageUrl": "https://assets.vectrotype.com/img/typefaces/chartwell/Chartwell4-Intro.png"
         },
         {
+          "id": "https://www.millersbookreview.com/p/cormac-mccarthy-sideline-freelance-copy-editor",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.millersbookreview.com/p/cormac-mccarthy-sideline-freelance-copy-editor",
+          "publishedOn": "2024-02-27T01:05:29.000Z",
+          "wordCount": 4183,
+          "title": "Cormac McCarthy's Sideline: Freelance copy editor",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bdee67d-a8eb-4671-bd9b-2ae96ca3198f_814x540.jpeg"
+        },
+        {
           "id": "https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771",
           "author": null,
           "description": "Comments",
@@ -340,6 +580,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/41B8/production/_132742861_gettyimages-536711758.jpg"
         },
         {
+          "id": "https://www.youtube.com/watch?v=nEjNbrydLKU",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=nEjNbrydLKU",
+          "publishedOn": "2024-02-26T20:35:45.000Z",
+          "wordCount": null,
+          "title": "Image formation with multiple wavelengths – simulation [video]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.techdirt.com/2024/02/26/why-isnt-taxpayer-funded-u-s-broadband-mapping-data-owned-by-the-public/",
           "author": null,
           "description": "Comments",
@@ -358,6 +608,16 @@
           "wordCount": 23410,
           "title": "On Light, Colors, Mixing Paints, and Numerical Optimization",
           "imageUrl": "https://opengraph.githubassets.com/1352de6f8243d47b9c9f55a314fb3342713e4679fc92c5e914e6878c8396df6d/miciwan/PaintMixing"
+        },
+        {
+          "id": "https://phys.org/news/2024-02-neanderthals-usage-complex-adhesives-reveals.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2024-02-neanderthals-usage-complex-adhesives-reveals.html",
+          "publishedOn": "2024-02-26T18:34:03.000Z",
+          "wordCount": 2339,
+          "title": "Neanderthals' use of complex adhesives shows high cognitive abilities",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/did-neanderthals-use-g-2.jpg"
         },
         {
           "id": "https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html",
@@ -400,6 +660,16 @@
           "imageUrl": "https://media.newyorker.com/photos/65d65ee975c3c23cba500ed2/16:9/w_1280,c_limit/r43833web-social.png"
         },
         {
+          "id": "https://speakz.ai/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://speakz.ai/",
+          "publishedOn": "2024-02-26T16:08:45.000Z",
+          "wordCount": 2148,
+          "title": "Show HN: AI dub tool I made to watch foreign language videos with my 7-year-old",
+          "imageUrl": null
+        },
+        {
           "id": "https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/",
           "author": null,
           "description": "Comments",
@@ -418,6 +688,16 @@
           "wordCount": 2514,
           "title": "A bad day at the office",
           "imageUrl": "https://airminded.org/wp-content/uploads/2024/02/q70035-1.jpg"
+        },
+        {
+          "id": "https://blog.ayjay.org/the-real-value-of-a-catholic-modernity/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.ayjay.org/the-real-value-of-a-catholic-modernity/",
+          "publishedOn": "2024-02-26T15:16:22.000Z",
+          "wordCount": 1437,
+          "title": "Dracula's Biggest Mistake",
+          "imageUrl": null
         },
         {
           "id": "https://aboutideasnow.com/",
@@ -458,6 +738,16 @@
           "wordCount": 3739,
           "title": "Show HN: R2R – Open-source framework for production-grade RAG",
           "imageUrl": "https://opengraph.githubassets.com/06a9e9ff7f1ff335b4f67cadfb608eee6b702f9f68266a04e6092d8d871b5085/SciPhi-AI/R2R"
+        },
+        {
+          "id": "https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why",
+          "publishedOn": "2024-02-26T12:55:30.000Z",
+          "wordCount": 3354,
+          "title": "Clouds Vanish During a Solar Eclipse, and We Know Why",
+          "imageUrl": "https://www.sciencealert.com/images/2023/10/SolarEclipse.jpg"
         },
         {
           "id": "https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi",
@@ -8648,296 +8938,6 @@
           "wordCount": 5538,
           "title": "Helios: A distribution of Illumos powering the Oxide Rack",
           "imageUrl": "https://opengraph.githubassets.com/766f8499003d5d30c2571582c55317ceb7472ca0b8d7c4a7a9d50f6738fb5412/oxidecomputer/helios"
-        },
-        {
-          "id": "https://www.freightwaves.com/news/how-walmart-uses-trucking-to-dominate-american-retail",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.freightwaves.com/news/how-walmart-uses-trucking-to-dominate-american-retail",
-          "publishedOn": "2024-01-29T14:51:47.000Z",
-          "wordCount": 4771,
-          "title": "Why Walmart pays its truck drivers 6 figures",
-          "imageUrl": "https://www.freightwaves.com/wp-content/uploads/2024/01/23/092821-396.jpg"
-        },
-        {
-          "id": "https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/",
-          "publishedOn": "2024-01-29T14:45:08.000Z",
-          "wordCount": 5724,
-          "title": "What I talk about when I talk about query optimizer (part 1): IR design",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cnbc.com/2024/01/29/amazon-terminates-irobot-deal-vacuum-maker-to-lay-off-31percent-of-staff.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cnbc.com/2024/01/29/amazon-terminates-irobot-deal-vacuum-maker-to-lay-off-31percent-of-staff.html",
-          "publishedOn": "2024-01-29T13:59:03.000Z",
-          "wordCount": 20347,
-          "title": "Amazon and iRobot call off their planned acquisition",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107361977-1705695320431-gettyimages-1945576903-img_6619_kt5vdwde.jpeg?v=1705695400&w=1920&h=1080"
-        },
-        {
-          "id": "https://abcnews.go.com/GMA/Family/florida-house-representatives-approves-bill-ban-social-media/story?id=106672586",
-          "author": null,
-          "description": "Comments",
-          "link": "https://abcnews.go.com/GMA/Family/florida-house-representatives-approves-bill-ban-social-media/story?id=106672586",
-          "publishedOn": "2024-01-29T13:20:16.000Z",
-          "wordCount": 5096,
-          "title": "Florida House of Representatives approves bill to ban social media for kids < 16",
-          "imageUrl": "https://i.abcnewsfe.com/a/dbe56266-83ea-439a-9e6f-fa92a1c372ad/Kids-smartphones-gty-jm-240125_1706195412194_hpMain_16x9.jpg?w=1600"
-        },
-        {
-          "id": "https://danielmangum.com/posts/risc-v-bytes-accessing-pinecil-uart-picoprobe/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://danielmangum.com/posts/risc-v-bytes-accessing-pinecil-uart-picoprobe/",
-          "publishedOn": "2024-01-29T12:08:26.000Z",
-          "wordCount": 1995,
-          "title": "Accessing the Pinecil UART with Picoprobe",
-          "imageUrl": "https://danielmangum.com/images/twitter-card.png"
-        },
-        {
-          "id": "https://docs.gtk.org/gtk4/broadway.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://docs.gtk.org/gtk4/broadway.html",
-          "publishedOn": "2024-01-29T11:26:08.000Z",
-          "wordCount": 158,
-          "title": "The Broadway Windowing System",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/",
-          "publishedOn": "2024-01-29T11:04:00.000Z",
-          "wordCount": 916,
-          "title": "Adding type safety to object IDs in TypeScript",
-          "imageUrl": "https://www.kravchyk.com/wp-content/uploads/2024/01/typescript_id_types_example.png"
-        },
-        {
-          "id": "https://www.nasa.gov/history/alsj/alsj-Tindallgrams.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nasa.gov/history/alsj/alsj-Tindallgrams.html",
-          "publishedOn": "2024-01-29T09:22:30.000Z",
-          "wordCount": 764,
-          "title": "Tindallgrams – Memos by Bill Tindall",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.scientificamerican.com/article/this-nomadic-eccentric-was-the-most-prolific-mathematician-in-history/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scientificamerican.com/article/this-nomadic-eccentric-was-the-most-prolific-mathematician-in-history/",
-          "publishedOn": "2024-01-29T08:14:50.000Z",
-          "wordCount": 3058,
-          "title": "Paul Erdős, the most prolific mathematician",
-          "imageUrl": "https://static.scientificamerican.com/sciam/cache/file/A67123EE-BADE-4F4E-803E2E7838D54AE5_source.jpg?w=1200"
-        },
-        {
-          "id": "https://glennf.medium.com/how-we-crowdfunded-750-000-for-a-giant-book-about-keyboard-history-c30e24c4022e",
-          "author": null,
-          "description": "Comments",
-          "link": "https://glennf.medium.com/how-we-crowdfunded-750-000-for-a-giant-book-about-keyboard-history-c30e24c4022e",
-          "publishedOn": "2024-01-29T08:06:14.000Z",
-          "wordCount": 21159,
-          "title": "How We Crowdfunded $750k for a Giant Book about Keyboard History",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*K553oK_SvMYrQKe-447-jQ.jpeg"
-        },
-        {
-          "id": "https://slack.engineering/executing-cron-scripts-reliably-at-scale/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://slack.engineering/executing-cron-scripts-reliably-at-scale/",
-          "publishedOn": "2024-01-29T07:21:58.000Z",
-          "wordCount": 1811,
-          "title": "Executing Cron Scripts Reliably at Scale",
-          "imageUrl": "https://slack.engineering/wp-content/uploads/sites/7/2023/09/jon-tyson-FlHdnPO6dlw-unsplash.jpg?resize=1280,1705"
-        },
-        {
-          "id": "https://arxiv.org/abs/2401.14953",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2401.14953",
-          "publishedOn": "2024-01-29T05:36:30.000Z",
-          "wordCount": 661,
-          "title": "Learning Universal Predictors",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://aeon.co/essays/is-it-possible-to-hold-truly-contradictory-beliefs-together",
-          "author": null,
-          "description": "Comments",
-          "link": "https://aeon.co/essays/is-it-possible-to-hold-truly-contradictory-beliefs-together",
-          "publishedOn": "2024-01-29T04:53:46.000Z",
-          "wordCount": 13300,
-          "title": "What Is Incoherence?",
-          "imageUrl": "https://images.aeonmedia.co/images/b29aca77-5a81-404e-82bb-cf1d297fea4f/essay-rtr3eoyd.jpg?width=1200&quality=75&format=auto"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=39172196",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=39172196",
-          "publishedOn": "2024-01-29T02:51:27.000Z",
-          "wordCount": 710,
-          "title": "Ask HN: How to deploy money effectively to save time and build a business?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2024/01/28/business/china-evergrande.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2024/01/28/business/china-evergrande.html",
-          "publishedOn": "2024-01-29T02:31:22.000Z",
-          "wordCount": null,
-          "title": "Real estate giant China Evergrande will be liquidated",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lcamtuf.substack.com/p/hell-is-other-people-performance",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lcamtuf.substack.com/p/hell-is-other-people-performance",
-          "publishedOn": "2024-01-29T02:24:03.000Z",
-          "wordCount": null,
-          "title": "Hell is other people: performance management at Big Tech",
-          "imageUrl": null
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Pitch_drop_experiment",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Pitch_drop_experiment",
-          "publishedOn": "2024-01-29T01:39:10.000Z",
-          "wordCount": 2553,
-          "title": "Pitch Drop Experiment",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/University_of_Queensland_Pitch_drop_experiment-white_bg.jpg"
-        },
-        {
-          "id": "https://github.com/oto-labs/librarian",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/oto-labs/librarian",
-          "publishedOn": "2024-01-28T23:54:31.000Z",
-          "wordCount": 675,
-          "title": "Show HN: Librarian - Semantic Bookmark Search Using Transformers",
-          "imageUrl": "https://opengraph.githubassets.com/25ffd878812957e511c8a03673a5a45349a1381b1c6bcc0cf5a5bb88b3d1ed07/oto-labs/librarian"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=39171079",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=39171079",
-          "publishedOn": "2024-01-28T23:41:15.000Z",
-          "wordCount": 4558,
-          "title": "Ask HN: Those who've joined a friend's startup as an employee, how did that go?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nullprogram.com/blog/2024/01/28/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nullprogram.com/blog/2024/01/28/",
-          "publishedOn": "2024-01-28T23:20:56.000Z",
-          "wordCount": 1079,
-          "title": "Two handy GDB breakpoint tricks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.androidarts.com/df/dorf.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.androidarts.com/df/dorf.htm",
-          "publishedOn": "2024-01-28T21:26:39.000Z",
-          "wordCount": 2754,
-          "title": "Dorf Fort (2020)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html",
-          "publishedOn": "2024-01-28T19:58:31.000Z",
-          "wordCount": 6740,
-          "title": "How the FBI targeted Camus, and then Sartre after the JFK assassination (2013)",
-          "imageUrl": "https://cdn8.openculture.com/wp-content/uploads/2013/11/Sartre-y-Camus.jpg"
-        },
-        {
-          "id": "https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/",
-          "publishedOn": "2024-01-28T19:38:14.000Z",
-          "wordCount": 4437,
-          "title": "General purpose MCUs built in to LEDs emulate candle flicker",
-          "imageUrl": "https://cpldcpu.files.wordpress.com/2024/01/pxl_20240113_190315239-1.jpg"
-        },
-        {
-          "id": "https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/",
-          "publishedOn": "2024-01-28T19:29:23.000Z",
-          "wordCount": 426,
-          "title": "I need to grow away from these roots",
-          "imageUrl": "https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/in-situ.jpg"
-        },
-        {
-          "id": "https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/",
-          "publishedOn": "2024-01-28T19:01:49.000Z",
-          "wordCount": 9944,
-          "title": "Milwaukee reporter investigates cousin's 1978 car bombing death",
-          "imageUrl": "https://www.jsonline.com/gcdn/authoring/authoring-images/2023/12/19/PLOU/71968383007-augie-digital.jpg?crop=3214,1808,x171,y90&width=3200&height=1801&format=pjpg&auto=webp"
-        },
-        {
-          "id": "https://lawforcomputerscientists.pubpub.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lawforcomputerscientists.pubpub.org/",
-          "publishedOn": "2024-01-28T18:49:12.000Z",
-          "wordCount": 1154,
-          "title": "Law for Computer Scientists (2020)",
-          "imageUrl": "https://assets.pubpub.org/y90aktv1/71557330087057.jpg"
-        },
-        {
-          "id": "https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx",
-          "author": null,
-          "description": "Comments",
-          "link": "https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx",
-          "publishedOn": "2024-01-28T18:02:42.000Z",
-          "wordCount": 2617,
-          "title": "New GitHub Copilot research finds 'downward pressure on code quality'",
-          "imageUrl": "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/GitHubCopilot2.jpg"
-        },
-        {
-          "id": "https://bigthink.com/personal-growth/the-missing-apex-of-maslows-hierarchy-could-save-us-all/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bigthink.com/personal-growth/the-missing-apex-of-maslows-hierarchy-could-save-us-all/",
-          "publishedOn": "2024-01-28T17:40:05.000Z",
-          "wordCount": 2035,
-          "title": "The missing apex of Maslow's hierarchy: self-transcendence",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2017/02/origin-61.jpg?resize=1154,630"
-        },
-        {
-          "id": "https://asteriskmag.com/issues/05/michael-lewis-s-blind-side",
-          "author": null,
-          "description": "Comments",
-          "link": "https://asteriskmag.com/issues/05/michael-lewis-s-blind-side",
-          "publishedOn": "2024-01-28T17:10:40.000Z",
-          "wordCount": 6651,
-          "title": "Michael Lewis's Blind Side",
-          "imageUrl": null
         }
       ]
     },
@@ -9003,6 +9003,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/technology/2024/compostable-plastic-from-natural-materials",
+          "author": "Boyce Upholt",
+          "description": "Materials scientists are cooking up environmentally friendly polymers from natural sources like silk, plant fibers and whole algae. Economics and acceptance remain hurdles.",
+          "link": "https://knowablemagazine.org/content/article/technology/2024/compostable-plastic-from-natural-materials",
+          "publishedOn": "2024-02-28T04:33:26.736Z",
+          "wordCount": 5036,
+          "title": "Toward truly compostable plastic",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/bioplastics-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/bioplastics-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/food-environment/2024/deforestation-threatens-andes-amazon-connection-colombia",
           "author": "Pablo Correa",
@@ -9435,16 +9450,6 @@
           "publishedOn": "2024-02-01T08:00:00.000Z",
           "wordCount": 4979,
           "title": "Try ImageFX and MusicFX, our newest generative AI tools in Labs - The Keyword | Google Product and Technology News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3LmZsaWdodHJhZGFyMjQuY29tL2Jsb2cvc2FudGEtdHJhY2tlci_SAQA",
-          "author": null,
-          "description": "Santa Tracker  Flightradar24 Blog",
-          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmZsaWdodHJhZGFyMjQuY29tL2Jsb2cvc2FudGEtdHJhY2tlci_SAQA?oc=5",
-          "publishedOn": "2024-01-29T16:14:03.000Z",
-          "wordCount": 5020,
-          "title": "Santa Tracker - Flightradar24 Blog",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
