@@ -18,6 +18,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/03/success-at-scale-book-pre-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Our next book, “Success at Scale” is finally at the printer, which means we’ll be shipping books soon. It’s also your last chance to get the book at the presale price. Get your copy and save now!",
+          "link": "https://smashingmagazine.com/2024/03/success-at-scale-book-pre-release/",
+          "publishedOn": "2024-03-08T16:00:00.000Z",
+          "wordCount": 3496,
+          "title": "Success At Scale: Last Chance For Pre-Sale Price",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/success-at-scale-shipping-soon/sas-presale-ending-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/success-at-scale-shipping-soon/sas-presale-ending-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "In Part 1 of this series, Temani Afif explored different CSS techniques to create tooltip shapes. The main challenge was to rely on a single element and create optimized code that could easily be controlled using CSS variables to update the size, shape, and position of the tail. In this second part, you are going explore more shapes.",
+          "link": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/",
+          "publishedOn": "2024-03-08T12:00:00.000Z",
+          "wordCount": 5151,
+          "title": "Modern CSS Tooltips And Speech Bubbles (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/03/end-of-gatsby-journey/",
           "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "description": "[“Gatsby headaches”](https://www.smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/) are over. Juan Diego Rodríguez reflects on his decision to stop using Gatsby as his go-to framework. Through a detailed examination of its strengths and weaknesses, he provides valuable insights and alternative options for developers navigating their tooling choices.",
@@ -181,21 +211,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/draw-radar-charts-web/draw-radar-charts-web.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "What could we learn from entry-level students in front-end web development? As seasoned professionals, you might think you’ve seen it all, but the truth is that the newcomers are asking the most intriguing questions and making connections that those of us who have spent years on the front end may have never considered.",
-          "link": "https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/",
-          "publishedOn": "2024-02-08T13:00:00.000Z",
-          "wordCount": 4319,
-          "title": "Frequently Heard In My Beginning Front-End Web Development Class",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/frequently-heard-beginning-front-end-web-development-class/frequently-heard-beginning-front-end-web-development-class.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/frequently-heard-beginning-front-end-web-development-class/frequently-heard-beginning-front-end-web-development-class.jpg"
         }
       ]
     },
@@ -204,6 +219,206 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.wsj.com/real-estate/angela-chao-death-texas-tesla-safety-c435daa0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/real-estate/angela-chao-death-texas-tesla-safety-c435daa0",
+          "publishedOn": "2024-03-09T03:45:14.000Z",
+          "wordCount": null,
+          "title": "The Death of Angela Chao",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html",
+          "publishedOn": "2024-03-09T02:24:51.000Z",
+          "wordCount": 53658,
+          "title": "Top US cybersecurity agency hacked and forced to take some systems offline",
+          "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/ap21102523072151.jpg?c=16x9&q=w_800,c_fill"
+        },
+        {
+          "id": "https://arxiv.org/abs/2403.00801",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2403.00801",
+          "publishedOn": "2024-03-09T01:46:43.000Z",
+          "wordCount": 710,
+          "title": "Building an Information Retrieval System with One Large Language Model",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://github.com/wkaisertexas/ScreenTimeLapse",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/wkaisertexas/ScreenTimeLapse",
+          "publishedOn": "2024-03-09T00:45:07.000Z",
+          "wordCount": 3420,
+          "title": "Open-Source Screen Recorder",
+          "imageUrl": "https://repository-images.githubusercontent.com/610515388/931f1a14-03d3-4f81-81a3-d98752915bd3"
+        },
+        {
+          "id": "https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/",
+          "publishedOn": "2024-03-08T23:13:45.000Z",
+          "wordCount": 1622,
+          "title": "A simple dice game shines a bit of light on the psychology of regret",
+          "imageUrl": "https://thereader.mitpress.mit.edu/wp-content/uploads/2024/02/regret.jpg"
+        },
+        {
+          "id": "https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304",
+          "publishedOn": "2024-03-08T22:35:01.000Z",
+          "wordCount": 2981,
+          "title": "Tests show high-temperature superconducting magnets are ready for fusion",
+          "imageUrl": "https://news.mit.edu/sites/default/files/images/202403/MIT_Fusion-Magnets-01-PRESS.jpg"
+        },
+        {
+          "id": "https://unscrambler.dpw.me/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://unscrambler.dpw.me/",
+          "publishedOn": "2024-03-08T22:15:10.000Z",
+          "wordCount": 368,
+          "title": "Show HN: My AI writing assistant for Chinese",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/",
+          "publishedOn": "2024-03-08T22:07:19.000Z",
+          "wordCount": null,
+          "title": "OpenAI board reappoints Altman and adds three other directors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lorenzofox.dev/posts/component-as-infinite-loop/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lorenzofox.dev/posts/component-as-infinite-loop/",
+          "publishedOn": "2024-03-08T21:32:30.000Z",
+          "wordCount": 1572,
+          "title": "Coroutines in JavaScript for web components",
+          "imageUrl": null
+        },
+        {
+          "id": "https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/",
+          "publishedOn": "2024-03-08T18:12:25.000Z",
+          "wordCount": 2797,
+          "title": "Epic says Apple will reinstate developer account",
+          "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/epic.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+          "id": "https://github.com/Mayuresh1611/Paper-Piano",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Mayuresh1611/Paper-Piano",
+          "publishedOn": "2024-03-08T18:10:35.000Z",
+          "wordCount": 3212,
+          "title": "Piano on Paper",
+          "imageUrl": "https://opengraph.githubassets.com/097b4d2e07a0f139feceecea9187e1a6bee1b1074b241333adfd6b7ce729909d/Mayuresh1611/Paper-Piano"
+        },
+        {
+          "id": "https://github.com/bruhbruhroblox/wallstreetlocal",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/bruhbruhroblox/wallstreetlocal",
+          "publishedOn": "2024-03-08T18:02:26.000Z",
+          "wordCount": 2907,
+          "title": "Show HN: Wallstreetlocal – View investments from America's biggest companies",
+          "imageUrl": "https://opengraph.githubassets.com/865ba3a677e58b7c721735472b4f7a76979666d46a468eb4348929db022283eb/bruhbruhroblox/wallstreetlocal"
+        },
+        {
+          "id": "https://github.com/hatchet-dev/hatchet",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/hatchet-dev/hatchet",
+          "publishedOn": "2024-03-08T17:07:35.000Z",
+          "wordCount": 4098,
+          "title": "Show HN: Hatchet – Open-source distributed task queue",
+          "imageUrl": "https://opengraph.githubassets.com/f79a0f87c6fb1e14e745357468c32e1597a3c73ad3cbaf68a8b8f1a0b8ef8499/hatchet-dev/hatchet"
+        },
+        {
+          "id": "https://www.politico.com/news/magazine/2024/03/08/the-uk-college-student-explaining-congressional-procedure-to-washington-00145314",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.politico.com/news/magazine/2024/03/08/the-uk-college-student-explaining-congressional-procedure-to-washington-00145314",
+          "publishedOn": "2024-03-08T16:49:37.000Z",
+          "wordCount": null,
+          "title": "A UK college student explaining congressional procedure to Washington",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thenation.com/article/culture/marshall-sahlins-new-science-enchanted-universe/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thenation.com/article/culture/marshall-sahlins-new-science-enchanted-universe/",
+          "publishedOn": "2024-03-08T16:24:18.000Z",
+          "wordCount": 7756,
+          "title": "Metaperson: The enchanted worlds of Marshall Sahlins",
+          "imageUrl": "https://www.thenation.com/wp-content/uploads/2024/03/Marshall.jpg"
+        },
+        {
+          "id": "https://s3-eu-west-1.amazonaws.com/makapufprojects/oie/doc.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://s3-eu-west-1.amazonaws.com/makapufprojects/oie/doc.html",
+          "publishedOn": "2024-03-08T16:07:29.000Z",
+          "wordCount": 1978,
+          "title": "Show HN: A talking board game in a 2k program and 128 bytes of RAM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-024-00716-2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-024-00716-2",
+          "publishedOn": "2024-03-08T15:46:34.000Z",
+          "wordCount": 7119,
+          "title": "Superconductivity scandal: the story of deception in a physics lab",
+          "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-024-00716-2/d41586-024-00716-2_26825358.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=39641105",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=39641105",
+          "publishedOn": "2024-03-08T14:00:09.000Z",
+          "wordCount": 1299,
+          "title": "Launch HN: Relari (YC W24) – Identify the root cause of problems in LLM apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxblog.io/home-lab-beginners-guide-hardware/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://linuxblog.io/home-lab-beginners-guide-hardware/",
+          "publishedOn": "2024-03-08T13:47:13.000Z",
+          "wordCount": 11078,
+          "title": "Home Lab Beginners guide",
+          "imageUrl": "https://static.linuxblog.io/wp-content/uploads/2020/03/my_homelab-868x868.jpg"
+        },
+        {
+          "id": "https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/",
+          "publishedOn": "2024-03-08T09:29:10.000Z",
+          "wordCount": 3422,
+          "title": "Making Friends with AttributeGraph",
+          "imageUrl": null
+        },
         {
           "id": "https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/",
           "author": null,
@@ -293,6 +508,16 @@
           "wordCount": 3689,
           "title": "How to become a pirate archivist (2022)",
           "imageUrl": "http://annas-blog.org/party-guy.png"
+        },
+        {
+          "id": "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html",
+          "publishedOn": "2024-03-07T22:38:49.000Z",
+          "wordCount": 5535,
+          "title": "Fine tune a 70B language model at home",
+          "imageUrl": "https://www.answer.ai/posts/fsdp-qlora.png"
         },
         {
           "id": "https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock",
@@ -405,6 +630,36 @@
           "imageUrl": "https://dims.apnews.com/dims4/default/a61332f/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F53%2Fe2%2F57bd66c489fc27fb2e43ecefa634%2F5733e3c8b61f4e8a8e441299d616f81b"
         },
         {
+          "id": "https://mattsills.github.io/2024/03/02/rabin-karp/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mattsills.github.io/2024/03/02/rabin-karp/",
+          "publishedOn": "2024-03-07T09:12:26.000Z",
+          "wordCount": 3473,
+          "title": "Optimizating Rabin-Karp Hashing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://stevana.github.io/towards_zero-downtime_upgrades_of_stateful_systems.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://stevana.github.io/towards_zero-downtime_upgrades_of_stateful_systems.html",
+          "publishedOn": "2024-03-07T09:03:01.000Z",
+          "wordCount": 5899,
+          "title": "Towards zero-downtime upgrades of stateful systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://v21.io/blog/downpour",
+          "author": null,
+          "description": "Comments",
+          "link": "https://v21.io/blog/downpour",
+          "publishedOn": "2024-03-07T08:43:06.000Z",
+          "wordCount": 1418,
+          "title": "Downpour is the game creation tool I have been working on for the past few years",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.bbc.co.uk/news/entertainment-arts-68488756.amp",
           "author": null,
           "description": "Comments",
@@ -423,6 +678,16 @@
           "wordCount": 732,
           "title": "The fastest tool for measuring anything on your screen",
           "imageUrl": "https://getpixelsnap.com/img/og-image.png"
+        },
+        {
+          "id": "https://phillipreeve.net/blog/working-with-tilt-shift-lenses/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phillipreeve.net/blog/working-with-tilt-shift-lenses/",
+          "publishedOn": "2024-03-07T03:37:33.000Z",
+          "wordCount": 8359,
+          "title": "Working with Tilt/Shift Lenses (2022)",
+          "imageUrl": "https://phillipreeve.net/blog/wp-content/uploads/2019/01/tilt_shift_lenses_how_to_guide_title_FB.jpg"
         },
         {
           "id": "https://yolken.net/blog/youre-about-to-be-acquired",
@@ -635,6 +900,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.newyorker.com/magazine/2021/06/21/the-deep-sea-is-filled-with-treasure-but-it-comes-at-a-price",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/magazine/2021/06/21/the-deep-sea-is-filled-with-treasure-but-it-comes-at-a-price",
+          "publishedOn": "2024-03-06T13:18:50.000Z",
+          "wordCount": 27425,
+          "title": "The Deep Sea Is Filled with Treasure, but It Comes at a Price",
+          "imageUrl": "https://media.newyorker.com/photos/60c39d62d136745b00ae85a7/16:9/w_1280,c_limit/210621_r38541.jpg"
+        },
+        {
           "id": "https://responsibleautomation.wordpress.com/2018/02/01/heresy-ii-comments-are-code/",
           "author": null,
           "description": "Comments",
@@ -645,6 +920,16 @@
           "imageUrl": "https://responsibleautomation.files.wordpress.com/2018/01/comment.jpg"
         },
         {
+          "id": "https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md",
+          "publishedOn": "2024-03-06T12:33:28.000Z",
+          "wordCount": 7843,
+          "title": "Orthogonal Persistence",
+          "imageUrl": "https://opengraph.githubassets.com/c3467315161c3367de76ffa298172be2af0ef87c7061a329ffe1448e3d7be9c3/mighty-gerbils/gerbil-persist"
+        },
+        {
           "id": "https://developer.chrome.com/blog/shared-dictionary-compression",
           "author": null,
           "description": "Comments",
@@ -653,6 +938,16 @@
           "wordCount": 2709,
           "title": "Compression efficiency with shared dictionaries in Chrome",
           "imageUrl": "https://developer.chrome.com/static/blog/shared-dictionary-compression/image/thumbnail.jpg"
+        },
+        {
+          "id": "http://antirez.com/news/143",
+          "author": null,
+          "description": "Comments",
+          "link": "http://antirez.com/news/143",
+          "publishedOn": "2024-03-06T12:12:50.000Z",
+          "wordCount": 1337,
+          "title": "Playing audio files in a Pi Pico without a DAC",
+          "imageUrl": null
         },
         {
           "id": "https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html",
@@ -683,6 +978,16 @@
           "wordCount": 5590,
           "title": "Telling a Story and Making a Point",
           "imageUrl": "cover.png"
+        },
+        {
+          "id": "https://www.dolthub.com/blog/2024-03-03-prolly-trees/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dolthub.com/blog/2024-03-03-prolly-trees/",
+          "publishedOn": "2024-03-06T08:50:39.000Z",
+          "wordCount": 3687,
+          "title": "Prolly Trees",
+          "imageUrl": "https://www.dolthub.com/blog/static/03acbdf5ef41c160e10a3fee0c578945/4a0c0/tim-prolly-tree-example.png"
         },
         {
           "id": "https://utcc.utoronto.ca/~cks/space/blog/unix/XWindowsAllTheWayDown",
@@ -8423,286 +8728,6 @@
           "wordCount": 6166,
           "title": "Show HN: Daily price tracking for Trader Joe's",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=39302870",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=39302870",
-          "publishedOn": "2024-02-08T15:17:05.000Z",
-          "wordCount": 4607,
-          "title": "Launch HN: AgentHub (YC W24) – A no-code automation platform",
-          "imageUrl": null
-        },
-        {
-          "id": "https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/",
-          "publishedOn": "2024-02-08T15:06:47.000Z",
-          "wordCount": 5202,
-          "title": "Mozilla names new CEO as it pivots to data privacy",
-          "imageUrl": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1298888196-e1707391948111.jpg?resize=1200,600"
-        },
-        {
-          "id": "https://ukfountainpens.com/2019/03/24/13-hard-learned-lessons-from-a-veteran-fountain-pen-addict/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ukfountainpens.com/2019/03/24/13-hard-learned-lessons-from-a-veteran-fountain-pen-addict/",
-          "publishedOn": "2024-02-08T13:57:47.000Z",
-          "wordCount": 5111,
-          "title": "Lessons from a fountain pen addict",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arxiv.org/abs/2402.04494",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2402.04494",
-          "publishedOn": "2024-02-08T13:57:19.000Z",
-          "wordCount": 669,
-          "title": "Grandmaster-Level Chess Without Search",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://colourclash.co.uk/spectrum-analyser/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://colourclash.co.uk/spectrum-analyser/",
-          "publishedOn": "2024-02-08T07:55:58.000Z",
-          "wordCount": 3378,
-          "title": "Spectrum Analyser, a Sinclair ZX Spectrum reverse engineering tool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2024/02/07/technology/personaltech/apple-vision-pro-review.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2024/02/07/technology/personaltech/apple-vision-pro-review.html",
-          "publishedOn": "2024-02-08T03:43:55.000Z",
-          "wordCount": null,
-          "title": "Vision Pro Review: Apple's First Headset Lacks Polish and Purpose",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arxiv.org/abs/2402.04792",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2402.04792",
-          "publishedOn": "2024-02-08T03:04:04.000Z",
-          "wordCount": 698,
-          "title": "Google DeepMind Alignment with Online AI Feedback (OAIF)",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305",
-          "author": null,
-          "description": "Comments",
-          "link": "https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305",
-          "publishedOn": "2024-02-08T02:33:50.000Z",
-          "wordCount": 777,
-          "title": "John Walker, founder of Autodesk, has died",
-          "imageUrl": "https://scanalyst.fourmilab.ch/uploads/default/original/1X/04d98f2633fcaa68ff46ab9886b17214d8ded5da.png"
-        },
-        {
-          "id": "https://medicalxpress.com/news/2024-02-drug-brains-concussions.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://medicalxpress.com/news/2024-02-drug-brains-concussions.html",
-          "publishedOn": "2024-02-08T01:56:48.000Z",
-          "wordCount": 1859,
-          "title": "Novel drug could protect brains from damage after repeat concussions",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/drug-could-protect-bra.jpg"
-        },
-        {
-          "id": "https://phys.org/news/2024-02-mimas-tiny-moon-young-ocean.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2024-02-mimas-tiny-moon-young-ocean.html",
-          "publishedOn": "2024-02-08T01:52:45.000Z",
-          "wordCount": 1971,
-          "title": "Mimas' surprise: Tiny moon holds young ocean beneath icy shell",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/2024/mimas-surprise-tiny-mo.jpg"
-        },
-        {
-          "id": "https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know",
-          "author": null,
-          "description": "Comments",
-          "link": "https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know",
-          "publishedOn": "2024-02-08T01:07:25.000Z",
-          "wordCount": null,
-          "title": "As much as you ever wanted to know about 155M artillery shell production",
-          "imageUrl": null
-        },
-        {
-          "id": "https://getjerry.com/careers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://getjerry.com/careers",
-          "publishedOn": "2024-02-08T01:02:47.000Z",
-          "wordCount": 3818,
-          "title": "Jerry (YC S17) Is Hiring PMs, Engs, Data (Remote)",
-          "imageUrl": "https://d3tg988c3hqr9r.cloudfront.net/_next/image?url=https%3A%2F%2Fgetjerry.com%2F_next%2Fstatic%2Fimages%2Fhero-4ef006be0d945d96..jpg&w=640&q=75"
-        },
-        {
-          "id": "https://github.com/MatthiasGrandl/loungy",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/MatthiasGrandl/loungy",
-          "publishedOn": "2024-02-08T00:59:16.000Z",
-          "wordCount": 2627,
-          "title": "Loungy: An Application Launcher Written with GPUI, the Zed GPU UI Framework",
-          "imageUrl": "https://opengraph.githubassets.com/795753a6ada781d432c00961e08f26a98716053ec687eebd8849026ffa3c81c9/MatthiasGrandl/loungy"
-        },
-        {
-          "id": "https://www.chemistryworld.com/news/new-zealand-set-to-be-first-country-to-ban-pfas-in-cosmetic-products/4018893.article",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.chemistryworld.com/news/new-zealand-set-to-be-first-country-to-ban-pfas-in-cosmetic-products/4018893.article",
-          "publishedOn": "2024-02-08T00:47:05.000Z",
-          "wordCount": 8559,
-          "title": "New Zealand set to be first country to ban PFAS in cosmetic products",
-          "imageUrl": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/9/6/2/531962_gettyimages1093357788_608758.jpg"
-        },
-        {
-          "id": "https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf",
-          "publishedOn": "2024-02-08T00:19:47.000Z",
-          "wordCount": 98840,
-          "title": "Thinking Forth: A Language and Philosophy for Solving Problems (2004) [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/bayarea/article/waymo-driverless-car-hits-cyclist-in-sf-18654109.php",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sfgate.com/bayarea/article/waymo-driverless-car-hits-cyclist-in-sf-18654109.php",
-          "publishedOn": "2024-02-08T00:11:15.000Z",
-          "wordCount": null,
-          "title": "Waymo hits cyclist in SF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.newyorker.com/magazine/2024/02/05/the-rural-ski-slope-caught-up-in-an-international-scam",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newyorker.com/magazine/2024/02/05/the-rural-ski-slope-caught-up-in-an-international-scam",
-          "publishedOn": "2024-02-07T23:44:30.000Z",
-          "wordCount": 45221,
-          "title": "A rural ski slope caught up in an international scam",
-          "imageUrl": "https://media.newyorker.com/photos/65b45758d13b3b1dada158e8/16:9/w_1280,c_limit/r43716web-social.png"
-        },
-        {
-          "id": "https://www.independent.co.uk/tech/gravity-battery-mine-renewable-energy-b2492087.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.independent.co.uk/tech/gravity-battery-mine-renewable-energy-b2492087.html",
-          "publishedOn": "2024-02-07T23:32:38.000Z",
-          "wordCount": 3498,
-          "title": "Europe's deepest mine to become giant gravity battery",
-          "imageUrl": "https://static.independent.co.uk/2024/02/07/14/gravity%20battery%20underground%20mine%20gravitricity.jpg?quality=75&width=1200&auto=webp"
-        },
-        {
-          "id": "https://www.allaboutcircuits.com/news/duke-universitys-madradar-attack-causes-automotive-radar-to-hallucinate/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.allaboutcircuits.com/news/duke-universitys-madradar-attack-causes-automotive-radar-to-hallucinate/",
-          "publishedOn": "2024-02-07T23:24:08.000Z",
-          "wordCount": null,
-          "title": "MadRadar Attack Causes Automotive Radar to 'Hallucinate'",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/FujiwaraChoki/MoneyPrinter",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/FujiwaraChoki/MoneyPrinter",
-          "publishedOn": "2024-02-07T23:02:22.000Z",
-          "wordCount": 1371,
-          "title": "FujiwaraChoki/MoneyPrinter: Automate Creation of YouTube Shorts Using MoviePy",
-          "imageUrl": "https://opengraph.githubassets.com/89976eebe9fe5ab3a583ff17d7294d842389ef969c32e5858f1e43bf5a08f154/FujiwaraChoki/MoneyPrinter"
-        },
-        {
-          "id": "https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus",
-          "publishedOn": "2024-02-07T21:55:36.000Z",
-          "wordCount": 4458,
-          "title": "Localllm lets you develop gen AI apps on local CPUs",
-          "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_App_Dev_4.max-2600x2600.jpg"
-        },
-        {
-          "id": "https://www.cnbc.com/2024/02/07/disney-to-take-1point5-billion-stake-in-epic-games-maker-of-fortnite.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cnbc.com/2024/02/07/disney-to-take-1point5-billion-stake-in-epic-games-maker-of-fortnite.html",
-          "publishedOn": "2024-02-07T21:54:45.000Z",
-          "wordCount": 19788,
-          "title": "Disney to take $1.5B stake in Epic Games",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107370350-1707326004937-gettyimages-1822369917-RAFAPRESS_04122023-09335.jpeg?v=1707326026&w=1920&h=1080"
-        },
-        {
-          "id": "https://www.nextplatform.com/2024/02/06/nvidias-grace-arm-cpu-holds-its-own-against-x86-for-hpc/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nextplatform.com/2024/02/06/nvidias-grace-arm-cpu-holds-its-own-against-x86-for-hpc/",
-          "publishedOn": "2024-02-07T21:17:49.000Z",
-          "wordCount": 4762,
-          "title": "Nvidia's \"Grace\" Arm CPU holds its own against x86 for HPC",
-          "imageUrl": "http://www.nextplatform.com/wp-content/uploads/2022/03/nvidia-grace-die-shots.jpg"
-        },
-        {
-          "id": "https://arxiv.org/abs/2401.03408",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2401.03408",
-          "publishedOn": "2024-02-07T21:12:01.000Z",
-          "wordCount": 732,
-          "title": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://www.npr.org/sections/health-shots/2024/02/02/1228474984/appendix-function-appendicitis-gut-health",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.npr.org/sections/health-shots/2024/02/02/1228474984/appendix-function-appendicitis-gut-health",
-          "publishedOn": "2024-02-07T21:09:09.000Z",
-          "wordCount": 2029,
-          "title": "The appendix is not, in fact, useless",
-          "imageUrl": "https://media.npr.org/assets/img/2024/02/01/heather-smith-anatomist-2_wide-d0edc954bf43342b0c00f7dd7bdd8b78d9c54f8a-s1400-c100.jpg"
-        },
-        {
-          "id": "https://publicdomainreview.org/collection/my-lady-nicotine/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://publicdomainreview.org/collection/my-lady-nicotine/",
-          "publishedOn": "2024-02-07T20:13:10.000Z",
-          "wordCount": 9419,
-          "title": "Never-again Land: J. M. Barrie's My Lady Nicotine (1896)",
-          "imageUrl": "https://the-public-domain-review.imgix.net/collections/my-lady-nicotine/Barrie-nicotine-thumb.jpeg"
-        },
-        {
-          "id": "https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html",
-          "publishedOn": "2024-02-07T19:28:05.000Z",
-          "wordCount": 2763,
-          "title": "A search engine in 80 lines of Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.unison.cloud/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.unison.cloud/",
-          "publishedOn": "2024-02-07T16:59:50.000Z",
-          "wordCount": 1669,
-          "title": "Unison Cloud",
-          "imageUrl": "https://www.unison.cloud/assets/unison-cloud-social.png"
         }
       ]
     },
@@ -9142,21 +9167,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/sugar-taxes-opinion-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/food-environment/2024/sea-level-rise-groundwater-flooding-basement-broken-pipes",
-          "author": "Shellie Habel",
-          "description": "OPINION: Sea level rise won’t hit just homes on shorefronts, but also the infrastructure beneath our feet",
-          "link": "https://knowablemagazine.org/content/article/food-environment/2024/sea-level-rise-groundwater-flooding-basement-broken-pipes",
-          "publishedOn": "2024-02-08T04:33:18.451Z",
-          "wordCount": 2597,
-          "title": "The hidden threat from rising coastal groundwater",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/sea-level-underground-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/sea-level-underground-500x288.jpg"
         }
       ]
     },
@@ -9270,26 +9280,6 @@
           "publishedOn": "2024-02-19T03:35:02.000Z",
           "wordCount": 4979,
           "title": "MEDIAWATCH: Reason why Begging Google + Facebook for royalty crumbs isn’t enough for Domestic Media Industry ... - thedailyblog.co.nz",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vYmxvZy5nb29nbGUvcHJvZHVjdHMvZ2VtaW5pL2JhcmQtZ2VtaW5pLWFkdmFuY2VkLWFwcC_SAQA",
-          "author": null,
-          "description": "Google Bard is now Gemini: How to try Ultra 1.0 and new mobile app  The Keyword | Google Product and Technology News",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vYmxvZy5nb29nbGUvcHJvZHVjdHMvZ2VtaW5pL2JhcmQtZ2VtaW5pLWFkdmFuY2VkLWFwcC_SAQA?oc=5",
-          "publishedOn": "2024-02-08T08:00:00.000Z",
-          "wordCount": 5005,
-          "title": "Google Bard is now Gemini: How to try Ultra 1.0 and new mobile app - The Keyword | Google Product and Technology News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LnNob3BpZnkuY29tL256L2Jsb2cvMzQ5MTEzMDEtaG93LXRvLXN0YXJ0LWEtcG9kY2FzdC10aGUtdWx0aW1hdGUtc3RlcC1ieS1zdGVwLXBvZGNhc3RpbmctZ3VpZGXSAQA",
-          "author": null,
-          "description": "Find Your Sound: How To Start a Podcast 11 Steps (2024)  Shopify",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnNob3BpZnkuY29tL256L2Jsb2cvMzQ5MTEzMDEtaG93LXRvLXN0YXJ0LWEtcG9kY2FzdC10aGUtdWx0aW1hdGUtc3RlcC1ieS1zdGVwLXBvZGNhc3RpbmctZ3VpZGXSAQA?oc=5",
-          "publishedOn": "2024-02-08T08:00:00.000Z",
-          "wordCount": 5005,
-          "title": "Find Your Sound: How To Start a Podcast 11 Steps (2024) - Shopify",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
