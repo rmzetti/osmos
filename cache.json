@@ -49,6 +49,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/04/f-shape-pattern-how-users-read/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Scrolling, scanning, skipping: How do users consume content online? Here’s what you need to know about reading behavior and design strategies to prevent harmful scanning patterns. An upcoming part of Smart Interface Design Patterns.",
+          "link": "https://smashingmagazine.com/2024/04/f-shape-pattern-how-users-read/",
+          "publishedOn": "2024-04-23T10:00:00.000Z",
+          "wordCount": 3729,
+          "title": "F-Shape Pattern And How Users Read",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/f-shape-pattern-how-users-read/f-shape-pattern-how-users-read.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/f-shape-pattern-how-users-read/f-shape-pattern-how-users-read.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/04/how-work-graphql-wordpress-2024/",
           "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
           "description": "What options do we have for integrating GraphQL with WordPress in 2024? Leonardo Losoviz describes the developments that have taken place in this space over the last three years.",
@@ -227,21 +242,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/the-future-of-user-research/increased-demand-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
-          "author": "hello@smashingmagazine.com (Henry Bley-Vroman)",
-          "description": "There are many ways to approach a “Dark Mode” feature that respects a user’s system color scheme preferences and allows for per-site customization. Henry Bley-Vroman walks through a new possibility that leans into cutting-edge CSS, with minimal JavaScript to support persisting the user’s color scheme preference across pages.",
-          "link": "https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
-          "publishedOn": "2024-03-25T12:00:00.000Z",
-          "wordCount": 4584,
-          "title": "Setting And Persisting Color Scheme Preferences With CSS And A “Touch” Of JavaScript",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/setting-persisting-color-scheme-preferences-css-javascript/setting-persisting-color-scheme-preferences-css-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/setting-persisting-color-scheme-preferences-css-javascript/setting-persisting-color-scheme-preferences-css-javascript.jpg"
         }
       ]
     },
@@ -250,6 +250,276 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.mostlypython.com/django-from-first-principles/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.mostlypython.com/django-from-first-principles/",
+          "publishedOn": "2024-04-24T03:59:31.000Z",
+          "wordCount": 1779,
+          "title": "Building a full Django project, starting with a single file",
+          "imageUrl": "https://www.mostlypython.com/content/images/size/w1200/2024/03/standard_vs_single_django-2-3.png"
+        },
+        {
+          "id": "https://github.com/google/maxtext",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/google/maxtext",
+          "publishedOn": "2024-04-24T03:00:46.000Z",
+          "wordCount": 5850,
+          "title": "Maxtext: A simple, performant and scalable Jax LLM",
+          "imageUrl": "https://opengraph.githubassets.com/dfaf711dd18373301ddf4c66fef66b31252b0909da340b6d101039260ddd33d1/google/maxtext"
+        },
+        {
+          "id": "https://www.popsci.com/technology/high-speed-rail/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.popsci.com/technology/high-speed-rail/",
+          "publishedOn": "2024-04-24T02:06:33.000Z",
+          "wordCount": 3289,
+          "title": "US breaks ground on its first-ever high-speed rail",
+          "imageUrl": "https://www.popsci.com/uploads/2024/04/23/train2.jpg?auto=webp"
+        },
+        {
+          "id": "https://beebase.sourceforge.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://beebase.sourceforge.io/",
+          "publishedOn": "2024-04-24T01:44:47.000Z",
+          "wordCount": 7,
+          "title": "BeeBase, a programmable relational database with graphical user interface",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.opencompute.org/about",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.opencompute.org/about",
+          "publishedOn": "2024-04-24T01:43:54.000Z",
+          "wordCount": 1571,
+          "title": "The Open Compute Project",
+          "imageUrl": "https://www.opencompute.org/images/og-image.png"
+        },
+        {
+          "id": "https://emildziewanowski.com/flowfields/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://emildziewanowski.com/flowfields/",
+          "publishedOn": "2024-04-24T01:32:39.000Z",
+          "wordCount": 3785,
+          "title": "Simulating Jupiter",
+          "imageUrl": "https://emildziewanowski.com/wp-content/uploads/2024/04/OpenGraphImage.jpg"
+        },
+        {
+          "id": "https://github.com/apple/corenet",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/apple/corenet",
+          "publishedOn": "2024-04-24T01:26:48.000Z",
+          "wordCount": 5581,
+          "title": "Apple releases CoreNet, a library for training deep neural networks",
+          "imageUrl": "https://opengraph.githubassets.com/8f4dfcb8156e2be08acb502a1c49d0da1420f25142330a5b87316d4327a8c0ea/apple/corenet"
+        },
+        {
+          "id": "https://undark.org/2024/04/22/darkness-in-chile-atacama-desert/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://undark.org/2024/04/22/darkness-in-chile-atacama-desert/",
+          "publishedOn": "2024-04-24T01:10:51.000Z",
+          "wordCount": 5676,
+          "title": "Protecting the Darkness in Chile's Atacama Desert",
+          "imageUrl": "https://undark.org/wp-content/uploads/2024/04/iotw2334a_crop.jpg"
+        },
+        {
+          "id": "https://www.ftc.gov/legal-library/browse/rules/noncompete-rule",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ftc.gov/legal-library/browse/rules/noncompete-rule",
+          "publishedOn": "2024-04-24T00:01:51.000Z",
+          "wordCount": 3310,
+          "title": "FTC adopts a comprehensive ban on new noncompetes with all workers",
+          "imageUrl": "https://www.ftc.gov/sites/default/files/ftc_gov/images/ftc_social_share_default_en.jpg"
+        },
+        {
+          "id": "https://xlinux.nist.gov/dads/HTML/americanFlagSort.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://xlinux.nist.gov/dads/HTML/americanFlagSort.html",
+          "publishedOn": "2024-04-23T23:26:58.000Z",
+          "wordCount": 237,
+          "title": "American flag sort",
+          "imageUrl": null
+        },
+        {
+          "id": "https://esphome.io/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://esphome.io/index.html",
+          "publishedOn": "2024-04-23T22:46:44.000Z",
+          "wordCount": 2069,
+          "title": "ESPHome",
+          "imageUrl": "https://esphome.io/_images/logo.png"
+        },
+        {
+          "id": "http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html",
+          "publishedOn": "2024-04-23T22:42:12.000Z",
+          "wordCount": 868,
+          "title": "Scooping the Loop Snooper (2000)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer",
+          "publishedOn": "2024-04-23T21:01:02.000Z",
+          "wordCount": 1049,
+          "title": "Shortbread (YC W23) is hiring a founding engineer in SF for AI comics creation",
+          "imageUrl": "https://yc-workatastartup-production.s3.amazonaws.com/jobs_company_jobs/images/64706/b2aae4ece48ea7f7b5294c80718383d52696da63.png?1713829116"
+        },
+        {
+          "id": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807",
+          "author": null,
+          "description": "Comments",
+          "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807",
+          "publishedOn": "2024-04-23T19:50:45.000Z",
+          "wordCount": null,
+          "title": "Digitized Continuous Magnetic Recordings for the 1859 Carrington Event",
+          "imageUrl": null
+        },
+        {
+          "id": "https://graph.henryn.ca/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://graph.henryn.ca/",
+          "publishedOn": "2024-04-23T19:33:21.000Z",
+          "wordCount": 6,
+          "title": "Network visualization of 50k blogs and links",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes",
+          "publishedOn": "2024-04-23T19:22:22.000Z",
+          "wordCount": 3266,
+          "title": "GPU compute in the browser at the speed of native: WebGPU marching cubes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/thomiceli/opengist",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/thomiceli/opengist",
+          "publishedOn": "2024-04-23T18:33:12.000Z",
+          "wordCount": 3130,
+          "title": "Opengist: Open-source alternative to GitHub Gists",
+          "imageUrl": "https://opengraph.githubassets.com/310a259edc6f87faeb37e948e652da651946cd689d3673c178309109bdb032a5/thomiceli/opengist"
+        },
+        {
+          "id": "https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/",
+          "publishedOn": "2024-04-23T17:54:52.000Z",
+          "wordCount": 6070,
+          "title": "Apple's risky bet on CarPlay",
+          "imageUrl": "https://theturnsignalblog.com/static/a7906420668925f2e864d5a08f10a77b/3b869/featured.png"
+        },
+        {
+          "id": "https://chipsandcheese.com/2024/04/22/intel-meteor-lakes-npu/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chipsandcheese.com/2024/04/22/intel-meteor-lakes-npu/",
+          "publishedOn": "2024-04-23T17:24:04.000Z",
+          "wordCount": null,
+          "title": "Intel Meteor Lake's NPU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wheresyoured.at/the-men-who-killed-google/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wheresyoured.at/the-men-who-killed-google/",
+          "publishedOn": "2024-04-23T16:43:59.000Z",
+          "wordCount": 4756,
+          "title": "The man who killed Google Search?",
+          "imageUrl": "https://www.wheresyoured.at/content/images/2024/01/wyea--1.jpeg"
+        },
+        {
+          "id": "https://twitter.com/gf_256/status/1782656618015904103",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/gf_256/status/1782656618015904103",
+          "publishedOn": "2024-04-23T14:58:23.000Z",
+          "wordCount": null,
+          "title": "Reverse engineering a software crack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://getada.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://getada.dev/",
+          "publishedOn": "2024-04-23T14:26:26.000Z",
+          "wordCount": 115,
+          "title": "Show HN: Getada: rustup-like installer for Ada's toolchain/package manager",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/",
+          "publishedOn": "2024-04-23T13:21:14.000Z",
+          "wordCount": 5350,
+          "title": "Mathematicians marvel at 'crazy' cuts through four dimensions",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2024/04/EmbeddedSurfaces-crKristinaArmitage-Social.webp"
+        },
+        {
+          "id": "https://leanprover-community.github.io/con-nf//",
+          "author": null,
+          "description": "Comments",
+          "link": "https://leanprover-community.github.io/con-nf//",
+          "publishedOn": "2024-04-23T12:01:03.000Z",
+          "wordCount": 1002,
+          "title": "New Foundations is consistent – a difficult mathematical proof proved using Lean",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bloomberg.com/news/articles/2024-04-22/meta-is-opening-up-quest-headset-operating-system-to-rivals",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/news/articles/2024-04-22/meta-is-opening-up-quest-headset-operating-system-to-rivals",
+          "publishedOn": "2024-04-23T11:24:28.000Z",
+          "wordCount": 576,
+          "title": "Meta 'Opening Up' Quest Headset Operating System to Rivals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=40129225",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=40129225",
+          "publishedOn": "2024-04-23T06:48:32.000Z",
+          "wordCount": 1537,
+          "title": "Ask HN: How does deploying a fine-tuned model work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sfxr.me/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sfxr.me/",
+          "publishedOn": "2024-04-23T05:35:25.000Z",
+          "wordCount": 1228,
+          "title": "Jsfxr: 8-Bit sound maker and sfx generator",
+          "imageUrl": "https://sfxr.me/header.png"
+        },
         {
           "id": "https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/",
           "author": null,
@@ -491,6 +761,16 @@
           "imageUrl": "https://www.espressif.com/sites/default/files/M5Stack%20LinkedIn_0.jpg"
         },
         {
+          "id": "https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html",
+          "publishedOn": "2024-04-22T13:26:02.000Z",
+          "wordCount": 5863,
+          "title": "Bottle Plotter",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEivJC4I-K8AswEAcMFAHSQaw0_ftmLxJl4h6SWMzcg4kOYR2pXWwzQBc0eMG58CnZ-yuHKTIgBzF4dyBY8VEoWUzyz9-Y7ldt86d03GLBTMZc2Kju0A6J3xHFQPyP7ZthbbkFbLA3_pazEdHKTgjh7WfWfUtqoRUm2M6Z8iE0WEiYx_EwOQIGz-xjVNeiFT=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://www.hanshq.net/eprime.html",
           "author": null,
           "description": "Comments",
@@ -519,6 +799,16 @@
           "wordCount": 4000,
           "title": "The problem with invariants is that they change over time",
           "imageUrl": "https://lorinhochstein.files.wordpress.com/2020/05/surfer_1f3c4.png?w=120"
+        },
+        {
+          "id": "https://arstechnica.com/science/2024/04/everest-mountaineer-george-mallorys-letters-have-been-digitized-for-posterity/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/science/2024/04/everest-mountaineer-george-mallorys-letters-have-been-digitized-for-posterity/",
+          "publishedOn": "2024-04-22T07:03:52.000Z",
+          "wordCount": 2011,
+          "title": "Explore a digitized collection of doomed Everest climber's letters home",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malloryTOP-760x380.jpg"
         },
         {
           "id": "https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html",
@@ -8599,346 +8889,6 @@
           "wordCount": 1776,
           "title": "Two open source projects with great architecture documentation",
           "imageUrl": "https://johnjago.com/images/card.png"
-        },
-        {
-          "id": "https://github.com/Adawg4/openapi-autospec",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Adawg4/openapi-autospec",
-          "publishedOn": "2024-03-25T15:49:58.000Z",
-          "wordCount": 6500,
-          "title": "Show HN: Auto-generate an OpenAPI spec by listening to localhost",
-          "imageUrl": "https://opengraph.githubassets.com/bf474d7c017e1b7818129dea34aed3412332d70098542bcadb6000157ad1acb3/Adawg4/openapi-autospec"
-        },
-        {
-          "id": "https://mark-burgess-oslo-mb.medium.com/cfengines-star-trek-and-ai-origins-e99096fe845b",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mark-burgess-oslo-mb.medium.com/cfengines-star-trek-and-ai-origins-e99096fe845b",
-          "publishedOn": "2024-03-25T15:25:11.000Z",
-          "wordCount": 7876,
-          "title": "CFEngine's Star Trek and AI Origins (2023)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9lNSH6knOxMw_hgJVYnm2A.jpeg"
-        },
-        {
-          "id": "https://github.com/divriots/jampack",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/divriots/jampack",
-          "publishedOn": "2024-03-25T14:32:46.000Z",
-          "wordCount": 4757,
-          "title": "Show HN: Jampack – Optimizes static websites as a post-processing step",
-          "imageUrl": "https://opengraph.githubassets.com/2d3fa52132ebc8289642f890dfb7e96630a9c1ba5a7676db5e0673bcd7f79f91/divriots/jampack"
-        },
-        {
-          "id": "https://adamkarvonen.github.io/machine_learning/2024/03/20/chess-gpt-interventions.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://adamkarvonen.github.io/machine_learning/2024/03/20/chess-gpt-interventions.html",
-          "publishedOn": "2024-03-25T14:22:53.000Z",
-          "wordCount": 3226,
-          "title": "Manipulating Chess-GPT's World Model",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/",
-          "publishedOn": "2024-03-25T14:01:15.000Z",
-          "wordCount": 1683,
-          "title": "For Brilliant Color: Packaging the First LSD Blotter",
-          "imageUrl": "https://thereader.mitpress.mit.edu/wp-content/uploads/2024/03/lsd-lead.jpg"
-        },
-        {
-          "id": "https://tomlingham.com/articles/how-do-mri-headphones-work/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tomlingham.com/articles/how-do-mri-headphones-work/",
-          "publishedOn": "2024-03-25T13:39:06.000Z",
-          "wordCount": 1372,
-          "title": "How do MRI Headphones work? (2022)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theguardian.com/film/2024/mar/25/martin-scorsese-vhs-video-collection-archive",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theguardian.com/film/2024/mar/25/martin-scorsese-vhs-video-collection-archive",
-          "publishedOn": "2024-03-25T13:20:20.000Z",
-          "wordCount": 5556,
-          "title": "Martin Scorsese's secret life as an obsessive VHS archivist",
-          "imageUrl": "https://i.guim.co.uk/img/media/0e16c1125aa146041a5d01dc951cc3ad9f126755/0_40_1060_636/master/1060.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4b1eea4d4d95f1a768dd3f65f1a75d7"
-        },
-        {
-          "id": "https://andrewhart.me/vision-pro/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://andrewhart.me/vision-pro/",
-          "publishedOn": "2024-03-25T12:21:05.000Z",
-          "wordCount": 1841,
-          "title": "Thoughts on Vision Pro",
-          "imageUrl": "https://andrewhart.me/assets/img/vision-pro/banner.jpg"
-        },
-        {
-          "id": "https://kaveland.no/friends-dont-let-friends-export-to-csv.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kaveland.no/friends-dont-let-friends-export-to-csv.html",
-          "publishedOn": "2024-03-25T09:57:18.000Z",
-          "wordCount": 1885,
-          "title": "Friends don't let friends export to CSV",
-          "imageUrl": "/images/face.png"
-        },
-        {
-          "id": "https://www.c64os.com/post/hiddenfiles",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.c64os.com/post/hiddenfiles",
-          "publishedOn": "2024-03-25T09:45:58.000Z",
-          "wordCount": 6257,
-          "title": "Hidden Files in C64 OS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://rtwolf.github.io/Everyone-is-John/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://rtwolf.github.io/Everyone-is-John/",
-          "publishedOn": "2024-03-25T09:10:14.000Z",
-          "wordCount": 1087,
-          "title": "Everyone is John: A competitive roleplaying game for three or more people (2002)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://esoteric.codes/blog/calculating-with-jss-undefined",
-          "author": null,
-          "description": "Comments",
-          "link": "https://esoteric.codes/blog/calculating-with-jss-undefined",
-          "publishedOn": "2024-03-25T08:52:44.000Z",
-          "wordCount": 730,
-          "title": "Computing with JavaScript's Undefined (2020)",
-          "imageUrl": "https://esoteric.codes/uploads/02ad9304-34d6-49b2-82f2-39371df0b8d9/js_undefined_front.png"
-        },
-        {
-          "id": "https://blogs.gnome.org/rbultje/2017/07/14/writing-x86-simd-using-x86inc-asm/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blogs.gnome.org/rbultje/2017/07/14/writing-x86-simd-using-x86inc-asm/",
-          "publishedOn": "2024-03-25T08:04:59.000Z",
-          "wordCount": null,
-          "title": "Writing x86 SIMD using x86inc.asm (2017)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lcamtuf.substack.com/p/radios-how-do-they-work",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lcamtuf.substack.com/p/radios-how-do-they-work",
-          "publishedOn": "2024-03-25T07:56:09.000Z",
-          "wordCount": null,
-          "title": "Radios, how do they work?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7",
-          "author": null,
-          "description": "Comments",
-          "link": "https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7",
-          "publishedOn": "2024-03-25T07:53:40.000Z",
-          "wordCount": 5132,
-          "title": "Backpressure explained – the resisted flow of data through software (2019)",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/1*ZQWlVVyCANAmgUKJU9xUlw.gif"
-        },
-        {
-          "id": "https://jornvernee.github.io/hotspot/jit/2023/08/18/debugging-jit.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jornvernee.github.io/hotspot/jit/2023/08/18/debugging-jit.html",
-          "publishedOn": "2024-03-25T07:48:34.000Z",
-          "wordCount": 4609,
-          "title": "Notes on debugging HotSpot's JIT compilation (2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cliffle.com/blog/who-killed-the-network-switch/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cliffle.com/blog/who-killed-the-network-switch/",
-          "publishedOn": "2024-03-25T06:54:02.000Z",
-          "wordCount": 4475,
-          "title": "Who killed the network switch? A Hubris Bug Story",
-          "imageUrl": null
-        },
-        {
-          "id": "https://onesignal.com/careers#section-job",
-          "author": null,
-          "description": "Comments",
-          "link": "https://onesignal.com/careers#section-job",
-          "publishedOn": "2024-03-25T04:22:53.000Z",
-          "wordCount": 1031,
-          "title": "OneSignal (YC S11) Is Hiring Engineers to Build a Customer Engagement Platform",
-          "imageUrl": "https://media-cms.onesignal.com/cms/_1200x630_crop_center-center_82_none/careers-social-thumbnail-2.png?mtime=1675110417"
-        },
-        {
-          "id": "https://github.com/roboflow/supervision",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/roboflow/supervision",
-          "publishedOn": "2024-03-25T01:58:33.000Z",
-          "wordCount": 4608,
-          "title": "Supervision: Reusable Computer Vision",
-          "imageUrl": "https://opengraph.githubassets.com/a91ede13638424066816658e2988f8a37f8c8fb15ede9e57335417ec58ba4e72/roboflow/supervision"
-        },
-        {
-          "id": "https://github.com/libsdl-org/SDL/pull/9345",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/libsdl-org/SDL/pull/9345",
-          "publishedOn": "2024-03-25T01:39:52.000Z",
-          "wordCount": 5741,
-          "title": "Revert \"video: Prefer Wayland over X11 (take 2)\"",
-          "imageUrl": "https://opengraph.githubassets.com/65a5125c19c03b066c9ab05587ba5d0bb9e992c13743e6e9aaba186240575c82/libsdl-org/SDL/pull/9345"
-        },
-        {
-          "id": "https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/",
-          "publishedOn": "2024-03-25T01:28:34.000Z",
-          "wordCount": 2404,
-          "title": "Mutt on Windows Without WSL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental",
-          "publishedOn": "2024-03-25T01:27:46.000Z",
-          "wordCount": 1534,
-          "title": "Northern lights forecasted to be visible into upper United States tonight",
-          "imageUrl": null
-        },
-        {
-          "id": "https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf",
-          "publishedOn": "2024-03-25T01:18:15.000Z",
-          "wordCount": 138257,
-          "title": "Symbolics Sunstone Development Plan (1987) [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/davepl1968/status/1772042158046146792",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/davepl1968/status/1772042158046146792",
-          "publishedOn": "2024-03-24T23:52:03.000Z",
-          "wordCount": null,
-          "title": "The Format Dialog in Windows NT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mccormick.cx/news/entries/moving-back-to-london-2023-review",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mccormick.cx/news/entries/moving-back-to-london-2023-review",
-          "publishedOn": "2024-03-24T22:57:41.000Z",
-          "wordCount": 2375,
-          "title": "Moving Back to London and 2023 Review",
-          "imageUrl": null
-        },
-        {
-          "id": "https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf",
-          "publishedOn": "2024-03-24T22:57:03.000Z",
-          "wordCount": 94185,
-          "title": "Do artifacts have politics? [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arxiv.org/abs/2403.10692",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2403.10692",
-          "publishedOn": "2024-03-24T22:53:25.000Z",
-          "wordCount": 682,
-          "title": "Explorer: Exploration-Guided Reasoning for Textual Reinforcement Learning",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://www.quantamagazine.org/how-quickly-do-large-language-models-learn-unexpected-skills-20240213/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/how-quickly-do-large-language-models-learn-unexpected-skills-20240213/",
-          "publishedOn": "2024-03-24T22:36:33.000Z",
-          "wordCount": 5061,
-          "title": "Large Language Models' Emergent Abilities Are a Mirage",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2024/02/AbilitiesJumpMirage-byKristinaArmitage-Social.webp"
-        },
-        {
-          "id": "https://github.com/Y2Z/monolith",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Y2Z/monolith",
-          "publishedOn": "2024-03-24T20:48:06.000Z",
-          "wordCount": 5538,
-          "title": "Monolith – CLI tool for saving complete web pages as a single HTML file",
-          "imageUrl": "https://opengraph.githubassets.com/58adc39cf45e507c71dd5c41bff96acfb9e77e01affb1eda955e5e8cf6a2472c/Y2Z/monolith"
-        },
-        {
-          "id": "https://lithub.com/shes-bouncing-the-ball-on-the-uncanny-way-octopuses-play/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lithub.com/shes-bouncing-the-ball-on-the-uncanny-way-octopuses-play/",
-          "publishedOn": "2024-03-24T20:41:59.000Z",
-          "wordCount": 3619,
-          "title": "\"She's bouncing the ball\" – the uncanny way octopuses play",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2019/09/octopus.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2024/03/21/us/the-lone-volcano-in-californias-central-valley.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2024/03/21/us/the-lone-volcano-in-californias-central-valley.html",
-          "publishedOn": "2024-03-24T20:38:22.000Z",
-          "wordCount": null,
-          "title": "The Lone Volcano in California's Central Valley",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cons.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cons.io/",
-          "publishedOn": "2024-03-24T18:54:47.000Z",
-          "wordCount": 98,
-          "title": "Gerbil Scheme – A Lisp for the 21st Century",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/beemdevelopment/Aegis/releases/tag/v3.0",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/beemdevelopment/Aegis/releases/tag/v3.0",
-          "publishedOn": "2024-03-24T18:00:40.000Z",
-          "wordCount": 533,
-          "title": "Aegis v3.0 – a free, secure and open source 2FA app for Android",
-          "imageUrl": "https://opengraph.githubassets.com/c850607ff26e0935d72fcb68e4da4cd4ec32bbcbddd2d5cb3971e7b3ed37f02e/beemdevelopment/Aegis/releases/tag/v3.0"
-        },
-        {
-          "id": "https://www.atnnn.com/p/operator-larrow/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.atnnn.com/p/operator-larrow/",
-          "publishedOn": "2024-03-24T17:22:01.000Z",
-          "wordCount": 141,
-          "title": "C++ left arrow operator (2016)",
-          "imageUrl": null
         }
       ]
     },
@@ -9004,6 +8954,36 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/society/2024/making-parole-probation-effective",
+          "author": "Lola Butcher",
+          "description": "The current system of supervised release in lieu of imprisonment may do more harm than good, some experts say. How can society do a better job of rehabilitating law-breakers while keeping them from re-offending?",
+          "link": "https://knowablemagazine.org/content/article/society/2024/making-parole-probation-effective",
+          "publishedOn": "2024-04-24T04:33:15.211Z",
+          "wordCount": 4457,
+          "title": "Why probation and parole don’t work as advertised",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/parole-and-probation-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/parole-and-probation-500x288.jpg"
+        },
+        {
+          "id": "https://knowablemagazine.org/content/article/technology/2024/how-next-gen-data-analytics-changing-american-football",
+          "author": "Dana Mackenzie",
+          "description": "At the NFL’s Big Data Bowl, scientists compete to develop new stats that better capture player performance",
+          "link": "https://knowablemagazine.org/content/article/technology/2024/how-next-gen-data-analytics-changing-american-football",
+          "publishedOn": "2024-04-24T04:33:15.185Z",
+          "wordCount": 4130,
+          "title": "How next-gen data analytics is changing American football",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/player-tracking-sports-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/player-tracking-sports-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/health-disease/2024/why-isnt-dental-health-considered-primary-medical-care",
           "author": "Lola Butcher",
