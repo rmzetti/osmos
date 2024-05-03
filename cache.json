@@ -39,6 +39,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/",
+          "author": "hello@smashingmagazine.com (Amit Sheen)",
+          "description": "Amit Sheen demonstrates using `:has()` to apply styles conditionally when a certain `` in a `` element is chosen by the user and how we gain even more conditional styling capabilities when chaining `:has()` with other pseudo-classes, such as `:not()` — no JavaScript necessary.",
+          "link": "https://smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/",
+          "publishedOn": "2024-05-02T10:00:00.000Z",
+          "wordCount": 3801,
+          "title": "Combining CSS :has() And HTML &lt;select&gt; For Greater Conditional Styling",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/combining-css-has-html-select-conditional-styling/combining-css-has-html-select-conditional-styling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/combining-css-has-html-select-conditional-styling/combining-css-has-html-select-conditional-styling.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/04/desktop-wallpaper-calendars-may-2024/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "May is almost here, so what better occasion could there be for some fresh and inspiring desktop wallpapers? Created with love by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar. Enjoy!",
@@ -232,21 +247,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/things-users-would-appreciate-mobile-apps/things-users-would-appreciate-mobile-apps.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/",
-          "author": "hello@smashingmagazine.com (Tatsiana Tarkan)",
-          "description": "Tatsiana Tarkan digs deep into iconography as part of a design system and shares some doable tips that will turn icon creation and maintenance into an enjoyable process.",
-          "link": "https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/",
-          "publishedOn": "2024-04-03T08:00:00.000Z",
-          "wordCount": 5830,
-          "title": "Iconography In Design Systems: Easy Troubleshooting And Maintenance",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/iconography-design-systems-troubleshooting-maintenance/iconography-design-systems-troubleshooting-maintenance.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/iconography-design-systems-troubleshooting-maintenance/iconography-design-systems-troubleshooting-maintenance.jpg"
         }
       ]
     },
@@ -255,6 +255,276 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/",
+          "publishedOn": "2024-05-03T03:08:32.000Z",
+          "wordCount": 18695,
+          "title": "Hyundai is spending $1B to keep self-driving startup Motional alive",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/Motional_IONIQ5AV_Uber-2.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon",
+          "publishedOn": "2024-05-03T01:58:33.000Z",
+          "wordCount": 1656,
+          "title": "Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture",
+          "imageUrl": null
+        },
+        {
+          "id": "https://bjsm.bmj.com/content/58/10/556",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bjsm.bmj.com/content/58/10/556",
+          "publishedOn": "2024-05-03T01:58:21.000Z",
+          "wordCount": 7680,
+          "title": "Cardio fitness is a strong, consistent predictor of morbidity and mortality",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html",
+          "publishedOn": "2024-05-03T01:44:30.000Z",
+          "wordCount": 1661,
+          "title": "I'm writing a new vector search SQLite Extension",
+          "imageUrl": "https://alexgarcia.xyz/blog/1.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=40242990",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=40242990",
+          "publishedOn": "2024-05-03T01:05:30.000Z",
+          "wordCount": 181,
+          "title": "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "publishedOn": "2024-05-02T23:56:08.000Z",
+          "wordCount": 7889,
+          "title": "Stirling PDF: Self-hosted, web-based PDF manipulation tool",
+          "imageUrl": "https://opengraph.githubassets.com/676754f5f4f1d9d6236fa685b733a7849128c9cb70106400d4e3733541a23e0e/Stirling-Tools/Stirling-PDF"
+        },
+        {
+          "id": "https://a.singlediv.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://a.singlediv.com/",
+          "publishedOn": "2024-05-02T23:17:40.000Z",
+          "wordCount": 19,
+          "title": "A Single Div",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mastodon.social/@Edent/112372412442888807",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mastodon.social/@Edent/112372412442888807",
+          "publishedOn": "2024-05-02T23:13:19.000Z",
+          "wordCount": 128,
+          "title": "You receive a call on your phone. The caller says they're from your bank",
+          "imageUrl": "https://files.mastodon.social/media_attachments/files/112/372/406/504/640/952/original/e58813c2dc165422.png"
+        },
+        {
+          "id": "https://www.mattcutts.com/blog/google-synonyms/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.mattcutts.com/blog/google-synonyms/",
+          "publishedOn": "2024-05-02T23:05:57.000Z",
+          "wordCount": 5814,
+          "title": "Google's Synonym Extraction Methods (2010)",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://www.emergetools.com/deep-dives/rabbit-r1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.emergetools.com/deep-dives/rabbit-r1",
+          "publishedOn": "2024-05-02T22:58:52.000Z",
+          "wordCount": 653,
+          "title": "An analysis of the rabbit R1 APK",
+          "imageUrl": "https://emergeassets.s3.us-west-1.amazonaws.com/rabbit-cover.png"
+        },
+        {
+          "id": "https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/",
+          "publishedOn": "2024-05-02T22:47:05.000Z",
+          "wordCount": 5096,
+          "title": "The life and times of an Abstract Syntax Tree",
+          "imageUrl": "https://blog.trailofbits.com/wp-content/uploads/2020/07/cropped-android-chrome-512x512-1.png"
+        },
+        {
+          "id": "https://www.anandtech.com/show/21373/tsmc-adds-silicon-photonics-coupe-roadmap-128tbps-on-package",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anandtech.com/show/21373/tsmc-adds-silicon-photonics-coupe-roadmap-128tbps-on-package",
+          "publishedOn": "2024-05-02T21:44:24.000Z",
+          "wordCount": 3496,
+          "title": "TSMC Jumps into Silicon Photonics, Lays Out Roadmap for 12.8 Tbps Interconnect",
+          "imageUrl": "https://images.anandtech.com/doci/21373/council-bluffs-network-room_678x452.jpg"
+        },
+        {
+          "id": "https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/",
+          "publishedOn": "2024-05-02T21:24:42.000Z",
+          "wordCount": 21876,
+          "title": "They thought they were joining an accelerator – instead they lost their startups",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/05/newchip-andrew-ryan.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://www.jakelow.com/blog/hobby-curves",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jakelow.com/blog/hobby-curves",
+          "publishedOn": "2024-05-02T20:31:19.000Z",
+          "wordCount": 1931,
+          "title": "Hobby's algorithm for aesthetic Bézier splines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sigma-star.at/blog/2024/02/exit0-code-injection/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sigma-star.at/blog/2024/02/exit0-code-injection/",
+          "publishedOn": "2024-05-02T20:25:32.000Z",
+          "wordCount": 1278,
+          "title": "Pseudo Graceful Process Termination Through Code Injection",
+          "imageUrl": "https://sigma-star.at/assets/images/opengraph/og-image-blog-security.png"
+        },
+        {
+          "id": "https://www.theregister.com/2024/05/02/rool_530_is_here/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theregister.com/2024/05/02/rool_530_is_here/",
+          "publishedOn": "2024-05-02T19:55:59.000Z",
+          "wordCount": 2573,
+          "title": "Got an old Raspberry Pi spare? Try RISC OS. It is, something else",
+          "imageUrl": "https://regmedia.co.uk/2024/05/01/ro530-desktop.jpg"
+        },
+        {
+          "id": "https://blog.ablspacesystems.com/p/building-e2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.ablspacesystems.com/p/building-e2",
+          "publishedOn": "2024-05-02T19:54:48.000Z",
+          "wordCount": 10736,
+          "title": "Building a rocket engine from scratch",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3de0f472-61c3-425b-9188-7e73c3024591_1440x960.jpeg"
+        },
+        {
+          "id": "https://danielchasehooper.com/posts/shapeup/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://danielchasehooper.com/posts/shapeup/",
+          "publishedOn": "2024-05-02T17:48:14.000Z",
+          "wordCount": 1594,
+          "title": "Making a 3D modeler in C in a week",
+          "imageUrl": "https://danielchasehooper.com/images/avatar.jpg"
+        },
+        {
+          "id": "https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/",
+          "publishedOn": "2024-05-02T17:38:01.000Z",
+          "wordCount": 10857,
+          "title": "Piccolo – A Stackless Lua Interpreter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.quantamagazine.org/pleasure-or-pain-he-maps-the-neural-circuits-that-decide-20240416/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/pleasure-or-pain-he-maps-the-neural-circuits-that-decide-20240416/",
+          "publishedOn": "2024-05-02T17:21:43.000Z",
+          "wordCount": 8778,
+          "title": "Pleasure or pain? He maps the neural circuits that decide",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2024/04/AbdusSaboor-bySashaMaslov-Social.webp"
+        },
+        {
+          "id": "https://longnow.org/ideas/to-save-it-eat-it/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://longnow.org/ideas/to-save-it-eat-it/",
+          "publishedOn": "2024-05-02T16:15:54.000Z",
+          "wordCount": 2261,
+          "title": "Gene banks aren’t enough to save the world’s food",
+          "imageUrl": "https://static.longnow.org/2024/01/avinash-kumar-OvUAL6Vx3uY-unsplash.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/science-environment-68942123",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.co.uk/news/science-environment-68942123",
+          "publishedOn": "2024-05-02T16:09:05.000Z",
+          "wordCount": 7821,
+          "title": "Wild orangutan seen healing his wound with a plant",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6212/production/_133260152_picture_3_credits_armas.jpg"
+        },
+        {
+          "id": "https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/",
+          "publishedOn": "2024-05-02T16:00:43.000Z",
+          "wordCount": 951,
+          "title": "Online Cryptography Course (2017)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog",
+          "publishedOn": "2024-05-02T14:36:18.000Z",
+          "wordCount": 11301,
+          "title": "Show HN: An extension to track your Wikipedia adventures",
+          "imageUrl": "https://lh3.googleusercontent.com/cIp1JVlzN0RyMe3cfQ6kEMLk0MwGqdZmY4nSi3-_-aw3k0qmiRpfBVxrAH5ft6usN2_FrSIjYgxJ1mXf8RdPQq5L=s128-rj-sc0x00ffffff"
+        },
+        {
+          "id": "https://lithub.com/how-silk-helped-the-armies-of-genghis-khan-conquer-asia/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lithub.com/how-silk-helped-the-armies-of-genghis-khan-conquer-asia/",
+          "publishedOn": "2024-05-02T10:45:26.000Z",
+          "wordCount": 4001,
+          "title": "Silk Helped the Armies of Genghis Khan Conquer Asia",
+          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2024/04/mongol-warriors.jpg"
+        },
+        {
+          "id": "https://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/",
+          "publishedOn": "2024-05-02T07:50:34.000Z",
+          "wordCount": 2524,
+          "title": "The world's loudest Lisp program to the rescue",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4hOK7bU0S1Y",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=4hOK7bU0S1Y",
+          "publishedOn": "2024-05-02T03:46:11.000Z",
+          "wordCount": null,
+          "title": "How did Ancient Greek music sound?",
+          "imageUrl": null
+        },
         {
           "id": "https://rodydavis.com/sqlite/nosql",
           "author": null,
@@ -456,6 +726,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://medium.com/@anastasia.bizyayeva/every-map-of-china-is-wrong-bc2bce145db2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medium.com/@anastasia.bizyayeva/every-map-of-china-is-wrong-bc2bce145db2",
+          "publishedOn": "2024-05-01T06:08:54.000Z",
+          "wordCount": 4205,
+          "title": "Every map of China is wrong",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*G21vjYkc6kodx9C7y6QByA.png"
+        },
+        {
           "id": "https://www.benlandautaylor.com/p/why-we-cant-have-nice-things",
           "author": null,
           "description": "Comments",
@@ -594,6 +874,16 @@
           "wordCount": 146,
           "title": "Arti: A Tor Implementation in Rust",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.corbado.com/blog/passkey-implementation-pitfalls-misconceptions-unknowns",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.corbado.com/blog/passkey-implementation-pitfalls-misconceptions-unknowns",
+          "publishedOn": "2024-04-30T18:52:07.000Z",
+          "wordCount": 18864,
+          "title": "Passkey Implementation: Misconceptions, pitfalls and unknown unknowns",
+          "imageUrl": "https://s3.eu-central-1.amazonaws.com/corbado-strapi-aws-s3-media-bucket-prod/passkey_misconceptions_cover_2ee93e6380.jpg"
         },
         {
           "id": "https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death",
@@ -8524,416 +8814,6 @@
           "wordCount": 5900,
           "title": "Jpegli: A new JPEG coding library",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDa_aWprUuwxdb9QLGHWUyUy_kkJfNhH4uj-04R3BCpOBk4TcmDCRQLYyWFXu3VqVV9m41R63WlpeGTPzuu1rI6D6LmdTcSLY5mgpwXud-8S2G9b8_CFJvBCux3YZ0QJa7MwCZXIEyb1naPhbN8Mpx2xwMyKZuBK9pQYCizBO_Xf6FzYekhd34EvjWsjk/w1200-h630-p-k-no-nu/OS-New-Library-for-Network-Optimization-social%20%281%29%20%281%29.png"
-        },
-        {
-          "id": "https://www.ams.org/journals/notices/202404/rnoti-p444.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ams.org/journals/notices/202404/rnoti-p444.pdf",
-          "publishedOn": "2024-04-03T16:29:45.000Z",
-          "wordCount": 184174,
-          "title": "The Quintic, the Icosahedron, and Elliptic Curves [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gijn.org/stories/tracking-shell-companies-secret-owners/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gijn.org/stories/tracking-shell-companies-secret-owners/",
-          "publishedOn": "2024-04-03T16:22:12.000Z",
-          "wordCount": 4583,
-          "title": "Tips for linking shell companies to their secret owners",
-          "imageUrl": "https://gijn.org/wp-content/uploads/2024/04/shutterstock_563679472-771x538.jpg"
-        },
-        {
-          "id": "https://publicdomainreview.org/essay/windows-onto-history/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://publicdomainreview.org/essay/windows-onto-history/",
-          "publishedOn": "2024-04-03T15:51:20.000Z",
-          "wordCount": 12649,
-          "title": "The Defenestrations of Prague (1419–1997)",
-          "imageUrl": "https://the-public-domain-review.imgix.net/essays/windows-onto-history/windows-feature.jpg"
-        },
-        {
-          "id": "https://github.com/plandex-ai/plandex",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/plandex-ai/plandex",
-          "publishedOn": "2024-04-03T15:10:11.000Z",
-          "wordCount": 5678,
-          "title": "Show HN: Plandex – an AI coding engine for complex tasks",
-          "imageUrl": "https://repository-images.githubusercontent.com/709538270/42d0adb7-ebdc-4fca-92c6-9ac1e4dd2385"
-        },
-        {
-          "id": "https://www.972mag.com/lavender-ai-israeli-army-gaza/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.972mag.com/lavender-ai-israeli-army-gaza/",
-          "publishedOn": "2024-04-03T14:50:30.000Z",
-          "wordCount": 9277,
-          "title": "'Lavender': The AI machine directing Israel's bombing in Gaza",
-          "imageUrl": "https://static.972mag.com/www/uploads/2024/03/F231228YS59-1200x802.jpg"
-        },
-        {
-          "id": "https://daily.jstor.org/saffron-the-story-of-the-worlds-most-expensive-spice/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://daily.jstor.org/saffron-the-story-of-the-worlds-most-expensive-spice/",
-          "publishedOn": "2024-04-03T14:17:10.000Z",
-          "wordCount": 3343,
-          "title": "Saffron: The Most Expensive Spice",
-          "imageUrl": "https://daily.jstor.org/wp-content/uploads/2024/03/saffron_the_story_of_the_worlds_most_expensive_spice_1050x700.jpg"
-        },
-        {
-          "id": "https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go",
-          "publishedOn": "2024-04-03T13:57:06.000Z",
-          "wordCount": 3852,
-          "title": "New seafloor map only 25% done, with 6 years to go",
-          "imageUrl": "https://eos.org/wp-content/uploads/2024/03/seamount.jpg"
-        },
-        {
-          "id": "https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler",
-          "author": null,
-          "description": "Comments",
-          "link": "https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler",
-          "publishedOn": "2024-04-03T13:54:28.000Z",
-          "wordCount": 4328,
-          "title": "Improvements to static analysis in GCC 14",
-          "imageUrl": "https://developers.redhat.com/sites/default/files/styles/share/public/blog/2021/04/gcc_1x.png?itok=6l1b8Lo9"
-        },
-        {
-          "id": "https://blog.jessriedel.com/2017/06/28/legendre-transform/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.jessriedel.com/2017/06/28/legendre-transform/",
-          "publishedOn": "2024-04-03T11:44:02.000Z",
-          "wordCount": 8138,
-          "title": "Legendre transform, better explained (2017)",
-          "imageUrl": "https://blog.jessriedel.com/wp-content/uploads/2017/06/convex-hull-figure.png"
-        },
-        {
-          "id": "https://modernfarmer.com/2024/04/making-old-orchards-new-again/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://modernfarmer.com/2024/04/making-old-orchards-new-again/",
-          "publishedOn": "2024-04-03T11:42:13.000Z",
-          "wordCount": 6652,
-          "title": "Making old orchards new again",
-          "imageUrl": "https://modernfarmer.com/wp-content/uploads/2024/03/apples-MORP.jpeg"
-        },
-        {
-          "id": "https://digest.browsertech.com/archive/browsertech-digest-row-zero-and-viewport-data/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://digest.browsertech.com/archive/browsertech-digest-row-zero-and-viewport-data/",
-          "publishedOn": "2024-04-03T10:19:07.000Z",
-          "wordCount": 1802,
-          "title": "Row Zero and Viewport Data Streaming",
-          "imageUrl": "https://assets.buttondown.email/images/2cc70810-7020-42ac-ba8d-7fdc6812f8b8.png?w=960&fit=max"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/philly-typewriter-philadelphia",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.atlasobscura.com/places/philly-typewriter-philadelphia",
-          "publishedOn": "2024-04-03T08:13:40.000Z",
-          "wordCount": 4285,
-          "title": "Philly Typewriter",
-          "imageUrl": "https://img.atlasobscura.com/4bNRqQRt5n2X7H-7wU1O3nfetxZKL1oTnYVNntUsND4/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yNzFk/NzhhYi0xMGY1LTRj/MTYtYmQ3My1lMjYz/NDgzYThkZTgwYzAw/NjRiYjQ4MjRjMDQ0/MmFfSU1HXzYxNDAu/SlBFRw.jpg"
-        },
-        {
-          "id": "https://hedgehogreview.com/web-features/thr/posts/americas-great-poet-of-darkness",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hedgehogreview.com/web-features/thr/posts/americas-great-poet-of-darkness",
-          "publishedOn": "2024-04-03T05:30:50.000Z",
-          "wordCount": 2257,
-          "title": "America's Great Poet of Darkness: A Reconsideration of Robert Frost at 150",
-          "imageUrl": "https://s3.amazonaws.com/thr-prod/images/65be356694f317e73e6fe58f34e008ea.1500.jpg"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2024/04/02/autoconf/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://rachelbythebay.com/w/2024/04/02/autoconf/",
-          "publishedOn": "2024-04-03T05:29:45.000Z",
-          "wordCount": null,
-          "title": "Autoconf makes me think we stopped evolving too soon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599",
-          "author": null,
-          "description": "Comments",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599",
-          "publishedOn": "2024-04-03T04:33:39.000Z",
-          "wordCount": 7185,
-          "title": "Subroutine calls in the ancient world, before computers had stacks or heaps",
-          "imageUrl": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg"
-        },
-        {
-          "id": "https://spectrum.ieee.org/3m-floppy",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spectrum.ieee.org/3m-floppy",
-          "publishedOn": "2024-04-03T04:05:10.000Z",
-          "wordCount": 11623,
-          "title": "The Rise and Fall of 3M's Floppy Disk",
-          "imageUrl": "https://spectrum.ieee.org/media-library/six-3m-5-1-4-floppy-disks-in-a-grid-on-a-red-background-3-have-a-sleeve-on-and-3-do-not.jpg?id=51890399&width=1200&height=600&coordinates=0%2C125%2C0%2C125"
-        },
-        {
-          "id": "https://github.com/reactjs/react.dev/issues/3896",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/reactjs/react.dev/issues/3896",
-          "publishedOn": "2024-04-03T03:29:30.000Z",
-          "wordCount": 1385,
-          "title": "Is it safe to use __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED?",
-          "imageUrl": "https://opengraph.githubassets.com/0860830c77a17cff1395e1df249f61e8a5d4803d7c3b4c4fcd484ae04ce6b78b/reactjs/react.dev/issues/3896"
-        },
-        {
-          "id": "https://help.overdrive.com/en-us/2271.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://help.overdrive.com/en-us/2271.htm",
-          "publishedOn": "2024-04-03T02:46:35.000Z",
-          "wordCount": 667,
-          "title": "Why will my device lose access to Libby & OverDrive April 15, 2024?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/",
-          "publishedOn": "2024-04-03T01:56:34.000Z",
-          "wordCount": null,
-          "title": "Intel discloses $7B operating loss for chip-making unit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://almy.us/softwaredeath.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://almy.us/softwaredeath.html",
-          "publishedOn": "2024-04-03T01:42:31.000Z",
-          "wordCount": 1487,
-          "title": "The Threat of Discontinued Software (2021)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2024/04/02/books/john-barth-dead.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2024/04/02/books/john-barth-dead.html",
-          "publishedOn": "2024-04-03T00:42:42.000Z",
-          "wordCount": null,
-          "title": "John Barth has died",
-          "imageUrl": null
-        },
-        {
-          "id": "https://earthquake.usgs.gov/earthquakes/map/?extent=16.34123,-246.42334&extent=28.51697,-223.43994",
-          "author": null,
-          "description": "Comments",
-          "link": "https://earthquake.usgs.gov/earthquakes/map/?extent=16.34123,-246.42334&extent=28.51697,-223.43994",
-          "publishedOn": "2024-04-03T00:24:56.000Z",
-          "wordCount": 482,
-          "title": "7.4 earthquake in Taiwan, 34km depth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arxiv.org/abs/2403.20329",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2403.20329",
-          "publishedOn": "2024-04-02T23:26:37.000Z",
-          "wordCount": 698,
-          "title": "ReALM: Reference Resolution as Language Modeling",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://github.com/dashpresshq/dashpress",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/dashpresshq/dashpress",
-          "publishedOn": "2024-04-02T22:40:00.000Z",
-          "wordCount": 4507,
-          "title": "Show HN: Generate admin apps without writing a single line of code",
-          "imageUrl": "https://repository-images.githubusercontent.com/525004931/a0e0770e-b8f4-4518-add7-3d900e243d29"
-        },
-        {
-          "id": "https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/",
-          "publishedOn": "2024-04-02T21:39:49.000Z",
-          "wordCount": 7279,
-          "title": "Science fiction and the death of the sun",
-          "imageUrl": "https://e7tj565ac8j.exactdn.com/wp-content/uploads/2024/01/sun_reduced.jpg"
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer",
-          "publishedOn": "2024-04-02T21:00:55.000Z",
-          "wordCount": 974,
-          "title": "Roe AI (YC W24) Is Hiring",
-          "imageUrl": "https://yc-workatastartup-production.s3.amazonaws.com/jobs_company_jobs/images/65698/9faffa9e734783ed95c7cd1acf0e310989366115.jpg?1712082998"
-        },
-        {
-          "id": "https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon",
-          "publishedOn": "2024-04-02T20:14:14.000Z",
-          "wordCount": 59532,
-          "title": "A Brazilian special-forces unit fighting to save the Amazon",
-          "imageUrl": "https://media.newyorker.com/photos/660459dde282be174f44dd0c/16:9/w_1280,c_limit/r44043.jpg"
-        },
-        {
-          "id": "https://www.smithsonianmag.com/history/club-cape-wearing-activists-helped-elect-lincoln-spark-civil-war-180984000/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.smithsonianmag.com/history/club-cape-wearing-activists-helped-elect-lincoln-spark-civil-war-180984000/",
-          "publishedOn": "2024-04-02T20:02:13.000Z",
-          "wordCount": 8444,
-          "title": "The Wide Awakes: A 19th century club of cape-wearing anti-slavery activists",
-          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/RxGPgR2wSibANsIPhwa-CFjVEqE=/fit-in/1600x0/filters:focal(1936x1715:1937x1716)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Ffe%2Fa5%2Ffea5478a-5904-4c61-90f7-4bcf25ee87fc%2Faprmay2024_n06_wideawakes.jpg"
-        },
-        {
-          "id": "https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/",
-          "publishedOn": "2024-04-02T19:57:37.000Z",
-          "wordCount": 5048,
-          "title": "Letting go of the idea of keeping up",
-          "imageUrl": "https://reactormag.com/wp-content/uploads/2024/03/book-case-with-ladder.jpg"
-        },
-        {
-          "id": "https://afterthebeep.tel/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://afterthebeep.tel/",
-          "publishedOn": "2024-04-02T19:49:14.000Z",
-          "wordCount": 1279,
-          "title": "Anonymous public voicemail inbox",
-          "imageUrl": "/static/cover.gif"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41467-024-46741-7",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/s41467-024-46741-7",
-          "publishedOn": "2024-04-02T18:47:00.000Z",
-          "wordCount": 13088,
-          "title": "Landslide topology uncovers failure movements",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-024-46741-7/MediaObjects/41467_2024_46741_Fig1_HTML.png"
-        },
-        {
-          "id": "https://github.com/achristmascarl/three_body",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/achristmascarl/three_body",
-          "publishedOn": "2024-04-02T18:23:35.000Z",
-          "wordCount": 1822,
-          "title": "A rudimentary simulation of the three-body problem",
-          "imageUrl": "https://opengraph.githubassets.com/f561b72674dff46ea01453d1c6c7faebc5f75a167f9204d9ff9c7c82b17e4e48/achristmascarl/three_body"
-        },
-        {
-          "id": "https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html",
-          "publishedOn": "2024-04-02T18:05:41.000Z",
-          "wordCount": 2966,
-          "title": "Calling Haskell from Swift",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.utexas.edu/2024/04/01/move-more-sleep-better-ut-study-finds/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.utexas.edu/2024/04/01/move-more-sleep-better-ut-study-finds/",
-          "publishedOn": "2024-04-02T17:58:28.000Z",
-          "wordCount": 2452,
-          "title": "Study uses wearables to show that physical activity lengthens REM latency",
-          "imageUrl": "https://news.utexas.edu/wp-content/uploads/2024/04/iStock-1361759841.jpg"
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Artificio_de_Juanelo",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Artificio_de_Juanelo",
-          "publishedOn": "2024-04-02T17:47:25.000Z",
-          "wordCount": 2076,
-          "title": "Artificio de Juanelo",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/ArtificiodeJuanelo.jpg"
-        },
-        {
-          "id": "http://www.xn--plankalkl-x9a.de/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.xn--plankalkl-x9a.de/",
-          "publishedOn": "2024-04-02T17:44:22.000Z",
-          "wordCount": 3604,
-          "title": "Konrad Zuse (1994)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116",
-          "publishedOn": "2024-04-02T17:39:36.000Z",
-          "wordCount": 5749,
-          "title": "Amazon ditches 'just walk out' checkouts at its grocery stores",
-          "imageUrl": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8d8649b90003335ade8b9697a20cb86f.jpg"
-        },
-        {
-          "id": "https://grantland.com/features/bass-fishing-cheaters/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://grantland.com/features/bass-fishing-cheaters/",
-          "publishedOn": "2024-04-02T17:37:34.000Z",
-          "wordCount": 7374,
-          "title": "Competitive Bass Fishing Cheaters (2014)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kcall.co.uk/ssd/index.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kcall.co.uk/ssd/index.html",
-          "publishedOn": "2024-04-02T17:06:25.000Z",
-          "wordCount": 8103,
-          "title": "Everything I know about SSDs (2019)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dekuliutesla.github.io/citygs/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dekuliutesla.github.io/citygs/",
-          "publishedOn": "2024-04-02T16:46:32.000Z",
-          "wordCount": 544,
-          "title": "CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=39907845",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=39907845",
-          "publishedOn": "2024-04-02T16:44:32.000Z",
-          "wordCount": 7597,
-          "title": "3D + 2D: Testing out my cross-platform WASM graphics engine",
-          "imageUrl": null
         }
       ]
     },
@@ -8999,6 +8879,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/living-world/2024/chronic-wasting-disease-how-to-control-it",
+          "author": "James Gaines",
+          "description": "A prion sickness similar to mad cow is spreading rapidly through North America’s deer and elk populations. A veterinary microbiologist discusses the options for keeping it in check.",
+          "link": "https://knowablemagazine.org/content/article/living-world/2024/chronic-wasting-disease-how-to-control-it",
+          "publishedOn": "2024-05-03T04:33:59.623Z",
+          "wordCount": 4508,
+          "title": "How to control chronic wasting disease",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/chronic-wasting-disease-deer-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/chronic-wasting-disease-deer-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/food-environment/2024/evolution-of-koji-mold-soy-sauce-sake",
           "author": "Rachel Ehrenberg",
@@ -9418,21 +9313,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/beetle-abundance-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/health-disease/2024/where-did-bed-bugs-come-from-how-to-get-rid-of-them",
-          "author": "Ute Eberle",
-          "description": "The blood-sucking insects now show up in two varieties and are resistant to many pesticides. New eradication strategies include fungal spores and nasty human odors.",
-          "link": "https://knowablemagazine.org/content/article/health-disease/2024/where-did-bed-bugs-come-from-how-to-get-rid-of-them",
-          "publishedOn": "2024-04-03T04:33:35.927Z",
-          "wordCount": 5273,
-          "title": "Getting rid of bed bugs: Trickier than ever",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/bedbugs-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/bedbugs-500x288.jpg"
         }
       ]
     },
@@ -9441,6 +9321,16 @@
       "feedUrl": "http://livingthing.danmackinlay.name/feeds/all.atom.xml",
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
+        {
+          "id": "https://danmackinlay.name/notebook/collectivism.html",
+          "author": null,
+          "description": "Figure 1\n\n\n\nAn axis against which we measure cultures. Collectivism is, loosely, here individuals prioritize the goals and needs of the group (such as a family, community, or nation) over their own personal goals. People in collectivist cultures tend to emphasize strong familial ties, group loyalty, and group cohesion. They often value conformity, cooperation, and interdependence, notionally.\nCollectivism is often contrasted with individualism, which prioritises personal goals and independence over the goals of the group. People in individualistic cultures value autonomy, personal achievement, and individual rights. They are encouraged to express their own opinions and pursue their own interests. Success is often defined in terms of personal attainment and individual merit.\nThe distinction…",
+          "link": "https://danmackinlay.name/notebook/collectivism.html",
+          "publishedOn": "2024-05-02T22:50:55.000Z",
+          "wordCount": 2193,
+          "title": "Collectivism and individualism",
+          "imageUrl": "https://danmackinlay.name/images/people_and_globe.thumbnail.avif"
+        },
         {
           "id": "https://danmackinlay.name/notebook/genbp.html",
           "author": null,
@@ -9510,36 +9400,6 @@
           "wordCount": 1710,
           "title": "South-east Asia",
           "imageUrl": "https://danmackinlay.name/images/outrigger_mayhem.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/approximate_conditioning.html",
-          "author": null,
-          "description": "undefined",
-          "link": "https://danmackinlay.name/notebook/approximate_conditioning.html",
-          "publishedOn": "2024-04-03T02:42:14.000Z",
-          "wordCount": 1,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/squared_neural_families.html",
-          "author": null,
-          "description": "Figure 1: Abraham Bosse, Moyen vniuersel de pratiquer la perspectiue sur les tableaux, ou surfaces irregulieres : ensemble quelques particularitez concernant cet art, & celuy de la graueure en taille-douce (1653)\n\n\n\nGeneralisation of exponential families.\n1 References\n“Squared Neural Families: A New Class of Tractable Density Models.”",
-          "link": "https://danmackinlay.name/notebook/squared_neural_families.html",
-          "publishedOn": "2024-04-03T01:55:52.000Z",
-          "wordCount": 1750,
-          "title": "Squared neural families",
-          "imageUrl": "https://danmackinlay.name/images/whr_compact_living.png"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/mental_health_epidemiology.html",
-          "author": null,
-          "description": "Figure 1\n\n\n\nModern developments in public mental health. We are all trapped in here with each other, and sometimes we feel bad about it. How do we calibrate the level of discourse around mental health? See also depression, trauma…\n1 De-shaming mental health\n2 Prevalence inflation hypothesis\nDark placebos. Is too much mental health messaging leading to actual increased levels of mental illness? (Foulkes and Andrews 2023)\n3 Social media\nDo screens drive us crazy?\n4 Munchausen syndrome\nAt the extreme end of mental health contagion is the mental illness where you claim to have other (possibly mental) illnesses. Notes on manufacturing debilities, who does it.\nStuart Ritchie on Munchausen’s\n[…]there is definitely a new genre of social media account which the owner uses to provide regular updates…",
-          "link": "https://danmackinlay.name/notebook/mental_health_epidemiology.html",
-          "publishedOn": "2024-04-02T23:19:32.000Z",
-          "wordCount": 2346,
-          "title": "Contemporary epidemiology of mental health",
-          "imageUrl": "https://danmackinlay.name/images/boulder_fight_RP-P-2014-34-4.avif"
         }
       ]
     },
