@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/netlify-platform-primitives/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "Application frameworks have built whole ecosystems on top of them. Let’s take a closer look at serverless platforms such as Netlify’s [Platform Primitives](https://www.netlify.com/platform/primitives) and explore how they can increase our productivity with a serverless fullstack experience.",
+          "link": "https://smashingmagazine.com/2024/05/netlify-platform-primitives/",
+          "publishedOn": "2024-05-28T12:00:00.000Z",
+          "wordCount": 4139,
+          "title": "The Era Of Platform Primitives Is Finally Here",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/netlify-platform-primitives/netlify-platform-primitives.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/netlify-platform-primitives/netlify-platform-primitives.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/switching-it-up-html-latest-control/",
           "author": "hello@smashingmagazine.com (Daniel Yuschick)",
           "description": "After years of relying on checkbox hacks to create a “switch” control for forms that toggle between two states, HTML may be gaining a native way to go about it by adding a `switch` attribute to checkbox inputs. Daniel Yuschick walks us through a first impression of switch controls and discusses current and ongoing considerations that need to be explored further before it is ready for prime time.",
@@ -241,21 +256,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/04/lessons-learned-after-selling-startup/",
-          "author": "hello@smashingmagazine.com (Yaakov Karda)",
-          "description": "Business acquisitions are common but often shrouded in mystery because they happen behind closed doors. In this article, Yaakov details the story of his company and the journey it took him on, shedding light on the process of selling a business and what he learned from the experience.",
-          "link": "https://smashingmagazine.com/2024/04/lessons-learned-after-selling-startup/",
-          "publishedOn": "2024-04-29T15:00:00.000Z",
-          "wordCount": 5723,
-          "title": "Lessons Learned After Selling My Startup",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/lessons-learned-after-selling-startup/lessons-learned-after-selling-startup.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/lessons-learned-after-selling-startup/lessons-learned-after-selling-startup.jpg"
         }
       ]
     },
@@ -264,6 +264,276 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/",
+          "publishedOn": "2024-05-29T03:52:36.000Z",
+          "wordCount": 1709,
+          "title": "AI headphones let you listen to a single person in crowd, by looking at them",
+          "imageUrl": "https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2024/05/22123427/TSH_001-750x437.jpg"
+        },
+        {
+          "id": "https://www.embeddedrelated.com/showarticle/1668.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.embeddedrelated.com/showarticle/1668.php",
+          "publishedOn": "2024-05-29T01:36:21.000Z",
+          "wordCount": 3496,
+          "title": "How to use I2C devices in (Apache) NuttX: Adding support for an I2C device",
+          "imageUrl": "https://www.embeddedrelated.com/new2/images/blog_generic_image.png"
+        },
+        {
+          "id": "https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a",
+          "publishedOn": "2024-05-29T01:27:09.000Z",
+          "wordCount": 13727,
+          "title": "USB disk as /dev/sda on a not-rooted smartphone using Termux, QEMU, Alpine Linux",
+          "imageUrl": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
+        },
+        {
+          "id": "https://github.com/2noise/ChatTTS",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/2noise/ChatTTS",
+          "publishedOn": "2024-05-29T00:37:58.000Z",
+          "wordCount": 4853,
+          "title": "ChatTTS-Best open source TTS Model",
+          "imageUrl": "https://opengraph.githubassets.com/04b12c230ff8dfb8fd9a6e496aac0196dcaf1feb45880f2f5333273719a67183/2noise/ChatTTS"
+        },
+        {
+          "id": "https://github.com/getsavvyinc/savvy-cli",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/getsavvyinc/savvy-cli",
+          "publishedOn": "2024-05-29T00:15:58.000Z",
+          "wordCount": 4145,
+          "title": "Show HN: Savvy – Create, Share and Run Runbooks from your Terminal",
+          "imageUrl": "https://opengraph.githubassets.com/0b2323363a8b96410c3a64582802780fc8aaf101c10f0b5720b7cacf8e542560/getsavvyinc/savvy-cli"
+        },
+        {
+          "id": "https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5",
+          "publishedOn": "2024-05-28T23:13:33.000Z",
+          "wordCount": 3750,
+          "title": "Ex-OpenAI board member reveals what led to Sam Altman's brief ousting",
+          "imageUrl": "https://i.insider.com/6656423ba961b37edf3a951c?width=1200&format=jpeg"
+        },
+        {
+          "id": "https://mail.openjdk.org/pipermail/jdk-dev/2024-May/009028.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mail.openjdk.org/pipermail/jdk-dev/2024-May/009028.html",
+          "publishedOn": "2024-05-28T22:36:59.000Z",
+          "wordCount": 1025,
+          "title": "Proposal to change default annotation processing policy in JDK 23",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ece.rutgers.edu/~orfanidi/ewa/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ece.rutgers.edu/~orfanidi/ewa/",
+          "publishedOn": "2024-05-28T21:02:50.000Z",
+          "wordCount": 4158,
+          "title": "Electromagnetic Waves and Antennas (2016)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tinlizzie.org/~ohshima/shadama2/live2017/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tinlizzie.org/~ohshima/shadama2/live2017/",
+          "publishedOn": "2024-05-28T20:25:20.000Z",
+          "wordCount": 5373,
+          "title": "Shadama: A particle simulation programming environment for everyone",
+          "imageUrl": null
+        },
+        {
+          "id": "https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf",
+          "publishedOn": "2024-05-28T20:21:36.000Z",
+          "wordCount": 15216,
+          "title": "Writing an NVMe Driver in Rust [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee",
+          "publishedOn": "2024-05-28T20:16:19.000Z",
+          "wordCount": 3609,
+          "title": "Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*sAHrBHcJZPkodA7p0AsrEA.jpeg"
+        },
+        {
+          "id": "https://jviide.iki.fi/http-redirects",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jviide.iki.fi/http-redirects",
+          "publishedOn": "2024-05-28T19:42:34.000Z",
+          "wordCount": 2172,
+          "title": "API Shouldn't Redirect HTTP to HTTPS",
+          "imageUrl": "https://jviide.iki.fi/http-redirects-og.png"
+        },
+        {
+          "id": "https://github.com/brian-smith-github/ch32v003_stt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/brian-smith-github/ch32v003_stt",
+          "publishedOn": "2024-05-28T19:20:38.000Z",
+          "wordCount": 4254,
+          "title": "Simple Speech-to-Text on the '10 Cents' CH32V003 Microcontroller",
+          "imageUrl": "https://opengraph.githubassets.com/5c295358cfd3e20fa999c95269912aeca4ef7a595b33ded6aea1ff9b76a2537e/brian-smith-github/ch32v003_stt"
+        },
+        {
+          "id": "https://complicated.world/en/Human_Life",
+          "author": null,
+          "description": "Comments",
+          "link": "https://complicated.world/en/Human_Life",
+          "publishedOn": "2024-05-28T19:16:10.000Z",
+          "wordCount": 17,
+          "title": "Human Life",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0",
+          "publishedOn": "2024-05-28T18:58:45.000Z",
+          "wordCount": 691,
+          "title": "Tinygrad 0.9.0",
+          "imageUrl": "https://opengraph.githubassets.com/b41a3a362a59bef54146344cbde923ca26733eef5525bb02684e8632ece9cd97/tinygrad/tinygrad/releases/tag/v0.9.0"
+        },
+        {
+          "id": "https://chrisbuilds.github.io/terminaltexteffects/showroom/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chrisbuilds.github.io/terminaltexteffects/showroom/",
+          "publishedOn": "2024-05-28T17:31:48.000Z",
+          "wordCount": 8567,
+          "title": "TTE: Terminal Text Effects",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/openkoda/openkoda",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/openkoda/openkoda",
+          "publishedOn": "2024-05-28T17:11:56.000Z",
+          "wordCount": 7885,
+          "title": "Show HN: Openkoda – Open–source, private, Salesforce alternative",
+          "imageUrl": "https://opengraph.githubassets.com/604bc1e1782067ef1c1a37e915758f4b19b536b012bddccd83ab4d857054e5aa/openkoda/openkoda"
+        },
+        {
+          "id": "https://www.flickr.com/photos/jurvetson/albums/72157623704246792/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.flickr.com/photos/jurvetson/albums/72157623704246792/",
+          "publishedOn": "2024-05-28T17:03:03.000Z",
+          "wordCount": 15987,
+          "title": "Steve Jurvetson's personal collection of Apollo Lunar Module parts",
+          "imageUrl": "https://live.staticflickr.com/65535/50040817793_daf1618b40_b.jpg"
+        },
+        {
+          "id": "https://github.com/karpathy/llm.c/discussions/481",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/karpathy/llm.c/discussions/481",
+          "publishedOn": "2024-05-28T15:58:46.000Z",
+          "wordCount": 5296,
+          "title": "Reproducing GPT-2 in llm.c",
+          "imageUrl": "https://opengraph.githubassets.com/5d61b6bd491fb5ff23c5d86871c717cfa44c238b4941546ab39f4f4aa2bb4806/karpathy/llm.c/discussions/481"
+        },
+        {
+          "id": "https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html",
+          "publishedOn": "2024-05-28T15:19:00.000Z",
+          "wordCount": 1523,
+          "title": "Generalizing Support for Functional OOP in R",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/turbo9team/turbo9",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/turbo9team/turbo9",
+          "publishedOn": "2024-05-28T14:39:14.000Z",
+          "wordCount": 6517,
+          "title": "Turbo9 – A Compact and Efficient Pipelined 6809 Microprocessor IP",
+          "imageUrl": "https://repository-images.githubusercontent.com/668948366/42eff878-d675-4f25-a8ce-fd4f5fea9dcb"
+        },
+        {
+          "id": "https://f-droid.org/2024/05/24/mobifree.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://f-droid.org/2024/05/24/mobifree.html",
+          "publishedOn": "2024-05-28T14:24:24.000Z",
+          "wordCount": 1352,
+          "title": "Mobifree – An open-source mobile ecosystem",
+          "imageUrl": "https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png"
+        },
+        {
+          "id": "https://grooved.okat.best/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://grooved.okat.best/",
+          "publishedOn": "2024-05-28T14:23:28.000Z",
+          "wordCount": 659,
+          "title": "Show HN: I made a free app to calibrate your turntable by simply playing a song",
+          "imageUrl": "https://grooved.okat.best/og.png"
+        },
+        {
+          "id": "https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times",
+          "author": null,
+          "description": "Comments",
+          "link": "https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times",
+          "publishedOn": "2024-05-28T14:22:52.000Z",
+          "wordCount": 4789,
+          "title": "An air quality model that is evolving with the times",
+          "imageUrl": "https://eos.org/wp-content/uploads/2024/05/emissions-smokestacks-trees-silhouette.jpg"
+        },
+        {
+          "id": "https://www.file0.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.file0.dev/",
+          "publishedOn": "2024-05-28T08:17:00.000Z",
+          "wordCount": 179,
+          "title": "Show HN: File0 – An easier way to manage files in serverless apps",
+          "imageUrl": "https://www.file0.dev/og.png"
+        },
+        {
+          "id": "https://publicdomainreview.org/collection/mandrakes/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://publicdomainreview.org/collection/mandrakes/",
+          "publishedOn": "2024-05-28T04:48:54.000Z",
+          "wordCount": 10991,
+          "title": "Love Spells and Deadly Shrieks: Illustrations of Mandrakes (Ca. 650–1927)",
+          "imageUrl": "https://the-public-domain-review.imgix.net/collections/mandrakes/mandrake-thumb-4.jpeg"
+        },
+        {
+          "id": "https://arxiv.org/abs/2405.17399",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2405.17399",
+          "publishedOn": "2024-05-28T04:39:39.000Z",
+          "wordCount": 704,
+          "title": "Transformers Can Do Arithmetic with the Right Embeddings",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
         {
           "id": "https://users.math.yale.edu/public_html/People/frame/Fractals/",
           "author": null,
@@ -303,6 +573,16 @@
           "wordCount": 2505,
           "title": "La Niña is coming, raising the chances of a dangerous Atlantic hurricane season",
           "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/heavy-rain.jpg"
+        },
+        {
+          "id": "https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html",
+          "publishedOn": "2024-05-28T02:00:13.000Z",
+          "wordCount": 2493,
+          "title": "Researchers accurately dating a 7k-year-old settlement using cosmic rays",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/cosmic-rays-illuminate.jpg"
         },
         {
           "id": "https://github.com/dlvhdr/gh-dash",
@@ -413,6 +693,16 @@
           "wordCount": 775,
           "title": "Surveilling the masses with wi-fi-based positioning systems",
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://nymag.com/intelligencer/article/darling-58-american-chestnut-tree-mistake.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nymag.com/intelligencer/article/darling-58-american-chestnut-tree-mistake.html",
+          "publishedOn": "2024-05-27T15:50:34.000Z",
+          "wordCount": 35549,
+          "title": "The problem with the Darling 58 genetically modified chestnut tree",
+          "imageUrl": "https://pyxis.nymag.com/v1/imgs/edd/a74/789a2637c980320a3651731a29a98f2224-american-chesnut-tree.1x.rsocial.w1200.jpg"
         },
         {
           "id": "https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/",
@@ -8623,316 +8913,6 @@
           "wordCount": 1917,
           "title": "Calendar types in watches",
           "imageUrl": "https://arslan.io/content/images/size/w1200/2024/04/7c75e25d32e0ceba90e39538460becc8b7037b5b-2.jpg"
-        },
-        {
-          "id": "https://github.com/kaytu-io/kaytu",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/kaytu-io/kaytu",
-          "publishedOn": "2024-04-29T15:57:03.000Z",
-          "wordCount": 2527,
-          "title": "Show HN: Kaytu – Optimizing cloud costs using actual usage data",
-          "imageUrl": "https://opengraph.githubassets.com/8466e5c93ce2dc463c50c1d570d9304fd0b6bf42f040f276b423eb857de1cf18/kaytu-io/kaytu"
-        },
-        {
-          "id": "https://codedbearder.com/posts/f3-backplane/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://codedbearder.com/posts/f3-backplane/",
-          "publishedOn": "2024-04-29T15:56:56.000Z",
-          "wordCount": 2823,
-          "title": "I made a new backplane for my consumer NAS",
-          "imageUrl": "/images/posts/f3-backplane/f3-backplane-hero.jpg"
-        },
-        {
-          "id": "https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/",
-          "publishedOn": "2024-04-29T15:35:31.000Z",
-          "wordCount": 2754,
-          "title": "Project Habbakuk: Britain’s ice “bergship” aircraft carrier project (2017)",
-          "imageUrl": "https://99percentinvisible.org/app/uploads/2017/01/iceberg-aircraft-carrier-728x410.jpg"
-        },
-        {
-          "id": "https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme&hl=en_US",
-          "author": null,
-          "description": "Comments",
-          "link": "https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme&hl=en_US",
-          "publishedOn": "2024-04-29T15:35:04.000Z",
-          "wordCount": 12649,
-          "title": "Show HN: I made a privacy friendly and simple app to track my menstruation",
-          "imageUrl": "https://play-lh.googleusercontent.com/wOm5bGsS8yK-wtaZcZ8TKhvcf1hrr1oFrz9FCpimmxnA0Yx12zWNTr_TXkiZ4rTd0A"
-        },
-        {
-          "id": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail",
-          "publishedOn": "2024-04-29T15:31:49.000Z",
-          "wordCount": 829,
-          "title": "Webb captures iconic Horsehead Nebula in unprecedented detail",
-          "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/04/horsehead_nebula_nircam_image/26010611-5-eng-GB/Horsehead_Nebula_NIRCam_image_pillars.jpg"
-        },
-        {
-          "id": "https://theins.ru/en/politics/271205",
-          "author": null,
-          "description": "Comments",
-          "link": "https://theins.ru/en/politics/271205",
-          "publishedOn": "2024-04-29T15:00:15.000Z",
-          "wordCount": 4434,
-          "title": "Husband and wife outed as GRU spies aiding bombings and poisonings across Europe",
-          "imageUrl": "https://api.theins.ru/storage/post/271205/screen20240429-10459-13unrv0.png?1714451594"
-        },
-        {
-          "id": "https://www.quantamagazine.org/how-a-nasa-probe-solved-a-scorching-solar-mystery-20240429/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/how-a-nasa-probe-solved-a-scorching-solar-mystery-20240429/",
-          "publishedOn": "2024-04-29T14:30:27.000Z",
-          "wordCount": 6428,
-          "title": "How A NASA Probe Solved a Scorching Solar Mystery",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2024/04/Heliophysics-crJamesOBrien-Social.webp"
-        },
-        {
-          "id": "https://gsaauctions.gov/auctions/preview/282996",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gsaauctions.gov/auctions/preview/282996",
-          "publishedOn": "2024-04-29T12:10:47.000Z",
-          "wordCount": 47,
-          "title": "Cheyenne Super Computer Auction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mcmillen.dev/sigbovik/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.mcmillen.dev/sigbovik/",
-          "publishedOn": "2024-04-29T11:30:51.000Z",
-          "wordCount": 473,
-          "title": "93% of paint splatters are valid Perl programs (2019)",
-          "imageUrl": null
-        },
-        {
-          "id": "http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html",
-          "publishedOn": "2024-04-29T09:37:42.000Z",
-          "wordCount": 6165,
-          "title": "500 Byte Images: The Haiku Vector Icon Format (2016)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://exploit.education/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://exploit.education/",
-          "publishedOn": "2024-04-29T06:41:24.000Z",
-          "wordCount": 346,
-          "title": "Exploit.education",
-          "imageUrl": null
-        },
-        {
-          "id": "https://csvbase.com/blog/9",
-          "author": null,
-          "description": "Comments",
-          "link": "https://csvbase.com/blog/9",
-          "publishedOn": "2024-04-29T06:11:17.000Z",
-          "wordCount": 1772,
-          "title": "You can't just assume UTF-8",
-          "imageUrl": "https://csvbase.com/blog-static/mystery-meat.jpg"
-        },
-        {
-          "id": "http://peter.eisentraut.org/blog/2024/04/29/postgresql-supported-platforms-over-time",
-          "author": null,
-          "description": "Comments",
-          "link": "http://peter.eisentraut.org/blog/2024/04/29/postgresql-supported-platforms-over-time",
-          "publishedOn": "2024-04-29T06:04:34.000Z",
-          "wordCount": 794,
-          "title": "PostgreSQL Supported Platforms over Time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sciencealert.com/haunting-sounds-made-from-the-worlds-largest-living-thing-recorded",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sciencealert.com/haunting-sounds-made-from-the-worlds-largest-living-thing-recorded",
-          "publishedOn": "2024-04-29T05:44:43.000Z",
-          "wordCount": 3452,
-          "title": "Haunting Sounds from the Largest Living Thing",
-          "imageUrl": "https://www.sciencealert.com/images/2021-11/processed/GreenAerialOutlineofPando_1024.jpg"
-        },
-        {
-          "id": "https://www.sec.in.tum.de/i20/publications/fridgelock-preventing-data-theft-on-suspended-linux-with-usable-memory-encryption",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sec.in.tum.de/i20/publications/fridgelock-preventing-data-theft-on-suspended-linux-with-usable-memory-encryption",
-          "publishedOn": "2024-04-29T05:41:14.000Z",
-          "wordCount": 922,
-          "title": "FridgeLock: Preventing Data Theft on Suspended Linux with Memory Encryption (2020)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://darrellowens.substack.com/p/businesses-are-getting-their-customers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://darrellowens.substack.com/p/businesses-are-getting-their-customers",
-          "publishedOn": "2024-04-29T02:58:07.000Z",
-          "wordCount": null,
-          "title": "Businesses Are Getting People Killed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thurrott.com/mobile/mac-and-macos/301371/apple-macbook-air-15-inch-m3-review",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.thurrott.com/mobile/mac-and-macos/301371/apple-macbook-air-15-inch-m3-review",
-          "publishedOn": "2024-04-29T01:05:29.000Z",
-          "wordCount": 17370,
-          "title": "Apple MacBook Air 15-Inch M3 Review",
-          "imageUrl": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/04/mba-m3-front.jpg"
-        },
-        {
-          "id": "https://www.philpem.me.uk/code/3b1emu",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.philpem.me.uk/code/3b1emu",
-          "publishedOn": "2024-04-29T00:28:37.000Z",
-          "wordCount": 1078,
-          "title": "FreeBee: AT&T Unix PC emulator",
-          "imageUrl": "https://www.philpem.me.uk/_media/code/3b1emu/freebee.png"
-        },
-        {
-          "id": "https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf",
-          "publishedOn": "2024-04-28T22:49:17.000Z",
-          "wordCount": 8325,
-          "title": "6502 – Guideline to Reverse Engineering (how to read die shots) [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dl.acm.org/doi/pdf/10.1145/173262.155113",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dl.acm.org/doi/pdf/10.1145/173262.155113",
-          "publishedOn": "2024-04-28T22:30:55.000Z",
-          "wordCount": 26492,
-          "title": "The Essence of Compiling with Continuations (1993) [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/carsonpo/haystackdb",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/carsonpo/haystackdb",
-          "publishedOn": "2024-04-28T22:27:34.000Z",
-          "wordCount": 2045,
-          "title": "Haystack DB – 10x faster than FAISS with binary embeddings by default",
-          "imageUrl": "https://opengraph.githubassets.com/8a0ee36088d0659ae9cf9c93dac781147641c4c674a1f04dec08e0f01664aa96/carsonpo/haystackdb"
-        },
-        {
-          "id": "https://www.bramadams.dev/issue-55/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bramadams.dev/issue-55/",
-          "publishedOn": "2024-04-28T21:57:00.000Z",
-          "wordCount": 3961,
-          "title": "Personal computing paves the way for personal library science",
-          "imageUrl": "https://www.bramadams.dev/content/images/2024/04/Filippo-Calandri-Arithmetica.jpeg"
-        },
-        {
-          "id": "https://www.masswerk.at/spacewar/index.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.masswerk.at/spacewar/index.html",
-          "publishedOn": "2024-04-28T21:38:05.000Z",
-          "wordCount": 7776,
-          "title": "DEC PDP-1 emulator running \"Spacewar\", the earliest known digital video game",
-          "imageUrl": "https://www.masswerk.at/spacewar/images/pagepreview.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X7r76V_gWQ8",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=X7r76V_gWQ8",
-          "publishedOn": "2024-04-28T21:21:20.000Z",
-          "wordCount": null,
-          "title": "Building MS-DOS 4.00 on FreeDOS [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=40191915",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=40191915",
-          "publishedOn": "2024-04-28T21:06:53.000Z",
-          "wordCount": 813,
-          "title": "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/ollama/ollama/releases/tag/v0.1.33-rc5",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/ollama/ollama/releases/tag/v0.1.33-rc5",
-          "publishedOn": "2024-04-28T20:48:42.000Z",
-          "wordCount": 716,
-          "title": "Ollama v0.1.33 with Llama 3, Phi 3, and Qwen 110B",
-          "imageUrl": "https://opengraph.githubassets.com/500910b75e215d0fb81cde3fad9bee513cb836f90bd78b137cba49d7e0ca6de3/ollama/ollama/releases/tag/v0.1.33-rc5"
-        },
-        {
-          "id": "https://github.com/gyf304/dotenv",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/gyf304/dotenv",
-          "publishedOn": "2024-04-28T20:25:46.000Z",
-          "wordCount": 3082,
-          "title": "Show HN: Dotenv, if it is a Unix utility",
-          "imageUrl": "https://opengraph.githubassets.com/ada53299a55187df272ea047a45397a2ac3e2d97cc988a9c179a513e750048bf/gyf304/dotenv"
-        },
-        {
-          "id": "https://os-world.github.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://os-world.github.io/",
-          "publishedOn": "2024-04-28T19:16:26.000Z",
-          "wordCount": 1688,
-          "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computers",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.lathes.co.uk/bradley-pow-lathe/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.lathes.co.uk/bradley-pow-lathe/",
-          "publishedOn": "2024-04-28T18:16:26.000Z",
-          "wordCount": 103,
-          "title": "A small lathe built in a Japanese prison camp (1949)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ft.pressreader.com/article/282557318242321",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ft.pressreader.com/article/282557318242321",
-          "publishedOn": "2024-04-28T16:54:33.000Z",
-          "wordCount": 197,
-          "title": "The Myth of the Second Chance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10711914/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10711914/",
-          "publishedOn": "2024-04-28T16:43:39.000Z",
-          "wordCount": 9123,
-          "title": "Trial of the effects of kefir on behaviour, sleep and the microbiome in ADHD",
-          "imageUrl": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
         }
       ]
     },
@@ -8998,6 +8978,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/food-environment/2024/imogen-napper-interview-global-treaty-plastic-pollution",
+          "author": "Nicola Jones",
+          "description": "Delegates from 175 nations are working on an international agreement that would tackle the vast amounts of plastic waste in the environment. A marine scientist specializing in plastic pollution discusses the problem and her hopes for the proceedings.",
+          "link": "https://knowablemagazine.org/content/article/food-environment/2024/imogen-napper-interview-global-treaty-plastic-pollution",
+          "publishedOn": "2024-05-29T04:34:30.642Z",
+          "wordCount": 5756,
+          "title": "Inching toward a global treaty on plastic pollution",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/plastics-treaty-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/plastics-treaty-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/society/2024/when-are-parents-responsible-for-their-kids-behavior",
           "author": "Elise Hansen",
@@ -9387,21 +9382,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/bioplastics-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/food-environment/2024/deforestation-threatens-andes-amazon-connection-colombia",
-          "author": "Pablo Correa",
-          "description": "The South American country, where the biodiversity of the Andes meets that of the Amazon, is losing the great natural wealth of some 1,500 square kilometers of forest each year, mainly in areas formerly under guerrilla control",
-          "link": "https://knowablemagazine.org/content/article/food-environment/2024/deforestation-threatens-andes-amazon-connection-colombia",
-          "publishedOn": "2024-04-29T04:33:29.233Z",
-          "wordCount": 5426,
-          "title": "Losing the connection between the Andes and the Amazon: A price of peace in Colombia",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/andes-amazon-connection-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/andes-amazon-connection-500x288.jpg"
         }
       ]
     },
