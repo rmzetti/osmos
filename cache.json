@@ -29,6 +29,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/06/css-tips-and-techniques/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "The times for CSS have probably never been more exciting than today. In this quick read, we’ve got some useful CSS tips and techniques for you that you can apply to your work right away. Let’s dive deeper into self-modifying CSS variables, hanging punctuation, and more.",
+          "link": "https://smashingmagazine.com/2024/06/css-tips-and-techniques/",
+          "publishedOn": "2024-06-07T11:00:00.000Z",
+          "wordCount": 4011,
+          "title": "Useful CSS Tips And Techniques",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-tips-and-techniques/self-modifying-variables-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-tips-and-techniques/self-modifying-variables-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/06/presenting-ux-research-design-stakeholders/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
           "description": "There’s more to achieving good UX than research and design. We need to effectively communicate our ideas to gain buy-in from key stakeholders. Victor covers how UX practitioners can harness the power of persuasion and other tactics from the field of communication when presenting research findings and design concepts to key stakeholders.",
@@ -267,21 +282,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/modern-guide-making-css-shapes/modern-guide-making-css-shapes.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/05/forensics-react-server-components/",
-          "author": "hello@smashingmagazine.com (Lazar Nikolov)",
-          "description": "React Server Components (RSCs) combine the best of client-side rendering, and author Lazar Nikolov thoroughly examines how we got here with a deep look at the impact that RSCs have on the page load timeline.",
-          "link": "https://smashingmagazine.com/2024/05/forensics-react-server-components/",
-          "publishedOn": "2024-05-09T13:00:00.000Z",
-          "wordCount": 7597,
-          "title": "The Forensics Of React Server Components (RSCs)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/forensics-react-server-components/forensics-react-server-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/forensics-react-server-components/forensics-react-server-components.jpg"
         }
       ]
     },
@@ -290,6 +290,246 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src",
+          "publishedOn": "2024-06-08T01:04:34.000Z",
+          "wordCount": 319,
+          "title": "Memory-safe, clean implementation of classic Posix \"BC\" calculator",
+          "imageUrl": "https://opengraph.githubassets.com/9fe1c38041b031896120d8fdcfa04dbb8c88164617133e50e14c14f08b7d7016/rustcoreutils/posixutils-rs"
+        },
+        {
+          "id": "https://www.embeddedrelated.com/showarticle/152.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.embeddedrelated.com/showarticle/152.php",
+          "publishedOn": "2024-06-08T00:37:57.000Z",
+          "wordCount": 8639,
+          "title": "Chebyshev approximation and how it can help (2012)",
+          "imageUrl": "https://www.embeddedrelated.com/new2/images/blog_generic_image.png"
+        },
+        {
+          "id": "https://www.fox13seattle.com/news/william-anders-wa-plane-crash",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.fox13seattle.com/news/william-anders-wa-plane-crash",
+          "publishedOn": "2024-06-08T00:16:35.000Z",
+          "wordCount": 4948,
+          "title": "Apollo 8 astronaut William Anders ID'd in WA plane crash",
+          "imageUrl": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2024/06/1280/720/GettyImages-949601032.jpg?ve=1&tl=1"
+        },
+        {
+          "id": "https://www.vogons.org/viewtopic.php?t=100871",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.vogons.org/viewtopic.php?t=100871",
+          "publishedOn": "2024-06-07T23:11:01.000Z",
+          "wordCount": 3635,
+          "title": "3dfx Voodoo 4 video card in MXM format (2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html",
+          "publishedOn": "2024-06-07T21:46:30.000Z",
+          "wordCount": 1173,
+          "title": "Slow-spinning radio neutron star breaks all the rules",
+          "imageUrl": "https://www.sydney.edu.au/content/dam/corporate/images/news-and-opinion/news/2024/june/long-period-pulsar-a4-portrait.jpg"
+        },
+        {
+          "id": "https://blog.dave.tf/post/linux-pid0/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.dave.tf/post/linux-pid0/",
+          "publishedOn": "2024-06-07T21:42:58.000Z",
+          "wordCount": 4009,
+          "title": "What Is PID 0?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pdos.csail.mit.edu/6.828/2023/xv6.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pdos.csail.mit.edu/6.828/2023/xv6.html",
+          "publishedOn": "2024-06-07T21:22:05.000Z",
+          "wordCount": 289,
+          "title": "Xv6, a simple Unix-like teaching operating system",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nicole.express/2024/no-screen-no-cpu-one-problem.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nicole.express/2024/no-screen-no-cpu-one-problem.html",
+          "publishedOn": "2024-06-07T20:02:27.000Z",
+          "wordCount": 1225,
+          "title": "Yes, you can play Duck Hunt without a television (but I can't)",
+          "imageUrl": "https://nicole.express/assets/img/quacks/pew.jpeg"
+        },
+        {
+          "id": "https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc",
+          "publishedOn": "2024-06-07T20:01:08.000Z",
+          "wordCount": null,
+          "title": "The aging U.S. power grid is about to get a jolt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.esquire.com/entertainment/books/a60924704/debut-fiction-challenges/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.esquire.com/entertainment/books/a60924704/debut-fiction-challenges/",
+          "publishedOn": "2024-06-07T19:57:03.000Z",
+          "wordCount": 13096,
+          "title": "Why are debut novels failing to launch?",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/index-66576411b3390.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+        },
+        {
+          "id": "https://defenderofthebasic.substack.com/p/feynmans-razor",
+          "author": null,
+          "description": "Comments",
+          "link": "https://defenderofthebasic.substack.com/p/feynmans-razor",
+          "publishedOn": "2024-06-07T19:53:38.000Z",
+          "wordCount": null,
+          "title": "Feynman’s Razor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://th.id.au/alarms/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://th.id.au/alarms/",
+          "publishedOn": "2024-06-07T18:45:59.000Z",
+          "wordCount": 2158,
+          "title": "Alarms in medical equipment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thespectator.com/book-and-art/mount-everest-killed-george-mallory-mick-conefrey-fallen/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thespectator.com/book-and-art/mount-everest-killed-george-mallory-mick-conefrey-fallen/",
+          "publishedOn": "2024-06-07T17:51:37.000Z",
+          "wordCount": 10688,
+          "title": "How Mount Everest killed George Mallory",
+          "imageUrl": "https://thespectator.com/wp-content/uploads/2024/05/12-Mallory-Bridgeman-e1716310614110.jpg"
+        },
+        {
+          "id": "https://meatfighter.com/ascii-silhouettify/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://meatfighter.com/ascii-silhouettify/",
+          "publishedOn": "2024-06-07T17:10:00.000Z",
+          "wordCount": 1745,
+          "title": "ASCII Silhouettify",
+          "imageUrl": null
+        },
+        {
+          "id": "https://undeadly.org/cgi?action=article;sid=20240607042157",
+          "author": null,
+          "description": "Comments",
+          "link": "https://undeadly.org/cgi?action=article;sid=20240607042157",
+          "publishedOn": "2024-06-07T17:08:23.000Z",
+          "wordCount": 720,
+          "title": "OpenSSH introduces options to penalize undesirable behavior",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd",
+          "publishedOn": "2024-06-07T16:07:25.000Z",
+          "wordCount": 5417,
+          "title": "Writing memory safe JIT compilers",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KbR4q42CFgw4SkxxD6I5Og.png"
+        },
+        {
+          "id": "https://www.thenewatlantis.com/publications/turn-on-tune-in-write-code",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thenewatlantis.com/publications/turn-on-tune-in-write-code",
+          "publishedOn": "2024-06-07T15:14:29.000Z",
+          "wordCount": 3053,
+          "title": "Turn On, Tune In, Write Code",
+          "imageUrl": "https://www.thenewatlantis.com/wp-content/uploads/2024/04/Shullenberger-share-card.jpg"
+        },
+        {
+          "id": "https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb",
+          "publishedOn": "2024-06-07T14:55:48.000Z",
+          "wordCount": null,
+          "title": "LedgerStore Supports Trillions of Indexes at Uber",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/italian-streets-not-on-map",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atlasobscura.com/articles/italian-streets-not-on-map",
+          "publishedOn": "2024-06-07T13:42:02.000Z",
+          "wordCount": 6003,
+          "title": "Italian streets that don't exist on any map (2022)",
+          "imageUrl": "https://img.atlasobscura.com/gSivMttg8QD9Bs1He2YQvxYZCOItzOrhkTX_wkAvf9c/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8zMTY0ZWY0ZC1m/MWNiLTRiYjMtODU4/ZC05N2Q0MDE0MTQy/M2U4NDI5YWE2ZTIw/MWViZTk5MDFfSXRh/bGlhbiBzdHJlZXRz/IHRoYXQgZG8gbm90/IGV4aXN0LW1haWxt/YW4tY3JvcHBlZC5q/cGc.jpg"
+        },
+        {
+          "id": "https://arxiv.org/abs/2404.09562",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2404.09562",
+          "publishedOn": "2024-06-07T13:12:31.000Z",
+          "wordCount": 635,
+          "title": "σ-GPTs: A new approach to autoregressive models",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf",
+          "publishedOn": "2024-06-07T13:06:43.000Z",
+          "wordCount": 12123,
+          "title": "Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://tom7.org/bovex/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://tom7.org/bovex/",
+          "publishedOn": "2024-06-07T13:01:15.000Z",
+          "wordCount": 249,
+          "title": "Tom 7: Badness 0 (Three ways)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/blixt/sol-mate-eink",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/blixt/sol-mate-eink",
+          "publishedOn": "2024-06-07T12:10:30.000Z",
+          "wordCount": 3035,
+          "title": "Show HN: E-Paper 7-color display showing the current weather",
+          "imageUrl": "https://opengraph.githubassets.com/e8f7af7c805f00e1b3a73a3f53676286f240da4ae5221cec0363a6ed46e32cb1/blixt/sol-mate-eink"
+        },
+        {
+          "id": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/",
+          "publishedOn": "2024-06-07T09:36:48.000Z",
+          "wordCount": 3742,
+          "title": "Secret Hand Gestures in Paintings (2019)",
+          "imageUrl": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=40605103",
           "author": null,
@@ -351,6 +591,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/",
+          "publishedOn": "2024-06-06T23:12:02.000Z",
+          "wordCount": 6494,
+          "title": "Concrete Faith: The creation of the Bahá’í house of worship (2023)",
+          "imageUrl": "https://design.newcity.com/wp-content/uploads/2023/11/P1010926-scaled.jpeg"
+        },
+        {
           "id": "https://www.martinfowler.com/bliki/ShuHaRi.html",
           "author": null,
           "description": "Comments",
@@ -389,6 +639,16 @@
           "wordCount": 871,
           "title": "Let rand = main as usize (2022)",
           "imageUrl": null
+        },
+        {
+          "id": "https://publicdomainreview.org/collection/lyon-woven-prayer-book/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://publicdomainreview.org/collection/lyon-woven-prayer-book/",
+          "publishedOn": "2024-06-06T17:11:08.000Z",
+          "wordCount": 9377,
+          "title": "Programming Prayer: The Woven Book of Hours (1886–87)",
+          "imageUrl": "https://the-public-domain-review.imgix.net/collections/lyon-woven-prayer-book/livre-3.jpg"
         },
         {
           "id": "https://telegram.org/blog/telegram-stars",
@@ -541,6 +801,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://davidabell.substack.com/p/le-vieux-paris-nest-plus",
+          "author": null,
+          "description": "Comments",
+          "link": "https://davidabell.substack.com/p/le-vieux-paris-nest-plus",
+          "publishedOn": "2024-06-06T05:05:05.000Z",
+          "wordCount": null,
+          "title": "Le vieux Paris n'est plus",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html",
           "author": null,
           "description": "Comments",
@@ -621,6 +891,16 @@
           "imageUrl": "http://webdraft.eu/fonts/classic-console/sample-pictures/og-image.png"
         },
         {
+          "id": "https://www.cabinetmagazine.org/issues/32/calame.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cabinetmagazine.org/issues/32/calame.php",
+          "publishedOn": "2024-06-05T21:17:54.000Z",
+          "wordCount": 2499,
+          "title": "Beginning the End: In the zero thickness of the International Date Line (2009)",
+          "imageUrl": "https://cabinetmagazine.org/issues/32/cabinet_032_calame_jon_facebook.jpg"
+        },
+        {
           "id": "https://www.science.org/content/article/researchers-plan-retract-landmark-alzheimers-paper-containing-doctored-images",
           "author": null,
           "description": "Comments",
@@ -628,6 +908,16 @@
           "publishedOn": "2024-06-05T19:49:18.000Z",
           "wordCount": null,
           "title": "Researchers to retract landmark Alzheimer's paper containing doctored images",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.weather.gov/iln/cwop",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.weather.gov/iln/cwop",
+          "publishedOn": "2024-06-05T19:18:44.000Z",
+          "wordCount": 1291,
+          "title": "Own a weather station? We want your data",
           "imageUrl": null
         },
         {
@@ -639,6 +929,16 @@
           "wordCount": 24838,
           "title": "How big a deal was the Industrial Revolution? (2017)",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/latex3/tagging-project/discussions/72",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/latex3/tagging-project/discussions/72",
+          "publishedOn": "2024-06-05T17:39:39.000Z",
+          "wordCount": 3691,
+          "title": "LaTeX is the first PDF/UA-2 compliance accessible PDF producer",
+          "imageUrl": "https://opengraph.githubassets.com/3ea5d6e20bc34f2b0528e194cd092094e93e27039da761ad1672d7af2e469be0/latex3/tagging-project/discussions/72"
         },
         {
           "id": "https://remotejobs.org/companies/rankscience-remote-jobs",
@@ -8579,266 +8879,6 @@
           "wordCount": 7437,
           "title": "Freshpaint (YC S19) is hiring software engineers to protect patient privacy",
           "imageUrl": "https://app.ashbyhq.com/api/images/org-theme-social/6989cb97-e2e6-4cd4-8364-e2090cb62f4f/9945a3df-284d-4e7a-8537-dbce99faa864.png"
-        },
-        {
-          "id": "https://github.com/zircothc/DRUM_2004_V1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/zircothc/DRUM_2004_V1",
-          "publishedOn": "2024-05-09T16:17:14.000Z",
-          "wordCount": 2108,
-          "title": "ESP32 Drum Synth Machine",
-          "imageUrl": "https://opengraph.githubassets.com/923a68f4dc80cf25dc6b3f08429da0962811c1d8f05e00b10b4bf8843ce1680f/zircothc/DRUM_2004_V1"
-        },
-        {
-          "id": "https://www.ellipsis.dev/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ellipsis.dev/",
-          "publishedOn": "2024-05-09T16:14:47.000Z",
-          "wordCount": 4975,
-          "title": "Show HN: Ellipsis – Automated PR reviews and bug fixes",
-          "imageUrl": "https://framerusercontent.com/images/UlbBBzMytoTwb3PXKUdkiosF8.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=40309342",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=40309342",
-          "publishedOn": "2024-05-09T15:38:48.000Z",
-          "wordCount": 5346,
-          "title": "Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done",
-          "imageUrl": null
-        },
-        {
-          "id": "https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/",
-          "publishedOn": "2024-05-09T13:32:04.000Z",
-          "wordCount": 2268,
-          "title": "VideoPrism: A foundational visual encoder for video understanding",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.wilsonl.in/hackerverse/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.wilsonl.in/hackerverse/",
-          "publishedOn": "2024-05-09T12:31:04.000Z",
-          "wordCount": 7879,
-          "title": "Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/tembo-io/pgmq",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/tembo-io/pgmq",
-          "publishedOn": "2024-05-09T12:21:53.000Z",
-          "wordCount": 6261,
-          "title": "Show HN: An SQS Alternative on Postgres",
-          "imageUrl": "https://opengraph.githubassets.com/59626e2558541f02761487e4f63f96fc74ab48f4b675eb72befcd9050ac916d4/tembo-io/pgmq"
-        },
-        {
-          "id": "https://www.independent.co.uk/news/health/deaf-cure-girl-gene-therapy-b2541735.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.independent.co.uk/news/health/deaf-cure-girl-gene-therapy-b2541735.html",
-          "publishedOn": "2024-05-09T11:38:14.000Z",
-          "wordCount": 4545,
-          "title": "Deaf girl is cured in world first gene therapy trial",
-          "imageUrl": "https://static.independent.co.uk/2024/05/08/17/01HXBKK77838HYX2TPWH2AM1ME.jpg?quality=75&width=1200&auto=webp"
-        },
-        {
-          "id": "https://github.com/Hirrolot/datatype99",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Hirrolot/datatype99",
-          "publishedOn": "2024-05-09T11:31:27.000Z",
-          "wordCount": 15333,
-          "title": "Algebraic Data Types for C99",
-          "imageUrl": "https://opengraph.githubassets.com/4931737255074599a1ff5e8f49b2f73c85e12ac46d12b81320f1c1d57fbaacdf/Hirrolot/datatype99"
-        },
-        {
-          "id": "https://github.com/alefore/knit",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/alefore/knit",
-          "publishedOn": "2024-05-09T11:29:32.000Z",
-          "wordCount": 3142,
-          "title": "Show HN: Browser-based knitting (pattern) software",
-          "imageUrl": "https://opengraph.githubassets.com/cd4b9748dfa5657dfb78f3c83f79fb4244804b45b04acc0f552d1db32982e722/alefore/knit"
-        },
-        {
-          "id": "https://lovehindpa.ws/posts/xilinx-hbm2/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lovehindpa.ws/posts/xilinx-hbm2/",
-          "publishedOn": "2024-05-09T09:08:06.000Z",
-          "wordCount": 1275,
-          "title": "Xilinx HBM2 Internals (2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cr.yp.to/proto/utctai.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cr.yp.to/proto/utctai.html",
-          "publishedOn": "2024-05-09T08:40:27.000Z",
-          "wordCount": 834,
-          "title": "UTC, Tai, and Unix Time (2001)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cbc.ca/news/climate/shell-greenpeace-quest-1.7196792",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cbc.ca/news/climate/shell-greenpeace-quest-1.7196792",
-          "publishedOn": "2024-05-09T03:02:02.000Z",
-          "wordCount": 8205,
-          "title": "Shell sold carbon credits for carbon that was never captured",
-          "imageUrl": "https://i.cbc.ca/1.7041427.1715214044!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/carbon-capture.jpg"
-        },
-        {
-          "id": "https://www.vancouverisawesome.com/highlights/watch-a-look-inside-illegal-drone-deliveries-at-bcs-prisons-8706734",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.vancouverisawesome.com/highlights/watch-a-look-inside-illegal-drone-deliveries-at-bcs-prisons-8706734",
-          "publishedOn": "2024-05-09T02:10:00.000Z",
-          "wordCount": 1785,
-          "title": "A look inside illegal drone deliveries at B.C.'s prisons",
-          "imageUrl": "https://www.vmcdn.ca/f/files/glaciermedia/images/breaking-news/dronedrop2.jpg;w=1200;h=800;mode=crop"
-        },
-        {
-          "id": "https://tech.ahrefs.com/how-ahrefs-gets-a-billion-dollar-worth-infrastructure-with-a-90-discount-5edd473b2399",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tech.ahrefs.com/how-ahrefs-gets-a-billion-dollar-worth-infrastructure-with-a-90-discount-5edd473b2399",
-          "publishedOn": "2024-05-09T01:59:39.000Z",
-          "wordCount": 5280,
-          "title": "How Ahrefs Gets a Billion Dollar-Worth Infrastructure with a 90% Discount",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*16rpyRv_ew4l6Z9SEi9Uzg.jpeg"
-        },
-        {
-          "id": "https://grumpyolddev.com/post/the-one-where-i-lie-to-the-cto/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://grumpyolddev.com/post/the-one-where-i-lie-to-the-cto/",
-          "publishedOn": "2024-05-09T01:39:27.000Z",
-          "wordCount": 1193,
-          "title": "The Time I Lied to the CTO and Saved the Day",
-          "imageUrl": "https://GrumpyOldDev.com/images/IMG_2609.JPG"
-        },
-        {
-          "id": "https://hereket.com/posts/from-scratch-x11-windowing/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hereket.com/posts/from-scratch-x11-windowing/",
-          "publishedOn": "2024-05-08T23:14:28.000Z",
-          "wordCount": 5900,
-          "title": "Opening Windows in Linux with sockets, bare hands and 200 lines of C",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/",
-          "publishedOn": "2024-05-08T22:22:22.000Z",
-          "wordCount": 2197,
-          "title": "Securing Git Repositories with Gittuf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://simbricks.github.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://simbricks.github.io/",
-          "publishedOn": "2024-05-08T22:22:08.000Z",
-          "wordCount": 814,
-          "title": "Show HN: SimBricks – Modular Full-System Simulation for HW-SW Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/",
-          "publishedOn": "2024-05-08T21:16:53.000Z",
-          "wordCount": 6609,
-          "title": "Stack Overflow users deleting answers after OpenAI partnership",
-          "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2024/05/StackOverflow_OpenAI_Partnership_Featured_Image.jpg"
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/empirical-health/jobs/1PW3OFe-engineering-lead",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/empirical-health/jobs/1PW3OFe-engineering-lead",
-          "publishedOn": "2024-05-08T21:00:26.000Z",
-          "wordCount": 1405,
-          "title": "Empirical Health (YC S23) is hiring engineering leads in NYC",
-          "imageUrl": "/images/original/missing.png"
-        },
-        {
-          "id": "https://hao-ai-lab.github.io/blogs/cllm/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hao-ai-lab.github.io/blogs/cllm/",
-          "publishedOn": "2024-05-08T19:55:07.000Z",
-          "wordCount": 4325,
-          "title": "Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x",
-          "imageUrl": "https://hao-ai-lab.github.io/img/objective_illustration_global.jpg"
-        },
-        {
-          "id": "https://www.researchsquare.com/article/rs-3976380/v1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.researchsquare.com/article/rs-3976380/v1",
-          "publishedOn": "2024-05-08T19:54:58.000Z",
-          "wordCount": 696,
-          "title": "Breathwork supports emergence of altered states of consciousness",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://phys.org/news/2024-05-mirror-flexibly-ray-microscopes.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2024-05-mirror-flexibly-ray-microscopes.html",
-          "publishedOn": "2024-05-08T17:13:26.000Z",
-          "wordCount": 2004,
-          "title": "New mirror that can be flexibly shaped improves X-ray microscopes",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/new-mirror-that-can-be.jpg"
-        },
-        {
-          "id": "https://openai.com/index/introducing-the-model-spec",
-          "author": null,
-          "description": "Comments",
-          "link": "https://openai.com/index/introducing-the-model-spec",
-          "publishedOn": "2024-05-08T17:11:18.000Z",
-          "wordCount": null,
-          "title": "OpenAI: Model Spec",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chromakode.com/post/xkcd-machine/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://chromakode.com/post/xkcd-machine/",
-          "publishedOn": "2024-05-08T17:09:17.000Z",
-          "wordCount": 3336,
-          "title": "Development Notes from xkcd's \"Machine\"",
-          "imageUrl": "https://chromakode.com/_astro/machine-zoomed-out.CzSXNpO2.png"
-        },
-        {
-          "id": "https://www.grafychat.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.grafychat.com/",
-          "publishedOn": "2024-05-08T16:41:12.000Z",
-          "wordCount": 1,
-          "title": "Show HN: I built a non-linear UI for ChatGPT",
-          "imageUrl": "https://grafychat.com/og-image.png"
         }
       ]
     },
@@ -8904,6 +8944,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/living-world/2024/parasitoid-wasps-domesticate-viruses",
+          "author": "Nala Rogers",
+          "description": "To protect and rear their young, some insects have transformed wild viruses into tiny biological weapons",
+          "link": "https://knowablemagazine.org/content/article/living-world/2024/parasitoid-wasps-domesticate-viruses",
+          "publishedOn": "2024-06-08T04:33:55.763Z",
+          "wordCount": 4173,
+          "title": "The wasps that tamed viruses",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/domesticated-wasp-viruses-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/domesticated-wasp-viruses-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/living-world/2024/why-are-there-so-many-types-of-beetles",
           "author": "Lesley Evans Ogden",
