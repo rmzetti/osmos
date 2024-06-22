@@ -39,6 +39,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/06/mdx-or-how-i-learned-love-multimedia-writing/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "Balancing the age-old simplicity of words on paper with the myriad creative possibilities of the web is a tension as old as the web itself. Leaning into that overlap can bring new dimensions not just to the things we write but also to how we write them.",
+          "link": "https://smashingmagazine.com/2024/06/mdx-or-how-i-learned-love-multimedia-writing/",
+          "publishedOn": "2024-06-21T18:00:00.000Z",
+          "wordCount": 5343,
+          "title": "MDX Or: How I Learned To Stop Worrying And Love Multimedia Writing",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/mdx-or-how-i-learned-love-multimedia-writing/mdx-or-how-i-learned-love-multimedia-writing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/mdx-or-how-i-learned-love-multimedia-writing/mdx-or-how-i-learned-love-multimedia-writing.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
           "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "description": "Have you heard of the Screen Orientation API? What about the Device Orientation API, Vibration API, or the Contact Picker API? Juan Diego Rodriguez is interested in these under-the-radar web features and discusses how they can be used to create more usable and robust progressive web apps if and when they gain broader support.",
@@ -262,21 +277,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/switching-it-up-html-latest-control/switching-it-up-html-latest-control.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/05/naming-best-practices/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "How can we get better at naming? This post is dedicated to naming conventions, tips, and real-world examples that help you name things in a robust and flexible way.",
-          "link": "https://smashingmagazine.com/2024/05/naming-best-practices/",
-          "publishedOn": "2024-05-23T09:00:00.000Z",
-          "wordCount": 3882,
-          "title": "Best Practices For Naming Design Tokens, Components, Variables, And More",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/naming-best-practices/naming-good-practices-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/naming-best-practices/naming-good-practices-opt.png"
         }
       ]
     },
@@ -285,6 +285,226 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf",
+          "publishedOn": "2024-06-22T04:04:22.000Z",
+          "wordCount": 29226,
+          "title": "Language is primarily a tool for communication rather than thought [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.farmfe.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.farmfe.org/",
+          "publishedOn": "2024-06-22T03:34:39.000Z",
+          "wordCount": 272,
+          "title": "Farm: Fast vite compatible build tool written in Rust",
+          "imageUrl": "https://farmfe.org/img/farm-social-card.png"
+        },
+        {
+          "id": "https://arstechnica.com/space/2024/06/nasa-indefinitely-delays-return-of-starliner-to-review-propulsion-data/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/space/2024/06/nasa-indefinitely-delays-return-of-starliner-to-review-propulsion-data/",
+          "publishedOn": "2024-06-22T03:17:30.000Z",
+          "wordCount": 1899,
+          "title": "NASA indefinitely delays return of Starliner to review propulsion data",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/53772281410_901326aee0_k-760x380.jpg"
+        },
+        {
+          "id": "https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4",
+          "author": null,
+          "description": "Comments",
+          "link": "https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4",
+          "publishedOn": "2024-06-22T02:26:14.000Z",
+          "wordCount": 48969,
+          "title": "A Forth Story (1995)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/",
+          "publishedOn": "2024-06-22T01:57:18.000Z",
+          "wordCount": 2300,
+          "title": "Researchers describe how to tell if ChatGPT is confabulating",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/ai-uncertainty-760x380.jpg"
+        },
+        {
+          "id": "https://blog.javascripttoday.com/blog/hacking-a-web-application/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.javascripttoday.com/blog/hacking-a-web-application/",
+          "publishedOn": "2024-06-22T01:48:52.000Z",
+          "wordCount": 6012,
+          "title": "OWASP Juice Shop: Hacking a Modern Web Application",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/",
+          "publishedOn": "2024-06-22T01:29:24.000Z",
+          "wordCount": 16999,
+          "title": "My Windows Computer Just Doesn't Feel Like Mine Anymore",
+          "imageUrl": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-control-room-monitoring-multiple-windows-11-screens-with-intrusive-ads.jpg"
+        },
+        {
+          "id": "https://www.seagate.com/innovation/multi-actuator-hard-drives/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.seagate.com/innovation/multi-actuator-hard-drives/",
+          "publishedOn": "2024-06-21T23:41:22.000Z",
+          "wordCount": 3280,
+          "title": "MACH.2 Multi-Actuator Hard Drives",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/",
+          "publishedOn": "2024-06-21T21:53:54.000Z",
+          "wordCount": 1910,
+          "title": "Internet Archive forced to remove 500k books after publishers' court win",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-119015596-760x380.jpg"
+        },
+        {
+          "id": "https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/",
+          "publishedOn": "2024-06-21T21:10:28.000Z",
+          "wordCount": 2597,
+          "title": "Solving puzzles faster than humanly possible",
+          "imageUrl": "https://biggieblog.com/wp-content/uploads/2024/05/Opus-Magnum-GEN042-350G-35-96-2024-05-02-01-15-12.gif"
+        },
+        {
+          "id": "https://www.emergetools.com/careers/jobs/senior-frontend-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.emergetools.com/careers/jobs/senior-frontend-engineer",
+          "publishedOn": "2024-06-21T21:00:43.000Z",
+          "wordCount": 358,
+          "title": "Emerge Tools (YC W21) is hiring a senior front end engineer",
+          "imageUrl": "https://emergeassets.s3.us-west-1.amazonaws.com/seo/careers-seo.png"
+        },
+        {
+          "id": "https://github.com/jamespfennell/new-typesetting-system",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/jamespfennell/new-typesetting-system",
+          "publishedOn": "2024-06-21T20:23:14.000Z",
+          "wordCount": 2636,
+          "title": "NTS (TeX reimplementation in Java from 2001) still compiles under Java 16",
+          "imageUrl": "https://opengraph.githubassets.com/9c2839fad2dd015475a4e1a7852222465ce427aa83c7e6a05cc55e8c338bc340/jamespfennell/new-typesetting-system"
+        },
+        {
+          "id": "https://navyhistory.au/aster-shootdown-over-sydney-in-1955/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://navyhistory.au/aster-shootdown-over-sydney-in-1955/",
+          "publishedOn": "2024-06-21T17:33:28.000Z",
+          "wordCount": 12478,
+          "title": "Aster shootdown over Sydney in 1955",
+          "imageUrl": "https://navyhistory.au/wp-content/uploads/Wirraway-300x156.jpg"
+        },
+        {
+          "id": "https://criu.org/Main_Page",
+          "author": null,
+          "description": "Comments",
+          "link": "https://criu.org/Main_Page",
+          "publishedOn": "2024-06-21T16:59:52.000Z",
+          "wordCount": 749,
+          "title": "CRIU, a project to implement checkpoint/restore functionality for Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/nkaz001/hftbacktest/tree/master/rust",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/nkaz001/hftbacktest/tree/master/rust",
+          "publishedOn": "2024-06-21T16:30:17.000Z",
+          "wordCount": 3120,
+          "title": "Show HN: High-frequency trading and market-making backtesting tool with examples",
+          "imageUrl": "https://opengraph.githubassets.com/e9f2cf4e97a9eb20bdab6e825da26737ea0b2327d7c01c01a2d865c6a961ff8e/nkaz001/hftbacktest"
+        },
+        {
+          "id": "https://www.sfchronicle.com/bayarea/article/self-driving-cars-waymo-sf-19523750.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sfchronicle.com/bayarea/article/self-driving-cars-waymo-sf-19523750.php",
+          "publishedOn": "2024-06-21T16:24:09.000Z",
+          "wordCount": null,
+          "title": "Self-driving Waymos secure final clearance for expansion beyond S.F",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design",
+          "publishedOn": "2024-06-21T16:16:31.000Z",
+          "wordCount": 7866,
+          "title": "Testing Generative AI for Circuit Board Design",
+          "imageUrl": "https://blog.jitx.com/hubfs/image-png-2.png"
+        },
+        {
+          "id": "https://zachartrand.github.io/SoME-3-Living/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zachartrand.github.io/SoME-3-Living/",
+          "publishedOn": "2024-06-21T13:54:24.000Z",
+          "wordCount": 4211,
+          "title": "How does a computer/calculator compute logarithms?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/",
+          "publishedOn": "2024-06-21T13:30:21.000Z",
+          "wordCount": 1889,
+          "title": "From Infocom to 80 Days: An oral history of text games and interactive fiction",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/45897016062_e1c52b1dd9_k-760x380.jpg"
+        },
+        {
+          "id": "https://github.com/Eliah-Lakhin/lady-deirdre",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Eliah-Lakhin/lady-deirdre",
+          "publishedOn": "2024-06-21T09:40:40.000Z",
+          "wordCount": 3924,
+          "title": "Show HN: Lady Deirdre 2 – Rust Framework for Compilers and LSP Servers",
+          "imageUrl": "https://repository-images.githubusercontent.com/563529801/3f762cb7-9091-4a6e-aa01-bf2b98f77b12"
+        },
+        {
+          "id": "https://github.com/mayneyao/eidos",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mayneyao/eidos",
+          "publishedOn": "2024-06-21T06:30:02.000Z",
+          "wordCount": 2471,
+          "title": "Show HN: Eidos – Offline alternative to Notion",
+          "imageUrl": "https://opengraph.githubassets.com/4ba78a990663d783b2eb5e7ce3975aa43d7c9c52102621c125f166a608c40fe4/mayneyao/eidos"
+        },
+        {
+          "id": "https://lichess.org/@/jk_182/blog/using-stockfish-to-identify-ideal-squares/x3U2g3NP",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lichess.org/@/jk_182/blog/using-stockfish-to-identify-ideal-squares/x3U2g3NP",
+          "publishedOn": "2024-06-21T04:25:36.000Z",
+          "wordCount": 1469,
+          "title": "Using Stockfish to identify ideal squares",
+          "imageUrl": "https://image.lichess1.org/display?h=550&op=thumbnail&path=jk_182:ublog:x3U2g3NP:I4F5HU8j.jpg&w=880&sig=8cd694fa683dae5beaa4a87aa57787f2e0fc2c59"
+        },
         {
           "id": "https://github.com/martinpiper/BombJack/blob/master/README.md",
           "author": null,
@@ -456,6 +676,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cnn.com/2024/06/19/travel/barf-bag-collectors-hobby-cec/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnn.com/2024/06/19/travel/barf-bag-collectors-hobby-cec/index.html",
+          "publishedOn": "2024-06-20T15:05:14.000Z",
+          "wordCount": 46522,
+          "title": "Hobbyists who collect barf bags",
+          "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/eli-cox-barf-bag.jpg?c=16x9&q=w_800,c_fill"
+        },
+        {
           "id": "https://calculatingempires.net/",
           "author": null,
           "description": "Comments",
@@ -466,6 +696,16 @@
           "imageUrl": "https://calculatingempires.net/content/calculating-empires-og.png"
         },
         {
+          "id": "https://dl.acm.org/doi/pdf/10.1145/319838.319870",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/319838.319870",
+          "publishedOn": "2024-06-20T14:17:02.000Z",
+          "wordCount": 42691,
+          "title": "Connection Machine Lisp (1986)",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/robertdavidgraham/wc2",
           "author": null,
           "description": "Comments",
@@ -474,6 +714,16 @@
           "wordCount": 5283,
           "title": "Wc2: Investigates optimizing 'wc', the Unix word count program",
           "imageUrl": "https://opengraph.githubassets.com/903c4a111ea98dcf95f88bcdd3ef12f7f97c7a5c882ae27651ae3e1ed788ceb7/robertdavidgraham/wc2"
+        },
+        {
+          "id": "https://aravind.rs/numbers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aravind.rs/numbers",
+          "publishedOn": "2024-06-20T13:46:33.000Z",
+          "wordCount": 952,
+          "title": "Show HN: Primeval Numbers",
+          "imageUrl": null
         },
         {
           "id": "https://gaultier.github.io/blog/write_a_video_game_from_scratch_like_1987.html",
@@ -494,6 +744,16 @@
           "wordCount": 623,
           "title": "Tetris Font",
           "imageUrl": null
+        },
+        {
+          "id": "https://img.ly/blog/browser-background-removal-using-onnx-runtime-webgpu/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://img.ly/blog/browser-background-removal-using-onnx-runtime-webgpu/",
+          "publishedOn": "2024-06-20T11:00:27.000Z",
+          "wordCount": 2341,
+          "title": "20x Faster Background Removal in the Browser Using ONNX Runtime with WebGPU",
+          "imageUrl": "https://imgly-blog-prod.storage.googleapis.com/2024/06/onnx-runtime-imgly.jpg"
         },
         {
           "id": "https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/",
@@ -684,6 +944,16 @@
           "wordCount": 2241,
           "title": "Arvind has died",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202406/MIT_Arvind-MSBrauer-01-PRESS.jpg"
+        },
+        {
+          "id": "https://tidyfirst.substack.com/p/the-trough-of-despair",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tidyfirst.substack.com/p/the-trough-of-despair",
+          "publishedOn": "2024-06-19T14:36:30.000Z",
+          "wordCount": null,
+          "title": "Software design gets worse before it gets better",
+          "imageUrl": null
         },
         {
           "id": "https://salvagedcircuitry.com/2000a-nand-recovery.html",
@@ -916,6 +1186,16 @@
           "imageUrl": "https://retractionwatch.com/wp-content/uploads/2024/06/catherine_2.jpg"
         },
         {
+          "id": "https://eggcorns.lascribe.net/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://eggcorns.lascribe.net/",
+          "publishedOn": "2024-06-18T18:12:15.000Z",
+          "wordCount": 1867,
+          "title": "The Eggcorn Database",
+          "imageUrl": null
+        },
+        {
           "id": "https://arxiv.org/abs/2406.11717",
           "author": null,
           "description": "Comments",
@@ -954,6 +1234,16 @@
           "wordCount": 35,
           "title": "Show HN: Billard – Generate music from ball collisions in 2D space",
           "imageUrl": null
+        },
+        {
+          "id": "https://medicalxpress.com/news/2024-06-ingestible-device-gastric-electrophysiological.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medicalxpress.com/news/2024-06-ingestible-device-gastric-electrophysiological.html",
+          "publishedOn": "2024-06-18T15:54:14.000Z",
+          "wordCount": 2005,
+          "title": "An ingestible device to record gastric electrophysiological activity",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/a-ingestible-device-to.jpg"
         },
         {
           "id": "https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing",
@@ -1074,6 +1364,16 @@
           "wordCount": 15165,
           "title": "Brain circuit scores identify clinically distinct biotypes in depression/anxiety",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-024-03057-9/MediaObjects/41591_2024_3057_Fig1_HTML.png"
+        },
+        {
+          "id": "https://dtsec.us/2023-04-24-Sleep/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dtsec.us/2023-04-24-Sleep/",
+          "publishedOn": "2024-06-18T02:45:57.000Z",
+          "wordCount": 3920,
+          "title": "An Introduction to Sleep Obfuscation for Malware (2023)",
+          "imageUrl": "https://github.com/Cracked5pider/Ekko/raw/main/ekko_logo.png"
         },
         {
           "id": "https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data",
@@ -8554,396 +8854,6 @@
           "wordCount": 1128,
           "title": "Daylight Computer – New 60fps e-paper tablet",
           "imageUrl": "https://daylight-theta.vercel.app/_next/static/media/OG-product.3a410372.png"
-        },
-        {
-          "id": "https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm",
-          "publishedOn": "2024-05-23T16:20:23.000Z",
-          "wordCount": 897,
-          "title": "So good, it works on barbed wire (2001)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.vkethana.com/vjscript/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.vkethana.com/vjscript/",
-          "publishedOn": "2024-05-23T16:05:15.000Z",
-          "wordCount": 1079,
-          "title": "Inventing my own writing system for English, VJScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/Dataherald/dataherald",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Dataherald/dataherald",
-          "publishedOn": "2024-05-23T15:50:25.000Z",
-          "wordCount": 2431,
-          "title": "Show HN: We open sourced our entire text-to-SQL product",
-          "imageUrl": "https://opengraph.githubassets.com/193681201c7f62ed81ea20ec70041f47a1279a4100573b322a716ae8efc6e493/Dataherald/dataherald"
-        },
-        {
-          "id": "https://www.ifixit.com/News/96162/were-ending-our-samsung-collaboration",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ifixit.com/News/96162/were-ending-our-samsung-collaboration",
-          "publishedOn": "2024-05-23T15:41:29.000Z",
-          "wordCount": 6470,
-          "title": "We're ending our Samsung collaboration",
-          "imageUrl": "https://valkyrie.cdn.ifixit.com/media/2024/05/22172241/Galaxy-Fold_glueybattery_3x2.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=40456064",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=40456064",
-          "publishedOn": "2024-05-23T15:38:25.000Z",
-          "wordCount": 6609,
-          "title": "Launch HN: Metriport (YC S22) – Open-source API for healthcare data exchange",
-          "imageUrl": null
-        },
-        {
-          "id": "https://matcha.mizu.sh/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://matcha.mizu.sh/",
-          "publishedOn": "2024-05-23T15:31:09.000Z",
-          "wordCount": 6850,
-          "title": "Matcha.css – Drop-in semantic styling library in pure CSS",
-          "imageUrl": "/og.png"
-        },
-        {
-          "id": "https://mandeepbhutani.com/blog",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mandeepbhutani.com/blog",
-          "publishedOn": "2024-05-23T15:24:21.000Z",
-          "wordCount": 1349,
-          "title": "Lessons Learned from My First Roblox Game",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html",
-          "publishedOn": "2024-05-23T15:16:20.000Z",
-          "wordCount": 2277,
-          "title": "The Space Quest II Master Disk Blunder",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thejournal.com/Articles/2024/05/21/Microsoft-Khan-Academy-Partner-to-Make-Khanmigo-Teaching-Tool-Free.aspx",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thejournal.com/Articles/2024/05/21/Microsoft-Khan-Academy-Partner-to-Make-Khanmigo-Teaching-Tool-Free.aspx",
-          "publishedOn": "2024-05-23T14:55:38.000Z",
-          "wordCount": 2018,
-          "title": "Microsoft, Khan Academy Partner to Make Khanmigo Teaching Tool Free",
-          "imageUrl": "https://thejournal.com/-/media/EDU/THEJournal/2024/05/20240521aitutor.jpg"
-        },
-        {
-          "id": "https://github.com/dalance/amber",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/dalance/amber",
-          "publishedOn": "2024-05-23T14:48:29.000Z",
-          "wordCount": 4985,
-          "title": "Amber: A code search and replace tool",
-          "imageUrl": "https://opengraph.githubassets.com/22af4c4916ea2b32791cb2144aead533e147c3161b6ca0017417893df423f242/dalance/amber"
-        },
-        {
-          "id": "https://github.com/koute/bytehound",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/koute/bytehound",
-          "publishedOn": "2024-05-23T14:40:58.000Z",
-          "wordCount": 3366,
-          "title": "Bytehound: Memory Profiler for Linux",
-          "imageUrl": "https://opengraph.githubassets.com/66743961cafb841bed6d31aa7f5991a9376ec1b4f926c02a39dc5e238d9968c3/koute/bytehound"
-        },
-        {
-          "id": "https://depot.dev/blog/faster-ec2-boot-time",
-          "author": null,
-          "description": "Comments",
-          "link": "https://depot.dev/blog/faster-ec2-boot-time",
-          "publishedOn": "2024-05-23T14:31:36.000Z",
-          "wordCount": 3605,
-          "title": "Making EC2 boot time faster",
-          "imageUrl": "https://depot.dev/images/banner/faster-ec2-boot-time.png"
-        },
-        {
-          "id": "https://vitalik.eth.limo/general/2024/05/23/l2exec.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://vitalik.eth.limo/general/2024/05/23/l2exec.html",
-          "publishedOn": "2024-05-23T14:23:49.000Z",
-          "wordCount": 2611,
-          "title": "How do layer 2s differ from execution sharding?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://rhodesmill.org/brandon/2019/animating-the-equant/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://rhodesmill.org/brandon/2019/animating-the-equant/",
-          "publishedOn": "2024-05-23T13:30:56.000Z",
-          "wordCount": 2340,
-          "title": "Animating Ptolemy's Equant with Python, SVG, and CSS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nottingham.ac.uk/news/first-pictures-from-euclid-satellite-reveal-billions-of-orphan-stars",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nottingham.ac.uk/news/first-pictures-from-euclid-satellite-reveal-billions-of-orphan-stars",
-          "publishedOn": "2024-05-23T13:22:47.000Z",
-          "wordCount": 1321,
-          "title": "First pictures from Euclid satellite reveal billions of orphan stars",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.construction-physics.com/p/how-to-build-300000-airplanes-in",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.construction-physics.com/p/how-to-build-300000-airplanes-in",
-          "publishedOn": "2024-05-23T12:58:09.000Z",
-          "wordCount": 12994,
-          "title": "300k airplanes in five years",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42a153af-1bd9-4b76-b5a0-3ea9c22c0d7a_965x768.png"
-        },
-        {
-          "id": "https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html",
-          "publishedOn": "2024-05-23T12:08:53.000Z",
-          "wordCount": 6390,
-          "title": "Medieval Bologna was full of tall towers",
-          "imageUrl": "https://cdn8.openculture.com/2024/05/20221938/1475px-Medieval_Bologna-1024x750.jpg"
-        },
-        {
-          "id": "https://www.newyorker.com/magazine/2020/01/06/the-strangeness-of-grief",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newyorker.com/magazine/2020/01/06/the-strangeness-of-grief",
-          "publishedOn": "2024-05-23T11:43:06.000Z",
-          "wordCount": 43868,
-          "title": "The Strangeness of Grief (2019)",
-          "imageUrl": "https://media.newyorker.com/photos/5dfa96b5f6849c000935d1ea/16:9/w_1280,c_limit/200106_r35665.jpg"
-        },
-        {
-          "id": "https://www.sligocki.com//2024/05/22/bb-3-4-a14.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sligocki.com//2024/05/22/bb-3-4-a14.html",
-          "publishedOn": "2024-05-23T11:13:28.000Z",
-          "wordCount": 1444,
-          "title": "BB(3, 4) > Ack(14)",
-          "imageUrl": null
-        },
-        {
-          "id": "http://tomwaitslibrary.info/biography/copyright/frito-lay/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://tomwaitslibrary.info/biography/copyright/frito-lay/",
-          "publishedOn": "2024-05-23T09:52:18.000Z",
-          "wordCount": 3637,
-          "title": "Tom Waits vs. Frito-Lay, Inc (2003)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html",
-          "publishedOn": "2024-05-23T07:17:22.000Z",
-          "wordCount": 964,
-          "title": "M2dir: Treating mails as files without going crazy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://amvizion.org/blog/lessons-learned-from-yc.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://amvizion.org/blog/lessons-learned-from-yc.html",
-          "publishedOn": "2024-05-23T01:48:53.000Z",
-          "wordCount": 2515,
-          "title": "Lessons learned from studying 4k YC companies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://fpvsim.com/drone-flying-101",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fpvsim.com/drone-flying-101",
-          "publishedOn": "2024-05-23T01:25:35.000Z",
-          "wordCount": 719,
-          "title": "Drone Flying 101 – An Interactive Tutorial for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm",
-          "publishedOn": "2024-05-23T00:59:02.000Z",
-          "wordCount": 4560,
-          "title": "Baum-Welch Algorithm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/misohena/el-easydraw",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/misohena/el-easydraw",
-          "publishedOn": "2024-05-22T23:13:50.000Z",
-          "wordCount": 6521,
-          "title": "Emacs Easydraw – drawing tool inside Emacs",
-          "imageUrl": "https://opengraph.githubassets.com/aa1a909a2701441e8333e5e7034c813ffc0ff83d71acb170ca3d0faf4ffae7ae/misohena/el-easydraw"
-        },
-        {
-          "id": "https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster",
-          "publishedOn": "2024-05-22T22:39:51.000Z",
-          "wordCount": 576,
-          "title": "US Justice Department to seek breakup of Live Nation-Ticketmaster",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees",
-          "publishedOn": "2024-05-22T22:22:30.000Z",
-          "wordCount": 12980,
-          "title": "Leaked OpenAI documents reveal aggressive tactics toward former employees",
-          "imageUrl": "https://platform.vox.com/wp-content/uploads/sites/2/2024/05/gettyimages-1930535859.jpg?quality=90&strip=all&crop=0,9.9977632712572,100,80.004473457486"
-        },
-        {
-          "id": "https://github.com/leukipp/cortile",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/leukipp/cortile",
-          "publishedOn": "2024-05-22T20:56:20.000Z",
-          "wordCount": 6942,
-          "title": "Cortile – Linux auto tiling manager with hot corner support",
-          "imageUrl": "https://opengraph.githubassets.com/57b72c98e47e9ae5ea35f54f4c16fad6b438d160e71abb517e61732e6306be9a/leukipp/cortile"
-        },
-        {
-          "id": "http://professorconfess.blogspot.com/2013/06/all-remedial-classes-in-one-place.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://professorconfess.blogspot.com/2013/06/all-remedial-classes-in-one-place.html",
-          "publishedOn": "2024-05-22T20:56:08.000Z",
-          "wordCount": 8031,
-          "title": "All the remedial classes in one place",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.figma.com/blog/speeding-up-file-load-times-one-page-at-a-time/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.figma.com/blog/speeding-up-file-load-times-one-page-at-a-time/",
-          "publishedOn": "2024-05-22T20:07:57.000Z",
-          "wordCount": 9786,
-          "title": "Dynamic loading of real-time content at Figma",
-          "imageUrl": "https://cdn.sanity.io/images/599r6htc/regionalized/d206f80b8a4fe5e715db009d9a87227087179588-6528x2796.jpg?w=1200&q=70&fit=max&auto=format"
-        },
-        {
-          "id": "https://cvgist.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cvgist.com/",
-          "publishedOn": "2024-05-22T19:11:15.000Z",
-          "wordCount": 193,
-          "title": "Show HN: Simple and fast resume document generation with AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.arp242.net/safeterm.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.arp242.net/safeterm.html",
-          "publishedOn": "2024-05-22T18:31:18.000Z",
-          "wordCount": 3193,
-          "title": "Safe Terminal Escape Codes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://materializedview.io/p/s3-is-showing-its-age",
-          "author": null,
-          "description": "Comments",
-          "link": "https://materializedview.io/p/s3-is-showing-its-age",
-          "publishedOn": "2024-05-22T18:23:17.000Z",
-          "wordCount": 2776,
-          "title": "S3 is showing its age",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcea9b682-8ddc-468a-ab4f-b3338548390c_1024x1024.webp"
-        },
-        {
-          "id": "https://tryclojure.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tryclojure.org/",
-          "publishedOn": "2024-05-22T18:11:34.000Z",
-          "wordCount": 5,
-          "title": "Try Clojure",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://github.com/nucleuscloud/neosync",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/nucleuscloud/neosync",
-          "publishedOn": "2024-05-22T17:53:45.000Z",
-          "wordCount": 3324,
-          "title": "Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL",
-          "imageUrl": "https://repository-images.githubusercontent.com/682760329/28fdd03f-1e44-4655-88e3-acb27054475d"
-        },
-        {
-          "id": "https://github.com/onecodex/rust-bfield",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/onecodex/rust-bfield",
-          "publishedOn": "2024-05-22T17:53:16.000Z",
-          "wordCount": 16480,
-          "title": "Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)",
-          "imageUrl": "https://opengraph.githubassets.com/179861273e48c218a9291c91fd02b232134e47680a5570f76ccd8384f80c49e9/onecodex/rust-bfield"
-        },
-        {
-          "id": "https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/",
-          "publishedOn": "2024-05-22T17:22:27.000Z",
-          "wordCount": 3446,
-          "title": "Systematically Improving Your RAG",
-          "imageUrl": "https://jxnl.co/assets/images/social/writing/posts/improving-rag.png"
-        },
-        {
-          "id": "https://www.bloomberg.com/opinion/articles/2024-05-22/citi-missed-a-fat-finger",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bloomberg.com/opinion/articles/2024-05-22/citi-missed-a-fat-finger",
-          "publishedOn": "2024-05-22T17:01:40.000Z",
-          "wordCount": 576,
-          "title": "Citi Missed a Fat Finger",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/trieve/jobs/LN9ucK7-sales-engineer-at-trieve-w24",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/trieve/jobs/LN9ucK7-sales-engineer-at-trieve-w24",
-          "publishedOn": "2024-05-22T17:00:03.000Z",
-          "wordCount": 1627,
-          "title": "Trieve (YC W24) Is Hiring a Sales Engineer",
-          "imageUrl": "/images/original/missing.png"
         }
       ]
     },
@@ -9398,21 +9308,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/invasive-social-wasps-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/health-disease/2024/why-isnt-dental-health-considered-primary-medical-care",
-          "author": "Lola Butcher",
-          "description": "Ailments of the mouth can put the body at risk for a slew of other ills. Some practitioners think dentistry should no longer be siloed.",
-          "link": "https://knowablemagazine.org/content/article/health-disease/2024/why-isnt-dental-health-considered-primary-medical-care",
-          "publishedOn": "2024-05-23T04:33:39.554Z",
-          "wordCount": 5184,
-          "title": "Why isn’t dental health considered primary medical care?",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/dental-body-health-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/dental-body-health-500x288.jpg"
         }
       ]
     },
