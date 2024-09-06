@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380340",
+          "author": "Geoff Graham",
+          "description": "“Never, ever hire for JavaScript framework skills. Instead, interview and hire only for fundamentals like web standards, accessibility, modern CSS, semantic HTML, and Web Components.” — Alex Russell…\nQuick Hit #16 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-16/",
+          "publishedOn": "2024-09-05T16:04:28.000Z",
+          "wordCount": 1310,
+          "title": "Quick Hit #16",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380340"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380298",
+          "author": "Geoff Graham",
+          "description": "Almost missed that the WP Twenty Twenty-Five theme was approved a couple weeks ago.…\nQuick Hit #15 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-15/",
+          "publishedOn": "2024-09-05T16:02:26.000Z",
+          "wordCount": 1275,
+          "title": "Quick Hit #15",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380298"
+        },
+        {
           "id": "https://css-tricks.com/?p=380296",
           "author": "Geoff Graham",
           "description": "Inclusive Design 24 is in 8 short days — and it’s FREE, no sign-up required!…\nQuick Hit #14 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -340,16 +360,6 @@
           "wordCount": 1856,
           "title": "Christian Heilmann: Let’s make a simpler, more accessible web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379570"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379541",
-          "author": "Amit Sheen",
-          "description": "It was a few years ago during the 2020 Olympics in Tokyo 2020 that I made a demo of animated 3D Olympic rings. I like it, it looks great, and I love the effect of the rings crossing each other.…\nCSS Olympic Rings originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-olympic-rings/",
-          "publishedOn": "2024-08-07T13:10:56.000Z",
-          "wordCount": 4017,
-          "title": "CSS Olympic Rings",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379541"
         }
       ]
     },
@@ -358,6 +368,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
+          "author": "hello@smashingmagazine.com (Philip Braunen)",
+          "description": "Sticky positioning is one of those CSS features that’s pretty delicate and can be negated by a lot of things, so here’s another one to add to your mental catalog: Sticky elements don’t play nicely if they have to coordinate with other elements to make up a combined height, like `100vh`. Philip Braunen explores why this happens and presents a solution to fix it.",
+          "link": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
+          "publishedOn": "2024-09-05T09:00:00.000Z",
+          "wordCount": 4328,
+          "title": "Sticky Headers And Full-Height Elements: A Tricky Combination",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
@@ -515,6 +540,226 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/",
+          "publishedOn": "2024-09-06T02:55:45.000Z",
+          "wordCount": 6266,
+          "title": "Frustrating Interactions with the OCaml Ecosystem",
+          "imageUrl": "https://www.gridbugs.org/logo.png"
+        },
+        {
+          "id": "https://fortune.com/europe/2024/09/04/swiss-watchmakers-put-employees-on-state-funded-furlough-as-luxury-demand-disappears/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fortune.com/europe/2024/09/04/swiss-watchmakers-put-employees-on-state-funded-furlough-as-luxury-demand-disappears/",
+          "publishedOn": "2024-09-06T01:39:26.000Z",
+          "wordCount": 5077,
+          "title": "Swiss watchmakers put employees on state-funded leave as luxury demand disappear",
+          "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2024/09/GettyImages-871725954-e1725442035622.jpg?resize=1200,600"
+        },
+        {
+          "id": "https://www.nongnu.org/lwip/2_1_x/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nongnu.org/lwip/2_1_x/index.html",
+          "publishedOn": "2024-09-06T01:00:06.000Z",
+          "wordCount": null,
+          "title": "LwIP – Lightweight IP Stack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnbc.com/2024/09/05/visa-to-launch-pay-by-bank-payments-an-alternative-to-credit-cards.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2024/09/05/visa-to-launch-pay-by-bank-payments-an-alternative-to-credit-cards.html",
+          "publishedOn": "2024-09-06T00:09:06.000Z",
+          "wordCount": 26782,
+          "title": "Visa to launch pay-by-bank payments, an alternative to credit cards",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108009168-1721407305750-gettyimages-2115797287-porzycki-visamast240329_nptVm.jpeg?v=1725470072&w=1920&h=1080"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=41461499",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=41461499",
+          "publishedOn": "2024-09-05T23:59:02.000Z",
+          "wordCount": 12913,
+          "title": "Tell HN: Burnout is bad to your brain, take care",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.flipt.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.flipt.io/",
+          "publishedOn": "2024-09-05T20:15:43.000Z",
+          "wordCount": 1864,
+          "title": "Show HN: Feature Flags Backed by Git",
+          "imageUrl": "https://cdn.prod.website-files.com/659480aa07716c37f0fd8dee/65cbb2a156788df41298a9a4_Opengraph.png"
+        },
+        {
+          "id": "https://clojure.org/news/2024/09/05/clojure-1-12-0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://clojure.org/news/2024/09/05/clojure-1-12-0",
+          "publishedOn": "2024-09-05T20:12:52.000Z",
+          "wordCount": 3004,
+          "title": "Clojure 1.12.0 is now available",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theguardian.com/science/article/2024/sep/05/common-food-dye-found-to-make-skin-and-muscle-temporarily-transparent",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/science/article/2024/sep/05/common-food-dye-found-to-make-skin-and-muscle-temporarily-transparent",
+          "publishedOn": "2024-09-05T19:48:22.000Z",
+          "wordCount": 4673,
+          "title": "Common food dye found to make skin and muscle temporarily transparent",
+          "imageUrl": "https://i.guim.co.uk/img/media/d745303eb60905e3758bdb48f23cfaf65d9427bc/345_69_1511_907/master/1511.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=73bfa5cb95d1070a7237c6d35bb31f5e"
+        },
+        {
+          "id": "https://old.reddit.com/r/reddit.com/comments/k3zrz/by_request_from_the_jobs_thread_why_my_job_is_to/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://old.reddit.com/r/reddit.com/comments/k3zrz/by_request_from_the_jobs_thread_why_my_job_is_to/",
+          "publishedOn": "2024-09-05T18:43:18.000Z",
+          "wordCount": null,
+          "title": "My job is to watch dreams die (2011)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Scthe/nanite-webgpu",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Scthe/nanite-webgpu",
+          "publishedOn": "2024-09-05T17:55:59.000Z",
+          "wordCount": 11813,
+          "title": "UE5 Nanite in WebGPU",
+          "imageUrl": "https://opengraph.githubassets.com/a565147a7c783c6d457196455213e7ab1e91dc082f9cce2dfce5de68f1d41c11/Scthe/nanite-webgpu"
+        },
+        {
+          "id": "https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html",
+          "publishedOn": "2024-09-05T17:02:40.000Z",
+          "wordCount": 34794,
+          "title": "Deploying Rust in Existing Firmware Codebases",
+          "imageUrl": "http://2.bp.blogspot.com/-7bZ5EziliZQ/VynIS9F7OAI/AAAAAAAASQ0/BJFntXCAntstZe6hQuo5KTrhi5Dyz9yHgCK4B/s1600/googlelogo_color_200x200.png"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra",
+          "publishedOn": "2024-09-05T17:00:52.000Z",
+          "wordCount": 963,
+          "title": "Trellis (YC W24) is hiring eng to build AI workflows for unstructured data",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://www.centauri-dreams.org/2024/09/05/the-freakish-radio-writings-of-1924/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.centauri-dreams.org/2024/09/05/the-freakish-radio-writings-of-1924/",
+          "publishedOn": "2024-09-05T16:55:25.000Z",
+          "wordCount": 6727,
+          "title": "The 'Freakish Radio Writings' of 1924",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/cloudflare/serverless-registry",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/cloudflare/serverless-registry",
+          "publishedOn": "2024-09-05T16:34:51.000Z",
+          "wordCount": 3903,
+          "title": "serverless-registry: A Docker registry backed by Workers and R2",
+          "imageUrl": "https://opengraph.githubassets.com/6dcb3e9a362a649fedbcc80256ddf03895c96fcdea765965e02dfe276b00b1f7/cloudflare/serverless-registry"
+        },
+        {
+          "id": "https://kalmia.difuse.io/doc/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kalmia.difuse.io/doc/",
+          "publishedOn": "2024-09-05T16:26:12.000Z",
+          "wordCount": 91,
+          "title": "Show HN: We built a FOSS documentation CMS with a pretty GUI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phind.com/blog/introducing-phind-405b-and-better-faster-searches",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.phind.com/blog/introducing-phind-405b-and-better-faster-searches",
+          "publishedOn": "2024-09-05T16:22:09.000Z",
+          "wordCount": null,
+          "title": "Phind-405B and faster, high quality AI answers for everyone",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Mintplex-Labs/anything-llm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Mintplex-Labs/anything-llm",
+          "publishedOn": "2024-09-05T15:40:45.000Z",
+          "wordCount": 5399,
+          "title": "Show HN: AnythingLLM – Open-Source, All-in-One Desktop AI Assistant",
+          "imageUrl": "https://repository-images.githubusercontent.com/649170660/c5b68040-7062-4d38-bf7f-f6e57c8d2396"
+        },
+        {
+          "id": "https://jnsgr.uk/2024/08/tailscale-on-the-rocks",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jnsgr.uk/2024/08/tailscale-on-the-rocks",
+          "publishedOn": "2024-09-05T15:28:22.000Z",
+          "wordCount": 2620,
+          "title": "Libations: Tailscale on the Rocks",
+          "imageUrl": "https://jnsgr.uk/2024/08/tailscale-on-the-rocks/cover.jpg"
+        },
+        {
+          "id": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
+          "publishedOn": "2024-09-05T15:05:49.000Z",
+          "wordCount": 1964,
+          "title": "AlphaProteo generates novel proteins for biology and health research",
+          "imageUrl": "https://lh3.googleusercontent.com/7RKd6r-Wc8JfMau5x9knRq9DrOKGDwS3ye4YxY0jjWGntf74y8WL0lOlktJefxwkJYw33UEf2Ph_BhQ51TIufCxPkmtCPOpakekMpnOUwVI-3R6RzQ=w1200-h630-n-nu"
+        },
+        {
+          "id": "https://github.com/RaisinTen/electron-snapshot-experiment",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/RaisinTen/electron-snapshot-experiment",
+          "publishedOn": "2024-09-05T14:14:23.000Z",
+          "wordCount": 17749,
+          "title": "Speeding up Electron apps by using V8 snapshots in the main process",
+          "imageUrl": "https://opengraph.githubassets.com/2aee8aeea7a4962b10da682206e2a5167ce4ae4074f8e1b5fde4b980866d3560/RaisinTen/electron-snapshot-experiment"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=41456552",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=41456552",
+          "publishedOn": "2024-09-05T13:42:43.000Z",
+          "wordCount": 4580,
+          "title": "Launch HN: Maitai (YC S24) – Self-Optimizing LLM Platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/tilyupo/qustar",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/tilyupo/qustar",
+          "publishedOn": "2024-09-05T11:55:48.000Z",
+          "wordCount": 8165,
+          "title": "Show HN: Node.js ORM to query SQL database through an array-like API",
+          "imageUrl": "https://opengraph.githubassets.com/7c1ddc2be58a2b9890eb4a2c6486c081a6df2704d4e1858463878f79e8e80ed1/tilyupo/qustar"
+        },
         {
           "id": "https://hechingerreport.org/kids-chatgpt-worse-on-tests/",
           "author": null,
@@ -706,6 +951,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://github.com/luke8086/retronews",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/luke8086/retronews",
+          "publishedOn": "2024-09-04T13:58:06.000Z",
+          "wordCount": 2858,
+          "title": "Show HN: Retronews – TUI for HN and Lobsters emulating classical Usenet readers",
+          "imageUrl": "https://opengraph.githubassets.com/42055ed3d06a6227c14689931138ee32a92e7cc1f7c795288f36c53beb823cf3/luke8086/retronews"
+        },
+        {
           "id": "https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/",
           "author": null,
           "description": "Comments",
@@ -774,6 +1029,16 @@
           "wordCount": 11707,
           "title": "Interviewing Tim Sweeney and Neal Stephenson",
           "imageUrl": "http://static1.squarespace.com/static/5d8e9007bc3d0e18a4c49673/t/6696a93a1b478c7fd13c3de6/1721149762421/new2.png?format=1500w"
+        },
+        {
+          "id": "https://chollinger.com/blog/2024/08/why-i-still-self-host-my-servers-and-what-ive-recently-learned/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chollinger.com/blog/2024/08/why-i-still-self-host-my-servers-and-what-ive-recently-learned/",
+          "publishedOn": "2024-09-04T01:00:56.000Z",
+          "wordCount": 4887,
+          "title": "Why I self host my servers and what I've recently learned",
+          "imageUrl": null
         },
         {
           "id": "https://cacm.acm.org/news/faster-integer-programming/",
@@ -956,6 +1221,16 @@
           "imageUrl": "https://ninjalab.io/wp-content/uploads/2024/09/20240830_eucleak_illu_from_romain_light.jpg"
         },
         {
+          "id": "https://blog.rootsofprogress.org/steam-engine-origins",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.rootsofprogress.org/steam-engine-origins",
+          "publishedOn": "2024-09-03T11:03:40.000Z",
+          "wordCount": 3165,
+          "title": "The Origins of the Steam Engine",
+          "imageUrl": "https://blog.rootsofprogress.org/img/steam-origins-diagram.jpg"
+        },
+        {
           "id": "https://www.jeremykun.com/2024/09/02/shift-networks/",
           "author": null,
           "description": "Comments",
@@ -974,6 +1249,16 @@
           "wordCount": 716,
           "title": "Keeping CALM: When distributed consistency is easy",
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://zeppelin.apache.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zeppelin.apache.org/",
+          "publishedOn": "2024-09-03T06:29:13.000Z",
+          "wordCount": 611,
+          "title": "Apache Zeppelin",
+          "imageUrl": null
         },
         {
           "id": "https://www.iana.org/assignments/dns-parameters/dns-parameters.xhtml",
@@ -1216,6 +1501,16 @@
           "imageUrl": "https://media.newyorker.com/photos/66c7f453dae349a80bddee09/16:9/w_1280,c_limit/01_Educability_Final.png"
         },
         {
+          "id": "https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/",
+          "publishedOn": "2024-09-02T13:40:34.000Z",
+          "wordCount": 46924,
+          "title": "He Emptied an Entire Crypto Exchange onto a Thumb Drive. Then He Disappeared",
+          "imageUrl": "https://media.wired.com/photos/660b1fc89e28025ccec808a5/191:100/w_1280,c_limit/GettyImages-1252007510.jpg"
+        },
+        {
           "id": "https://github.com/SuperIlu/DOjS",
           "author": null,
           "description": "Comments",
@@ -1256,6 +1551,26 @@
           "imageUrl": "https://opengraph.githubassets.com/4dab124050f0ef143fa142841b3aa829cda5e410051b418aa8bea85b9bba2e81/Glimesh/broadcast-box"
         },
         {
+          "id": "https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/",
+          "publishedOn": "2024-09-02T12:17:14.000Z",
+          "wordCount": 3263,
+          "title": "Perplexing the Web, One Probability Puzzle at a Time",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2024/08/Daniel_Litt-cr.MartaIwanek-Social.webp"
+        },
+        {
+          "id": "https://www.newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are",
+          "publishedOn": "2024-09-02T11:36:24.000Z",
+          "wordCount": 33392,
+          "title": "The Work You Do, the Person You Are (2017)",
+          "imageUrl": "https://media.newyorker.com/photos/592703c134b4ef4d15abad35/16:9/w_1280,c_limit/170605_r30092_rd.jpg"
+        },
+        {
           "id": "https://defrag-game.com/",
           "author": null,
           "description": "Comments",
@@ -1264,6 +1579,16 @@
           "wordCount": 143,
           "title": "Show HN: Defrag the Game",
           "imageUrl": "https://defrag-game.com/defrag-game-hero.png"
+        },
+        {
+          "id": "https://yosefk.com/blog/people-can-read-their-managers-mind.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://yosefk.com/blog/people-can-read-their-managers-mind.html",
+          "publishedOn": "2024-09-02T07:36:36.000Z",
+          "wordCount": 1743,
+          "title": "People can read their manager's mind (2015)",
+          "imageUrl": null
         },
         {
           "id": "https://www.texasobserver.org/texas-mexico-guns-border-crime/",
@@ -8734,376 +9059,6 @@
           "wordCount": 11785,
           "title": "Tony Hawk's Pro Strcpy",
           "imageUrl": "http://icode4.coffee/wp-content/uploads/thpstrcpy_twitter.png"
-        },
-        {
-          "id": "https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/",
-          "publishedOn": "2024-08-07T16:19:06.000Z",
-          "wordCount": 2588,
-          "title": "Puppeteer Support for Firefox",
-          "imageUrl": "https://hacks.mozilla.org/wp-content/uploads/2023/12/pptr-fx.png"
-        },
-        {
-          "id": "https://www.gauge.sh/blog/python-extensions-should-be-lazy",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gauge.sh/blog/python-extensions-should-be-lazy",
-          "publishedOn": "2024-08-07T16:14:04.000Z",
-          "wordCount": 670,
-          "title": "Python extensions should be lazy",
-          "imageUrl": "https://cdn.prod.website-files.com/665a5f120c4c63df1944d627/666b69004815be91d795ef48_python_slow_sync_sentry.png"
-        },
-        {
-          "id": "https://safemap.io/sf/map",
-          "author": null,
-          "description": "Comments",
-          "link": "https://safemap.io/sf/map",
-          "publishedOn": "2024-08-07T14:56:51.000Z",
-          "wordCount": 376,
-          "title": "Show HN: Play with an interactive heatmap of SF crime (and other cities)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41182055",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=41182055",
-          "publishedOn": "2024-08-07T14:50:11.000Z",
-          "wordCount": 2857,
-          "title": "Launch HN: Release (YC W20) – Orchestrate AI Infrastructure and Applications",
-          "imageUrl": null
-        },
-        {
-          "id": "https://entertainment.howstuffworks.com/olympic-timing.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://entertainment.howstuffworks.com/olympic-timing.htm",
-          "publishedOn": "2024-08-07T13:18:00.000Z",
-          "wordCount": 6206,
-          "title": "How Olympic Timing Works",
-          "imageUrl": "https://cdn.hswstatic.com/gif/olympic-timing-1000x667.jpg"
-        },
-        {
-          "id": "https://www.lightly.ai/post/segment-anything-model-and-friends",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.lightly.ai/post/segment-anything-model-and-friends",
-          "publishedOn": "2024-08-07T12:22:14.000Z",
-          "wordCount": 3117,
-          "title": "Segment Anything Model and Friends",
-          "imageUrl": null
-        },
-        {
-          "id": "https://roometron.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://roometron.com/",
-          "publishedOn": "2024-08-07T12:03:39.000Z",
-          "wordCount": 506,
-          "title": "Show HN: I've spent nearly 5y on a web app that creates 3D apartments",
-          "imageUrl": "https://roometron.com/images/logo.png"
-        },
-        {
-          "id": "https://www.budgetflow.cc/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.budgetflow.cc/",
-          "publishedOn": "2024-08-07T11:56:02.000Z",
-          "wordCount": 2599,
-          "title": "Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams",
-          "imageUrl": "/static/images/logo6.png"
-        },
-        {
-          "id": "https://newsletter.posthog.com/p/ab-testing-mistakes-i-learned-the",
-          "author": null,
-          "description": "Comments",
-          "link": "https://newsletter.posthog.com/p/ab-testing-mistakes-i-learned-the",
-          "publishedOn": "2024-08-07T11:45:23.000Z",
-          "wordCount": 3504,
-          "title": "A/B testing mistakes I learned the hard way",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ba337e8-6de5-46a6-a1ec-fa0cb94fd25d_1920x1080.png"
-        },
-        {
-          "id": "https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments",
-          "publishedOn": "2024-08-07T07:16:02.000Z",
-          "wordCount": 4756,
-          "title": "How Uber tests payments in production",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32fa214c-2680-42cf-bb13-93d5ca93adc9_1920x1080.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/d44151-024-00120-9",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/d44151-024-00120-9",
-          "publishedOn": "2024-08-07T05:47:23.000Z",
-          "wordCount": 2723,
-          "title": "Kitchen sponges can be used as memory devices",
-          "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d44151-024-00120-9/d44151-024-00120-9_27412038.jpg"
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Gangs_in_the_Los_Angeles_County_Sheriff%27s_Department",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Gangs_in_the_Los_Angeles_County_Sheriff%27s_Department",
-          "publishedOn": "2024-08-07T03:51:45.000Z",
-          "wordCount": 2393,
-          "title": "Gangs in the Los Angeles County Sheriff's Department",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H4VgGn2tPWc",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=H4VgGn2tPWc",
-          "publishedOn": "2024-08-07T03:30:33.000Z",
-          "wordCount": null,
-          "title": "1 vs. 1000 guitar picks (5000 picks/second) [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/",
-          "publishedOn": "2024-08-07T02:58:57.000Z",
-          "wordCount": 5373,
-          "title": "The Private Life: On James Baldwin",
-          "imageUrl": "https://www.theparisreview.org/blog/wp-content/uploads/2024/07/james-baldwin-37-allan-warrencopy-sh.jpeg"
-        },
-        {
-          "id": "https://bugzilla.mozilla.org/show_bug.cgi?id=1910322",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=1910322",
-          "publishedOn": "2024-08-07T00:54:57.000Z",
-          "wordCount": 11535,
-          "title": "Jeremy Rowley resigns from DigiCert due to mass-revocation incident",
-          "imageUrl": null
-        },
-        {
-          "id": "https://teenage.engineering/products/ep-1320",
-          "author": null,
-          "description": "Comments",
-          "link": "https://teenage.engineering/products/ep-1320",
-          "publishedOn": "2024-08-06T23:57:42.000Z",
-          "wordCount": 2203,
-          "title": "Medieval",
-          "imageUrl": null
-        },
-        {
-          "id": "https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/",
-          "publishedOn": "2024-08-06T23:56:05.000Z",
-          "wordCount": 2682,
-          "title": "MNT Pocket Reform first impressions and hardware",
-          "imageUrl": "https://i0.wp.com/andypiper.co.uk/wp-content/uploads/2024/08/IMG_3535.jpg?resize=1200%2C1200&ssl=1"
-        },
-        {
-          "id": "https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/",
-          "publishedOn": "2024-08-06T23:21:21.000Z",
-          "wordCount": 3573,
-          "title": "My favorite device is a Chromebook",
-          "imageUrl": null
-        },
-        {
-          "id": "https://practical.engineering/blog/2024/8/6/how-french-drains-work",
-          "author": null,
-          "description": "Comments",
-          "link": "https://practical.engineering/blog/2024/8/6/how-french-drains-work",
-          "publishedOn": "2024-08-06T23:07:07.000Z",
-          "wordCount": 3154,
-          "title": "How French Drains Work",
-          "imageUrl": "http://static1.squarespace.com/static/55ac34e4e4b0170ef54be632/55ac3907e4b03d1c8c9deff1/66b23daa88ea931bc7bcff1f/1722957519273/059+-+How+French+Drains+Work+Thumbnail.jpg?format=1500w"
-        },
-        {
-          "id": "https://eclecticlight.co/2024/08/06/how-long-does-apple-support-mac-firmware/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eclecticlight.co/2024/08/06/how-long-does-apple-support-mac-firmware/",
-          "publishedOn": "2024-08-06T22:47:33.000Z",
-          "wordCount": 5168,
-          "title": "How long does Apple support Mac firmware?",
-          "imageUrl": "https://eclecticlight.co/wp-content/uploads/2024/08/firmwaresupport1.png"
-        },
-        {
-          "id": "https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack",
-          "publishedOn": "2024-08-06T21:00:16.000Z",
-          "wordCount": 432,
-          "title": "Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)",
-          "imageUrl": "https://emergeassets.s3.us-west-1.amazonaws.com/seo/careers-seo.png"
-        },
-        {
-          "id": "https://autoeditor.video/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://autoeditor.video/",
-          "publishedOn": "2024-08-06T20:31:34.000Z",
-          "wordCount": 1720,
-          "title": "Show HN: AutoEditor – Edit your video in just a few clicks",
-          "imageUrl": "https://autoeditor.video/images/og-preview.png"
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876#abstract",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876#abstract",
-          "publishedOn": "2024-08-06T20:30:10.000Z",
-          "wordCount": null,
-          "title": "Carvings at Gobekli Tepe may be oldest calendar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.amusingplanet.com/2016/04/blackhouses-of-scotland.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.amusingplanet.com/2016/04/blackhouses-of-scotland.html",
-          "publishedOn": "2024-08-06T20:19:58.000Z",
-          "wordCount": 7290,
-          "title": "Blackhouses of Scotland",
-          "imageUrl": "https://lh3.googleusercontent.com/-c35ftE3UIkk/Vwij6UF2nAI/AAAAAAABMz0/_EUfbjaXXV4/w600-h314-p-k-no-nu/blackhouse-isle-of-lewis-162.jpg?imgmax=800"
-        },
-        {
-          "id": "https://jakeseliger.com/2024/08/06/how-to-let-go-one-life-ends-while-another-begins/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jakeseliger.com/2024/08/06/how-to-let-go-one-life-ends-while-another-begins/",
-          "publishedOn": "2024-08-06T19:53:51.000Z",
-          "wordCount": 3448,
-          "title": "How to let go: Jake's life ends as his daughter's begins",
-          "imageUrl": "https://jakeseliger.com/wp-content/uploads/2024/08/dsc00611.jpg"
-        },
-        {
-          "id": "https://www.ycombinator.com/blog/yc-fall-2024#",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/blog/yc-fall-2024#",
-          "publishedOn": "2024-08-06T19:21:06.000Z",
-          "wordCount": 768,
-          "title": "YC is doing a first ever Fall batch – applications due by 8/27",
-          "imageUrl": "https://www.ycombinator.com/blog/content/images/2024/08/PBS_6793.jpg"
-        },
-        {
-          "id": "https://www.latimes.com/nation/la-oe-0407-silk-ring-theory-20130407-story.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.latimes.com/nation/la-oe-0407-silk-ring-theory-20130407-story.html",
-          "publishedOn": "2024-08-06T18:54:28.000Z",
-          "wordCount": 4607,
-          "title": "How not to say the wrong thing (2013)",
-          "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/bbc7dbe/2147483647/strip/true/crop/1300x683+0+25/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F80%2F62%2Ff6df9496de82a1c8b567b468ec95%2Fla-comfort-in-dump-out-20150721"
-        },
-        {
-          "id": "https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script",
-          "publishedOn": "2024-08-06T17:56:37.000Z",
-          "wordCount": 11239,
-          "title": "The real \"Wolf of Wall Street\" sales script",
-          "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ac1fbf78-68b8-4bb8-88de-d4558fde2e96/Starton_Oakmont_Script_1.png?t=1691624506"
-        },
-        {
-          "id": "https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/",
-          "publishedOn": "2024-08-06T17:52:51.000Z",
-          "wordCount": 2072,
-          "title": "Tracking supermarket prices with Playwright",
-          "imageUrl": "https://www.sakisv.net/2024-08-pricewatcher-scrape-pipeline.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41173330",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=41173330",
-          "publishedOn": "2024-08-06T17:52:32.000Z",
-          "wordCount": 2412,
-          "title": "Launch HN: Firezone (YC W22) – Zero-trust access platform built on WireGuard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.paradedb.com/pages/elasticsearch_vs_postgres",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.paradedb.com/pages/elasticsearch_vs_postgres",
-          "publishedOn": "2024-08-06T17:48:11.000Z",
-          "wordCount": 4215,
-          "title": "Full text search over Postgres: Elasticsearch vs. alternatives",
-          "imageUrl": null
-        },
-        {
-          "id": "http://backreaction.blogspot.com/2024/08/time-is-illusion-and-these-physicists.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://backreaction.blogspot.com/2024/08/time-is-illusion-and-these-physicists.html",
-          "publishedOn": "2024-08-06T17:45:09.000Z",
-          "wordCount": 4445,
-          "title": "Time Is an Illusion, and These Physicists Say They Know How It Works",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sHPVks_BG5zUQeB98YlpxMmkSXR_k5CCVox1qQFCUVoeMuXw8DH3jVAuvbqQFPBAUN7VDOj-YaIxvFRzPJnnN6oIYRxO_hS8etggBrxITAVxhl6g=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
-          "publishedOn": "2024-08-06T17:41:41.000Z",
-          "wordCount": null,
-          "title": "Structured Outputs in the API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany",
-          "publishedOn": "2024-08-06T17:37:51.000Z",
-          "wordCount": 4962,
-          "title": "East Germany invented 'unbreakable' drinking glasses",
-          "imageUrl": "https://i.guim.co.uk/img/media/f22139510d6b629aef1c3cef9cc6f6a3b4ed9365/164_0_3215_1930/master/3215.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1263507a74179ff85c1d81d49dc1fc7e"
-        },
-        {
-          "id": "https://1fps.video/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://1fps.video/",
-          "publishedOn": "2024-08-06T17:36:10.000Z",
-          "wordCount": 450,
-          "title": "Show HN: 1-FPS encrypted screen sharing for introverts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://coe.psu.ac.th/ad/nashSim/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://coe.psu.ac.th/ad/nashSim/",
-          "publishedOn": "2024-08-06T17:13:46.000Z",
-          "wordCount": 1928,
-          "title": "Finding Nash equilibria through simulation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/dagmawibabi/ScholArxiv",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/dagmawibabi/ScholArxiv",
-          "publishedOn": "2024-08-06T16:37:48.000Z",
-          "wordCount": 2778,
-          "title": "Show HN: ScholArxiv – an open-source, aesthetic, minimal research paper explorer",
-          "imageUrl": "https://opengraph.githubassets.com/d3d41aa571c05159ee962555efb04091a6930f788b1da0e77542ed7068d78018/dagmawibabi/ScholArxiv"
         }
       ]
     },
@@ -9169,6 +9124,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/technology/2024/new-steel-for-stronger-lighter-cars",
+          "author": "John Johnson Jr.",
+          "description": "Automakers are tweaking production processes to create a slew of new steels with just the right properties, allowing them to build cars that are both safer and more fuel-efficient",
+          "link": "https://knowablemagazine.org/content/article/technology/2024/new-steel-for-stronger-lighter-cars",
+          "publishedOn": "2024-09-06T04:35:34.847Z",
+          "wordCount": 4214,
+          "title": "New forms of steel for stronger, lighter cars",
+          "enclosure": {
+            "type": "image/png",
+            "url": "https://knowablemagazine.org/docserver/fulltext/lighter-materials-cars-500x288.png",
+            "length": "121023"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/lighter-materials-cars-500x288.png"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/mind/2024/peter-mombaerts-how-sense-of-smell-works-identify-odors",
           "author": "Daniela Hirschfeld",
