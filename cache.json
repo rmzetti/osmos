@@ -12,6 +12,36 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380660",
+          "author": "Geoff Graham",
+          "description": "PSA: Today’s the day that Google’s performance tools officially stops supporting the First Input Delay (FID) metric that was replaced by Interaction to Next Paint (INP).…\nQuick Hit #18 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-18/",
+          "publishedOn": "2024-09-10T18:40:28.000Z",
+          "wordCount": 1297,
+          "title": "Quick Hit #18",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380660"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380521",
+          "author": "Juan Diego Rodríguez",
+          "description": "I am thrilled to say, that from this week onwards, the CSS-tricks Almanac has an entry for each property, function, and at-rule related to the new Anchor Positioning API! For the last month, I have tried to fully understand this …\nAnchor Positioning Quirks originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/anchor-positioning-quirks/",
+          "publishedOn": "2024-09-10T18:33:01.000Z",
+          "wordCount": 2921,
+          "title": "Anchor Positioning Quirks",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380521"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380662",
+          "author": "Geoff Graham",
+          "description": "Jim hit a snag while working on a form. Placing labels next to inputs is trivial with flexbox, sure, but what happened in Jim’s case was a bit of dead-clicking between the labels and radio buttons.\nThe issue? Not the …\nSanding UI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/sanding-ui/",
+          "publishedOn": "2024-09-10T13:00:00.000Z",
+          "wordCount": 1472,
+          "title": "Sanding UI",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380662"
+        },
+        {
           "id": "https://css-tricks.com/?p=380334",
           "author": "Lee Meyer",
           "description": "Checkbox and radio button hacks are the (in)famous trick for creating games using just CSS. But it turns out that other elements based on user input can be hacked and gamified. There are very cool examples of developers getting creative with CSS games based on…\nTime Travelling CSS With :target originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -340,26 +370,6 @@
           "wordCount": 1499,
           "title": "Mental Health in Tech Podcast Interview",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379717"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379747",
-          "author": "Geoff Graham",
-          "description": "Heydon with a reminder that <address isn’t for, you know, mailing addresses.…\nQuick Hit #9 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-9/",
-          "publishedOn": "2024-08-12T16:19:42.000Z",
-          "wordCount": 1303,
-          "title": "Quick Hit #9",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379747"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379644",
-          "author": "Geoff Graham",
-          "description": "A new explainer for a new HTML attribute to handle handwritten inputs. Like this:\n<input type=\"text\" handwriting=\"true\" ... <input type=\"text\" handwriting=\"false\" ... <textarea handwriting=\"\" ... <!-- evaluates to \"true\" --<div contenteditable handwriting=\"true\"...</div<!-- maybe? --\nThe primary use …\nHTML Attribute to Allow/Disallow Handwriting Input originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/html-attribute-to-allow-disallow-handwriting-input/",
-          "publishedOn": "2024-08-12T14:00:47.000Z",
-          "wordCount": 1579,
-          "title": "HTML Attribute to Allow/Disallow Handwriting Input",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379644"
         }
       ]
     },
@@ -368,6 +378,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/",
+          "author": "hello@smashingmagazine.com (Joana Cerejo)",
+          "description": "Anticipatory design, powered by Artificial Intelligence (AI), Machine learning (ML), and Big Data (BD), promises to transform user experiences by predicting and fulfilling needs before users even express them. While this proactive approach seems revolutionary, many businesses struggle to meet the high expectations it sets. Joana Cerejo delves into the challenges of anticipatory design, highlights key failures, and offers a framework to help designers and businesses succeed in this complex landscape.",
+          "link": "https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/",
+          "publishedOn": "2024-09-10T10:00:00.000Z",
+          "wordCount": 6420,
+          "title": "Why Anticipatory Design Isn’t Working For Businesses",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-anticipatory-design-not-working-businesses/why-anticipatory-design-not-working-businesses.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-anticipatory-design-not-working-businesses/why-anticipatory-design-not-working-businesses.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/",
           "author": "hello@smashingmagazine.com (Paul Scanlon)",
@@ -525,6 +550,236 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://taconomical.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://taconomical.com/",
+          "publishedOn": "2024-09-11T02:39:27.000Z",
+          "wordCount": 2442,
+          "title": "How economical is your local Taco Bell?",
+          "imageUrl": "https://taconomical.com/taconomical.jpg"
+        },
+        {
+          "id": "https://eugeneyan.com/writing/web-frameworks/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://eugeneyan.com/writing/web-frameworks/",
+          "publishedOn": "2024-09-11T01:13:14.000Z",
+          "wordCount": 3513,
+          "title": "Building the same app using various web frameworks",
+          "imageUrl": "https://eugeneyan.com/assets/og_image/web-frameworks.jpg"
+        },
+        {
+          "id": "https://www.plough.com/en/topics/culture/music/arvo-parts-journey",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.plough.com/en/topics/culture/music/arvo-parts-journey",
+          "publishedOn": "2024-09-10T22:24:53.000Z",
+          "wordCount": 1115,
+          "title": "Arvo Pärt's Journey",
+          "imageUrl": "https://www.plough.com/-/media/images/plough/quarterly/2024/41autumnfreedom/41sildre/41sildresocial.jpg?la=en"
+        },
+        {
+          "id": "https://theconversation.com/how-we-discovered-that-people-who-are-colorblind-are-less-likely-to-be-picky-eaters-232438",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theconversation.com/how-we-discovered-that-people-who-are-colorblind-are-less-likely-to-be-picky-eaters-232438",
+          "publishedOn": "2024-09-10T22:22:20.000Z",
+          "wordCount": 4376,
+          "title": "People who are colorblind are less likely to be picky eaters",
+          "imageUrl": "https://images.theconversation.com/files/618228/original/file-20240909-16-wa2fhm.jpg?ixlib=rb-4.1.0&rect=0%2C166%2C2995%2C1495&q=45&auto=format&w=1356&h=668&fit=crop"
+        },
+        {
+          "id": "https://www.chaidiscovery.com/blog/introducing-chai-1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.chaidiscovery.com/blog/introducing-chai-1",
+          "publishedOn": "2024-09-10T22:13:30.000Z",
+          "wordCount": 2439,
+          "title": "Chai-1: Decoding the molecular interactions of life",
+          "imageUrl": "https://framerusercontent.com/images/o7SF4xIfd9EZXBW1fBNcQ3sbWg.png"
+        },
+        {
+          "id": "https://www.pcmag.com/news/flipper-zero-gets-major-firmware-update",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pcmag.com/news/flipper-zero-gets-major-firmware-update",
+          "publishedOn": "2024-09-10T21:15:45.000Z",
+          "wordCount": 4935,
+          "title": "Flipper Zero Gets Major Firmware Update, Can Eavesdrop on Walkie-Talkies",
+          "imageUrl": "https://i.pcmag.com/imagery/articles/01IPKpLn50SrYTziQKx3Vot-1.fit_lim.size_1200x630.v1725969825.png"
+        },
+        {
+          "id": "https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos",
+          "publishedOn": "2024-09-10T21:15:24.000Z",
+          "wordCount": 1348,
+          "title": "Rust in illumos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://publicdomainreview.org/collection/tardigrade/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://publicdomainreview.org/collection/tardigrade/",
+          "publishedOn": "2024-09-10T21:10:52.000Z",
+          "wordCount": 9452,
+          "title": "Among the Moss Piglets: The First Image of a Tardigrade (1773)",
+          "imageUrl": "https://the-public-domain-review.imgix.net/collections/tardigrade/7549243-maximum-edit-2.jpeg"
+        },
+        {
+          "id": "https://perthirtysix.com/tool/lottery-simulator",
+          "author": null,
+          "description": "Comments",
+          "link": "https://perthirtysix.com/tool/lottery-simulator",
+          "publishedOn": "2024-09-10T21:09:04.000Z",
+          "wordCount": 4351,
+          "title": "Lottery Simulator (2023)",
+          "imageUrl": "https://perthirtysix.com/img/lotto-cover.png"
+        },
+        {
+          "id": "https://buttondown.com/hillelwayne/archive/why-not-comments/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://buttondown.com/hillelwayne/archive/why-not-comments/",
+          "publishedOn": "2024-09-10T20:52:17.000Z",
+          "wordCount": 1449,
+          "title": "Why Not Comments",
+          "imageUrl": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Why%20Not%20Comments&author=Computer%20Things&date=2024-09-10&img="
+        },
+        {
+          "id": "https://forum.torproject.org/t/tor-relays-artikel-5-e-v-another-police-raid-in-germany-general-assembly-on-sep-21st-2024/14533",
+          "author": null,
+          "description": "Comments",
+          "link": "https://forum.torproject.org/t/tor-relays-artikel-5-e-v-another-police-raid-in-germany-general-assembly-on-sep-21st-2024/14533",
+          "publishedOn": "2024-09-10T20:12:49.000Z",
+          "wordCount": 496,
+          "title": "Another police raid in Germany",
+          "imageUrl": "https://forum.torproject.org/uploads/default/original/2X/b/ba042da6abfd2e188336ccce88244624d850757a.png"
+        },
+        {
+          "id": "https://arxiv.org/abs/2403.18103",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2403.18103",
+          "publishedOn": "2024-09-10T19:59:39.000Z",
+          "wordCount": 629,
+          "title": "Tutorial on diffusion models for imaging and vision",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://www.ii.com/git-bash-is-my-preferred-windows-shell/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ii.com/git-bash-is-my-preferred-windows-shell/",
+          "publishedOn": "2024-09-10T19:54:38.000Z",
+          "wordCount": 2773,
+          "title": "Git Bash is my preferred Windows shell",
+          "imageUrl": "https://www.ii.com/components/img/iilogo_1039x1024.png"
+        },
+        {
+          "id": "https://arxiv.org/abs/2409.04930",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2409.04930",
+          "publishedOn": "2024-09-10T19:34:11.000Z",
+          "wordCount": 798,
+          "title": "Pixhell Attack: Leaking Info from Air-Gap Computers via 'Singing Pixels'",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://visualdb.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://visualdb.com/",
+          "publishedOn": "2024-09-10T17:25:00.000Z",
+          "wordCount": 898,
+          "title": "Show HN: Visual DB – Web front end for your database",
+          "imageUrl": "https://visualdb.com/images/airforms-main.png"
+        },
+        {
+          "id": "https://sinja.io/blog/get-maximum-out-of-your-font",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sinja.io/blog/get-maximum-out-of-your-font",
+          "publishedOn": "2024-09-10T16:38:50.000Z",
+          "wordCount": 4927,
+          "title": "What you can get out of a high-quality font",
+          "imageUrl": "https://sinja.io/og/get-maximum-out-of-your-font.png"
+        },
+        {
+          "id": "https://illuminate.google.com/home",
+          "author": null,
+          "description": "Comments",
+          "link": "https://illuminate.google.com/home",
+          "publishedOn": "2024-09-10T16:22:13.000Z",
+          "wordCount": 3669,
+          "title": "Google Illuminate: Books and papers turned into audio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/",
+          "publishedOn": "2024-09-10T15:03:31.000Z",
+          "wordCount": 2269,
+          "title": "A good day to trie-hard: saving compute 1% at a time",
+          "imageUrl": "https://cf-assets.www.cloudflare.com/slt3lc6tev37/7sPe2ORh9vzsbG6owWUicC/b385d8f29b8f715f7d0793fe646e4dac/-2024-_Blog_Template__1200x628_.png"
+        },
+        {
+          "id": "https://github.com/yournextstore/yournextstore",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/yournextstore/yournextstore",
+          "publishedOn": "2024-09-10T14:08:37.000Z",
+          "wordCount": 7225,
+          "title": "Show HN: YourNextStore – an open-source Shopify with Stripe as the back end",
+          "imageUrl": "https://repository-images.githubusercontent.com/838508060/adb554b9-2d46-48fe-9035-b46c81f142e0"
+        },
+        {
+          "id": "https://antithesis.com/blog/multiverse_debugging/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://antithesis.com/blog/multiverse_debugging/",
+          "publishedOn": "2024-09-10T13:05:42.000Z",
+          "wordCount": 2785,
+          "title": "Debugging in the Multiverse",
+          "imageUrl": "https://antithesis.com/blog/multiverse_debugging/images/snouty-multiverse.png"
+        },
+        {
+          "id": "https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html",
+          "publishedOn": "2024-09-10T08:03:54.000Z",
+          "wordCount": 26214,
+          "title": "Apple must pay 13B euros in back taxes, EU's top court rules",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107432118-1719223529507-gettyimages-2100328748-omarques_23032024_phone_tech-4.jpeg?v=1725885114&w=1920&h=1080"
+        },
+        {
+          "id": "https://tmendez.dev/posts/rng-git-hash-bug/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tmendez.dev/posts/rng-git-hash-bug/",
+          "publishedOn": "2024-09-10T07:51:35.000Z",
+          "wordCount": 550,
+          "title": "Our Git Hash Bug",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tech.marksblogg.com/ai-sar-satellites-umbra-aircraft-detection.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tech.marksblogg.com/ai-sar-satellites-umbra-aircraft-detection.html",
+          "publishedOn": "2024-09-10T05:15:53.000Z",
+          "wordCount": 3553,
+          "title": "Satellites Spotting Aircraft",
+          "imageUrl": null
+        },
         {
           "id": "https://justforfunnoreally.dev/",
           "author": null,
@@ -726,6 +981,16 @@
           "imageUrl": "https://www.datocms-assets.com/85623/1725276067-intigriti-blog-tools-featured-hacking-misconfigured-aws-s3-buckets.jpg?auto=format&fit=max&w=1200"
         },
         {
+          "id": "https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/",
+          "publishedOn": "2024-09-09T13:33:15.000Z",
+          "wordCount": 2695,
+          "title": "What is the best pointer tagging method?",
+          "imageUrl": null
+        },
+        {
           "id": "https://worksinprogress.co/issue/lab-grown-diamonds/",
           "author": null,
           "description": "Comments",
@@ -734,6 +999,16 @@
           "wordCount": 9469,
           "title": "Synthetic diamonds are now purer, more beautiful, and cheaper than mined",
           "imageUrl": "https://wip.gatspress.com/wp-content/uploads/2024/08/G5XCCB-2-scaled.jpg"
+        },
+        {
+          "id": "https://gabevenberg.com/posts/cli-renaissance/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gabevenberg.com/posts/cli-renaissance/",
+          "publishedOn": "2024-09-09T12:04:56.000Z",
+          "wordCount": 6205,
+          "title": "The Modern CLI Renaissance",
+          "imageUrl": null
         },
         {
           "id": "https://pyatl.dev/2024/09/01/bitten-by-unicode/",
@@ -876,6 +1151,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=uphSE2W7WEk",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=uphSE2W7WEk",
+          "publishedOn": "2024-09-08T20:20:58.000Z",
+          "wordCount": null,
+          "title": "Building a robot dog and uploading every second of it to YouTube (Part 1) [video]",
+          "imageUrl": null
+        },
+        {
           "id": "https://rakujourney.wordpress.com/2024/09/08/htmx-raku-and-pico-css/",
           "author": null,
           "description": "Comments",
@@ -956,6 +1241,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://consentomatic.au.dk/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://consentomatic.au.dk/",
+          "publishedOn": "2024-09-08T11:56:07.000Z",
+          "wordCount": 795,
+          "title": "Consent-O-Matic – automatically fills ubiquitous pop-ups with your preferences",
+          "imageUrl": null
+        },
+        {
           "id": "https://taras.glek.net/post/eget-that-binary-from-github/",
           "author": null,
           "description": "Comments",
@@ -984,6 +1279,16 @@
           "wordCount": 2656,
           "title": "An NFC Movie Library for My Kids",
           "imageUrl": "https://simplyexplained.com/uploads/2023-11-how-i-built-nfc-movie-library-for-my-kids//thumb_facebook.jpg"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Floral_formula",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Floral_formula",
+          "publishedOn": "2024-09-08T08:49:32.000Z",
+          "wordCount": 2691,
+          "title": "Floral formula",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Anagallis_arvensis_2.jpg"
         },
         {
           "id": "https://github.com/dbcli/litecli",
@@ -1166,6 +1471,16 @@
           "imageUrl": "https://fourthievesvinegar.org/wp-content/uploads/2022/07/home-apothecary.jpg"
         },
         {
+          "id": "https://www.artbasel.com/stories/jeremy-couillard-video-games-mit-list-visual-arts-center-critique-contemporary-life-digital-landscapes",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.artbasel.com/stories/jeremy-couillard-video-games-mit-list-visual-arts-center-critique-contemporary-life-digital-landscapes",
+          "publishedOn": "2024-09-07T12:48:13.000Z",
+          "wordCount": 5533,
+          "title": "Jeremy Couillard's video games capture what it's like to be alive",
+          "imageUrl": "https://dza2a2ql7zktf.cloudfront.net/binaries-cdn/dqzqcuqf9/image/fetch/q_auto,w_500/https://d2u3kfwd92fzu7.cloudfront.net/asset/news/thumb_jeremy.jpg"
+        },
+        {
           "id": "https://hnbooks.pieterma.es/",
           "author": null,
           "description": "Comments",
@@ -1324,6 +1639,16 @@
           "wordCount": 11372,
           "title": "Unconventional Case Study of Neoadjuvant Oncolytic Virotherapy for Breast Cancer",
           "imageUrl": "https://pub.mdpi-res.com/vaccines/vaccines-12-00958/article_deploy/html/images/vaccines-12-00958-g001-550.jpg?1725344315"
+        },
+        {
+          "id": "https://tomato64.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tomato64.org/",
+          "publishedOn": "2024-09-06T16:12:40.000Z",
+          "wordCount": 1831,
+          "title": "Tomato64: A port of Tomato Firmware to x86_64",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/weinberg/SQLToy/wiki",
@@ -8864,246 +9189,6 @@
           "wordCount": 944,
           "title": "ProhostAI (YC S24) Is Hiring",
           "imageUrl": "/images/original/missing.png"
-        },
-        {
-          "id": "https://comment.org/repair-and-remain/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://comment.org/repair-and-remain/",
-          "publishedOn": "2024-08-12T16:06:42.000Z",
-          "wordCount": 13237,
-          "title": "Repair and Remain (2022)",
-          "imageUrl": "https://comment.org/wp-content/uploads/2022/04/repair-and-remain1.jpg"
-        },
-        {
-          "id": "https://news.patreon.com/articles/understanding-apple-requirements-for-patreon",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.patreon.com/articles/understanding-apple-requirements-for-patreon",
-          "publishedOn": "2024-08-12T14:34:46.000Z",
-          "wordCount": 2566,
-          "title": "Apple's requirements are about to hit creators and fans on Patreon",
-          "imageUrl": "https://c16.patreon.com/SBIAP_Newsroom_Thumbnail_f6a15d6a67.png"
-        },
-        {
-          "id": "https://supabase.com/blog/postgres-new",
-          "author": null,
-          "description": "Comments",
-          "link": "https://supabase.com/blog/postgres-new",
-          "publishedOn": "2024-08-12T13:43:30.000Z",
-          "wordCount": 13682,
-          "title": "Postgres.new: In-browser Postgres with an AI interface",
-          "imageUrl": "https://supabase.com/images/blog/lw12/day-1/postgres-new-og.png"
-        },
-        {
-          "id": "https://qntm.org/scp",
-          "author": null,
-          "description": "Comments",
-          "link": "https://qntm.org/scp",
-          "publishedOn": "2024-08-12T13:37:42.000Z",
-          "wordCount": null,
-          "title": "There Is No Antimemetics Division (2018)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic",
-          "publishedOn": "2024-08-12T13:27:39.000Z",
-          "wordCount": 2895,
-          "title": "Approximating sum types in Python with Pydantic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail",
-          "publishedOn": "2024-08-12T12:59:34.000Z",
-          "wordCount": 964,
-          "title": "Go is my hammer, and everything is a nail",
-          "imageUrl": "/images/logo.png"
-        },
-        {
-          "id": "https://borretti.me/article/the-design-space-of-wikis",
-          "author": null,
-          "description": "Comments",
-          "link": "https://borretti.me/article/the-design-space-of-wikis",
-          "publishedOn": "2024-08-12T12:51:42.000Z",
-          "wordCount": 3571,
-          "title": "The Design Space of Wikis",
-          "imageUrl": "https://borretti.me/assets/card/the-design-space-of-wikis.jpg"
-        },
-        {
-          "id": "https://medium.com/@zakharenko/how-does-it-feel-to-test-a-compiler-fa1ff5d86065",
-          "author": null,
-          "description": "Comments",
-          "link": "https://medium.com/@zakharenko/how-does-it-feel-to-test-a-compiler-fa1ff5d86065",
-          "publishedOn": "2024-08-12T09:39:44.000Z",
-          "wordCount": 5178,
-          "title": "How does it feel to test a compiler?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uc6VLADdSS30k_f0uq7L2g.png"
-        },
-        {
-          "id": "https://donydchen.github.io/mvsplat/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://donydchen.github.io/mvsplat/",
-          "publishedOn": "2024-08-12T09:23:29.000Z",
-          "wordCount": 605,
-          "title": "MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images",
-          "imageUrl": "static/images/teaser.png"
-        },
-        {
-          "id": "https://sponsor.ajay.app/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sponsor.ajay.app/",
-          "publishedOn": "2024-08-12T09:10:44.000Z",
-          "wordCount": 489,
-          "title": "SponsorBlock – skip sponsor segments on YouTube",
-          "imageUrl": "https://sponsor.ajay.app/LogoSponsorBlockSimple256px.png"
-        },
-        {
-          "id": "https://firedancer-lang.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://firedancer-lang.com/",
-          "publishedOn": "2024-08-12T04:34:59.000Z",
-          "wordCount": 79,
-          "title": "Firedancer: Language for 2D shmups bullet-hell patterns",
-          "imageUrl": "https://firedancer-lang.com/images/firedancer-ogp.png"
-        },
-        {
-          "id": "https://webstudio.is/copy-paste",
-          "author": null,
-          "description": "Comments",
-          "link": "https://webstudio.is/copy-paste",
-          "publishedOn": "2024-08-12T02:41:05.000Z",
-          "wordCount": null,
-          "title": "Show HN: Copy-Paste from Webflow into Webstudio",
-          "imageUrl": null
-        },
-        {
-          "id": "https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/td-p/60561",
-          "author": null,
-          "description": "Comments",
-          "link": "https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/td-p/60561",
-          "publishedOn": "2024-08-12T01:09:26.000Z",
-          "wordCount": 44349,
-          "title": "How can Firefox create the best support for web apps on the desktop?",
-          "imageUrl": "https://images.pickapic.live/get/ce5138fc-5ad6-c080-23fc-2a38543244fb-1684430071.jpeg"
-        },
-        {
-          "id": "https://blog.comma.ai/refactoring-for-growth/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.comma.ai/refactoring-for-growth/",
-          "publishedOn": "2024-08-12T00:43:22.000Z",
-          "wordCount": 897,
-          "title": "Comma.ai: Refactoring for Growth",
-          "imageUrl": "https://blog.comma.ai/img/refactoring_for_growth/cover.png"
-        },
-        {
-          "id": "https://blog.alexwendland.com/2024-07-07-holding-pens/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.alexwendland.com/2024-07-07-holding-pens/",
-          "publishedOn": "2024-08-11T23:47:35.000Z",
-          "wordCount": 403,
-          "title": "How to avoid losing items? Holding pens",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kevinlynagh.com/z3-simpsons-paradox/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kevinlynagh.com/z3-simpsons-paradox/",
-          "publishedOn": "2024-08-11T21:53:14.000Z",
-          "wordCount": 435,
-          "title": "Generating Simpson's Paradox with Z3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://git.zx2c4.com/wireguard-rs/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://git.zx2c4.com/wireguard-rs/",
-          "publishedOn": "2024-08-11T21:27:48.000Z",
-          "wordCount": 212,
-          "title": "WireGuard-rs – Official Rust implementation of WireGuard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.wired.com/story/apple-prototypes-corporate-data/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wired.com/story/apple-prototypes-corporate-data/",
-          "publishedOn": "2024-08-11T20:29:34.000Z",
-          "wordCount": 26634,
-          "title": "Apple Prototypes and Corporate Secrets Are for Sale Online–If You Know Where",
-          "imageUrl": "https://media.wired.com/photos/66b629eeb2a442a63ed28083/191:100/w_1280,c_limit/Rogue-Device-Sec-466054650.jpg"
-        },
-        {
-          "id": "https://github.com/spion/adbfs-rootless",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/spion/adbfs-rootless",
-          "publishedOn": "2024-08-11T20:22:11.000Z",
-          "wordCount": 2606,
-          "title": "Adbfs-rootless – Mount Android phones on Linux with adb. No root required",
-          "imageUrl": "https://opengraph.githubassets.com/ff0c62edd3594085fbc592a109e57aa3a2071cdc395843dd1e591576a877f8fb/spion/adbfs-rootless"
-        },
-        {
-          "id": "https://arxiv.org/abs/2408.04093",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2408.04093",
-          "publishedOn": "2024-08-11T20:02:58.000Z",
-          "wordCount": 732,
-          "title": "Tree Attention: Topology-Aware Decoding for Long-Context",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://pixeltune.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pixeltune.org/",
-          "publishedOn": "2024-08-11T19:42:18.000Z",
-          "wordCount": null,
-          "title": "Show HN: Pixeltune, a nicer chiptune and VGM player",
-          "imageUrl": null
-        },
-        {
-          "id": "https://hackmd.gfuzz.de/s/Qsk14kc3i",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hackmd.gfuzz.de/s/Qsk14kc3i",
-          "publishedOn": "2024-08-11T19:33:01.000Z",
-          "wordCount": 5424,
-          "title": "OpenBSD 7.5 via QEMU on Hetzner physical machine (no phys. access / KVM console)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dcreager.net/2021/03/a-better-varint/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dcreager.net/2021/03/a-better-varint/",
-          "publishedOn": "2024-08-11T17:42:05.000Z",
-          "wordCount": 1346,
-          "title": "Another variable-length integer encoding (2021)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://unskilled.blog/posts/preemption-in-go-an-introduction/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://unskilled.blog/posts/preemption-in-go-an-introduction/",
-          "publishedOn": "2024-08-11T17:23:17.000Z",
-          "wordCount": 1827,
-          "title": "Introduction to Golang Preemption Mechanisms",
-          "imageUrl": ""
         }
       ]
     },
@@ -9169,6 +9254,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/physical-world/2024/how-animals-exploit-and-negotiate-physics",
+          "author": "Tom Siegfried",
+          "description": "Cats twist and snakes slide, exploiting and negotiating physical laws. Scientists are figuring out how.",
+          "link": "https://knowablemagazine.org/content/article/physical-world/2024/how-animals-exploit-and-negotiate-physics",
+          "publishedOn": "2024-09-11T04:37:16.506Z",
+          "wordCount": 3167,
+          "title": "Animals use physics? Let us count the ways",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/physics-animal-behavior-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/physics-animal-behavior-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/society/2024/carbon-capture-use-storage-role-slowing-climate-change",
           "author": "Natasha Gilbert",
@@ -9483,21 +9583,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/glowing-petunias-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/food-environment/2024/reducing-methane-emissions-from-livestock",
-          "author": "Bob Holmes",
-          "description": "New tools for lowering methane emissions from livestock are on their way",
-          "link": "https://knowablemagazine.org/content/article/food-environment/2024/reducing-methane-emissions-from-livestock",
-          "publishedOn": "2024-08-12T04:34:45.340Z",
-          "wordCount": 5251,
-          "title": "Cleaning up cow burps to combat global warming",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/methane-cows-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/methane-cows-500x288.jpg"
         }
       ]
     },
@@ -9575,16 +9660,6 @@
           "wordCount": 2128,
           "title": "Statistics of spatio-temporal processes",
           "imageUrl": "https://danmackinlay.name/images/wet_wrack_lady.thumbnail.avif"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/gp_overlapping.html",
-          "author": null,
-          "description": "Figure 1\n\n\n\nSuppose I have two random functions  and , each of which is a Gaussian process, i.e. a well-behaved random function. The two functions are defined on the same domain , and I want to reconcile them in some way. This could be because they are noisy observations of the same underlying function, or because they are two different models of the same phenomenon. This kind of thing arises often in the context of spatiotemporal modeling. There is also a close connection to Gaussian Belief Propagation. In either case, I want to find a way to combine them into a single random function  that captures the information in both. Ideally it should behave like a standard update does, e.g. if they both agree with high certainty, then the combined function should also agree with high certainty. If they do not agree, or have low certainty, then the combined function should reflect that by having low certainty.\nI am sure that this must be well-studied, but it is one of those things that is rather hard to google for and ends up being easier to work our by hand, which is what I do here.\n1 Overlapping GPs\nSuppose I have two GP priors  and  defined over the same index set. They could be two posterior likelihood updates, or two expert priors, or whatever.\nHow do we reconcile these two GPs into a single GP ?\nThe standard answer for Gaussian processes is to find a new one who density is the product of the density of the two components.\n2 Partitioning the index set into overlapping GPs\n3 Connection to classical methods\nNote that this bears a resemblance to Griffin-Lim iteration phase recovery, where we have two overlapping signals and we want to combine them into a single signal that is consistent with both. That case is somewhat different because it assumes\na point estimate will do; we do not talk about random functions, and\nThe covariance kernels are implicitly stationary, which we do not assume here (and as such, there is not necessarily a “phase” to “recover”).",
-          "link": "https://danmackinlay.name/notebook/gp_overlapping.html",
-          "publishedOn": "2024-08-12T03:52:07.000Z",
-          "wordCount": 2092,
-          "title": "Reconciliation of overlapping Gaussian processes",
-          "imageUrl": "https://danmackinlay.name/images/moon_craters_RP-F-2001-7-489-21.thumbnail.avif"
         }
       ]
     },
@@ -9611,6 +9686,16 @@
           "publishedOn": "2024-08-15T12:53:32.000Z",
           "wordCount": 12409,
           "title": "Personal Perspective: Thought may be the new frontier in human progress. - Psychology Today",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia0FVX3lxTE43R3ZweWN1Z0lfMmliM1dSejZJNm41Z05SSV8yRnBaMFlJZFFjbWhGSGRQekl0R1FkMjhNSlZNVXVuVFA0TEZoUWNmMFNwV2VkYzhMajdhanNRVHp1bk42QUpMRlNBbUoza1NN",
+          "author": null,
+          "description": "Introducing Pixel 9 Pro Fold: Google's newest foldable phone  The Keyword",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43R3ZweWN1Z0lfMmliM1dSejZJNm41Z05SSV8yRnBaMFlJZFFjbWhGSGRQekl0R1FkMjhNSlZNVXVuVFA0TEZoUWNmMFNwV2VkYzhMajdhanNRVHp1bk42QUpMRlNBbUoza1NN?oc=5",
+          "publishedOn": "2024-08-13T07:00:00.000Z",
+          "wordCount": 12411,
+          "title": "Introducing Pixel 9 Pro Fold: Google's newest foldable phone - The Keyword",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
