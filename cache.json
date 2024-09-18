@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380271",
+          "author": "Ryan Trimble",
+          "description": "I’m working on a refresh of my personal website, what I’m calling the HD remaster. Well, I wouldn’t call it a “full” redesign. I’m just cleaning things up, and Polypane is coming in clutch. I wrote about how much …\nClever Polypane Debugging Features I’m Loving originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/clever-polypane-debugging-features-im-loving/",
+          "publishedOn": "2024-09-17T13:49:04.000Z",
+          "wordCount": 1744,
+          "title": "Clever Polypane Debugging Features I’m Loving",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380271"
+        },
+        {
           "id": "https://css-tricks.com/?p=380763",
           "author": "Geoff Graham",
           "description": "Only Chris, right? You’ll want to view this in a Chromium browser:\nCodePen Embed Fallback\nThis is exactly the sort of thing I love, not for its practicality (cuz it ain’t), but for how it illustrates a concept. Generally, tutorials …\nMultiple Anchors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -335,16 +345,6 @@
           "wordCount": 2196,
           "title": "On the Ground at Frostapalooza",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379959"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379851",
-          "author": "Erick Merchant",
-          "description": "Every programming language has loops. Loops perform an operation (i.e., a chunk of work) a number of times, usually once for every item in an array or list, or to simply repeat an operation until a certain condition is met.…\nAll About JavaScript Loops originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/all-about-javascript-loops/",
-          "publishedOn": "2024-08-19T14:21:07.000Z",
-          "wordCount": 2567,
-          "title": "All About JavaScript Loops",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379851"
         }
       ]
     },
@@ -353,6 +353,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/09/creating-custom-lottie-animations-svgator/",
+          "author": "hello@smashingmagazine.com (Mihai Cora)",
+          "description": "Creating ready-to-implement Lottie animations with a single tool is now possible thanks to SVGator’s latest feature updates. In this article, you will learn how to create and animate a Lottie using SVGator, an online animation tool that has zero learning curve if you’re familiar with at least one design tool.",
+          "link": "https://smashingmagazine.com/2024/09/creating-custom-lottie-animations-svgator/",
+          "publishedOn": "2024-09-17T11:00:00.000Z",
+          "wordCount": 4797,
+          "title": "Creating Custom Lottie Animations With SVGator",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/creating-custom-lottie-animations-svgator/creating-custom-lottie-animations-svgator.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/creating-custom-lottie-animations-svgator/creating-custom-lottie-animations-svgator.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/",
           "author": "hello@smashingmagazine.com (Paul Scanlon)",
@@ -510,6 +525,226 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://github.com/zlwaterfield/scramble",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/zlwaterfield/scramble",
+          "publishedOn": "2024-09-18T02:59:34.000Z",
+          "wordCount": 2885,
+          "title": "Scramble: Open-Source Alternative to Grammarly",
+          "imageUrl": "https://opengraph.githubassets.com/80f538e94652ef80cbcf463d854da8ae9e34d873f8adfe224037a7e55d41c25a/zlwaterfield/scramble"
+        },
+        {
+          "id": "https://timculpan.substack.com/p/apple-mobile-processors-are-now-made",
+          "author": null,
+          "description": "Comments",
+          "link": "https://timculpan.substack.com/p/apple-mobile-processors-are-now-made",
+          "publishedOn": "2024-09-18T01:38:01.000Z",
+          "wordCount": null,
+          "title": "Apple Mobile Processors Are Now Made in America. By TSMC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sigwait.org/~alex/blog/2023/07/10/yqh6fX.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sigwait.org/~alex/blog/2023/07/10/yqh6fX.html",
+          "publishedOn": "2024-09-18T01:16:48.000Z",
+          "wordCount": 1028,
+          "title": "Exploring pre-1990 versions of wc(1) (2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ekzhang/rustpad",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ekzhang/rustpad",
+          "publishedOn": "2024-09-17T23:09:36.000Z",
+          "wordCount": 3387,
+          "title": "Rustpad is an efficient and minimal open-source collaborative text editor",
+          "imageUrl": "https://repository-images.githubusercontent.com/372695773/95412c80-c628-11eb-88e5-352f9edd9b96"
+        },
+        {
+          "id": "https://www.mcgill.ca/oss/article/medical-critical-thinking-technology/reports-death-dental-cavities-are-greatly-exaggerated",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.mcgill.ca/oss/article/medical-critical-thinking-technology/reports-death-dental-cavities-are-greatly-exaggerated",
+          "publishedOn": "2024-09-17T22:26:58.000Z",
+          "wordCount": 2711,
+          "title": "Reports of the Death of Dental Cavities Are Greatly Exaggerated",
+          "imageUrl": "https://www.mcgill.ca/oss/files/oss/styles/wysiwyg_large/public/screen_shot_2024-05-17_at_1.56.59_am.png?itok=MOBcil2s"
+        },
+        {
+          "id": "https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/",
+          "publishedOn": "2024-09-17T21:31:49.000Z",
+          "wordCount": 821,
+          "title": "Entire Independent Board of Directors of 23andMe Resigns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html",
+          "publishedOn": "2024-09-17T19:56:39.000Z",
+          "wordCount": 1816,
+          "title": "A Friendly Introduction to Assembly for High-Level Programmers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/",
+          "publishedOn": "2024-09-17T19:51:04.000Z",
+          "wordCount": 2401,
+          "title": "The Double Irish Dutch Sandwich: End of a Tax Evasion Strategy",
+          "imageUrl": "https://i0.wp.com/conversableeconomist.com/wp-content/uploads/2021/08/cropped-Screen-Shot-2021-08-23-at-2.04.56-PM.png?fit=889%2C66&ssl=1"
+        },
+        {
+          "id": "https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/",
+          "publishedOn": "2024-09-17T19:46:05.000Z",
+          "wordCount": 642,
+          "title": "macOS Sequoia 15 may bypass DNS encryption",
+          "imageUrl": "https://www.obdev.at/Images/odblog/nhi5-DNS.png"
+        },
+        {
+          "id": "https://chatgpt.com/g/g-2KencLm4f-textube",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chatgpt.com/g/g-2KencLm4f-textube",
+          "publishedOn": "2024-09-17T19:31:40.000Z",
+          "wordCount": 179,
+          "title": "TexTube: Chat with any YouTube video transcript in ChatGPT fast",
+          "imageUrl": "https://files.oaiusercontent.com/file-p4DcGifTC7ny18297TVQq7gB?se=2124-08-24T18%3A00%3A30Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D8e36f3c4-668a-4328-a7c1-b25024eb8cfd.png&sig=/kbdJBiPrCVBze7V/By4KGZZJ1ZTDI/Rsne0kos8Clo%3D"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dLTUqPue9sQ",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=dLTUqPue9sQ",
+          "publishedOn": "2024-09-17T19:07:23.000Z",
+          "wordCount": null,
+          "title": "Krazam: High Agency Individual Contributor [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.graalvm.org/python/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.graalvm.org/python/",
+          "publishedOn": "2024-09-17T18:04:31.000Z",
+          "wordCount": 414,
+          "title": "GraalPy – A high-performance embeddable Python 3 runtime for Java",
+          "imageUrl": "/resources/img/graalvm.png"
+        },
+        {
+          "id": "https://jeremymorrell.dev/blog/minimal-js-tracing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jeremymorrell.dev/blog/minimal-js-tracing/",
+          "publishedOn": "2024-09-17T17:21:41.000Z",
+          "wordCount": 3076,
+          "title": "OpenTelemetry Tracing in < 200 lines of code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/pencilresearch/OpenScanner",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/pencilresearch/OpenScanner",
+          "publishedOn": "2024-09-17T16:36:23.000Z",
+          "wordCount": 3076,
+          "title": "Show HN: Open Scanner, an open-source document scanning app for iPhone",
+          "imageUrl": "https://opengraph.githubassets.com/d68a90931065753405f81d362e54ef483103992ded8b17548dcd43bdbb09d989/pencilresearch/OpenScanner"
+        },
+        {
+          "id": "https://kovenyu.com/wonderworld/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kovenyu.com/wonderworld/",
+          "publishedOn": "2024-09-17T16:35:29.000Z",
+          "wordCount": 1012,
+          "title": "WonderWorld: Interactive 3D Scene Generation from a Single Image",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=41568343",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=41568343",
+          "publishedOn": "2024-09-17T15:04:09.000Z",
+          "wordCount": 5388,
+          "title": "Launch HN: Marblism (YC W24) – Generate full-stack web apps from a prompt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/finic-ai/finic",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/finic-ai/finic",
+          "publishedOn": "2024-09-17T13:26:00.000Z",
+          "wordCount": 2758,
+          "title": "Show HN: Finic – Open source platform for building browser automations",
+          "imageUrl": "https://opengraph.githubassets.com/c7ff5189379d1a00c27d587bd89ac44bcd9e5e35d7f352b69e94e7b08a0d1d75/finic-ai/finic"
+        },
+        {
+          "id": "https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/",
+          "publishedOn": "2024-09-17T13:15:57.000Z",
+          "wordCount": null,
+          "title": "Hezbollah pager explosions kill several people in Lebanon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/phiresky/ripgrep-all",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/phiresky/ripgrep-all",
+          "publishedOn": "2024-09-17T13:11:31.000Z",
+          "wordCount": 6068,
+          "title": "Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, etc.",
+          "imageUrl": "https://opengraph.githubassets.com/a2d5569e304fe83e19877f6518e83086710c73cf3dd8cf0df9248b7dffaec92d/phiresky/ripgrep-all"
+        },
+        {
+          "id": "https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/",
+          "publishedOn": "2024-09-17T11:15:42.000Z",
+          "wordCount": 3051,
+          "title": "The centrality of stupidity in mathematics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://physics.aps.org/articles/v17/133",
+          "author": null,
+          "description": "Comments",
+          "link": "https://physics.aps.org/articles/v17/133",
+          "publishedOn": "2024-09-17T10:45:30.000Z",
+          "wordCount": 1984,
+          "title": "Signatures of gravitational atoms from black hole mergers",
+          "imageUrl": "https://physics.aps.org/assets/54af0f30-1177-4057-9b03-22b13fa53948/e133_2_thumb.png"
+        },
+        {
+          "id": "https://spectrum.ieee.org/first-tv",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/first-tv",
+          "publishedOn": "2024-09-17T07:28:12.000Z",
+          "wordCount": 11409,
+          "title": "In 1926, TV Was Mechanical",
+          "imageUrl": "https://spectrum.ieee.org/media-library/closeup-of-an-apparatus-that-has-a-round-copper-mechanism-attached-to-a-bicycle-chain-a-glass-lightbulb-to-the-left-and-a-metal.jpg?id=53606368&width=1200&height=600&coordinates=0%2C155%2C0%2C155"
+        },
         {
           "id": "https://longreads.com/2024/09/05/spin-masculinity-loneliness-friendship/",
           "author": null,
@@ -731,6 +966,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-heptadecagon-on-his-tombstone/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-heptadecagon-on-his-tombstone/",
+          "publishedOn": "2024-09-16T14:14:34.000Z",
+          "wordCount": 4704,
+          "title": "Why Gauss wanted a heptadecagon on his tombstone",
+          "imageUrl": "https://static.scientificamerican.com/dam/m/7e7a999d6c97f4b8/original/heptadecagon_leadImage.png?w=1200"
+        },
+        {
+          "id": "https://storm.genie.stanford.edu/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://storm.genie.stanford.edu/",
+          "publishedOn": "2024-09-16T08:12:51.000Z",
+          "wordCount": 17,
+          "title": "STORM: Get a Wikipedia-like report on your topic",
+          "imageUrl": null
+        },
+        {
           "id": "https://pudding.cool/2024/09/courts/",
           "author": null,
           "description": "Comments",
@@ -841,6 +1096,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.brailleinstitute.org/freefont/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.brailleinstitute.org/freefont/",
+          "publishedOn": "2024-09-15T20:42:03.000Z",
+          "wordCount": 10915,
+          "title": "Atkinson Hyperlegible Font",
+          "imageUrl": "https://www.brailleinstitute.org/wp-content/uploads/2024/09/social_logo.jpg"
+        },
+        {
           "id": "https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/",
           "author": null,
           "description": "Comments",
@@ -859,6 +1124,16 @@
           "wordCount": 1493,
           "title": "How to Succeed in Mr Beast Production (Leaked PDF)",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.theregister.com/2024/07/29/windows_start_menu_port/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theregister.com/2024/07/29/windows_start_menu_port/",
+          "publishedOn": "2024-09-15T17:56:46.000Z",
+          "wordCount": 1556,
+          "title": "The port of the Windows 95 Start Menu was not all it seemed",
+          "imageUrl": "https://regmedia.co.uk/2018/06/25/shutterstock_delete.jpg"
         },
         {
           "id": "https://www.ssp.sh/brain/data-engineering/",
@@ -1331,6 +1606,16 @@
           "imageUrl": "https://img.semafor.com/bf2fc50d5082256581b5e91530543d61e3f7c01a-1200x915.png?rect=0,112,1200,630&w=1200&h=630&q=75&auto=format"
         },
         {
+          "id": "https://kottke.org/24/09/the-lego-great-ball-contraption",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kottke.org/24/09/the-lego-great-ball-contraption",
+          "publishedOn": "2024-09-13T19:53:47.000Z",
+          "wordCount": 841,
+          "title": "The Lego Great Ball Contraption",
+          "imageUrl": "https://i.ytimg.com/vi/xj62Gs6MOcg/sddefault.jpg"
+        },
+        {
           "id": "https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994",
           "author": null,
           "description": "Comments",
@@ -1389,6 +1674,16 @@
           "wordCount": 2942,
           "title": "Zero-Click Calendar invite vulnerability chain in macOS",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1107/1*gCxRpP0ZNHZzMSMnSYyJIg.png"
+        },
+        {
+          "id": "https://www.thisiscolossal.com/2024/09/john-peralta-exploded-technology/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thisiscolossal.com/2024/09/john-peralta-exploded-technology/",
+          "publishedOn": "2024-09-13T16:08:20.000Z",
+          "wordCount": null,
+          "title": "John Peralta Explodes Historic Technology into Three-Dimensional Diagrams",
+          "imageUrl": null
         },
         {
           "id": "https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption",
@@ -1469,6 +1764,16 @@
           "wordCount": 3386,
           "title": "Using the Topics API (Chrome Only, Opposed by Firefox/Safari)",
           "imageUrl": "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png"
+        },
+        {
+          "id": "http://www.technoblogy.com/show?4WX8",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.technoblogy.com/show?4WX8",
+          "publishedOn": "2024-09-13T06:40:08.000Z",
+          "wordCount": 4743,
+          "title": "Scrolling Text Display",
+          "imageUrl": null
         },
         {
           "id": "https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography",
@@ -8759,346 +9064,6 @@
           "wordCount": null,
           "title": "LLMs know more than what they say",
           "imageUrl": null
-        },
-        {
-          "id": "https://shachaf.net/w/constraining-writers-in-distributed-systems",
-          "author": null,
-          "description": "Comments",
-          "link": "https://shachaf.net/w/constraining-writers-in-distributed-systems",
-          "publishedOn": "2024-08-19T16:34:30.000Z",
-          "wordCount": 2143,
-          "title": "Constraining writers in distributed systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://redis.io/docs/latest/develop/use/patterns/distributed-locks/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://redis.io/docs/latest/develop/use/patterns/distributed-locks/",
-          "publishedOn": "2024-08-19T16:34:21.000Z",
-          "wordCount": 4960,
-          "title": "Distributed Locks with Redis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://googlemapsmania.blogspot.com/2024/08/how-world-powers-itself.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://googlemapsmania.blogspot.com/2024/08/how-world-powers-itself.html",
-          "publishedOn": "2024-08-19T16:17:12.000Z",
-          "wordCount": 3798,
-          "title": "Maps Mania: How the World Powers Itself",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4iWWfdZzt-1qL9LLpo-3R-T3Frn04yWwmDGelsahasfGXzL6oTqmoKatC8ODiwsmOSVrUUOqxC_jNYfyrNB1tDkbyWIY9cvVF8taH8sHb2zui0BeY0rAuZ5c9hW2ZIrHjW1cKTZgl5e9H6OC_WL5s24dzrDbRJktngPBquzSJBbj5jEKWKTpaKA/w1200-h630-p-k-no-nu/Screenshot%202024-08-16%207.47.23%20AM.png"
-        },
-        {
-          "id": "https://www.mcgill.ca/oss/article/student-contributors-did-you-know/how-deep-can-humans-really-go",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.mcgill.ca/oss/article/student-contributors-did-you-know/how-deep-can-humans-really-go",
-          "publishedOn": "2024-08-19T15:48:23.000Z",
-          "wordCount": 1659,
-          "title": "How Deep Can Humans Go?",
-          "imageUrl": "https://www.mcgill.ca/oss/files/oss/styles/wysiwyg_large/public/dive.jpg?itok=PIFtEp1H"
-        },
-        {
-          "id": "https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/",
-          "publishedOn": "2024-08-19T15:45:19.000Z",
-          "wordCount": 2347,
-          "title": "The gigantic and unregulated power plants in the cloud",
-          "imageUrl": "https://berthub.eu/articles/panel-panel-english.png"
-        },
-        {
-          "id": "https://github.com/srcbookdev/srcbook",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/srcbookdev/srcbook",
-          "publishedOn": "2024-08-19T15:09:56.000Z",
-          "wordCount": 3345,
-          "title": "Show HN: Srcbook – A TypeScript notebook for rapid prototyping",
-          "imageUrl": "https://opengraph.githubassets.com/e462c9834686164003c2824f541956389facb7e26a80322bd463fe76871c40c7/srcbookdev/srcbook"
-        },
-        {
-          "id": "https://ably.com/blog/optimizing-global-message-transit-latency-a-journey-through-tcp-configuration",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ably.com/blog/optimizing-global-message-transit-latency-a-journey-through-tcp-configuration",
-          "publishedOn": "2024-08-19T14:40:42.000Z",
-          "wordCount": 6203,
-          "title": "Optimizing global message transit latency: a journey through TCP configuration",
-          "imageUrl": "https://files.ably.io/ghost/prod/2024/07/image.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41291219",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=41291219",
-          "publishedOn": "2024-08-19T14:13:36.000Z",
-          "wordCount": 8204,
-          "title": "Launch HN: Sorcerer (YC S24) – Weather balloons that collect more data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.vittlesmagazine.com/p/the-katsuification-of-britain",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.vittlesmagazine.com/p/the-katsuification-of-britain",
-          "publishedOn": "2024-08-19T13:46:05.000Z",
-          "wordCount": 8344,
-          "title": "The Katsuification of Britain",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24758a94-cd05-4a8e-9a88-f491bfe78e85_3508x2480.jpeg"
-        },
-        {
-          "id": "http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html",
-          "publishedOn": "2024-08-19T13:43:48.000Z",
-          "wordCount": 12058,
-          "title": "Tales from the Far Side",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEK4kjhp99Ziq34PZFhb5IXPX1Rriiqa1NMQhk8gTr2DqDp8bUW7dDDDdmnHK_MpMRJjyBeK85Fma6IJBC4o6ZX_dOG5QGAHDQZHTAONQRizdNpqBoHG2ddukLJycC2mnO6YeGwmlDIilnTx3a9hQFAZRIFfdcgoxD0ArZjGp7JyvcB2e40APf/w1200-h630-p-k-no-nu/141635_1_large.jpg"
-        },
-        {
-          "id": "https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html",
-          "publishedOn": "2024-08-19T12:23:09.000Z",
-          "wordCount": 2904,
-          "title": "Classifying all of the pdfs on the internet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html",
-          "publishedOn": "2024-08-19T11:47:41.000Z",
-          "wordCount": 3460,
-          "title": "What If Data Is a Bad Idea?",
-          "imageUrl": "http://schmud.de/img/2024-08-18-data-is-a-bad-idea/floppy-header-2.png"
-        },
-        {
-          "id": "https://kaeruct.github.io/posts/2024/08/18/migrating-from-dokuwiki-to-obsidian/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kaeruct.github.io/posts/2024/08/18/migrating-from-dokuwiki-to-obsidian/",
-          "publishedOn": "2024-08-19T07:16:28.000Z",
-          "wordCount": 608,
-          "title": "Migrating from DokuWiki to Obsidian",
-          "imageUrl": "https://kaeruct.github.io/icon512.png"
-        },
-        {
-          "id": "https://www.matthewball.co/all/roblox2024",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.matthewball.co/all/roblox2024",
-          "publishedOn": "2024-08-19T01:45:56.000Z",
-          "wordCount": 5117,
-          "title": "Roblox Is Already the Biggest Game in the World. Why Can't It Make a Profit?",
-          "imageUrl": "http://static1.squarespace.com/static/5d8e9007bc3d0e18a4c49673/t/66c231439ec48d7cbef51cc2/1724002638334/Screenshot+2024-08-18+091153.png?format=1500w"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3f6XM6_7pUE",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=3f6XM6_7pUE",
-          "publishedOn": "2024-08-19T01:27:44.000Z",
-          "wordCount": null,
-          "title": "Eric Schmidt deleted Stanford interview",
-          "imageUrl": null
-        },
-        {
-          "id": "https://terinstock.com/post/2024/08/When-Serial-Isnt-RS-232-and-Geocaching-with-the-Garmin-GPS-95/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://terinstock.com/post/2024/08/When-Serial-Isnt-RS-232-and-Geocaching-with-the-Garmin-GPS-95/",
-          "publishedOn": "2024-08-19T00:33:24.000Z",
-          "wordCount": 1293,
-          "title": "When Serial Isn't RS-232, Geocaching with the Garmin GPS 95",
-          "imageUrl": "https://terinstock.com/media/76/bb71a42372de077a408a1f4ba6972a6870afe9fca186e9a748e730b1da560f:800.jpg"
-        },
-        {
-          "id": "https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/",
-          "publishedOn": "2024-08-19T00:21:54.000Z",
-          "wordCount": 1752,
-          "title": "The Curious Case of QUEENCREEK",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/brannondorsey/rust-incompatible-transitive-dependencies",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/brannondorsey/rust-incompatible-transitive-dependencies",
-          "publishedOn": "2024-08-18T23:46:17.000Z",
-          "wordCount": 5791,
-          "title": "Can a Rust binary use incompatible versions of the same library?",
-          "imageUrl": "https://opengraph.githubassets.com/e332282efa732b92f2d59bd22b14a2eb1fb0e9d1f55a54dc7e9936c5738920f3/brannondorsey/rust-incompatible-transitive-dependencies"
-        },
-        {
-          "id": "https://phys.org/news/2024-08-isnt-colorado-snowpack-river-lack.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2024-08-isnt-colorado-snowpack-river-lack.html",
-          "publishedOn": "2024-08-18T23:42:15.000Z",
-          "wordCount": 2545,
-          "title": "Why isn't Colorado's snowpack ending up in the Colorado River?",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/why-isnt-colorados-sno-1.jpg"
-        },
-        {
-          "id": "https://emnudge.dev/blog/markov-chains-are-funny/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://emnudge.dev/blog/markov-chains-are-funny/",
-          "publishedOn": "2024-08-18T22:52:37.000Z",
-          "wordCount": 1785,
-          "title": "Markov chains are funnier than LLMs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.eff.org/deeplinks/2024/08/eff-presses-federal-circuit-make-patent-case-filings-public",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.eff.org/deeplinks/2024/08/eff-presses-federal-circuit-make-patent-case-filings-public",
-          "publishedOn": "2024-08-18T22:45:23.000Z",
-          "wordCount": 2787,
-          "title": "EFF Presses Federal Circuit to Make Patent Case Filings Public",
-          "imageUrl": "https://www.eff.org/files/banner_library/patents-2.png"
-        },
-        {
-          "id": "https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit",
-          "publishedOn": "2024-08-18T22:25:59.000Z",
-          "wordCount": null,
-          "title": "Google took three months to remove scam app that stole over $5M",
-          "imageUrl": null
-        },
-        {
-          "id": "https://fudzilla.com/news/59503-mike-mageek-is-dead",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fudzilla.com/news/59503-mike-mageek-is-dead",
-          "publishedOn": "2024-08-18T21:56:26.000Z",
-          "wordCount": 2258,
-          "title": "Mike Magee, founder of the Register, has died",
-          "imageUrl": "https://fudzilla.com/media/k2/items/cache/298bf63e4022a0d40a5f0eb2feea9f26_XS.jpg"
-        },
-        {
-          "id": "https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html",
-          "publishedOn": "2024-08-18T21:31:10.000Z",
-          "wordCount": 2614,
-          "title": "Interposer to Fix the Symmetricom SyncServer S200 GPS Week Rollover Problem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1",
-          "publishedOn": "2024-08-18T19:48:33.000Z",
-          "wordCount": 1005,
-          "title": "The brain simulates actions and their consequences during REM sleep",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
-          "id": "https://github.com/janbjorge/PgQueuer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/janbjorge/PgQueuer",
-          "publishedOn": "2024-08-18T19:22:31.000Z",
-          "wordCount": 3477,
-          "title": "Show HN: PgQueuer – Transform PostgreSQL into a Job Queue",
-          "imageUrl": "https://opengraph.githubassets.com/7f9b5d07baef32e031f121d03ee1edbd392ab868a36b44189e194934515d508c/janbjorge/PgQueuer"
-        },
-        {
-          "id": "https://grantslatton.com/software-pathfinding",
-          "author": null,
-          "description": "Comments",
-          "link": "https://grantslatton.com/software-pathfinding",
-          "publishedOn": "2024-08-18T18:47:42.000Z",
-          "wordCount": null,
-          "title": "Algorithms we develop software by",
-          "imageUrl": null
-        },
-        {
-          "id": "https://stevedylan.dev/posts/leaving-neovim-for-zed/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://stevedylan.dev/posts/leaving-neovim-for-zed/",
-          "publishedOn": "2024-08-18T18:37:10.000Z",
-          "wordCount": 2841,
-          "title": "Leaving Neovim for Zed",
-          "imageUrl": "https://dweb.mypinata.cloud/ipfs/QmV66MtU6PHNAooavATGJyYrAgAeRDaHN4UvRwVN2Lsrp6"
-        },
-        {
-          "id": "https://www.complexsystemspodcast.com/episodes/solar-economics/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.complexsystemspodcast.com/episodes/solar-economics/",
-          "publishedOn": "2024-08-18T18:33:49.000Z",
-          "wordCount": 18471,
-          "title": "Energy economics and rocket science with Casey Handmer",
-          "imageUrl": "https://www.complexsystemspodcast.com/content/images/2024/08/Casey-Handmer-rectangle.png"
-        },
-        {
-          "id": "https://www.usenix.org/legacy/events/usenix05/tech/general/king/king.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.usenix.org/legacy/events/usenix05/tech/general/king/king.pdf",
-          "publishedOn": "2024-08-18T18:28:59.000Z",
-          "wordCount": 8516,
-          "title": "Debugging operating systems with time-traveling virtual machines [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/baalimago/wd-40",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/baalimago/wd-40",
-          "publishedOn": "2024-08-18T18:24:15.000Z",
-          "wordCount": 2680,
-          "title": "Show HN: Wd-40, a static webserver with automatic hot-reloads",
-          "imageUrl": "https://opengraph.githubassets.com/462043e709394e624f5205adfe425bb6061f287dd70121fdb20a671ac3a7373b/baalimago/wd-41"
-        },
-        {
-          "id": "https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a",
-          "publishedOn": "2024-08-18T17:01:09.000Z",
-          "wordCount": 1051,
-          "title": "Ashby (YC W19) Is Hiring Engineers Who Can Design",
-          "imageUrl": "https://www.ashbyhq.com/images/careers/og_careers_image.png?v5"
-        },
-        {
-          "id": "https://gavinleroy.com/writings/i-heart-assoc-types.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gavinleroy.com/writings/i-heart-assoc-types.html",
-          "publishedOn": "2024-08-18T16:39:40.000Z",
-          "wordCount": 6338,
-          "title": "Fear Not the Association of Types",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bold-edit.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bold-edit.com/",
-          "publishedOn": "2024-08-18T16:36:19.000Z",
-          "wordCount": 170,
-          "title": "Bold Edit: An editor written by power users",
-          "imageUrl": null
         }
       ]
     },
@@ -9164,6 +9129,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/living-world/2024/jenny-graves-chromosomes-genes-evolution-origins",
+          "author": "Marla Broadfoot",
+          "description": "Jenny Graves has spent her life mapping genes and comparing genomes. Now she’s created a musical opus about evolution of life on this planet — bringing the same drive and experimentalism she brought to the study of marsupial chromosomes.",
+          "link": "https://knowablemagazine.org/content/article/living-world/2024/jenny-graves-chromosomes-genes-evolution-origins",
+          "publishedOn": "2024-09-18T04:36:04.867Z",
+          "wordCount": 5255,
+          "title": "Of genes, chromosomes and oratorios",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/jenny-graves-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/jenny-graves-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/society/2024/what-is-opinion-polling-why-is-it-important-in-politics",
           "author": "Ula Chrobak",
@@ -9535,16 +9515,6 @@
           "wordCount": 1807,
           "title": "Sampling by the method of the ratio of uniforms",
           "imageUrl": "https://danmackinlay.name/images/birdshot.thumbnail.avif"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/evolution_perception.html",
-          "author": null,
-          "description": "Figure 1\n\n\n\nPlaceholder. Are the representations we organisms have likely to correspond to things in the world, and if so, how? The TED talk version is “Does evolution favour organisms seeing truth”. I do not love this framing myself; I prefer to think about “likely to perceive truth, and if so what that might be. I do not love this framing, for all that it makes great TED talks. I would prefer to think about decision theory of representations in learners, but that is not catchy.\nSee also predictive coding and semantics.\n1 Incoming\n\n\n\nFigure 2: The environment of a paramecium.\n\n\n\n\n\n\n\n\n\nFigure 3: The environment of an astronomer.\n\n\n\n\nEliezer Yudkowsky’s essay, How an algorithm feels from the inside,\nDonald D. Hoffman | University of California, Irvine\nDonald Hoffman: Do we see reality as it…",
-          "link": "https://danmackinlay.name/notebook/evolution_perception.html",
-          "publishedOn": "2024-08-18T23:49:05.000Z",
-          "wordCount": 2124,
-          "title": "Perception and evolution",
-          "imageUrl": "https://danmackinlay.name/images/satan_as_portrait_painter_RP-P-OB-60.804.thumbnail.avif"
         }
       ]
     },
