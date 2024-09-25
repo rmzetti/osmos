@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381068",
+          "author": "Geoff Graham",
+          "description": "Mixing colors in CSS is pretty much a solved deal, thanks to the more recent color-mix() function as it gains support. Pass in two color values — any two color values at all — and optionally set the proportions.\nbackground-color: \n…\nColor Mixing With Animation Composition originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/color-mixing-with-animation-composition/",
+          "publishedOn": "2024-09-24T18:22:01.000Z",
+          "wordCount": 1866,
+          "title": "Color Mixing With Animation Composition",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381068"
+        },
+        {
           "id": "https://css-tricks.com/?p=381134",
           "author": "Geoff Graham",
           "description": "I was looking over an older article Patrick Brosset penned for us introducing <selectmenu>, a new proposal at the time for a more style-able cousin to <select>. From there, I clicked the linked-up <selectmenu> explainer and got… this:…\nThe selectmenu Element is No More…Long Live select! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -310,16 +320,6 @@
           "wordCount": 1755,
           "title": "Understanding Gutenberg Blocks, Patterns, and Templates",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380047"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380087",
-          "author": "Geoff Graham",
-          "description": "Happy birthday, Chris Coyier — and thank you for CSS-Tricks as well as everything you do at CodePen, ShopTalk, Boost, and even your personal blog!…\nQuick Hit #13 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-13/",
-          "publishedOn": "2024-08-26T15:04:35.000Z",
-          "wordCount": 1329,
-          "title": "Quick Hit #13",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380087"
         }
       ]
     },
@@ -492,21 +492,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part2/integrating-image-to-text-and-text-to-speech-models.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
-          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
-          "description": "Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.",
-          "link": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
-          "publishedOn": "2024-08-26T15:00:00.000Z",
-          "wordCount": 3865,
-          "title": "Generating Unique Random Numbers In JavaScript Using Sets",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg"
         }
       ]
     },
@@ -515,6 +500,206 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://gpt3experiments.substack.com/p/a-new-chunking-approach-to-rag",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gpt3experiments.substack.com/p/a-new-chunking-approach-to-rag",
+          "publishedOn": "2024-09-25T03:20:51.000Z",
+          "wordCount": null,
+          "title": "A new semantic chunking approach for RAG",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YSgTQzHYeLU",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=YSgTQzHYeLU",
+          "publishedOn": "2024-09-25T02:05:12.000Z",
+          "wordCount": null,
+          "title": "Insights after 11 years with Datomic [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ctrl-c.club/~captain/posts/2024-09-24-xbill-for-palmos-receives-an-update-after-25-years.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ctrl-c.club/~captain/posts/2024-09-24-xbill-for-palmos-receives-an-update-after-25-years.html",
+          "publishedOn": "2024-09-25T01:54:10.000Z",
+          "wordCount": 714,
+          "title": "XBill for PalmOS receives an update after 25 years",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hack-gpon.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hack-gpon.org/",
+          "publishedOn": "2024-09-25T00:41:05.000Z",
+          "wordCount": 1188,
+          "title": "Hack GPON – how to access, change and edit fibre ONTs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/",
+          "publishedOn": "2024-09-25T00:08:01.000Z",
+          "wordCount": 3365,
+          "title": "Committing to Rust in the Kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/cozis/blogtech",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/cozis/blogtech",
+          "publishedOn": "2024-09-24T23:39:30.000Z",
+          "wordCount": 4057,
+          "title": "Show HN: Hosting my website using my C web server",
+          "imageUrl": "https://opengraph.githubassets.com/004c81a152d1aa35eaa02e88963c8791f557d859e7082078ff9b530261daa82b/cozis/blogtech"
+        },
+        {
+          "id": "https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/",
+          "publishedOn": "2024-09-24T22:13:03.000Z",
+          "wordCount": 2247,
+          "title": "Hacker plants false memories in ChatGPT to steal user data in perpetuity",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/memory-760x380.jpg"
+        },
+        {
+          "id": "https://mikecoats.com/debian-packaging-first-principles-part-1-simple/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mikecoats.com/debian-packaging-first-principles-part-1-simple/",
+          "publishedOn": "2024-09-24T21:55:25.000Z",
+          "wordCount": null,
+          "title": "Debian Packaging from First Principles",
+          "imageUrl": null
+        },
+        {
+          "id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124",
+          "author": null,
+          "description": "Comments",
+          "link": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124",
+          "publishedOn": "2024-09-24T21:45:50.000Z",
+          "wordCount": 7268,
+          "title": "Why Most Published Research Findings Are False (2005)",
+          "imageUrl": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.0020124.g002&size=inline"
+        },
+        {
+          "id": "https://www.seroundtable.com/google-cache-dead-38112.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.seroundtable.com/google-cache-dead-38112.html",
+          "publishedOn": "2024-09-24T20:59:53.000Z",
+          "wordCount": null,
+          "title": "Google Cache is fully dead",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/okhat/blog/blob/main/2024.09.impact.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/okhat/blog/blob/main/2024.09.impact.md",
+          "publishedOn": "2024-09-24T20:56:29.000Z",
+          "wordCount": 9631,
+          "title": "On Impactful AI Research",
+          "imageUrl": "https://opengraph.githubassets.com/eb2ca67b197be1c7425862fe0783f63badadee37ca1416d0879c3dd55bfde8ea/okhat/blog"
+        },
+        {
+          "id": "https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data",
+          "author": null,
+          "description": "Comments",
+          "link": "https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data",
+          "publishedOn": "2024-09-24T19:26:03.000Z",
+          "wordCount": 1954,
+          "title": "Beyond the route: Introducing granular MTA bus speed data",
+          "imageUrl": "https://files.mta.info/s3fs-public/2024-08/53924944166_2bdc2461e1_w.jpg"
+        },
+        {
+          "id": "https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs",
+          "publishedOn": "2024-09-24T19:23:41.000Z",
+          "wordCount": 8505,
+          "title": "Death of the Department Store",
+          "imageUrl": "https://www.lrb.co.uk/storage/social_image/images/6/3/8/2/30312836-1-eng-GB/cd9d2e47e7e4-hill-web-2-.jpg"
+        },
+        {
+          "id": "https://ijc8.me/2024/08/26/gsoc-difflogic/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ijc8.me/2024/08/26/gsoc-difflogic/",
+          "publishedOn": "2024-09-24T17:02:24.000Z",
+          "wordCount": 3192,
+          "title": "GSoC'24: Differentiable Logic for Interactive Systems and Generative Music",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=41638199",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=41638199",
+          "publishedOn": "2024-09-24T16:23:35.000Z",
+          "wordCount": 19309,
+          "title": "Launch HN: Modern Realty (YC S24) – AI Real Estate Agent for Home Buyers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.usevelvet.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.usevelvet.com/",
+          "publishedOn": "2024-09-24T15:25:52.000Z",
+          "wordCount": 694,
+          "title": "Show HN: Velvet – Store OpenAI requests in your own DB",
+          "imageUrl": "https://cdn.prod.website-files.com/64caab99fc08857eb019042a/66f05ea6ef491a328a854af0_OpenGraph%2016.png"
+        },
+        {
+          "id": "https://github.com/WinampDesktop/winamp",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/WinampDesktop/winamp",
+          "publishedOn": "2024-09-24T14:27:09.000Z",
+          "wordCount": 3274,
+          "title": "Winamp Legacy player source code",
+          "imageUrl": "https://opengraph.githubassets.com/5dd472a775345ef477a705e0f004e04c72abaf657d5674134358f1b936679dd1/WinampDesktop/winamp"
+        },
+        {
+          "id": "https://openfreemap.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openfreemap.org/",
+          "publishedOn": "2024-09-24T11:59:22.000Z",
+          "wordCount": 748,
+          "title": "Show HN: OpenFreeMap – Open-Source Map Hosting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html",
+          "publishedOn": "2024-09-24T08:05:52.000Z",
+          "wordCount": 354,
+          "title": "Radioactive Tape Dispenser (1970s)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7",
+          "publishedOn": "2024-09-24T06:12:45.000Z",
+          "wordCount": 705,
+          "title": "Working Turing Machine",
+          "imageUrl": "https://ideascdn.lego.com/media/generate/entity/lego_ci/project/10a3239f-4562-4d23-ba8e-f4fc94eef5c7/29/resize:1600:900/legacy"
+        },
         {
           "id": "https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined",
           "author": null,
@@ -606,6 +791,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts",
+          "publishedOn": "2024-09-23T20:24:24.000Z",
+          "wordCount": 2383,
+          "title": "Twitter/X will let people you've blocked see your posts",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/GtMPBSmUrz4vlCZUGfGaleDvSuw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25535561/STK160_X_TWITTER_2__C.jpg"
+        },
+        {
           "id": "http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html",
           "author": null,
           "description": "Comments",
@@ -654,6 +849,26 @@
           "wordCount": 7140,
           "title": "Show HN: I Wrote a Book on Java",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.usatoday.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.usatoday.com/",
+          "publishedOn": "2024-09-23T17:19:32.000Z",
+          "wordCount": 3642,
+          "title": "MI couple running out of time to prove they found Great Lakes' oldest shipwreck",
+          "imageUrl": "https://www.usatoday.com/tangstatic/sites/usat/og-image-q1a2z3fb72acfa.png"
+        },
+        {
+          "id": "https://phys.org/news/2024-09-violins-biggest-section-orchestra.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2024-09-violins-biggest-section-orchestra.html",
+          "publishedOn": "2024-09-23T17:15:33.000Z",
+          "wordCount": 2463,
+          "title": "Why are the violins the biggest section in the orchestra?",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/orchestras.jpg"
         },
         {
           "id": "https://github.com/panoratech/Panora",
@@ -1236,6 +1451,16 @@
           "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-024-02998-y/d41586-024-02998-y_27684494.jpg"
         },
         {
+          "id": "https://github.com/tildearrow/furnace",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/tildearrow/furnace",
+          "publishedOn": "2024-09-21T11:18:30.000Z",
+          "wordCount": 6547,
+          "title": "Furnace – the biggest multi-system chiptune tracker ever made",
+          "imageUrl": "https://opengraph.githubassets.com/150a082d6b079f33c293618152aca6fc61775f24e473bbcd4b2b28b5dfad6f9d/tildearrow/furnace"
+        },
+        {
           "id": "https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch",
           "author": null,
           "description": "Comments",
@@ -1316,6 +1541,16 @@
           "imageUrl": null
         },
         {
+          "id": "http://www.vintagecalculators.com/html/busicom_141-pf_and_intel_4004.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.vintagecalculators.com/html/busicom_141-pf_and_intel_4004.html",
+          "publishedOn": "2024-09-21T00:59:03.000Z",
+          "wordCount": 2943,
+          "title": "The Calculator that spawned the Microprocessor (2009)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.libraryfutures.net/post/were-still-fighting-for-fair-use",
           "author": null,
           "description": "Comments",
@@ -1384,6 +1619,16 @@
           "wordCount": 28,
           "title": "UpCodes (YC S17) Is Hiring a Marketing Leader",
           "imageUrl": "https://up.codes/img/upcodes-og-twitter-image.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=41604950",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=41604950",
+          "publishedOn": "2024-09-20T19:39:45.000Z",
+          "wordCount": 3818,
+          "title": "Ask HN: Platform for 11 year old to create video games?",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/taylorai/aiq",
@@ -1456,6 +1701,16 @@
           "imageUrl": "https://opengraph.githubassets.com/f604ce1ac91c62208c7f31691687764de1fe1806529bd103e3ec229a75638285/qhjqhj00/MemoRAG"
         },
         {
+          "id": "https://phys.org/news/2024-09-understudied-protein-blobs-global-effects.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2024-09-understudied-protein-blobs-global-effects.html",
+          "publishedOn": "2024-09-20T14:41:03.000Z",
+          "wordCount": 2247,
+          "title": "Understudied protein blobs have global effects on cell biochemistry",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/understudied-protein-b-1.jpg"
+        },
+        {
           "id": "https://taylor.town/reactive-relational-algebra",
           "author": null,
           "description": "Comments",
@@ -1474,6 +1729,16 @@
           "wordCount": 3880,
           "title": "CuPy: NumPy and SciPy for GPU",
           "imageUrl": "https://opengraph.githubassets.com/c1d5a4a737fd84028fc95ed0624e6873ce9838fd8442707560e933037516d5e2/cupy/cupy"
+        },
+        {
+          "id": "https://www.ethanepperly.com/index.php/2024/07/02/neat-randomized-algorithms-randdiag-for-rapidly-diagonalizing-normal-matrices/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ethanepperly.com/index.php/2024/07/02/neat-randomized-algorithms-randdiag-for-rapidly-diagonalizing-normal-matrices/",
+          "publishedOn": "2024-09-20T12:53:48.000Z",
+          "wordCount": 1432,
+          "title": "Neat Randomized Algorithms: RandDiag for Rapidly Diagonalizing Normal Matrices",
+          "imageUrl": null
         },
         {
           "id": "https://xn--treo-l3a.nz/",
@@ -1514,6 +1779,26 @@
           "wordCount": 3787,
           "title": "Openpilot – Operating system for robotics",
           "imageUrl": "https://repository-images.githubusercontent.com/74627617/107aa381-a61e-49ff-9a68-59b4fd315093"
+        },
+        {
+          "id": "https://github.com/vshymanskyy/wasm2mpy",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/vshymanskyy/wasm2mpy",
+          "publishedOn": "2024-09-20T07:10:49.000Z",
+          "wordCount": 4160,
+          "title": "Wasm2Mpy: Compiling WASM to MicroPython so it can run on Raspberrys",
+          "imageUrl": "https://opengraph.githubassets.com/ee42a011cc5e686e7048d6d2473abc89a0e76ae2f50db5b8341a0b06e6766a7e/vshymanskyy/wasm2mpy"
+        },
+        {
+          "id": "https://engelsbergideas.com/reviews/a-little-history-of-the-anchovy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://engelsbergideas.com/reviews/a-little-history-of-the-anchovy/",
+          "publishedOn": "2024-09-20T03:02:20.000Z",
+          "wordCount": 2185,
+          "title": "A Little History of the Anchovy",
+          "imageUrl": "https://engelsbergideas.com/wp-content/uploads/2024/09/Anchovy.jpg"
         },
         {
           "id": "https://hazelweakly.me/blog/cache-me-not-cache-me-cache-me-not/",
@@ -8674,306 +8959,6 @@
           "wordCount": 5163,
           "title": "Eating the Birds of America: Audubon's Culinary Reviews of America's Birds",
           "imageUrl": "https://usbirdhistory.com/wp-content/uploads/2023/08/audubon-snowy-owl-e1691784491620.png"
-        },
-        {
-          "id": "https://bannerify.co/tools/remove-bg",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bannerify.co/tools/remove-bg",
-          "publishedOn": "2024-08-26T15:58:09.000Z",
-          "wordCount": 181,
-          "title": "Show HN: Remove-bg – open-source remove background using WebGPU",
-          "imageUrl": "https://ogcool.vercel.app/templates/v1/tpl_B11s5ULETa?d=eyJtb2RpZmljYXRpb25zIjpbeyJuYW1lIjoiVGV4dCIsInRleHQiOiJCYW5uZXJpZnkifSx7Im5hbWUiOiJEZXNjcmlwdGlvbiIsInRleHQiOiJBdXRvLWdlbmVyYXRlIHlvdXIgaW1hZ2Ugd2l0aCBCYW5uZXJpZnkifV19&sdk=ogcool%400.1.10"
-        },
-        {
-          "id": "https://hamel.dev/blog/posts/dokku/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hamel.dev/blog/posts/dokku/",
-          "publishedOn": "2024-08-26T15:21:56.000Z",
-          "wordCount": 3277,
-          "title": "Dokku: My favorite personal serverless platform",
-          "imageUrl": "https://hamel.dev/blog/posts/dokku/images/serverless.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41357765",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=41357765",
-          "publishedOn": "2024-08-26T14:55:56.000Z",
-          "wordCount": 5302,
-          "title": "Launch HN: Parity (YC S24) – AI for on-call engineers working with Kubernetes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2024/08/26/books/larissa-volokhonsky-richard-pevear.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2024/08/26/books/larissa-volokhonsky-richard-pevear.html",
-          "publishedOn": "2024-08-26T12:49:27.000Z",
-          "wordCount": null,
-          "title": "Love them or hate them, this couple reign in Russian literature",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/",
-          "publishedOn": "2024-08-26T12:37:32.000Z",
-          "wordCount": 2186,
-          "title": "NSA releases 1982 Grace Hopper lecture",
-          "imageUrl": "https://media.defense.gov/2024/Aug/23/2003531704/1920/1080/0/240823-D-IM742-2024.PNG"
-        },
-        {
-          "id": "https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/",
-          "publishedOn": "2024-08-26T12:17:21.000Z",
-          "wordCount": 4095,
-          "title": "A dishwasher can make or break a restaurant (2017)",
-          "imageUrl": "http://www.washingtonpost.com/sf/style/wp-content/uploads/sites/5/2017/08/dishwashers-featured-new.jpg"
-        },
-        {
-          "id": "https://docs.sqlalchemy.org/en/21/changelog/migration_21.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://docs.sqlalchemy.org/en/21/changelog/migration_21.html",
-          "publishedOn": "2024-08-26T11:37:41.000Z",
-          "wordCount": 1321,
-          "title": "What's New in SQLAlchemy 2.1?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html",
-          "publishedOn": "2024-08-26T11:24:41.000Z",
-          "wordCount": 7593,
-          "title": "When A.I.'s Output Is a Threat to A.I. Itself",
-          "imageUrl": "https://static01.nyt.com/images/2024/08/23/multimedia/2024-04-24-ai-synthetic-data-index/2024-04-24-ai-synthetic-data-index-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://rerun.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://rerun.io/",
-          "publishedOn": "2024-08-26T10:34:49.000Z",
-          "wordCount": 866,
-          "title": "Rerun: Visualize Multimodal Data over Time",
-          "imageUrl": "https://rerun.io/og-landing.jpg"
-        },
-        {
-          "id": "https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/",
-          "publishedOn": "2024-08-26T09:10:56.000Z",
-          "wordCount": 3960,
-          "title": "Fixing a bug in Google Chrome as a first-time contributor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/yetone/avante.nvim",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/yetone/avante.nvim",
-          "publishedOn": "2024-08-26T03:44:48.000Z",
-          "wordCount": 6017,
-          "title": "Avante.nvim: Use Your Neovim Like Using Cursor AI IDE",
-          "imageUrl": "https://opengraph.githubassets.com/bbdc61cab5682fe374350c28e973642590fef5dcb8f4ec53a8af8221d2eaad6b/yetone/avante.nvim"
-        },
-        {
-          "id": "https://www.nytimes.com/2024/08/23/science/helen-fisher-dead.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2024/08/23/science/helen-fisher-dead.html",
-          "publishedOn": "2024-08-26T03:41:09.000Z",
-          "wordCount": null,
-          "title": "Helen Fisher, who researched the brain’s love circuitry, has died",
-          "imageUrl": null
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Open-source_cola",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Open-source_cola",
-          "publishedOn": "2024-08-26T01:59:20.000Z",
-          "wordCount": 1549,
-          "title": "Open-Source Cola",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/THE_RECIPE_Open_cube_cola_recipe%2C_30_december_2012.pdf/page1-1200px-THE_RECIPE_Open_cube_cola_recipe%2C_30_december_2012.pdf.jpg"
-        },
-        {
-          "id": "https://www.gkogan.co/removing-stuff/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gkogan.co/removing-stuff/",
-          "publishedOn": "2024-08-26T01:59:13.000Z",
-          "wordCount": 1707,
-          "title": "Removing stuff is never obvious yet often better",
-          "imageUrl": "https://www.gkogan.co/content/images/2024/08/CW26-Half-Shorn-Sheep.jpg"
-        },
-        {
-          "id": "https://becomesovran.com/blog/server-setup-basics.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://becomesovran.com/blog/server-setup-basics.html",
-          "publishedOn": "2024-08-26T01:50:43.000Z",
-          "wordCount": 4252,
-          "title": "Server Setup Basics for Self Hosting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tomshardware.com/tech-industry/senior-intel-cpu-architects-splinter-to-develop-risc-v-processors-veterans-establish-aheadcomputing",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tomshardware.com/tech-industry/senior-intel-cpu-architects-splinter-to-develop-risc-v-processors-veterans-establish-aheadcomputing",
-          "publishedOn": "2024-08-26T01:28:28.000Z",
-          "wordCount": 15927,
-          "title": "Senior Intel CPU architects splinter to develop RISC-V processors",
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/BJ9BSA4XH4du2c87GHUmnU-1200-80.jpg"
-        },
-        {
-          "id": "https://www.cinder.co/blog-posts/north-korean-engineers-in-our-application-pile",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cinder.co/blog-posts/north-korean-engineers-in-our-application-pile",
-          "publishedOn": "2024-08-26T01:18:54.000Z",
-          "wordCount": 2639,
-          "title": "We found North Korean engineers in our application pile",
-          "imageUrl": "https://cdn.prod.website-files.com/65aa52ee939a3be0ddb11176/66bcbbf461b3829201cf9f92_North%20Korean%20applicant%20pool%20(1).png"
-        },
-        {
-          "id": "https://www.reuters.com/world/asia-pacific/australian-employees-now-have-right-ignore-work-emails-calls-after-hours-2024-08-25/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/world/asia-pacific/australian-employees-now-have-right-ignore-work-emails-calls-after-hours-2024-08-25/",
-          "publishedOn": "2024-08-26T00:08:07.000Z",
-          "wordCount": null,
-          "title": "Australian employees now have the right to ignore work emails, calls after hours",
-          "imageUrl": null
-        },
-        {
-          "id": "https://phys.org/news/2024-08-dinosaur-footprints-sides-atlantic-ocean.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2024-08-dinosaur-footprints-sides-atlantic-ocean.html",
-          "publishedOn": "2024-08-26T00:02:06.000Z",
-          "wordCount": 1995,
-          "title": "Matching dinosaur footprints found on opposite sides of the Atlantic Ocean",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/matching-dinosaur-foot-2.jpg"
-        },
-        {
-          "id": "https://reason.com/2024/08/23/albuquerques-police-chief-thinks-cops-have-a-5th-amendment-right-to-leave-their-body-cameras-off/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://reason.com/2024/08/23/albuquerques-police-chief-thinks-cops-have-a-5th-amendment-right-to-leave-their-body-cameras-off/",
-          "publishedOn": "2024-08-25T22:18:02.000Z",
-          "wordCount": 3153,
-          "title": "Police Chief Says Cops Have a 5th Amendment Right to Leave Body Cameras Off",
-          "imageUrl": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/03/Harold-Medina-APD.jpg"
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only",
-          "publishedOn": "2024-08-25T21:34:44.000Z",
-          "wordCount": 1535,
-          "title": "Rollstack (YC W23) Is Hiring TypeScript Engineers – US/Canada (East Coast Only)",
-          "imageUrl": "/images/original/missing.png"
-        },
-        {
-          "id": "https://notgull.net/announcing-dozer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://notgull.net/announcing-dozer/",
-          "publishedOn": "2024-08-25T21:08:06.000Z",
-          "wordCount": 1579,
-          "title": "Writing a Rust compiler in C",
-          "imageUrl": "http://notgull.net/images/notgull.png"
-        },
-        {
-          "id": "http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html",
-          "publishedOn": "2024-08-25T21:01:04.000Z",
-          "wordCount": 970,
-          "title": "Pi Pico 2 Extreme Teardown",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_m2l3p032rTRuODI5m35dtS_FCbn2o2S8kPEcptLvwZ1q8wFilF1qoQebQeG13jU7_gpukFREVB0fh8G7hEukgbn5SnlmD_o4L_xjwMwbOG9Zrr8T-XyRSE_LabP-toNOCm32x4-GZ5IPdVJS3QY2Y5ROcuqe16MqAF4hRnsdPTxptBrHTiWvaUO53Vg/w1200-h630-p-k-no-nu/top_pcb.JPG"
-        },
-        {
-          "id": "https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/",
-          "publishedOn": "2024-08-25T20:42:02.000Z",
-          "wordCount": 11572,
-          "title": "Database \"sharding\" came from Ultima Online? (2009)",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/cb/Mondain-uo-intro.jpg"
-        },
-        {
-          "id": "https://www.inexhibit.com/case-studies/olivetti-programma-101-at-the-origins-of-the-personal-computer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.inexhibit.com/case-studies/olivetti-programma-101-at-the-origins-of-the-personal-computer/",
-          "publishedOn": "2024-08-25T20:20:56.000Z",
-          "wordCount": 2718,
-          "title": "Olivetti Programma 101: At the Origins of the Personal Computer",
-          "imageUrl": "https://www.inexhibit.com/wp-content/uploads/2017/02/Olivetti-Programma-101-computer.jpg"
-        },
-        {
-          "id": "https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/",
-          "publishedOn": "2024-08-25T19:34:53.000Z",
-          "wordCount": 5796,
-          "title": "Is Telegram really an encrypted messaging app?",
-          "imageUrl": "https://blog.cryptographyengineering.com/wp-content/uploads/2024/08/52770168096_a43776424c_k.jpg?w=1200"
-        },
-        {
-          "id": "https://github.com/getlago/lago/wiki/Stripe-Data-vs-Open%E2%80%90Source-Alternatives:-a-MRR-example",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/getlago/lago/wiki/Stripe-Data-vs-Open%E2%80%90Source-Alternatives:-a-MRR-example",
-          "publishedOn": "2024-08-25T19:28:26.000Z",
-          "wordCount": 2590,
-          "title": "Stripe Data vs. Open‐Source Alternatives: A MRR Example",
-          "imageUrl": "https://opengraph.githubassets.com/dba9f8f9a3049689bd3aa9bc60928949d2c4640fbc34bee6691a3e6fd901931f/getlago/lago"
-        },
-        {
-          "id": "https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/",
-          "publishedOn": "2024-08-25T19:05:20.000Z",
-          "wordCount": 759,
-          "title": "TIL: Versions of UUID and when to use them",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ramimac.me/aws-iam-tools-2024",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ramimac.me/aws-iam-tools-2024",
-          "publishedOn": "2024-08-25T18:58:19.000Z",
-          "wordCount": 796,
-          "title": "An AWS IAM Security Tooling Reference",
-          "imageUrl": "https://ramimac.me/assets/images/iam-tools.png"
-        },
-        {
-          "id": "https://qsantos.fr/2024/08/25/linux-pipes-are-slow/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://qsantos.fr/2024/08/25/linux-pipes-are-slow/",
-          "publishedOn": "2024-08-25T16:52:14.000Z",
-          "wordCount": 6572,
-          "title": "Linux Pipes Are Slow",
-          "imageUrl": null
         }
       ]
     },
@@ -9368,21 +9353,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/biocrusts-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/society/2024/are-you-a-workaholic-how-to-spot-the-signs",
-          "author": "Chris Woolston",
-          "description": "In a major shift, psychologists now view an out-of-control compulsion to work as an addiction with its own set of risk factors and consequences",
-          "link": "https://knowablemagazine.org/content/article/society/2024/are-you-a-workaholic-how-to-spot-the-signs",
-          "publishedOn": "2024-08-26T04:36:02.288Z",
-          "wordCount": 5050,
-          "title": "Are you a workaholic? Here’s how to spot the signs",
-          "enclosure": {
-            "type": "image/png",
-            "url": "https://knowablemagazine.org/docserver/fulltext/workaholics-500x288.png",
-            "length": "121023"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/workaholics-500x288.png"
         }
       ]
     },
