@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382613",
+          "author": "Juan Diego Rodríguez",
+          "description": "Donut scoping addresses the challenge of preventing parent styles from leaking to nested content. Originating from a 2011 concept by Nicole Sullivan, the issue has evolved, culminating in 2024's @scope at-rule. This allows for more precise CSS styling, safeguarding content from unwanted inheritance while managing global CSS complexities.\nSolved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/solved-by-css-donuts-scopes/",
+          "publishedOn": "2024-11-22T13:50:55.000Z",
+          "wordCount": 3026,
+          "title": "Solved by CSS: Donuts Scopes",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/donut-scope.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=382572",
           "author": "Daniel Schwarz",
           "description": "Web browsers are experimenting with two HTML attributes — technically, they’re called “invoker commands” — that are designed to invoke popovers, dialogs, and further down the line, all kinds of actions without writing JavaScript. Although, if you do reach for JavaScript, the new attributes come with some new events that we can listen for.\nInvoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -130,16 +140,6 @@
           "wordCount": 3318,
           "title": "Left Half and Right Half Layout – Many Different Ways",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/198099"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382065",
-          "author": "Geoff Graham",
-          "description": "Terence Eden on using text-wrap: balance for more than headings:\nBut the name is, I think, slightly misleading. It doesn’t only work on text. It will work on any content. For example – I have a row of icons at \n…\nYou can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/you-can-use-text-wrap-balance-on-icons/",
-          "publishedOn": "2024-10-24T14:05:56.000Z",
-          "wordCount": 1480,
-          "title": "You can use text-wrap: balance; on icons",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382065"
         }
       ]
     },
@@ -148,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
+          "author": "hello@smashingmagazine.com (Victoria Nduka)",
+          "description": "Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.",
+          "link": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
+          "publishedOn": "2024-11-22T09:00:00.000Z",
+          "wordCount": 5812,
+          "title": "Why You Should Speak At Events As An Early-Career Professional",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
@@ -260,6 +275,196 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries",
+          "publishedOn": "2024-11-23T03:34:10.000Z",
+          "wordCount": null,
+          "title": "An Analysis of the Performance of WebSockets in Various Programming Languages",
+          "imageUrl": null
+        },
+        {
+          "id": "https://fabiensanglard.net/quake3/network.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fabiensanglard.net/quake3/network.php",
+          "publishedOn": "2024-11-23T00:55:00.000Z",
+          "wordCount": 1431,
+          "title": "Quake 3 Source Code Review: Network Model (2012)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://docs.maxxinteractive.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://docs.maxxinteractive.com/",
+          "publishedOn": "2024-11-22T23:21:18.000Z",
+          "wordCount": 1554,
+          "title": "MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.lakeforest.edu/news/the-neuroscience-link-between-neuroticism-and-social-media-addiction",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.lakeforest.edu/news/the-neuroscience-link-between-neuroticism-and-social-media-addiction",
+          "publishedOn": "2024-11-22T23:15:47.000Z",
+          "wordCount": 4800,
+          "title": "The Neuroscience Link Between Neuroticism and Social Media Addiction",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ColleagueRiley/RGFW",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ColleagueRiley/RGFW",
+          "publishedOn": "2024-11-22T21:31:51.000Z",
+          "wordCount": 7114,
+          "title": "RGFW: Single-header C99 window abstraction library",
+          "imageUrl": "https://opengraph.githubassets.com/ea4d68435bd6d37f48f7ee58c00220e1dc75d1cdd9c4324e4fc23e9931387309/ColleagueRiley/RGFW"
+        },
+        {
+          "id": "https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography",
+          "publishedOn": "2024-11-22T18:43:36.000Z",
+          "wordCount": 2160,
+          "title": "Translating My Grandfather's Biograpy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/",
+          "publishedOn": "2024-11-22T17:53:29.000Z",
+          "wordCount": 3922,
+          "title": "Understanding Google's Quantum Error Correction Breakthrough",
+          "imageUrl": "https://www.quantum-machines.co/wp-content/uploads/2024/11/Google-banner-1024x251.png"
+        },
+        {
+          "id": "https://benwang.dev/2023/02/26/Phased-Array-Microphone.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://benwang.dev/2023/02/26/Phased-Array-Microphone.html",
+          "publishedOn": "2024-11-22T17:10:44.000Z",
+          "wordCount": 2867,
+          "title": "Phased Array Microphone (2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42215453",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42215453",
+          "publishedOn": "2024-11-22T17:00:36.000Z",
+          "wordCount": 303,
+          "title": "Wasp (YC W21) is hiring a framework engineer to build Laravel for JavaScript",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jordaneldredge.com/notes/webamp-modern/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jordaneldredge.com/notes/webamp-modern/",
+          "publishedOn": "2024-11-22T16:58:35.000Z",
+          "wordCount": 3273,
+          "title": "Rendering \"modern\" Winamp skins in the browser",
+          "imageUrl": "https://jordaneldredge.com/notion-mirror/84ebb48c-616a-4f51-ae9a-991a4e0a7e9b/8b644494-12b4-4aa3-8e6f-fd02f95341bd/Screenshot_2024-11-19_at_4.39.04_PM.png"
+        },
+        {
+          "id": "https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html",
+          "publishedOn": "2024-11-22T16:25:17.000Z",
+          "wordCount": 28871,
+          "title": "Amazon to invest another $4B in Anthropic",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108066948-1732286555480-108066948-1732286380649-gettyimages-2147920473-AA_19042024_1633891.jpg?v=1732286576&w=1920&h=1080"
+        },
+        {
+          "id": "https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere",
+          "publishedOn": "2024-11-22T16:00:01.000Z",
+          "wordCount": 6519,
+          "title": "The Deceptively Asymmetric Unit Sphere",
+          "imageUrl": "https://cdn.prod.website-files.com/5fff85e7f613e35edb5806ed/673f9355ee605c3a333626f5_hero-sphere.png"
+        },
+        {
+          "id": "https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/",
+          "publishedOn": "2024-11-22T13:27:12.000Z",
+          "wordCount": 4148,
+          "title": "Salmon return to lay eggs in historic habitat after dam removal project",
+          "imageUrl": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/LGNPDXOGT5BVVFRWUYS2JOUJZM.jpg?auth=4044d38dcd2939dc685d1e8ed46985f104509dd24221fb95319420e09aed3ad1&width=1200&height=675&smart=true"
+        },
+        {
+          "id": "https://duckdb.org/2024/11/22/runtime-extensible-parsers.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://duckdb.org/2024/11/22/runtime-extensible-parsers.html",
+          "publishedOn": "2024-11-22T13:23:28.000Z",
+          "wordCount": 3424,
+          "title": "Runtime-Extensible SQL Parsers Using Peg",
+          "imageUrl": "https://duckdb.org/images/blog/thumbs/ast.png"
+        },
+        {
+          "id": "https://kubuszok.com/2019/from-string-to-ast-parsing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kubuszok.com/2019/from-string-to-ast-parsing/",
+          "publishedOn": "2024-11-22T12:35:30.000Z",
+          "wordCount": 11239,
+          "title": "From string to AST: parsing (2019)",
+          "imageUrl": "https://kubuszok.com/images/mathematics-and-computer-science.jpg"
+        },
+        {
+          "id": "https://www.narratively.com/p/his-biggest-hit-sold-more-copies-than-any-of-the-beatles-so-why-havent-you-heard-of-him",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.narratively.com/p/his-biggest-hit-sold-more-copies-than-any-of-the-beatles-so-why-havent-you-heard-of-him",
+          "publishedOn": "2024-11-22T10:58:25.000Z",
+          "wordCount": 1697,
+          "title": "Prince Nico Mbarga’s biggest hit outsold any of The Beatles’ (2017)",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ae70172-cf84-416e-92ae-03e2b8351868_2048x1152.jpeg"
+        },
+        {
+          "id": "https://5-million-devs.netlify.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://5-million-devs.netlify.com/",
+          "publishedOn": "2024-11-22T10:31:56.000Z",
+          "wordCount": 34,
+          "title": "Show HN: A Marble Madness-inspired WebGL game we built for Netlify",
+          "imageUrl": "https://5-million-devs.netlify.com/og-image.jpg"
+        },
+        {
+          "id": "https://www.goto10retro.com/p/faster-atari-st-digital-magazine",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.goto10retro.com/p/faster-atari-st-digital-magazine",
+          "publishedOn": "2024-11-22T09:33:53.000Z",
+          "wordCount": 4593,
+          "title": "FaSTer: Atari ST Digital Magazine",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F439e28e9-8fd8-4f97-b3ea-05095f42bea8_1024x768.jpeg"
+        },
+        {
+          "id": "https://github.com/ricott1/rebels-in-the-sky",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ricott1/rebels-in-the-sky",
+          "publishedOn": "2024-11-22T08:21:39.000Z",
+          "wordCount": 4096,
+          "title": "Show HN: Rebels in the sky – Terminal game about space pirates",
+          "imageUrl": "https://opengraph.githubassets.com/43900883c4c1733fe872b0f110652437dc7f6d0c773cd52185ca95faa41bac77/ricott1/rebels-in-the-sky"
+        },
         {
           "id": "https://github.com/pingcap/autoflow",
           "author": null,
@@ -409,6 +614,16 @@
           "wordCount": 6670,
           "title": "Listen to the whispers: web timing attacks that work",
           "imageUrl": "https://portswigger.net/cms/images/39/7f/e41b-twittercard-listen-to-the-whispers-twitter.png"
+        },
+        {
+          "id": "https://dynomight.net/more-chess/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dynomight.net/more-chess/",
+          "publishedOn": "2024-11-21T17:55:06.000Z",
+          "wordCount": 5105,
+          "title": "OK, I can partly explain the LLM chess weirdness now",
+          "imageUrl": "https://dynomight.net/img/more-chess/chess2.jpg"
         },
         {
           "id": "https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/",
@@ -831,6 +1046,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://arthur-johnston.com/tuesday_to_tuesday/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arthur-johnston.com/tuesday_to_tuesday/",
+          "publishedOn": "2024-11-19T23:50:28.000Z",
+          "wordCount": 960,
+          "title": "Oncall shift should be Tuesday to Tuesday",
+          "imageUrl": null
+        },
+        {
           "id": "https://jmlr.org/papers/volume22/20-1061/20-1061.pdf",
           "author": null,
           "description": "Comments",
@@ -909,6 +1134,16 @@
           "wordCount": 7735,
           "title": "Niantic announces “Large Geospatial Model” trained on Pokémon Go player data",
           "imageUrl": "https://lh3.googleusercontent.com/48quvnZ4pVHcy-Wy-oS75IdfJbbbo6fwQX_qJX9dUbxxu839jlzsuoThc_qedfLGv0ymgXHZNLNYdzZ3gnB8h08MSRA-Xhvsw0zIh0r67i71G5U=s1600-rj"
+        },
+        {
+          "id": "https://rachit.pl/post/you-have-built-a-compiler/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rachit.pl/post/you-have-built-a-compiler/",
+          "publishedOn": "2024-11-19T17:51:14.000Z",
+          "wordCount": 534,
+          "title": "Dear sir, you have built a compiler (2022)",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/DataExpert-io/data-engineer-handbook",
@@ -1101,6 +1336,16 @@
           "imageUrl": "https://yc-workatastartup-production.s3.amazonaws.com/jobs_company_jobs/images/70878/76ba6106c84a9bdfebc94b3e51585cdec4634723.png?1731959662"
         },
         {
+          "id": "https://www.washingtonpost.com/wellness/2024/11/18/home-genetic-cancer-test-mutation/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.washingtonpost.com/wellness/2024/11/18/home-genetic-cancer-test-mutation/",
+          "publishedOn": "2024-11-18T19:24:41.000Z",
+          "wordCount": null,
+          "title": "Are at-home genetic tests worth it? As an oncologist, here's my advice.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/",
           "author": null,
           "description": "Comments",
@@ -1219,6 +1464,16 @@
           "wordCount": 65101,
           "title": "Two undersea cables in Baltic Sea disrupted",
           "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2024-11-18-at-15-44-20-copy.jpg?c=16x9&q=w_800,c_fill"
+        },
+        {
+          "id": "https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/",
+          "publishedOn": "2024-11-18T12:07:03.000Z",
+          "wordCount": 5889,
+          "title": "Playground Wisdom: Threads Beat Async/Await",
+          "imageUrl": null
         },
         {
           "id": "https://mszula.github.io/visual-sorting/",
@@ -1419,6 +1674,16 @@
           "wordCount": 87,
           "title": "Everything Is Just Functions: Insights from SICP and David Beazley",
           "imageUrl": "https://www.notion.so/images/meta/default.png"
+        },
+        {
+          "id": "https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/",
+          "publishedOn": "2024-11-17T13:30:29.000Z",
+          "wordCount": 3064,
+          "title": "Nash equilibria in Ballmer's binary-search interview game",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/arkohut/memos",
@@ -8579,226 +8844,6 @@
           "wordCount": 4867,
           "title": "Post World War II Food",
           "imageUrl": "https://www.nps.gov/articles/images/Post-War-Image-2-K-Ration.jpg"
-        },
-        {
-          "id": "https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms",
-          "publishedOn": "2024-10-24T16:03:09.000Z",
-          "wordCount": 2907,
-          "title": "Using LLMs to enhance our testing practices",
-          "imageUrl": "https://cdn.prod.website-files.com/610225ff318d106f5343df0c/6719872528c648c884224019_TB_How%20we%20saved%20hundreds%20of%20engineering%20hours%20by%20writing%20tests%20with%20LLMs.png"
-        },
-        {
-          "id": "https://github.com/Skyvern-AI/Skyvern",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Skyvern-AI/Skyvern",
-          "publishedOn": "2024-10-24T15:51:21.000Z",
-          "wordCount": 11006,
-          "title": "Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations",
-          "imageUrl": "https://opengraph.githubassets.com/fc8768a2e7d91da059fb017372c1a669584cc0788761c1510db1aac551651c02/Skyvern-AI/skyvern"
-        },
-        {
-          "id": "https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/",
-          "publishedOn": "2024-10-24T14:16:26.000Z",
-          "wordCount": 2643,
-          "title": "Building a better and scalable system for data migrations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://web.archive.org/web/20230228035749/https://sites.inka.de/~W1011/devel/tcp-tcp.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://web.archive.org/web/20230228035749/https://sites.inka.de/~W1011/devel/tcp-tcp.html",
-          "publishedOn": "2024-10-24T12:50:28.000Z",
-          "wordCount": 841,
-          "title": "TCP over TCP is a bad idea (2000)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://play2048.co/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://play2048.co/",
-          "publishedOn": "2024-10-24T12:15:27.000Z",
-          "wordCount": 55,
-          "title": "Show HN: 2048 turned 10 this year, I built an updated version to celebrate",
-          "imageUrl": "https://play2048.co/ogImage.jpg"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-024-72437-5",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/s41598-024-72437-5",
-          "publishedOn": "2024-10-24T06:21:19.000Z",
-          "wordCount": 14483,
-          "title": "Long-term tracking of social structure in groups of rats",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-024-72437-5/MediaObjects/41598_2024_72437_Fig1_HTML.png"
-        },
-        {
-          "id": "https://arstechnica.com/science/2024/10/how-physics-can-improve-your-disc-golf-game/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arstechnica.com/science/2024/10/how-physics-can-improve-your-disc-golf-game/",
-          "publishedOn": "2024-10-24T05:34:11.000Z",
-          "wordCount": 2316,
-          "title": "For the strongest disc golf throws, it's all in the thumbs",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/discgolf1-1152x648.jpg"
-        },
-        {
-          "id": "https://milesbrundage.substack.com/p/why-im-leaving-openai-and-what-im",
-          "author": null,
-          "description": "Comments",
-          "link": "https://milesbrundage.substack.com/p/why-im-leaving-openai-and-what-im",
-          "publishedOn": "2024-10-24T04:00:06.000Z",
-          "wordCount": null,
-          "title": "Why I'm Leaving OpenAI and What I'm Doing Next",
-          "imageUrl": null
-        },
-        {
-          "id": "https://benjdd.com/aws/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://benjdd.com/aws/",
-          "publishedOn": "2024-10-24T03:18:23.000Z",
-          "wordCount": 830,
-          "title": "AWS data center latencies, visualized",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei",
-          "publishedOn": "2024-10-24T02:39:23.000Z",
-          "wordCount": 576,
-          "title": "TSMC Cuts Off Client After Discovering Chips Sent to Huawei",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/",
-          "publishedOn": "2024-10-24T02:12:43.000Z",
-          "wordCount": 2891,
-          "title": "How Do Merging Supermassive Black Holes Pass the Final Parsec?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2024/10/FinalParsecProblem-crLucianoCombi_etal_2022_ApJ_928_187-Social.jpg"
-        },
-        {
-          "id": "https://netguard.me/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://netguard.me/",
-          "publishedOn": "2024-10-24T01:31:16.000Z",
-          "wordCount": 960,
-          "title": "NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch",
-          "imageUrl": "https://raw.githubusercontent.com/M66B/NetGuard/master/screenshots/101-main.png"
-        },
-        {
-          "id": "https://issues.chromium.org/issues/375219954",
-          "author": null,
-          "description": "Comments",
-          "link": "https://issues.chromium.org/issues/375219954",
-          "publishedOn": "2024-10-24T01:19:22.000Z",
-          "wordCount": 2687,
-          "title": "Chromium uses web search for .internal TLD instead of opening URL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lwn.net/Articles/993337/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lwn.net/Articles/993337/",
-          "publishedOn": "2024-10-24T00:43:36.000Z",
-          "wordCount": 27321,
-          "title": "Rust in Enterprise Kernels",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/RamboRogers/rfhunter",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/RamboRogers/rfhunter",
-          "publishedOn": "2024-10-24T00:21:36.000Z",
-          "wordCount": 4339,
-          "title": "RF Hunter, find hidden cameras and other devices",
-          "imageUrl": "https://opengraph.githubassets.com/bef1a7c0153e4a84bd3eda54fcf32d943e95fa2dbbbd52381e796db1fd5dd848/RamboRogers/rfhunter"
-        },
-        {
-          "id": "https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client",
-          "author": null,
-          "description": "Comments",
-          "link": "https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client",
-          "publishedOn": "2024-10-24T00:07:31.000Z",
-          "wordCount": null,
-          "title": "After 16 years of development, Postbox Inc. is winding down its operations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.matthieulc.com/posts/pablonet/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.matthieulc.com/posts/pablonet/",
-          "publishedOn": "2024-10-23T22:24:21.000Z",
-          "wordCount": 374,
-          "title": "Show HN: Wall-mounted diffusion mirror that turns reflections into paintings",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tokio.rs/blog/2024-10-23-announcing-toasty",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tokio.rs/blog/2024-10-23-announcing-toasty",
-          "publishedOn": "2024-10-23T21:49:51.000Z",
-          "wordCount": 2825,
-          "title": "Toasty, an async ORM for Rust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://hubris.oxide.computer/bugs/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hubris.oxide.computer/bugs/",
-          "publishedOn": "2024-10-23T21:40:28.000Z",
-          "wordCount": 342,
-          "title": "It has been [33] days since the last Hubris kernel bug",
-          "imageUrl": null
-        },
-        {
-          "id": "https://simonwillison.net/2024/Oct/21/claude-artifacts/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://simonwillison.net/2024/Oct/21/claude-artifacts/",
-          "publishedOn": "2024-10-23T20:52:13.000Z",
-          "wordCount": 1931,
-          "title": "Everything I built with Claude Artifacts this week",
-          "imageUrl": "https://static.simonwillison.net/static/2024/claude-artifacts/sqlite-wasm.jpg"
-        },
-        {
-          "id": "https://www.copetti.org/writings/consoles/playstation-vita/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.copetti.org/writings/consoles/playstation-vita/",
-          "publishedOn": "2024-10-23T19:31:51.000Z",
-          "wordCount": 6375,
-          "title": "Playstation Vita Architecture (Part 1)",
-          "imageUrl": "https://www.copetti.org/images/consoles/covers_top/playstation-vita_hu0ac6be5106989c337869cb53849326ce_329694_d863052b8becf42b6a2383b2f51d843f.158da4cc786ca3932f4c2b15715dcfe2.jpg"
-        },
-        {
-          "id": "https://github.com/dittofeed/dittofeed/tree/main/packages/emailo",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/dittofeed/dittofeed/tree/main/packages/emailo",
-          "publishedOn": "2024-10-23T18:54:59.000Z",
-          "wordCount": 1445,
-          "title": "Show HN: Open-source low-code email editor",
-          "imageUrl": "https://repository-images.githubusercontent.com/543838169/01399991-c4ec-40f2-a735-c3f004b991c6"
         }
       ]
     },
@@ -8864,6 +8909,51 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/society/2024/how-a-child-becomes-bilingual",
+          "author": "Katarina Zimmer",
+          "description": "Kids from immigrant backgrounds in the US often struggle to develop fluency in two languages. Many factors — parental misconceptions, the lack of support in schools and social attitudes — play a role.",
+          "link": "https://knowablemagazine.org/content/article/society/2024/how-a-child-becomes-bilingual",
+          "publishedOn": "2024-11-23T04:37:44.605Z",
+          "wordCount": 7091,
+          "title": "How a child becomes bilingual — and what can be done to help them get there",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/bilingual-learning-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/bilingual-learning-500x288.jpg"
+        },
+        {
+          "id": "https://knowablemagazine.org/content/article/food-environment/2024/can-desalination-of-groundwater-grow-crops",
+          "author": "Lela Nargi",
+          "description": "Miles away from the ocean, projects are afoot to clean up salty groundwater and use it to grow crops. Some say it’s a costly pipe dream, others say it’s part of the future.",
+          "link": "https://knowablemagazine.org/content/article/food-environment/2024/can-desalination-of-groundwater-grow-crops",
+          "publishedOn": "2024-11-23T04:37:44.587Z",
+          "wordCount": 6249,
+          "title": "Can desalination quench agriculture’s thirst?",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/desalination-for-agriculture-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/desalination-for-agriculture-500x288.jpg"
+        },
+        {
+          "id": "https://knowablemagazine.org/content/article/physical-world/2024/string-theory-is-not-dead",
+          "author": "Tom Siegfried",
+          "description": "Out of the limelight, theoretical physicists seek the math that can explain the universe’s particles and forces",
+          "link": "https://knowablemagazine.org/content/article/physical-world/2024/string-theory-is-not-dead",
+          "publishedOn": "2024-11-23T04:37:43.960Z",
+          "wordCount": 3478,
+          "title": "String theory is not dead",
+          "enclosure": {
+            "type": "image/png",
+            "url": "https://knowablemagazine.org/docserver/fulltext/string-theory-update-500x288.png",
+            "length": "121023"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/string-theory-update-500x288.png"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/health-disease/2024/the-genetics-of-kidney-failure",
           "author": "Liam Drew",
@@ -9178,36 +9268,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/cell-death-listicle-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/living-world/2024/when-ribosomes-go-rogue",
-          "author": "Tim Vernimmen",
-          "description": "Unusual variations in the cellular protein factory can skew development, help cancer spread and more. But ribosome variety may also play biological roles, scientists say.",
-          "link": "https://knowablemagazine.org/content/article/living-world/2024/when-ribosomes-go-rogue",
-          "publishedOn": "2024-10-24T04:36:57.898Z",
-          "wordCount": 5326,
-          "title": "When ribosomes go rogue",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/ribosome-variety-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/ribosome-variety-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/health-disease/2024/how-effective-are-warning-labels-for-cigarettes-and-vaping",
-          "author": "Clare Watson",
-          "description": "Regulatory hurdles, industry objections and legal fights have gone on for decades over traditional tobacco. What’s in store for the next generation of smoking?",
-          "link": "https://knowablemagazine.org/content/article/health-disease/2024/how-effective-are-warning-labels-for-cigarettes-and-vaping",
-          "publishedOn": "2024-10-24T04:36:57.865Z",
-          "wordCount": 6748,
-          "title": "The tussle over cigarette warning labels, and the hazy future of vaping",
-          "enclosure": {
-            "type": "image/png",
-            "url": "https://knowablemagazine.org/docserver/fulltext/warning-labels-500x288.png",
-            "length": "121023"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/warning-labels-500x288.png"
         }
       ]
     },
