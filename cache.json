@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382697",
+          "author": "Scott Fennell",
+          "description": "What's it look like to create a dashboard within the WordPress admin for analyzing Google Analytics data across 900 blogs across 25 multisite instances? It involves designing a user-friendly interface, leveraging the WordPress REST API, implementing a plugin for data retrieval, and addressing challenges like rate limits and authentication.\nWordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/wordpress-multi-multisite-a-case-study/",
+          "publishedOn": "2024-11-27T16:09:14.000Z",
+          "wordCount": 5785,
+          "title": "WordPress Multi-Multisite: A Case Study",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/11/2b6LXlN.mp4",
+            "length": "783997",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/wp-multisite.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=382773",
           "author": "Ryan Trimble",
           "description": "Adam Argyle wraps up the search for a CSS logo, check out CSS' new look!\nFollow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -130,16 +145,6 @@
           "wordCount": 2964,
           "title": "State of CSS 2024 Results",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382144"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382082",
-          "author": "Zell Liew",
-          "description": "What are tooltips, exactly? There's two kinds and the one you use has implications on the user experience, as Zell illustrates in this explainer on best practices.\nTooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/tooltip-best-practices/",
-          "publishedOn": "2024-10-29T14:01:18.000Z",
-          "wordCount": 2171,
-          "title": "Tooltip Best Practices",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382082"
         }
       ]
     },
@@ -148,6 +153,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.",
+          "link": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
+          "publishedOn": "2024-11-27T10:00:00.000Z",
+          "wordCount": 4222,
+          "title": "The Hype Around Signals",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
           "author": "hello@smashingmagazine.com (Victoria Nduka)",
@@ -275,6 +295,266 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.indiegogo.com/projects/pocket-4-modular-full-featured-handheld-ai-pc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.indiegogo.com/projects/pocket-4-modular-full-featured-handheld-ai-pc",
+          "publishedOn": "2024-11-28T03:13:48.000Z",
+          "wordCount": 1170,
+          "title": "Pocket 4: Modular full-featured Handheld AI PC",
+          "imageUrl": "https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_fill%2Cf_auto%2Ch_630%2Cw_1200/v1731486654/sn7euadrswczdaacb4gk.jpg"
+        },
+        {
+          "id": "https://www.wsj.com/livecoverage/stock-market-today-pce-inflation-live-11-27-2024/card/tornado-cash-sanctions-found-illegal-in-legal-win-for-crypto-dEovQ561jwj3zmyvdz0M",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-pce-inflation-live-11-27-2024/card/tornado-cash-sanctions-found-illegal-in-legal-win-for-crypto-dEovQ561jwj3zmyvdz0M",
+          "publishedOn": "2024-11-28T03:06:40.000Z",
+          "wordCount": null,
+          "title": "Tornado Cash Sanctions Found Illegal, in Legal Win for Crypto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/abus-aikorea/voice-pro",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/abus-aikorea/voice-pro",
+          "publishedOn": "2024-11-28T02:37:01.000Z",
+          "wordCount": 6164,
+          "title": "Show HN: Voice-Pro – AI Voice Cloning Magic: Transform Any Voice in 15 Seconds",
+          "imageUrl": "https://repository-images.githubusercontent.com/835174033/a5a09559-8c29-4152-a7ac-f30774226d19"
+        },
+        {
+          "id": "https://zenodo.org/records/11082879",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zenodo.org/records/11082879",
+          "publishedOn": "2024-11-28T02:19:08.000Z",
+          "wordCount": 1875,
+          "title": "Bluesky Social Dataset (235M posts from 4M users)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://infosec.exchange/@0xabad1dea/113543212666056329",
+          "author": null,
+          "description": "Comments",
+          "link": "https://infosec.exchange/@0xabad1dea/113543212666056329",
+          "publishedOn": "2024-11-28T02:03:21.000Z",
+          "wordCount": 133,
+          "title": "Dell is posting unsigned updates to their website which fail to install",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.core77.com/posts/134471/A-Washing-Machine-for-Human-Beings-from-1970",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.core77.com/posts/134471/A-Washing-Machine-for-Human-Beings-from-1970",
+          "publishedOn": "2024-11-28T01:38:17.000Z",
+          "wordCount": 1426,
+          "title": "A Washing Machine for Human Beings, from 1970",
+          "imageUrl": "https://s3files.core77.com/blog/images/lead_n_spotlight/1601860_lead_400_134471_.jpg"
+        },
+        {
+          "id": "https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/",
+          "publishedOn": "2024-11-28T00:49:06.000Z",
+          "wordCount": 3974,
+          "title": "RomCom exploits Firefox and Windows zero days in the wild",
+          "imageUrl": "https://web-assets.esetstatic.com/wls/2024/11-2024/firefox-windows-zero-days-romcom.jpeg"
+        },
+        {
+          "id": "https://www.sheldonbrown.com/AluminumBikeProject.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sheldonbrown.com/AluminumBikeProject.html",
+          "publishedOn": "2024-11-27T23:59:38.000Z",
+          "wordCount": 2496,
+          "title": "MIT Aluminum Bicycle Project 1974",
+          "imageUrl": null
+        },
+        {
+          "id": "https://spectrum.ieee.org/semiconductor-fabrication",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/semiconductor-fabrication",
+          "publishedOn": "2024-11-27T22:18:58.000Z",
+          "wordCount": 13174,
+          "title": "The Forgotten Story of How IBM Invented the Automated Fab",
+          "imageUrl": "https://spectrum.ieee.org/media-library/a-white-line-diagram-against-a-blue-background-shows-the-basic-layout-of-the-project-swift-chip-fabrication-process.png?id=54890404&width=1200&height=600&coordinates=0%2C315%2C0%2C315"
+        },
+        {
+          "id": "https://arxiv.org/abs/2411.16544",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2411.16544",
+          "publishedOn": "2024-11-27T21:36:52.000Z",
+          "wordCount": 697,
+          "title": "Float Self-Tagging",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://www.ftm.nl/artikelen/ruzie-tussen-ziekenhuis-en-farma-industrie-over-goedkeuring-kankermedicijn",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ftm.nl/artikelen/ruzie-tussen-ziekenhuis-en-farma-industrie-over-goedkeuring-kankermedicijn",
+          "publishedOn": "2024-11-27T21:35:49.000Z",
+          "wordCount": 4157,
+          "title": "Developing a cancer drug without Big Pharma: this hospital shows it can be done",
+          "imageUrl": "https://www.ftm.nl/uploads/media_filter/673ee8c435945/article_1400_nocrop/ziekenhuis_farma.jpg?v=0"
+        },
+        {
+          "id": "https://trunkver.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://trunkver.org/",
+          "publishedOn": "2024-11-27T20:48:08.000Z",
+          "wordCount": 1433,
+          "title": "TrunkVer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html",
+          "publishedOn": "2024-11-27T20:42:52.000Z",
+          "wordCount": 1648,
+          "title": "Structured Editing and Incremental Parsing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jech.bmj.com/content/early/2024/10/30/jech-2024-222795",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jech.bmj.com/content/early/2024/10/30/jech-2024-222795",
+          "publishedOn": "2024-11-27T20:25:40.000Z",
+          "wordCount": 6011,
+          "title": "Sleep regularity and major adverse cardiovascular events",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/matomo-org/device-detector",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/matomo-org/device-detector",
+          "publishedOn": "2024-11-27T20:11:21.000Z",
+          "wordCount": 19097,
+          "title": "Device-detector: Universal Device Detection library from User Agent",
+          "imageUrl": "https://opengraph.githubassets.com/4b0ebff4974cac787596f79bf4e27576f607a795b021aff8475d62e1c5346658/matomo-org/device-detector"
+        },
+        {
+          "id": "https://github.com/xairy/lights-out",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/xairy/lights-out",
+          "publishedOn": "2024-11-27T20:10:55.000Z",
+          "wordCount": 3208,
+          "title": "Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230",
+          "imageUrl": "https://opengraph.githubassets.com/786a490db8662609b358906310b61f800e227fbd345ed142c624a9a47c01a582/xairy/lights-out"
+        },
+        {
+          "id": "https://qwenlm.github.io/blog/qwq-32b-preview/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://qwenlm.github.io/blog/qwq-32b-preview/",
+          "publishedOn": "2024-11-27T20:00:25.000Z",
+          "wordCount": 8442,
+          "title": "QwQ: Alibaba's O1 Like Reasoning LLM",
+          "imageUrl": "http://qwenlm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"
+        },
+        {
+          "id": "https://www.lukasmoro.com/paper",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.lukasmoro.com/paper",
+          "publishedOn": "2024-11-27T18:43:04.000Z",
+          "wordCount": null,
+          "title": "Show HN: Feels Like Paper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://steelcm.com/blog/generating-video-sprites-using-ffmpeg/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://steelcm.com/blog/generating-video-sprites-using-ffmpeg/",
+          "publishedOn": "2024-11-27T18:30:09.000Z",
+          "wordCount": 409,
+          "title": "Generate video sprites using just FFmpeg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://bernsteinbear.com/blog/creduce/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bernsteinbear.com/blog/creduce/",
+          "publishedOn": "2024-11-27T17:56:24.000Z",
+          "wordCount": 559,
+          "title": "You can use C-Reduce for any language",
+          "imageUrl": "https://bernsteinbear.com/favicon.ico"
+        },
+        {
+          "id": "https://arxiv.org/abs/2203.10955",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2203.10955",
+          "publishedOn": "2024-11-27T14:58:25.000Z",
+          "wordCount": 595,
+          "title": "Chebyshev Polynomials in the 16th Century (2022)",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://www.oranlooney.com/post/genji-ko/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.oranlooney.com/post/genji-ko/",
+          "publishedOn": "2024-11-27T14:33:31.000Z",
+          "wordCount": 4589,
+          "title": "The Art and Mathematics of Genji-Ko",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/bjesus/teatime",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/bjesus/teatime",
+          "publishedOn": "2024-11-27T13:56:20.000Z",
+          "wordCount": 3436,
+          "title": "Show HN: TeaTime – distributed book library powered by SQLite, IPFS and GitHub",
+          "imageUrl": "https://opengraph.githubassets.com/0fe05dfcc0c0f371f8b4e6ebea4d51a6fc584566191dfe690b81ca739cdc10b8/bjesus/teatime"
+        },
+        {
+          "id": "https://lithub.com/how-the-ancient-sumerians-created-the-worlds-first-writing-system/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lithub.com/how-the-ancient-sumerians-created-the-worlds-first-writing-system/",
+          "publishedOn": "2024-11-27T13:15:57.000Z",
+          "wordCount": 4267,
+          "title": "Ancient Sumerians created the first writing system",
+          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2022/11/1179px-Cuneiform_tablet-_hymn_to_Marduk_MET_DP360674.jpeg"
+        },
+        {
+          "id": "https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US",
+          "author": null,
+          "description": "Comments",
+          "link": "https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US",
+          "publishedOn": "2024-11-27T08:34:35.000Z",
+          "wordCount": 17895,
+          "title": "Show HN: App that asks ‘why?’ every time you unlock your phone",
+          "imageUrl": "https://play-lh.googleusercontent.com/ogrxdHQeZS3U4ps8x-2378AlSXb8MVcnzJ1Tflb0cdD2qp3aAv26fYBouko66jrqyJ8"
+        },
+        {
+          "id": "https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe",
+          "author": null,
+          "description": "Comments",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe",
+          "publishedOn": "2024-11-27T07:20:37.000Z",
+          "wordCount": 761,
+          "title": "Python type hints may not be not for me in practice",
+          "imageUrl": null
+        },
         {
           "id": "https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run",
           "author": null,
@@ -1136,6 +1416,16 @@
           "imageUrl": "https://www.openmptcprouter.com/img/statuspage.png"
         },
         {
+          "id": "https://hakaimagazine.com/features/for-the-love-a-little-sea/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hakaimagazine.com/features/for-the-love-a-little-sea/",
+          "publishedOn": "2024-11-23T04:01:22.000Z",
+          "wordCount": 849,
+          "title": "For the Love of a Little Sea",
+          "imageUrl": "https://hakaimagazine.com/wp-content/uploads/facebook-lough-hyne.jpg"
+        },
+        {
           "id": "https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries",
           "author": null,
           "description": "Comments",
@@ -1326,6 +1616,16 @@
           "imageUrl": "https://historyonthefox.wordpress.com/wp-content/uploads/2014/04/1911-abt-dsy-in-darkroom.jpg?w=163"
         },
         {
+          "id": "https://github.com/coralblocks/CoralRing",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/coralblocks/CoralRing",
+          "publishedOn": "2024-11-22T13:54:48.000Z",
+          "wordCount": 5699,
+          "title": "Ultra-low-latency, batching and concurrent queue for IPC in Java",
+          "imageUrl": "https://opengraph.githubassets.com/c700bd8e5d43b608cdc1e244f09dd10a6e9629e8953bf391cad1a9766212cb6f/coralblocks/CoralRing"
+        },
+        {
           "id": "https://www.optics.dev/Monocle/",
           "author": null,
           "description": "Comments",
@@ -1364,6 +1664,16 @@
           "wordCount": 11239,
           "title": "From string to AST: parsing (2019)",
           "imageUrl": "https://kubuszok.com/images/mathematics-and-computer-science.jpg"
+        },
+        {
+          "id": "https://www.nature.com/articles/s44271-024-00157-7",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s44271-024-00157-7",
+          "publishedOn": "2024-11-22T12:03:20.000Z",
+          "wordCount": 16566,
+          "title": "Psychoacoustic and archeoacoustic nature of ancient Aztec skull whistles",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44271-024-00157-7/MediaObjects/44271_2024_157_Fig1_HTML.png"
         },
         {
           "id": "https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html",
@@ -1623,6 +1933,16 @@
           "publishedOn": "2024-11-21T17:28:11.000Z",
           "wordCount": 3500,
           "title": "Handling cookies is a minefield",
+          "imageUrl": null
+        },
+        {
+          "id": "https://laneless.substack.com/p/500-million-but-not-a-single-one-more",
+          "author": null,
+          "description": "Comments",
+          "link": "https://laneless.substack.com/p/500-million-but-not-a-single-one-more",
+          "publishedOn": "2024-11-21T15:37:35.000Z",
+          "wordCount": null,
+          "title": "500 Million, But Not a Single One More",
           "imageUrl": null
         },
         {
@@ -8384,316 +8704,6 @@
           "wordCount": 2984,
           "title": "GitHub Spark lets you build web apps in plain English",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1785159335.jpg?resize=1200,800"
-        },
-        {
-          "id": "https://daniel.lawrence.lu/blog/y2023m12d15/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://daniel.lawrence.lu/blog/y2023m12d15/",
-          "publishedOn": "2024-10-29T16:27:56.000Z",
-          "wordCount": 2465,
-          "title": "Using an 8K TV as a Monitor",
-          "imageUrl": "https://i.dllu.net/IMG_0043_1200_d9403825ac2b72fc.jpg"
-        },
-        {
-          "id": "https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic",
-          "publishedOn": "2024-10-29T16:20:17.000Z",
-          "wordCount": 576,
-          "title": "GitHub cuts AI deals with Google, Anthropic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://plugins.jetbrains.com/plugin/24683-kasama",
-          "author": null,
-          "description": "Comments",
-          "link": "https://plugins.jetbrains.com/plugin/24683-kasama",
-          "publishedOn": "2024-10-29T16:18:32.000Z",
-          "wordCount": 1101,
-          "title": "Show HN: Kasama – an IntelliJ plugin to keep track of your coding practices",
-          "imageUrl": "/files/24683/583961/icon/pluginIcon.png"
-        },
-        {
-          "id": "https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/",
-          "publishedOn": "2024-10-29T15:40:27.000Z",
-          "wordCount": 4301,
-          "title": "Vector databases are the wrong abstraction",
-          "imageUrl": "https://www.timescale.com/blog/content/images/2024/10/Vector-Databases-are-the-wrong-abstraction.png"
-        },
-        {
-          "id": "https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/",
-          "publishedOn": "2024-10-29T15:15:09.000Z",
-          "wordCount": 18004,
-          "title": "When are two proofs essentially the same? (2007)",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/",
-          "publishedOn": "2024-10-29T14:56:00.000Z",
-          "wordCount": 3580,
-          "title": "Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey",
-          "imageUrl": "https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/card.png"
-        },
-        {
-          "id": "https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/",
-          "publishedOn": "2024-10-29T14:39:52.000Z",
-          "wordCount": 6802,
-          "title": "An Italian 'fruit detective' who investigates centuries-old paintings",
-          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/TZDGzhlQGxLa2qprNViohzCiQ7Y=/fit-in/1200x0/filters:focal(1600x1204:1601x1205)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Fc0%2F7e%2Fc07e6c42-244c-4bc4-880f-9129e1a30b8a%2Fopener_-_ghzs_dallaragione_002.jpg"
-        },
-        {
-          "id": "https://www.prisma.io/blog/announcing-prisma-postgres-early-access",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.prisma.io/blog/announcing-prisma-postgres-early-access",
-          "publishedOn": "2024-10-29T14:27:39.000Z",
-          "wordCount": 7276,
-          "title": "Prisma Postgres – Runs on bare metal and unikernels",
-          "imageUrl": "https://cdn.sanity.io/images/p2zxqf70/production/2c297432c8a097acb050f750b55f7f77053073b8-1266x711.png"
-        },
-        {
-          "id": "https://yalereview.org/article/chris-ware-richard-scarry",
-          "author": null,
-          "description": "Comments",
-          "link": "https://yalereview.org/article/chris-ware-richard-scarry",
-          "publishedOn": "2024-10-29T13:24:55.000Z",
-          "wordCount": 4803,
-          "title": "Writing in Pictures: Richard Scarry and the art of children's literature",
-          "imageUrl": "https://d181q449nqu6en.cloudfront.net/content/craft/articles/_1200x630_crop_center-center_82_none/Preview_Scarry-Cars-Trucks-Things-That-Go.jpg?mtime=20240908124526&focal=none&tmtime=20240908143436"
-        },
-        {
-          "id": "https://resobscura.substack.com/p/a-very-deep-history-of-halloween",
-          "author": null,
-          "description": "Comments",
-          "link": "https://resobscura.substack.com/p/a-very-deep-history-of-halloween",
-          "publishedOn": "2024-10-29T13:00:49.000Z",
-          "wordCount": null,
-          "title": "A deep history of Halloween",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/Integuru-AI/Integuru",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Integuru-AI/Integuru",
-          "publishedOn": "2024-10-29T13:00:40.000Z",
-          "wordCount": 3946,
-          "title": "Launch HN: Integuru (YC W24) – Reverse-engineer internal APIs using LLMs",
-          "imageUrl": "https://opengraph.githubassets.com/7783cd1fadb0a5ef47112aed0a769a2a37d33f265753f1f8087c9ce7f2909ccd/Integuru-AI/Integuru"
-        },
-        {
-          "id": "https://delroth.net/posts/spoofed-mass-scan-abuse/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://delroth.net/posts/spoofed-mass-scan-abuse/",
-          "publishedOn": "2024-10-29T11:17:57.000Z",
-          "wordCount": 2258,
-          "title": "How to get the whole planet to send abuse complaints to your best friends",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nkinternet.wordpress.com/2024/10/28/inspecting-north-koreas-digital-map-app-licensing-api-insights/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nkinternet.wordpress.com/2024/10/28/inspecting-north-koreas-digital-map-app-licensing-api-insights/",
-          "publishedOn": "2024-10-29T10:06:28.000Z",
-          "wordCount": 3925,
-          "title": "Inspecting North Korea's Digital Map App: Licensing and API Insights",
-          "imageUrl": "https://nkinternet.wordpress.com/wp-content/uploads/2024/10/map_icons.png"
-        },
-        {
-          "id": "https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html",
-          "publishedOn": "2024-10-29T08:29:15.000Z",
-          "wordCount": 3664,
-          "title": "AI Flame Graphs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.jacobstechtavern.com/p/apple-is-killing-swift",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.jacobstechtavern.com/p/apple-is-killing-swift",
-          "publishedOn": "2024-10-29T03:49:33.000Z",
-          "wordCount": 5764,
-          "title": "Swift – A great language strangled by governance",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89dffc78-ff80-4e66-9455-66ea7f979f5f_1024x768.jpeg"
-        },
-        {
-          "id": "https://www.baen.com/Chapters/0743498747/0743498747___1.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.baen.com/Chapters/0743498747/0743498747___1.htm",
-          "publishedOn": "2024-10-29T01:37:59.000Z",
-          "wordCount": 10522,
-          "title": "Rescue Party (1946)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.wired.com/story/the-secret-electrostatic-world-of-insects/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wired.com/story/the-secret-electrostatic-world-of-insects/",
-          "publishedOn": "2024-10-29T01:31:28.000Z",
-          "wordCount": 31566,
-          "title": "The electrostatic world of insects",
-          "imageUrl": "https://media.wired.com/photos/671ede7e48923c26c31ef8c7/191:100/w_1280,c_limit/diptych_GettyImages-1242384142.jpg"
-        },
-        {
-          "id": "https://invinciblethegame.com/?hn",
-          "author": null,
-          "description": "Comments",
-          "link": "https://invinciblethegame.com/?hn",
-          "publishedOn": "2024-10-29T00:52:26.000Z",
-          "wordCount": 692,
-          "title": "An indie studio created a game based on Stanislaw Lem's novel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41978235",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=41978235",
-          "publishedOn": "2024-10-29T00:49:24.000Z",
-          "wordCount": 2077,
-          "title": "Ask HN: Can calculus be taught without differentiating or integrating by hand?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://danluu.com/ballmer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://danluu.com/ballmer/",
-          "publishedOn": "2024-10-28T21:48:27.000Z",
-          "wordCount": 5799,
-          "title": "Steve Ballmer was an underrated CEO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering",
-          "publishedOn": "2024-10-28T21:43:25.000Z",
-          "wordCount": 15205,
-          "title": "Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers",
-          "imageUrl": "https://lever-client-logos.s3.us-west-2.amazonaws.com/2cb2e56f-c893-4c32-9d8b-6c4b5128c69a-1685568338183.png"
-        },
-        {
-          "id": "https://expressionstatement.com/html-form-validation-is-heavily-underused",
-          "author": null,
-          "description": "Comments",
-          "link": "https://expressionstatement.com/html-form-validation-is-heavily-underused",
-          "publishedOn": "2024-10-28T21:28:29.000Z",
-          "wordCount": 1775,
-          "title": "HTML Form Validation is underused",
-          "imageUrl": "https://expressionstatement.com/social-preview?post=html-form-validation-is-heavily-underused"
-        },
-        {
-          "id": "https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/",
-          "publishedOn": "2024-10-28T21:08:16.000Z",
-          "wordCount": 2691,
-          "title": "A return to hand-written notes by learning to read and write",
-          "imageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg"
-        },
-        {
-          "id": "https://harkness.substack.com/p/lady-baker-and-the-source-of-the",
-          "author": null,
-          "description": "Comments",
-          "link": "https://harkness.substack.com/p/lady-baker-and-the-source-of-the",
-          "publishedOn": "2024-10-28T20:53:21.000Z",
-          "wordCount": null,
-          "title": "Lady Baker and the Source of the Nile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gwern.net/matt-levine",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gwern.net/matt-levine",
-          "publishedOn": "2024-10-28T20:37:42.000Z",
-          "wordCount": 5013,
-          "title": "Why so few Matt Levines?",
-          "imageUrl": "https://gwern.net/static/img/logo/logo-whitebg-large-border.png"
-        },
-        {
-          "id": "https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/",
-          "publishedOn": "2024-10-28T20:18:32.000Z",
-          "wordCount": 3494,
-          "title": "Improving Xwayland window resizing",
-          "imageUrl": "https://blog.vladzahorodnii.com/wp-content/uploads/2024/10/basic-sync.png"
-        },
-        {
-          "id": "https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/",
-          "publishedOn": "2024-10-28T19:24:19.000Z",
-          "wordCount": 2106,
-          "title": "We're forking Flutter",
-          "imageUrl": "https://flutterfoundation.dev/images/flock_social-media.png"
-        },
-        {
-          "id": "https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity",
-          "publishedOn": "2024-10-28T19:09:22.000Z",
-          "wordCount": null,
-          "title": "Standardizing Automotive Connectivity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://paper.wf/binarycat/rtp",
-          "author": null,
-          "description": "Comments",
-          "link": "https://paper.wf/binarycat/rtp",
-          "publishedOn": "2024-10-28T18:06:31.000Z",
-          "wordCount": 1416,
-          "title": "RTP: One protocol to rule them all?",
-          "imageUrl": "https://paper.wf/img/avatars/b.png"
-        },
-        {
-          "id": "https://www.philipzucker.com/unify/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.philipzucker.com/unify/",
-          "publishedOn": "2024-10-28T17:53:21.000Z",
-          "wordCount": 5985,
-          "title": "Don't implement unification by recursion",
-          "imageUrl": "https://www.philipzucker.com/assets/logo.png"
-        },
-        {
-          "id": "https://openpipe.ai/blog/hacker-news-rlhf-part-1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://openpipe.ai/blog/hacker-news-rlhf-part-1",
-          "publishedOn": "2024-10-28T17:17:01.000Z",
-          "wordCount": 4224,
-          "title": "Using reinforcement learning and $4.80 of GPU time to find the best HN post",
-          "imageUrl": "https://framerusercontent.com/images/pPh2UeXFZfvnhtW1SOVhtzu1FlI.png"
         }
       ]
     },
@@ -9103,21 +9113,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/metabolic-chromatin-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/living-world/2024/parasitic-fungus-turns-insect-into-zombie",
-          "author": "Rohini Subrahmanyam",
-          "description": "A parasitic fungus takes over the brains of flies and controls them for its own sinister ends. Here’s the science behind the horror.",
-          "link": "https://knowablemagazine.org/content/article/living-world/2024/parasitic-fungus-turns-insect-into-zombie",
-          "publishedOn": "2024-10-29T04:36:44.194Z",
-          "wordCount": 4109,
-          "title": "Night of the zombie insects",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/zombie-flies-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/zombie-flies-500x288.jpg"
         }
       ]
     },
@@ -9245,26 +9240,6 @@
           "wordCount": 3051,
           "title": "Sampling from High-Dimensional Gaussian Distributions without the Full Covariance Matrix",
           "imageUrl": "https://danmackinlay.name/images/c_for_committee_utriusquecosmima01flud_0646.thumbnail.avif"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/singular_learning_theory.html",
-          "author": null,
-          "description": "Figure 1\n\n\n\nPlaceholder.\nJesse Hoogland, Neural networks generalize because of this one weird trick:\nStatistical learning theory is lying to you: “overparametrized” models actually aren’t overparametrized, and generalization is not just a question of broad basins.\n1 Incoming\nAlexander Gietelink Oldenziel, Singular Learning Theory\n\n\nmetauni’s Singular Learning Theory seminar\n\n\nSpooky action at a distance in the loss landscape\n\n\nTimaeus\nTimaeus is an AI safety research organization working on applications of singular learning theory (SLT) to alignment.\n\n\n\n\n2 References\n“Phase Transitions in Neural Networks.”\n\n\nFarrugia-Roberts, Murfet, and Geard. 2022. “Structural Degeneracy in Neural Networks.”\n\n\nLin. 2011. “Algebraic Methods for Evaluating Integrals in Bayesian Statistics.”\n\n\nWatanabe. 2009. Algebraic Geometry and Statistical Learning Theory. Cambridge Monographs on Applied and Computational Mathematics.\n\n\n———. 2020. Mathematical theory of Bayesian statistics.\n\n\nWei, and Lau. 2023. “Variational Bayesian Neural Networks via Resolution of Singularities.” Journal of Computational and Graphical Statistics.\n\n\nWei, Murfet, Gong, et al. 2023. “Deep Learning Is Singular, and That’s Good.” IEEE Transactions on Neural Networks and Learning Systems.",
-          "link": "https://danmackinlay.name/notebook/singular_learning_theory.html",
-          "publishedOn": "2024-10-29T12:09:36.000Z",
-          "wordCount": 1841,
-          "title": "Singular Learning Theory",
-          "imageUrl": "https://danmackinlay.name/images/physics_muse_RP-P-OB-86.130.thumbnail.avif"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/nn_generative_verification.html",
-          "author": null,
-          "description": "Figure 1\n\n\n\nVarious interesting questions in this domain. How do we verify the authenticity of content? How can we tell if a piece of text was generated by an AI, and if so, which one? Enter the world of watermarking and cryptographic signatures for AI outputs.\nConsider scenarios like academic integrity, misinformation campaigns, or intellectual property rights. If someone uses an AI model to generate a paper and passes it off as original work, that’s a headache for educators. On a larger scale, various actors could flood social media with AI-generated propaganda. How much can we mitigate these problems by verifying the origin of content?\nOverviews in (Cui et al. 2024; Zhu et al. 2024).\nNot covered: Data-blind methods such as homomorphic learning, federated learning…\n1 Ownership of models\n…",
-          "link": "https://danmackinlay.name/notebook/nn_generative_verification.html",
-          "publishedOn": "2024-10-29T00:19:06.000Z",
-          "wordCount": 2436,
-          "title": "Verification and detection of generative AI",
-          "imageUrl": "https://danmackinlay.name/images/lucifer_diagram_RP-P-1985-40.thumbnail.avif"
         }
       ]
     },
