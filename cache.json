@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382731",
+          "author": "Ryan Trimble",
+          "description": "We can anchor one element to another. We can also attach one element to multiple anchors. In this experiment, Ryan riffs on those ideas and comes up with a new way to transition between two anchors and the result is a practical use case that would normally require JavaScript.\nOne of Those “Onboarding” UIs, With Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/one-of-those-onboarding-uis-with-anchor-positioning/",
+          "publishedOn": "2024-12-02T14:02:13.000Z",
+          "wordCount": 5040,
+          "title": "One of Those “Onboarding” UIs, With Anchor Positioning",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/11/anchor-view-driven-animation.mov",
+            "length": "7007669",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/08/css-modules-connections.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=382697",
           "author": "Scott Fennell",
           "description": "What's it look like to create a dashboard within the WordPress admin for analyzing Google Analytics data across 900 blogs across 25 multisite instances? It involves designing a user-friendly interface, leveraging the WordPress REST API, implementing a plugin for data retrieval, and addressing challenges like rate limits and authentication.\nWordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -133,6 +148,36 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/12/bundle-up-and-save/",
+          "author": "hello@smashingmagazine.com (The Smashing Team)",
+          "description": "It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!",
+          "link": "https://smashingmagazine.com/2024/12/bundle-up-and-save/",
+          "publishedOn": "2024-12-03T12:00:00.000Z",
+          "wordCount": 3704,
+          "title": "Bundle Up And Save On Smashing Books And Workshops",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
+          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
+          "description": "Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.",
+          "link": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
+          "publishedOn": "2024-12-03T10:00:00.000Z",
+          "wordCount": 5231,
+          "title": "Creating An Effective Multistep Form For Better User Experience",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -261,6 +306,226 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://ppc.web.cern.ch/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ppc.web.cern.ch/",
+          "publishedOn": "2024-12-04T03:49:37.000Z",
+          "wordCount": 3396,
+          "title": "A Particle Physics Course for High-School Students",
+          "imageUrl": null
+        },
+        {
+          "id": "https://emacsconf.org/2024/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://emacsconf.org/2024/",
+          "publishedOn": "2024-12-04T02:42:07.000Z",
+          "wordCount": 1107,
+          "title": "EmacsConf 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.propublica.org/article/formaldehyde-epa-trump-public-health-danger",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.propublica.org/article/formaldehyde-epa-trump-public-health-danger",
+          "publishedOn": "2024-12-04T02:16:27.000Z",
+          "wordCount": 7414,
+          "title": "Formaldehyde Causes More Cancer Than Any Other Toxic Air Pollutant",
+          "imageUrl": "https://img.assets-c3.propublica.org/images/articles/formaldehyde-indoor-air-final-og-2.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssets&q=90&w=1200&s=b2120e4d79261809f7e070de28759497"
+        },
+        {
+          "id": "https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/",
+          "publishedOn": "2024-12-04T00:45:41.000Z",
+          "wordCount": 2365,
+          "title": "Automated reasoning to remove LLM hallucinations",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2024/11/18/Guardrails-automated-reasoning.png"
+        },
+        {
+          "id": "https://github.com/JeffrayZhang/terse-cli",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/JeffrayZhang/terse-cli",
+          "publishedOn": "2024-12-03T22:40:25.000Z",
+          "wordCount": 2799,
+          "title": "Rust library for building no-boilerplate CLI apps",
+          "imageUrl": "https://opengraph.githubassets.com/cb4351db767907e53ea809a7d8a7b8ff1df5184746da0f2927b3fe8f76eefbc5/JeffrayZhang/terse-cli"
+        },
+        {
+          "id": "https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0",
+          "publishedOn": "2024-12-03T22:28:47.000Z",
+          "wordCount": 2962,
+          "title": "Phoenix LiveView 1.0.0 is here",
+          "imageUrl": null
+        },
+        {
+          "id": "https://astral.sh/blog/python-build-standalone",
+          "author": null,
+          "description": "Comments",
+          "link": "https://astral.sh/blog/python-build-standalone",
+          "publishedOn": "2024-12-03T22:26:08.000Z",
+          "wordCount": 2880,
+          "title": "A new home for Python-build-standalone",
+          "imageUrl": "https://astral.sh/static/OpenGraph/Astral.jpg"
+        },
+        {
+          "id": "https://www.armaansahni.com/game/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.armaansahni.com/game/",
+          "publishedOn": "2024-12-03T22:08:16.000Z",
+          "wordCount": 875,
+          "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html",
+          "publishedOn": "2024-12-03T21:38:46.000Z",
+          "wordCount": 428,
+          "title": "Creating a Proxmox or QEMU ChromeOS Flex VM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer",
+          "publishedOn": "2024-12-03T21:00:04.000Z",
+          "wordCount": 1408,
+          "title": "Openlayer (YC S21) is looking for top-tier design engineers",
+          "imageUrl": "https://yc-workatastartup-production.s3.amazonaws.com/jobs_company_jobs/images/70360/9666e3de94c632475ccad03b5cd571965148ea8b.jpg?1730245476"
+        },
+        {
+          "id": "https://egoless.engineering/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://egoless.engineering/",
+          "publishedOn": "2024-12-03T20:38:23.000Z",
+          "wordCount": 3552,
+          "title": "Egoless Engineering",
+          "imageUrl": "https://egoless.engineering/slides/slides.001.jpeg"
+        },
+        {
+          "id": "https://github.com/keyvank/30cc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/keyvank/30cc",
+          "publishedOn": "2024-12-03T20:35:24.000Z",
+          "wordCount": 2635,
+          "title": "Show HN: My C compiler compiled itself",
+          "imageUrl": "https://opengraph.githubassets.com/c26ffe65c1df1b77b4732c628d1e1879f98cc4edc8bb4a656bb3e6c54ac6edeb/keyvank/30cc"
+        },
+        {
+          "id": "https://www.thetubecomputer.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thetubecomputer.com/",
+          "publishedOn": "2024-12-03T18:54:00.000Z",
+          "wordCount": 2067,
+          "title": "The Tube Computer",
+          "imageUrl": "https://www.thetubecomputer.com/gallery_gen/fc7e445232b60f0aaa39e9cd6a62c5f9_fit.png"
+        },
+        {
+          "id": "https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers",
+          "publishedOn": "2024-12-03T18:25:40.000Z",
+          "wordCount": 2379,
+          "title": "FTC takes action against Gravy Analytics, Venntel for selling location data",
+          "imageUrl": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg"
+        },
+        {
+          "id": "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/",
+          "publishedOn": "2024-12-03T18:04:45.000Z",
+          "wordCount": 2993,
+          "title": "Amazon Nova",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2024/11/20/Bedrock-Nova-feat-img-1260x630.png"
+        },
+        {
+          "id": "https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette",
+          "publishedOn": "2024-12-03T17:19:37.000Z",
+          "wordCount": 2061,
+          "title": "Intel announces Arc B-series \"Battlemage\" discrete graphics with Linux support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/",
+          "publishedOn": "2024-12-03T16:49:32.000Z",
+          "wordCount": 2710,
+          "title": "My brand new digitizing workflow using a 25 year old film scanner",
+          "imageUrl": "https://blog.vladovince.com/wp-content/uploads/2024/12/WhatsApp-Image-2024-12-01-at-23.05.03.jpeg"
+        },
+        {
+          "id": "https://skia-canvas.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://skia-canvas.org/",
+          "publishedOn": "2024-12-03T16:34:18.000Z",
+          "wordCount": 650,
+          "title": "Skia Canvas: Browserless implementation of the HTML Canvas drawing API for node",
+          "imageUrl": "https://skia-canvas.github.io/img/social-card.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42307393",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42307393",
+          "publishedOn": "2024-12-03T15:46:57.000Z",
+          "wordCount": 1638,
+          "title": "Launch HN: Vocera (YC F24) – Testing and Observability for Voice AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://annali.netlify.app/2024/11/20/tweaking-stunt-island",
+          "author": null,
+          "description": "Comments",
+          "link": "https://annali.netlify.app/2024/11/20/tweaking-stunt-island",
+          "publishedOn": "2024-12-03T13:44:59.000Z",
+          "wordCount": 3240,
+          "title": "Tweaking Stunt Island's 30-year-old 3D engine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/",
+          "publishedOn": "2024-12-03T13:30:40.000Z",
+          "wordCount": 1702,
+          "title": "Phishers Love New TLDs Like .shop, .top and .xyz",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/",
+          "publishedOn": "2024-12-03T12:16:33.000Z",
+          "wordCount": 738,
+          "title": "Dependency management fatigue, or why I ditched React for Go+HTMX+Templ",
+          "imageUrl": "https://blog.erodriguez.de/images/share.png"
+        },
+        {
           "id": "https://www.henrikkarlsson.xyz/p/art-gallery",
           "author": null,
           "description": "Comments",
@@ -269,6 +534,16 @@
           "wordCount": 8068,
           "title": "Lessons I learned working at an art gallery",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe720a953-2771-40ab-8b09-2e6d24c2ba93_857x1056.jpeg"
+        },
+        {
+          "id": "https://www.bonbook.co/showhn",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bonbook.co/showhn",
+          "publishedOn": "2024-12-03T02:31:29.000Z",
+          "wordCount": 495,
+          "title": "Show HN: Book and change flights with one email",
+          "imageUrl": null
         },
         {
           "id": "https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html",
@@ -871,6 +1146,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://raghavan.usc.edu/papers/infobatteries-eir21.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://raghavan.usc.edu/papers/infobatteries-eir21.pdf",
+          "publishedOn": "2024-11-30T09:01:56.000Z",
+          "wordCount": 21902,
+          "title": "Information Batteries (2021) [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mariakonnikova.substack.com/p/gratitude-despite-the-odds",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mariakonnikova.substack.com/p/gratitude-despite-the-odds",
+          "publishedOn": "2024-11-30T08:16:24.000Z",
+          "wordCount": null,
+          "title": "Gratitude Despite the Odds",
+          "imageUrl": null
+        },
+        {
           "id": "https://linus.coffee/note/software-industry/",
           "author": null,
           "description": "Comments",
@@ -961,6 +1256,16 @@
           "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg"
         },
         {
+          "id": "https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html",
+          "publishedOn": "2024-11-29T23:22:16.000Z",
+          "wordCount": 5563,
+          "title": "Making a parallel Rust workload 10x faster with (or without) Rayon",
+          "imageUrl": null
+        },
+        {
           "id": "https://getcho.app/blog/triangle-fraud-brick-mortar/",
           "author": null,
           "description": "Comments",
@@ -1008,6 +1313,16 @@
           "publishedOn": "2024-11-29T20:49:28.000Z",
           "wordCount": 1673,
           "title": "Ask HN: Platform for senior devs to learn other programming languages?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kaiec.github.io/EstyJS/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kaiec.github.io/EstyJS/",
+          "publishedOn": "2024-11-29T20:40:05.000Z",
+          "wordCount": 336,
+          "title": "EstyJS 2.0 (emulator for the Atari ST, written in 100% pure JavaScript)",
           "imageUrl": null
         },
         {
@@ -1159,6 +1474,16 @@
           "wordCount": 2824,
           "title": "Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI",
           "imageUrl": "https://www.niemanlab.org/images/andrew-neel-CVfAqFRYjb0-unsplash-700x467.jpg"
+        },
+        {
+          "id": "https://github.com/glojurelang/glojure",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/glojurelang/glojure",
+          "publishedOn": "2024-11-29T09:29:56.000Z",
+          "wordCount": 4098,
+          "title": "Glojure: Clojure interpreter hosted on Go, with extensible interop support",
+          "imageUrl": "https://repository-images.githubusercontent.com/570750090/6e70cd38-3c44-4bdb-a204-0ef41d9cb9da"
         },
         {
           "id": "https://github.com/vinceanalytics/vince",
@@ -1601,6 +1926,16 @@
           "imageUrl": "https://bernsteinbear.com/favicon.ico"
         },
         {
+          "id": "https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html",
+          "publishedOn": "2024-11-27T17:51:09.000Z",
+          "wordCount": 4421,
+          "title": "Homography Explained with Code",
+          "imageUrl": null
+        },
+        {
           "id": "https://scrollprize.substack.com/p/first-letters-found-in-new-scroll",
           "author": null,
           "description": "Comments",
@@ -1699,6 +2034,16 @@
           "wordCount": 1383,
           "title": "The Opposite of Documentation is Superstition (2020)",
           "imageUrl": "https://buttondown.com/static/images/icons/icon-square@400.png"
+        },
+        {
+          "id": "https://underjord.io/voice-activity-detection-elixir-membrane.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://underjord.io/voice-activity-detection-elixir-membrane.html",
+          "publishedOn": "2024-11-27T07:37:11.000Z",
+          "wordCount": 1843,
+          "title": "Voice Activity Detection in Elixir with Membran",
+          "imageUrl": "https://underjord.io/img/preview.png"
         },
         {
           "id": "https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe",
@@ -8259,356 +8604,6 @@
           "wordCount": 469,
           "title": "Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF)",
           "imageUrl": "/images/original/missing.png"
-        },
-        {
-          "id": "https://www.ucdavis.edu/news/roots-fear-understanding-amygdala",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ucdavis.edu/news/roots-fear-understanding-amygdala",
-          "publishedOn": "2024-11-04T15:29:07.000Z",
-          "wordCount": 1666,
-          "title": "The Roots of Fear: Understanding the Amygdala",
-          "imageUrl": "https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/media/images/GettyImages-1770635995.jpg?h=fcf25457&itok=czvEvFDg"
-        },
-        {
-          "id": "https://www.paulrand.design/work/NeXT-Computers.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.paulrand.design/work/NeXT-Computers.html",
-          "publishedOn": "2024-11-04T15:26:32.000Z",
-          "wordCount": 1349,
-          "title": "What should a logo for NeXT look like? (1986)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect",
-          "author": null,
-          "description": "Comments",
-          "link": "https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect",
-          "publishedOn": "2024-11-04T14:51:10.000Z",
-          "wordCount": null,
-          "title": "Alonzo Church: Architect of computer intelligence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.gitpod.io/blog/we-are-leaving-kubernetes",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gitpod.io/blog/we-are-leaving-kubernetes",
-          "publishedOn": "2024-11-04T14:41:28.000Z",
-          "wordCount": 4712,
-          "title": "We're Leaving Kubernetes",
-          "imageUrl": "https://www.gitpod.io/images/blog/we-are-leaving-kubernetes/teaser.jpg"
-        },
-        {
-          "id": "https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html",
-          "publishedOn": "2024-11-04T14:00:59.000Z",
-          "wordCount": 6504,
-          "title": "Facebook Building Subsea Cable That Will Encompass the World",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd8lgjVA9VfOQRcWcLIs1cPbI1DAqtBljhCoRXp5z8ba7Pn6SnKQXtFhjmuBeTCt2wxECl_8OnjT9wt5dc3X47E-KwD_EcWn4u0p3Vd2S_TXGLLw3qrWueaedO2_Xw8Os4fEUpA2fmDaL0fih2jXwtCQP4ZUZYGA_AiZghSHyJB2R4ktQEcIrnY5LhFTM/w1200-h630-p-k-no-nu/Submarine-Cable-Map.jpg"
-        },
-        {
-          "id": "https://github.com/cjdrake/seqlogic",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/cjdrake/seqlogic",
-          "publishedOn": "2024-11-04T13:30:57.000Z",
-          "wordCount": 3124,
-          "title": "Python Logic Simulation Library",
-          "imageUrl": "https://opengraph.githubassets.com/73fefa790935b716e9446ae699e2591d15922fcc579814af3bf06d7b19da3411/cjdrake/seqlogic"
-        },
-        {
-          "id": "https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/",
-          "publishedOn": "2024-11-04T12:08:30.000Z",
-          "wordCount": null,
-          "title": "New York Times Tech Guild goes on strike",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thecollector.com/q-source-origin-gospels/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.thecollector.com/q-source-origin-gospels/",
-          "publishedOn": "2024-11-04T11:55:30.000Z",
-          "wordCount": 15116,
-          "title": "Is the Q source the origin of the Gospels?",
-          "imageUrl": "https://cdn.thecollector.com/wp-content/uploads/2024/10/q-source-origin-gospels.jpg"
-        },
-        {
-          "id": "https://apnews.com/article/quincy-jones-dead-a9e31c7e39c448d8971519f47a22dd21",
-          "author": null,
-          "description": "Comments",
-          "link": "https://apnews.com/article/quincy-jones-dead-a9e31c7e39c448d8971519f47a22dd21",
-          "publishedOn": "2024-11-04T08:13:45.000Z",
-          "wordCount": null,
-          "title": "Quincy Jones has died",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thejenkinscomic.net/shaderblocks/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thejenkinscomic.net/shaderblocks/",
-          "publishedOn": "2024-11-04T07:19:27.000Z",
-          "wordCount": 19,
-          "title": "Shaderblocks: Block-based image editing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/",
-          "publishedOn": "2024-11-04T06:56:23.000Z",
-          "wordCount": 4351,
-          "title": "In Memory of Stiver",
-          "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2024/11/ij-social_share_blog_1280x720_en.png"
-        },
-        {
-          "id": "http://rachelbythebay.com/w/2021/02/19/perf/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://rachelbythebay.com/w/2021/02/19/perf/",
-          "publishedOn": "2024-11-04T06:30:00.000Z",
-          "wordCount": null,
-          "title": "Unfortunate things about performance reviews (2021)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sgringwe.com/2019/10/10/Please-just-stop-saying-just.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sgringwe.com/2019/10/10/Please-just-stop-saying-just.html",
-          "publishedOn": "2024-11-04T03:25:49.000Z",
-          "wordCount": 835,
-          "title": "Please just stop saying \"just\" (2019)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://xenondata.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://xenondata.org/",
-          "publishedOn": "2024-11-04T02:56:09.000Z",
-          "wordCount": 2259,
-          "title": "New better alterative to XML, JSON and YAML",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arxiv.org/abs/2410.16454",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2410.16454",
-          "publishedOn": "2024-11-04T02:52:14.000Z",
-          "wordCount": 775,
-          "title": "An embarrassingly simple approach to recover unlearned knowledge for LLMs",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://fortune.com/2024/03/25/mounting-evidence-starting-business-reduces-stress-persistent-myths-stopping-employees-careers-success/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fortune.com/2024/03/25/mounting-evidence-starting-business-reduces-stress-persistent-myths-stopping-employees-careers-success/",
-          "publishedOn": "2024-11-04T02:50:19.000Z",
-          "wordCount": 6575,
-          "title": "There is mounting evidence that starting a business reduces stress",
-          "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2024/03/GettyImages-1087304158.jpg?resize=1200,600"
-        },
-        {
-          "id": "https://www.popsci.com/technology/ham-radio-new-york-marathon/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.popsci.com/technology/ham-radio-new-york-marathon/",
-          "publishedOn": "2024-11-04T02:04:18.000Z",
-          "wordCount": 4846,
-          "title": "Ham radio enthusiasts who help keep the NYC Marathon running smoothly",
-          "imageUrl": "https://www.popsci.com/wp-content/uploads/2024/11/ham-radios-nyc-marathon.jpg"
-        },
-        {
-          "id": "https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html",
-          "publishedOn": "2024-11-04T00:42:58.000Z",
-          "wordCount": 2070,
-          "title": "Scientists glue two proteins together, driving cancer cells to self-destruct",
-          "imageUrl": "https://med.stanford.edu/content/dam/sm-news/images/2024/10/chemotherapeutic.jpg"
-        },
-        {
-          "id": "https://www.cs.cmu.edu/~weigand/staff/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cs.cmu.edu/~weigand/staff/",
-          "publishedOn": "2024-11-04T00:19:24.000Z",
-          "wordCount": 353,
-          "title": "Reasonable Person Principle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://michaelengen.com/posts/my-eleventy-resume/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://michaelengen.com/posts/my-eleventy-resume/",
-          "publishedOn": "2024-11-03T23:50:44.000Z",
-          "wordCount": 1447,
-          "title": "Building My Resume in HTML Using Eleventy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://si.inc/hertz-dev/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://si.inc/hertz-dev/",
-          "publishedOn": "2024-11-03T23:30:48.000Z",
-          "wordCount": 918,
-          "title": "Hertz-dev, the first open-source base model for conversational audio",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds",
-          "publishedOn": "2024-11-03T22:47:19.000Z",
-          "wordCount": 41867,
-          "title": "Why Facts Don't Change Our Minds",
-          "imageUrl": "https://media.newyorker.com/photos/59097e2f8b51cf59fc42419f/16:9/w_1280,c_limit/170227_r29468.jpg"
-        },
-        {
-          "id": "https://hardenedbsd.org/content/easy-feature-comparison",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hardenedbsd.org/content/easy-feature-comparison",
-          "publishedOn": "2024-11-03T22:35:16.000Z",
-          "wordCount": 338,
-          "title": "HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://throwflame.com/products/flamethrower-drone-kit/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://throwflame.com/products/flamethrower-drone-kit/",
-          "publishedOn": "2024-11-03T22:23:19.000Z",
-          "wordCount": 6032,
-          "title": "Wasp Flamethrower Drone Attachment",
-          "imageUrl": "https://d2p4va2bfxy5el.cloudfront.net/wp-content/uploads/2019/05/16141650/TF-19-square.jpg"
-        },
-        {
-          "id": "https://kevinboone.me/systemd_embedded.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kevinboone.me/systemd_embedded.html",
-          "publishedOn": "2024-11-03T21:42:26.000Z",
-          "wordCount": 1963,
-          "title": "Why systemd is a problem for embedded Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://spin.atomicobject.com/redis-postgresql/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spin.atomicobject.com/redis-postgresql/",
-          "publishedOn": "2024-11-03T21:42:03.000Z",
-          "wordCount": 2817,
-          "title": "Do you need Redis? PostgreSQL does queuing, locking, and pub/sub",
-          "imageUrl": "https://spin.atomicobject.com/wp-content/uploads/PostgreSQL-e1624390154790.jpeg"
-        },
-        {
-          "id": "https://whatdinner.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://whatdinner.com/",
-          "publishedOn": "2024-11-03T20:56:05.000Z",
-          "wordCount": 93,
-          "title": "Show HN: Tinder, but to Decide What to Eat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.abortretry.fail/p/a-brief-history-of-cyrix",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.abortretry.fail/p/a-brief-history-of-cyrix",
-          "publishedOn": "2024-11-03T20:47:56.000Z",
-          "wordCount": 6107,
-          "title": "A Brief History of Cyrix",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd4b7451-587f-41c7-ab2f-52c4d1990df8_2605x2307.webp"
-        },
-        {
-          "id": "https://lmcinnes.github.io/datamapplot_examples/hackernews/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lmcinnes.github.io/datamapplot_examples/hackernews/",
-          "publishedOn": "2024-11-03T20:45:50.000Z",
-          "wordCount": 2221,
-          "title": "Hacker News Data Map [180MB]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/altera-al/project-sid",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/altera-al/project-sid",
-          "publishedOn": "2024-11-03T19:09:19.000Z",
-          "wordCount": 2390,
-          "title": "Project Sid: Many-agent simulations toward AI civilization",
-          "imageUrl": "https://opengraph.githubassets.com/6775a57a4bd5f334fdbb196c0a7fc6ad84ba00059c641f6ebbef67f732d2c86e/altera-al/project-sid"
-        },
-        {
-          "id": "https://github.com/karthink/gptel",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/karthink/gptel",
-          "publishedOn": "2024-11-03T17:52:25.000Z",
-          "wordCount": 21536,
-          "title": "gptel: a simple LLM client for Emacs",
-          "imageUrl": "https://repository-images.githubusercontent.com/610038902/2af098f1-9230-4166-ad18-f02cc3ca2a85"
-        },
-        {
-          "id": "https://github.com/ahmetsait/toolgit",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/ahmetsait/toolgit",
-          "publishedOn": "2024-11-03T17:32:52.000Z",
-          "wordCount": 3664,
-          "title": "ToolGit: A collection of scripts that extend Git with various sub-commands",
-          "imageUrl": "https://opengraph.githubassets.com/25dda38ab7fa26980e29d17d257996c50a54a072d6a572e1147970be241e2568/ahmetsait/toolgit"
-        },
-        {
-          "id": "https://www.juggle.org/claude-shannon-mathematician-engineer-genius-juggler/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.juggle.org/claude-shannon-mathematician-engineer-genius-juggler/",
-          "publishedOn": "2024-11-03T17:09:42.000Z",
-          "wordCount": 5954,
-          "title": "Claude Shannon: Mathematician, engineer, genius and juggler (2017)",
-          "imageUrl": "https://www.juggle.org/wp-content/uploads/2017/08/Claude-Shannon-Juggling-1_html_m2cde015f.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42034242",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=42034242",
-          "publishedOn": "2024-11-03T17:02:51.000Z",
-          "wordCount": 245,
-          "title": "GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.pgflo.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.pgflo.io/",
-          "publishedOn": "2024-11-03T17:02:11.000Z",
-          "wordCount": 477,
-          "title": "pg_flo – Stream, transform, and re-route PostgreSQL data in real-time",
-          "imageUrl": "https://pgflo.io/img/social.png?1=1"
         }
       ]
     },
@@ -8674,6 +8669,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/living-world/2024/the-clever-ways-that-brood-parasites-trick-other-birds",
+          "author": "Sofia Quaglia",
+          "description": "Cuckoos, cowbirds and other species outsource their parental duties. Scientists are uncovering new twists in this sneaky — and often treacherous — game of survival.",
+          "link": "https://knowablemagazine.org/content/article/living-world/2024/the-clever-ways-that-brood-parasites-trick-other-birds",
+          "publishedOn": "2024-12-04T04:38:01.405Z",
+          "wordCount": 4081,
+          "title": "Are you my baby? The clever ways that brood parasites trick other birds",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/brood-parasite2-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/brood-parasite2-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/living-world/2024/evolution-of-multicelled-life",
           "author": "Amber Dance",
