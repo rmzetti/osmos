@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382867",
+          "author": "Lorenz Wöehr",
+          "description": "How much attention do you pay to the alignments of your subscripts and superscripts? Lorenz Wöehr has you covered with a recipe for fluid scaling.\nFluid Superscripts and Subscripts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fluid-superscripts-and-subscripts/",
+          "publishedOn": "2024-12-11T20:23:46.000Z",
+          "wordCount": 2618,
+          "title": "Fluid Superscripts and Subscripts",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/fluid-super-subscripts-1.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=382974",
           "author": "Juan Diego Rodríguez",
           "description": "The CSSWG met to try and finally squash a debate that has been going on for five years: whether Masonry should be a part of Grid or a separate system. We've got coverage of both presentations for ya.\nCSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -150,16 +160,6 @@
           "wordCount": 1824,
           "title": "Complete CSS Course",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382566"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382469",
-          "author": "Geoff Graham",
-          "description": "You've played Flexbox Froggy before, right? Or maybe Grid Garden? They're both absolute musts for learning the basics of modern CSS layout using Flexbox and CSS Grid. Thomas Park made those and he's back with another game: Anchoreum.\nAnchoreum: A New Game for Learning Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/anchoreum-a-new-game-for-learning-anchor-positioning/",
-          "publishedOn": "2024-11-12T14:56:22.000Z",
-          "wordCount": 1836,
-          "title": "Anchoreum: A New Game for Learning Anchor Positioning",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382469"
         }
       ]
     },
@@ -168,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
+          "author": "hello@smashingmagazine.com (Mariana Beldi)",
+          "description": "10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.",
+          "link": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
+          "publishedOn": "2024-12-11T15:00:00.000Z",
+          "wordCount": 6652,
+          "title": "An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/12/mastering-svg-arcs/",
           "author": "hello@smashingmagazine.com (Akshay Gupta)",
@@ -302,21 +317,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/open-source-meets-design-tooling-penpot/open-source-meets-design-tooling-penpot.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/11/bundle-up-and-save/",
-          "author": "hello@smashingmagazine.com (The Smashing Team)",
-          "description": "It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!",
-          "link": "https://smashingmagazine.com/2024/11/bundle-up-and-save/",
-          "publishedOn": "2024-11-12T15:00:00.000Z",
-          "wordCount": 3705,
-          "title": "Bundle Up And Save On Smashing Books And Workshops",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png"
         }
       ]
     },
@@ -325,6 +325,216 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f",
+          "publishedOn": "2024-12-11T20:48:43.000Z",
+          "wordCount": 945,
+          "title": "QEMU with VirtIO GPU Vulkan Support",
+          "imageUrl": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
+        },
+        {
+          "id": "https://github.com/luchina-gabriel/OSX-PROXMOX",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/luchina-gabriel/OSX-PROXMOX",
+          "publishedOn": "2024-12-11T20:36:19.000Z",
+          "wordCount": 3618,
+          "title": "Instant macOS install on Proxmox including AMD patches",
+          "imageUrl": "https://opengraph.githubassets.com/a9b53bb36431b24d6a41ada40c911cc401d5fea7fa794b85f317748bbbe481bc/luchina-gabriel/OSX-PROXMOX"
+        },
+        {
+          "id": "https://start.boldvoice.com/accent-guesser",
+          "author": null,
+          "description": "Comments",
+          "link": "https://start.boldvoice.com/accent-guesser",
+          "publishedOn": "2024-12-11T19:54:20.000Z",
+          "wordCount": 1578,
+          "title": "AI Guesses Your Accent",
+          "imageUrl": "https://start.boldvoice.com/images/accent_guesser_share_img.png"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency",
+          "publishedOn": "2024-12-11T19:02:19.000Z",
+          "wordCount": 4284,
+          "title": "Mysterious New Jersey drone sightings prompt call for 'state of emergency'",
+          "imageUrl": "https://i.guim.co.uk/img/media/092f28ea620f547e4eee6234a0b65b364dcafec2/0_124_3083_1851/master/3083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4938373f199b4c1e5fc40eab947ade3"
+        },
+        {
+          "id": "https://docs.fcc.gov/public/attachments/DOC-408083A1.txt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://docs.fcc.gov/public/attachments/DOC-408083A1.txt",
+          "publishedOn": "2024-12-11T18:41:57.000Z",
+          "wordCount": 980,
+          "title": "2400 phone providers may be shut down by the FCC for failing to stop robocalls",
+          "imageUrl": null
+        },
+        {
+          "id": "https://x41-dsec.de/news/2024/12/11/mullvad/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://x41-dsec.de/news/2024/12/11/mullvad/",
+          "publishedOn": "2024-12-11T18:08:13.000Z",
+          "wordCount": 584,
+          "title": "Review of Mullvad VPN",
+          "imageUrl": "https://x41-dsec.de/opengraph/d0ea49a561a8d1ed9d0ee626cd386de2c8586d07.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42390761",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42390761",
+          "publishedOn": "2024-12-11T18:07:11.000Z",
+          "wordCount": 5243,
+          "title": "Launch HN: Azalea Robotics (YC S24) – Baggage-handling robots for airports",
+          "imageUrl": null
+        },
+        {
+          "id": "https://docs.fcc.gov/public/attachments/DOC-408129A1.txt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://docs.fcc.gov/public/attachments/DOC-408129A1.txt",
+          "publishedOn": "2024-12-11T17:35:04.000Z",
+          "wordCount": 422,
+          "title": "FCC opens entire 6 GHz band to low power device operations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/",
+          "publishedOn": "2024-12-11T17:23:33.000Z",
+          "wordCount": 22946,
+          "title": "OnlyFans models are using AI impersonators to keep up with their DMs",
+          "imageUrl": "https://media.wired.com/photos/6758c29edd75e1decd83efc4/191:100/w_1280,c_limit/AI-Lab-OnlyFans-Bot-Flirting-Business-200325935-001.jpg"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer",
+          "publishedOn": "2024-12-11T17:00:41.000Z",
+          "wordCount": 1189,
+          "title": "Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu",
+          "publishedOn": "2024-12-11T16:33:56.000Z",
+          "wordCount": 1664,
+          "title": "RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available",
+          "imageUrl": "https://www.sifive.com/assets/fb-black.png"
+        },
+        {
+          "id": "https://pgroll.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pgroll.com/",
+          "publishedOn": "2024-12-11T15:51:22.000Z",
+          "wordCount": 2937,
+          "title": "Pgroll – Zero-downtime, reversible, schema changes for PostgreSQL (new website)",
+          "imageUrl": "https://pgroll.com/website_template_og.webp"
+        },
+        {
+          "id": "https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga",
+          "publishedOn": "2024-12-11T15:44:58.000Z",
+          "wordCount": 25184,
+          "title": "Trillium TPU Is GA",
+          "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/trillium.max-2500x2500.jpg"
+        },
+        {
+          "id": "https://pilcrowonpaper.com/blog/dear-oauth-providers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pilcrowonpaper.com/blog/dear-oauth-providers/",
+          "publishedOn": "2024-12-11T15:42:20.000Z",
+          "wordCount": 424,
+          "title": "Dear OAuth Providers",
+          "imageUrl": "https://pilcrowonpaper.com/profile.jpg"
+        },
+        {
+          "id": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
+          "publishedOn": "2024-12-11T15:33:54.000Z",
+          "wordCount": 3672,
+          "title": "Gemini 2.0: our new AI model for the agentic era",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_gemini_hero_thumbnail.width-1300.png"
+        },
+        {
+          "id": "https://dioxuslabs.com/blog/release-060/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dioxuslabs.com/blog/release-060/",
+          "publishedOn": "2024-12-11T15:24:10.000Z",
+          "wordCount": 4768,
+          "title": "Dioxus 0.6 – Crossplatform apps with Rust",
+          "imageUrl": "https://dioxuslabs.com/assets/static/opengraph.png"
+        },
+        {
+          "id": "https://joinpeertube.org/news/peertube-app",
+          "author": null,
+          "description": "Comments",
+          "link": "https://joinpeertube.org/news/peertube-app",
+          "publishedOn": "2024-12-11T15:09:56.000Z",
+          "wordCount": 1740,
+          "title": "PeerTube mobile app: discover videos while caring for your attention",
+          "imageUrl": "https://joinpeertube.org/img/card-opengraph.jpg"
+        },
+        {
+          "id": "https://andyatkinson.com/django-python-postgres-busy-rails-developer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://andyatkinson.com/django-python-postgres-busy-rails-developer",
+          "publishedOn": "2024-12-11T14:56:29.000Z",
+          "wordCount": 1836,
+          "title": "Django and Postgres for the Busy Rails Developer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cowfreedom.de/#dot_product/introduction/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cowfreedom.de/#dot_product/introduction/",
+          "publishedOn": "2024-12-11T14:28:42.000Z",
+          "wordCount": 106,
+          "title": "The GPU is not always faster",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ntietz.com/blog/evolving-ergo-setup/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ntietz.com/blog/evolving-ergo-setup/",
+          "publishedOn": "2024-12-11T08:56:50.000Z",
+          "wordCount": 2306,
+          "title": "Evolving my ergonomic setup (or, my laptop with extra steps)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.sparkbangbuzz.com/els/borax-el.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.sparkbangbuzz.com/els/borax-el.htm",
+          "publishedOn": "2024-12-11T02:34:06.000Z",
+          "wordCount": 1755,
+          "title": "Borax or Baking Soda Rectifier and the glow (2003)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.genengnews.com/topics/translational-medicine/ketone-body-role-in-regulating-misfolded-proteins-may-inform-strategies-targeting-aging-alzheimers-disease/",
           "author": null,
@@ -434,6 +644,16 @@
           "wordCount": 1592,
           "title": "Digital consumption keeps me from getting better at my job",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.npr.org/2024/12/10/nx-s1-5222574/kids-character-ai-lawsuit",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.npr.org/2024/12/10/nx-s1-5222574/kids-character-ai-lawsuit",
+          "publishedOn": "2024-12-10T18:03:16.000Z",
+          "wordCount": 1878,
+          "title": "Chatbot hinted a kid should kill his parents over screen time limits: lawsuit",
+          "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5200x2925+0+271/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2F62%2Fe7de28304736bdc5398544c2f81e%2Fgettyimages-159627312.jpg"
         },
         {
           "id": "https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/",
@@ -786,6 +1006,26 @@
           "imageUrl": "https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
+          "id": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/",
+          "publishedOn": "2024-12-09T09:18:55.000Z",
+          "wordCount": 1821,
+          "title": "Storing Times for Human Events",
+          "imageUrl": "https://static.simonwillison.net/static/2024/google-calendar-social-media-card.jpg"
+        },
+        {
+          "id": "https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/",
+          "publishedOn": "2024-12-09T08:39:20.000Z",
+          "wordCount": 1449,
+          "title": "A letter to open-source maintainers",
+          "imageUrl": null
+        },
+        {
           "id": "https://partofthething.com/thoughts/making-true-random-numbers-with-radioactive-decay/",
           "author": null,
           "description": "Comments",
@@ -966,6 +1206,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://worldhistory.substack.com/p/the-myth-of-bananaland",
+          "author": null,
+          "description": "Comments",
+          "link": "https://worldhistory.substack.com/p/the-myth-of-bananaland",
+          "publishedOn": "2024-12-08T16:58:48.000Z",
+          "wordCount": null,
+          "title": "The Myth of Bananaland",
+          "imageUrl": null
+        },
+        {
           "id": "https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755",
           "author": null,
           "description": "Comments",
@@ -974,6 +1224,16 @@
           "wordCount": 5632,
           "title": "How much do I need to change my face to avoid facial recognition?",
           "imageUrl": "https://gizmodo.com/app/uploads/2024/12/Facial-Recognition-1.jpg"
+        },
+        {
+          "id": "https://www.za-zu.com/blog/playbook",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.za-zu.com/blog/playbook",
+          "publishedOn": "2024-12-08T14:16:59.000Z",
+          "wordCount": 24067,
+          "title": "The Cold Email Handbook",
+          "imageUrl": "https://za-zu.com/og?title=The%20Cold%20Email%20Handbook"
         },
         {
           "id": "https://cut-the-crab.streamlit.app/",
@@ -1014,6 +1274,16 @@
           "wordCount": 46560,
           "title": "Watch carved from meteorite that hit Earth a million years ago",
           "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/img-7470-topaz-sharpen-enhance-1x-crop.jpg?c=16x9&q=w_800,c_fill"
+        },
+        {
+          "id": "https://devblogs.microsoft.com/oldnewthing/20241206-00/?p=110614",
+          "author": null,
+          "description": "Comments",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20241206-00/?p=110614",
+          "publishedOn": "2024-12-08T03:09:54.000Z",
+          "wordCount": 7286,
+          "title": "Deciphering C++ compiler errors: Nonsensical errors from a function declaration",
+          "imageUrl": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg"
         },
         {
           "id": "http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html",
@@ -1176,6 +1446,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/",
+          "publishedOn": "2024-12-07T14:52:15.000Z",
+          "wordCount": 6208,
+          "title": "Tricking c64 basic into clearing a hi-res screen quickly",
+          "imageUrl": "https://retro64.altervista.org/blog/wp-content/uploads/2017/07/fun-plots.png"
+        },
+        {
           "id": "https://countless.dev/",
           "author": null,
           "description": "Comments",
@@ -1244,6 +1524,16 @@
           "wordCount": 1780,
           "title": "Biggest shell programs",
           "imageUrl": "https://opengraph.githubassets.com/52933e9b836439f1bc90720e207861f08b287d71e0a3c4dcd40b1e28bcfe1974/oils-for-unix/oils"
+        },
+        {
+          "id": "https://github.com/skuep/AIOC",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/skuep/AIOC",
+          "publishedOn": "2024-12-06T21:43:38.000Z",
+          "wordCount": 6705,
+          "title": "Ham Radio All-in-One-Cable",
+          "imageUrl": "https://opengraph.githubassets.com/01b7e7347e16aca9b5731cb2611c44f59a422498712591513e5f9811ccaa12a9/skuep/AIOC"
         },
         {
           "id": "https://shilin.ca/my-second-year-without-job/",
@@ -2604,6 +2894,16 @@
           "wordCount": 12404,
           "title": "Show HN: SeekStorm – open-source sub-millisecond search in Rust",
           "imageUrl": "https://opengraph.githubassets.com/b33ee3e84123104bef303abb60666efce2f2f1469878edd732046c1179a23d90/SeekStorm/SeekStorm"
+        },
+        {
+          "id": "https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry",
+          "author": null,
+          "description": "Comments",
+          "link": "https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry",
+          "publishedOn": "2024-12-02T12:09:02.000Z",
+          "wordCount": null,
+          "title": "Unix Review Magazine Interviews Larry Tesler",
+          "imageUrl": null
         },
         {
           "id": "https://tehruhn.github.io/posts/2024/12/fizzbuzz-in-powerchords/",
@@ -8314,306 +8614,6 @@
           "wordCount": 2121,
           "title": "Resolving a mysterious problem with find",
           "imageUrl": null
-        },
-        {
-          "id": "https://richarddingwall.name/2008/05/31/is-the-80-character-line-limit-still-relevant/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://richarddingwall.name/2008/05/31/is-the-80-character-line-limit-still-relevant/",
-          "publishedOn": "2024-11-12T15:11:46.000Z",
-          "wordCount": 1292,
-          "title": "Is the 80 character line limit still relevant? (2008)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/nimrag-b/emiT-C",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/nimrag-b/emiT-C",
-          "publishedOn": "2024-11-12T15:10:25.000Z",
-          "wordCount": 3284,
-          "title": "Emit-C: A time travelling programming language",
-          "imageUrl": "https://opengraph.githubassets.com/e995c161852ac542ee300e4f892943fb204b0b2b5179ccd9304ba1797e21e38b/nimrag-b/emiT-C"
-        },
-        {
-          "id": "https://aidantr.github.io/files/AI_innovation.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://aidantr.github.io/files/AI_innovation.pdf",
-          "publishedOn": "2024-11-12T13:29:30.000Z",
-          "wordCount": 41025,
-          "title": "Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openflexure.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://openflexure.org/",
-          "publishedOn": "2024-11-12T13:18:09.000Z",
-          "wordCount": 367,
-          "title": "The OpenFlexure 3D printable microscope",
-          "imageUrl": null
-        },
-        {
-          "id": "https://hunsley.io/posts/2024/image-montage-is-resistor-network/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hunsley.io/posts/2024/image-montage-is-resistor-network/",
-          "publishedOn": "2024-11-12T12:44:03.000Z",
-          "wordCount": 1036,
-          "title": "Ohmaps: your image montage is a resistor network",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/",
-          "publishedOn": "2024-11-12T12:27:52.000Z",
-          "wordCount": 22619,
-          "title": "Two upstart search engines are teaming up to take on Google",
-          "imageUrl": "https://media.wired.com/photos/67327521c2322b2028295115/191:100/w_1280,c_limit/Qwant-Ecosie-Search-Engine-Business-1519732762.jpg"
-        },
-        {
-          "id": "https://www.theguardian.com/world/2024/nov/12/food-source-famine-leningrad-seed-bank-nikolai-vavilov",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theguardian.com/world/2024/nov/12/food-source-famine-leningrad-seed-bank-nikolai-vavilov",
-          "publishedOn": "2024-11-12T11:31:59.000Z",
-          "wordCount": 8216,
-          "title": "The Leningrad botanists who saved the first seed bank",
-          "imageUrl": "https://i.guim.co.uk/img/media/880a97cb1d14c61fbaee6d8164a805c403833c37/0_11_750_450/master/750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fbbd9298392377b33effe70dafad839"
-        },
-        {
-          "id": "https://github.com/facebookresearch/watermark-anything",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/facebookresearch/watermark-anything",
-          "publishedOn": "2024-11-12T08:08:39.000Z",
-          "wordCount": 6757,
-          "title": "Watermark Anything",
-          "imageUrl": "https://opengraph.githubassets.com/a62f5dbe8773d9fa8056de4744ea74acbc1ed9e9b255f3653bfb4881fe99c9e8/facebookresearch/watermark-anything"
-        },
-        {
-          "id": "https://oldcompcz.github.io/jgs/joan_stark/index-2.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://oldcompcz.github.io/jgs/joan_stark/index-2.html",
-          "publishedOn": "2024-11-12T07:48:13.000Z",
-          "wordCount": 800,
-          "title": "JGS ASCII ART gallery (2001)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arxiv.org/abs/1710.02824",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/1710.02824",
-          "publishedOn": "2024-11-12T04:40:58.000Z",
-          "wordCount": 794,
-          "title": "Beating the bookies with their own numbers",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://www.tomshardware.com/software/free-open-source-photoshop-alternative-finally-enters-release-candidate-testing-after-20-years-the-transition-from-gimp-2-x-to-gimp-3-0-took-two-decades",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tomshardware.com/software/free-open-source-photoshop-alternative-finally-enters-release-candidate-testing-after-20-years-the-transition-from-gimp-2-x-to-gimp-3-0-took-two-decades",
-          "publishedOn": "2024-11-12T03:09:27.000Z",
-          "wordCount": 15542,
-          "title": "The transition from GIMP 2.x to GIMP 3.0 took two decades",
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/8speJckaVxWMo3NtH5Mj4C-1200-80.jpg"
-        },
-        {
-          "id": "https://github.com/akopdev/obsidian-textgrams",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/akopdev/obsidian-textgrams",
-          "publishedOn": "2024-11-12T02:03:21.000Z",
-          "wordCount": 3022,
-          "title": "Show HN: Store and render ASCII diagrams in Obsidian",
-          "imageUrl": "https://opengraph.githubassets.com/2acc4954d4a295b9560cb54027f0afee3022b02c19d5290b3c547faf825125f4/akopdev/obsidian-textgrams"
-        },
-        {
-          "id": "https://hachyderm.io/@danderson/113465421567555186",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hachyderm.io/@danderson/113465421567555186",
-          "publishedOn": "2024-11-12T01:21:11.000Z",
-          "wordCount": 127,
-          "title": "This morning for no obvious reason, I remembered the Fuel Rats",
-          "imageUrl": null
-        },
-        {
-          "id": "https://challahscript.com/what_i_wish_someone_told_me_about_postgres",
-          "author": null,
-          "description": "Comments",
-          "link": "https://challahscript.com/what_i_wish_someone_told_me_about_postgres",
-          "publishedOn": "2024-11-12T00:59:44.000Z",
-          "wordCount": 4549,
-          "title": "What I wish someone told me about Postgres",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gitlab.brokenpipe.de/stettberger/avremu/tree/master",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gitlab.brokenpipe.de/stettberger/avremu/tree/master",
-          "publishedOn": "2024-11-12T00:58:54.000Z",
-          "wordCount": 505,
-          "title": "Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX",
-          "imageUrl": "https://gitlab.brokenpipe.de/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
-        },
-        {
-          "id": "https://lottia.net/notes/0013-git-jujutsu-miniature.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lottia.net/notes/0013-git-jujutsu-miniature.html",
-          "publishedOn": "2024-11-12T00:09:37.000Z",
-          "wordCount": 1905,
-          "title": "Git and Jujutsu: In Miniature",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sph.tulane.edu/study-finds-higher-maternal-mortality-rates-states-more-abortion-restrictions",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sph.tulane.edu/study-finds-higher-maternal-mortality-rates-states-more-abortion-restrictions",
-          "publishedOn": "2024-11-12T00:01:40.000Z",
-          "wordCount": 963,
-          "title": "Higher maternal mortality rates in states with more abortion restrictions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html",
-          "publishedOn": "2024-11-11T23:11:19.000Z",
-          "wordCount": 1197,
-          "title": "Bus Number – The GitHub plugin my coworkers asked me not to write",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.seangoedecke.com/how-to-ship/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.seangoedecke.com/how-to-ship/",
-          "publishedOn": "2024-11-11T22:30:26.000Z",
-          "wordCount": 2217,
-          "title": "How I ship projects at big tech companies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42110901",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=42110901",
-          "publishedOn": "2024-11-11T22:12:55.000Z",
-          "wordCount": 1183,
-          "title": "YubiKey still selling old stock with vulnerable firmware",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/sjdonado/idonthavespotify",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/sjdonado/idonthavespotify",
-          "publishedOn": "2024-11-11T22:10:37.000Z",
-          "wordCount": 2172,
-          "title": "I Don't Have Spotify",
-          "imageUrl": "https://opengraph.githubassets.com/0b2812965233af3df63479dc9471e35504c9fa61b53871b151ae174bfec6cfa9/sjdonado/idonthavespotify"
-        },
-        {
-          "id": "https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html",
-          "publishedOn": "2024-11-11T21:41:37.000Z",
-          "wordCount": null,
-          "title": "Improving Steam Client Stability on Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://get.debian.org/images/weekly-live-builds/amd64/iso-hybrid/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://get.debian.org/images/weekly-live-builds/amd64/iso-hybrid/",
-          "publishedOn": "2024-11-11T21:40:40.000Z",
-          "wordCount": 511,
-          "title": "Debian Junior Desktop live image",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/",
-          "publishedOn": "2024-11-11T21:28:28.000Z",
-          "wordCount": 5727,
-          "title": "Visualizing World War II",
-          "imageUrl": "https://nathangoldwag.wordpress.com/wp-content/uploads/2024/10/31494265553.jpg"
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal",
-          "publishedOn": "2024-11-11T21:01:10.000Z",
-          "wordCount": 727,
-          "title": "Gym Class VR (YC W22) Is Hiring Mobile Gameplay Lead",
-          "imageUrl": "https://yc-workatastartup-production.s3.amazonaws.com/jobs_company_jobs/images/69748/e493efc1411326cbaa8e99485253ad6ba1403917.png?1728012268"
-        },
-        {
-          "id": "https://igrothendieck.org/en/homage-to-alexander-grothendieck/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://igrothendieck.org/en/homage-to-alexander-grothendieck/",
-          "publishedOn": "2024-11-11T20:58:29.000Z",
-          "wordCount": 1957,
-          "title": "Homage to Alexander Grothendieck",
-          "imageUrl": "https://igrothendieck.org/wp-content/uploads/2024/11/PosterHomage_AG_2024-11-16_O-scaled.jpg"
-        },
-        {
-          "id": "https://mtsi.substack.com/p/testing-the-z80-chip-with-a-1970s",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mtsi.substack.com/p/testing-the-z80-chip-with-a-1970s",
-          "publishedOn": "2024-11-11T20:11:40.000Z",
-          "wordCount": null,
-          "title": "Testing the Z80 Chip with a 1970s Beauty",
-          "imageUrl": null
-        },
-        {
-          "id": "https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/",
-          "publishedOn": "2024-11-11T17:44:42.000Z",
-          "wordCount": 2621,
-          "title": "ML in Go with a Python Sidecar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://questdb.io/blog/making-a-trading-gameboy/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://questdb.io/blog/making-a-trading-gameboy/",
-          "publishedOn": "2024-11-11T17:41:19.000Z",
-          "wordCount": 5758,
-          "title": "Making a trading Gameboy: A pocket exchange and algo trading platform",
-          "imageUrl": "https://questdb.io/img/blog/2024-10-24/banner.thumb.webp"
-        },
-        {
-          "id": "https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel",
-          "author": null,
-          "description": "Comments",
-          "link": "https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel",
-          "publishedOn": "2024-11-11T17:29:39.000Z",
-          "wordCount": null,
-          "title": "Optimizing a WebGPU Matmul Kernel for 1 TFLOP",
-          "imageUrl": null
         }
       ]
     },
@@ -8679,6 +8679,36 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/mind/2024/genetics-of-people-who-need-little-sleep",
+          "author": "Marla Broadfoot",
+          "description": "Short sleepers cruise by on four to six hours a night and don’t seem to suffer ill effects. Turns out they’re genetically built to require less sleep than the rest of us.",
+          "link": "https://knowablemagazine.org/content/article/mind/2024/genetics-of-people-who-need-little-sleep",
+          "publishedOn": "2024-12-12T04:38:47.701Z",
+          "wordCount": 4329,
+          "title": "The ones who need little sleep",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/short-sleepers-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/short-sleepers-500x288.jpg"
+        },
+        {
+          "id": "https://knowablemagazine.org/content/article/mind/2024/self-continuity-connecting-with-your-past-and-future-selves",
+          "author": "Katherine Ellison",
+          "description": "It’s what psychologists call self-continuity, and can improve your health and well-being",
+          "link": "https://knowablemagazine.org/content/article/mind/2024/self-continuity-connecting-with-your-past-and-future-selves",
+          "publishedOn": "2024-12-12T04:38:47.680Z",
+          "wordCount": 3823,
+          "title": "Making friends with your past and future selves",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/self-continuity-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/self-continuity-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/health-disease/2024/diabetes-drug-metformin-doesnt-help-treat-cancer",
           "author": "Amber Dance",
@@ -9100,16 +9130,6 @@
           "wordCount": 2059,
           "title": "Neural learning for handling extreme values systems",
           "imageUrl": "https://danmackinlay.name/images/nord_map_detail.thumbnail.avif"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/thailand.html",
-          "author": null,
-          "description": "I lived in Thailand for a year from 2005 to 2006. I should have a page to honour that. I was a blogger at the time, but on a platform lost to history called possumpalace.org from which little survived.\n\n\n\nFigure 1\n\n\n\n\n1 History\nThailand was never conquered in the colonial period, which is no mean thing.\n2 Puppetry\nTBD\n3 Queerness in Thailand\nAlso extremely interesting and TBD.\n4 Meditation tradition\nSee meditation.\nThere is a very interesting history of the meditation revival in Thailand, which I know about mostly via หอจดหมายเหตุพุทธทาส อินทปัญโญ - สวน โมกข์ กรุงเทพ.\n5 References\n“Rethinking Individualism and Collectivism: Evaluation of Theoretical Assumptions and Meta-Analyses.” Psychological Bulletin.\n\n\nTalhelm, and Oishi. 2018. “How Rice Farming Shaped Culture in Southern China.” In Socio-Economic Environment and Human Psychology: Social, Ecological, and Cultural Perspectives.",
-          "link": "https://danmackinlay.name/notebook/thailand.html",
-          "publishedOn": "2024-11-12T03:26:55.000Z",
-          "wordCount": 1808,
-          "title": "Thailand",
-          "imageUrl": "https://danmackinlay.name/images/vue_de_siam_RP-P-1903-A-23966.thumbnail.avif"
         }
       ]
     },
