@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383563",
+          "author": "Geoff Graham",
+          "description": "I wrote a post for Smashing Magazine that was published today about this thing that Chrome and Safari have called “Tight Mode” and how it impacts page performance. I’d never heard the term until DebugBear’s Matt Zeunert mentioned it in …\nTight Mode: Why Browsers Produce Different Performance Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/tight-mode-why-browsers-produce-different-performance-results/",
+          "publishedOn": "2025-01-09T16:16:15.000Z",
+          "wordCount": 1927,
+          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383563"
+        },
+        {
           "id": "https://css-tricks.com/?p=383383",
           "author": "Andy Bell",
           "description": "I am still an AI skeptic. The biggest risk I foresee is that if your sole responsibility is to write code, your job is at risk. It’s not time to panic, but I do see a lot of value in evolving your soft skills.\nThe Importance of Investing in Soft Skills in the Age of AI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -88,6 +98,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-priorities?utm_campaign=sm-7). Chrome and Safari have implemented a “Tight Mode” that constrains which resources are loaded and in what order, but they each take drastically different approaches to it. With so little information about Tight Mode available, this article attempts a high-level explanation of what it is, what triggers it, and how it is treated differently in major browsers.",
+          "link": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
+          "publishedOn": "2025-01-09T13:00:00.000Z",
+          "wordCount": 4451,
+          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "author": "hello@smashingmagazine.com (John Rhea)",
@@ -187,21 +212,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
-          "author": "hello@smashingmagazine.com (Mariana Beldi)",
-          "description": "10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.",
-          "link": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
-          "publishedOn": "2024-12-11T15:00:00.000Z",
-          "wordCount": 6652,
-          "title": "An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg"
         }
       ]
     },
@@ -210,6 +220,236 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://gleam.run/news/improved-performance-and-publishing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gleam.run/news/improved-performance-and-publishing/",
+          "publishedOn": "2025-01-10T04:04:38.000Z",
+          "wordCount": 3241,
+          "title": "Gleam v1.7.0 Released",
+          "imageUrl": "https://gleam.run//images/social-image.png"
+        },
+        {
+          "id": "https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/",
+          "publishedOn": "2025-01-10T03:24:11.000Z",
+          "wordCount": 5291,
+          "title": "A Three Month Review of Kagi Search and the Orion Web Browser (2024)",
+          "imageUrl": "https://flatfootfox.com/content/images/2024/04/Screenshot-2024-02-04-at-8.21.08-AM.png"
+        },
+        {
+          "id": "https://gizmodo.com/41-of-employers-worldwide-say-theyll-reduce-staff-by-2030-due-to-ai-2000548131",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gizmodo.com/41-of-employers-worldwide-say-theyll-reduce-staff-by-2030-due-to-ai-2000548131",
+          "publishedOn": "2025-01-10T03:12:57.000Z",
+          "wordCount": 4146,
+          "title": "41% of Employers Worldwide Say They'll Reduce Staff by 2030 Due to AI",
+          "imageUrl": "https://gizmodo.com/app/uploads/2024/09/OpenAI-gpt-store-moderation.jpg"
+        },
+        {
+          "id": "https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/",
+          "publishedOn": "2025-01-10T03:08:49.000Z",
+          "wordCount": 3737,
+          "title": "TikTok tells staff impacted by wildfires to use sick hours if they can't work",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/LA-fires-GettyImages-2192359195.jpg?w=1024"
+        },
+        {
+          "id": "https://www.ft.com/content/69422656-7a25-4bc7-b626-1e69d4da953c",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ft.com/content/69422656-7a25-4bc7-b626-1e69d4da953c",
+          "publishedOn": "2025-01-10T02:46:30.000Z",
+          "wordCount": 1981,
+          "title": "Toyota rethinks its bet on hydrogen",
+          "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F17c66434-ae4b-40b9-b01f-3f9adf9258a7.jpg?source=next-barrier-page"
+        },
+        {
+          "id": "https://github.com/alexpasmantier/television",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/alexpasmantier/television",
+          "publishedOn": "2025-01-10T01:10:33.000Z",
+          "wordCount": 3365,
+          "title": "Television: Fast general purpose fuzzy finder TUI",
+          "imageUrl": "https://repository-images.githubusercontent.com/857898245/0d0451ea-3802-40da-9689-b4d58b74b42f"
+        },
+        {
+          "id": "https://rodneybrooks.com/predictions-scorecard-2025-january-01/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rodneybrooks.com/predictions-scorecard-2025-january-01/",
+          "publishedOn": "2025-01-10T00:27:55.000Z",
+          "wordCount": 15956,
+          "title": "Predictions Scorecard, 2025 January 01",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42651226",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42651226",
+          "publishedOn": "2025-01-10T00:19:29.000Z",
+          "wordCount": 955,
+          "title": "Ask HN: Work on robotics or agents?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wired.com/story/gravy-location-data-app-leak-rtb/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wired.com/story/gravy-location-data-app-leak-rtb/",
+          "publishedOn": "2025-01-10T00:00:52.000Z",
+          "wordCount": 27264,
+          "title": "Candy Crush, Tinder, MyFitnessPal: Apps hijacked to spy on location",
+          "imageUrl": "https://media.wired.com/photos/6780349b52e18f7d54f734ac/191:100/w_1280,c_limit/app-hack-sec-1752520492.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/",
+          "publishedOn": "2025-01-09T23:20:25.000Z",
+          "wordCount": 3324,
+          "title": "Disappointed with the TVs at CES 2025",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2155814890-1152x648.jpg"
+        },
+        {
+          "id": "https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/",
+          "publishedOn": "2025-01-09T22:37:01.000Z",
+          "wordCount": 3758,
+          "title": "Soldering the Tek way",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/01/tek_soldering.jpeg"
+        },
+        {
+          "id": "https://joshleeb.com/posts/monospace-ligatures.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://joshleeb.com/posts/monospace-ligatures.html",
+          "publishedOn": "2025-01-09T22:28:07.000Z",
+          "wordCount": 1425,
+          "title": "Shaping ligatures in monospace fonts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42649996",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42649996",
+          "publishedOn": "2025-01-09T21:33:06.000Z",
+          "wordCount": 9295,
+          "title": "Ask HN: A friend has brain cancer: any bio hacks that worked?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404",
+          "publishedOn": "2025-01-09T20:02:36.000Z",
+          "wordCount": 6537,
+          "title": "How Britain got its first internet connection (2015)",
+          "imageUrl": "https://images.theconversation.com/files/640805/original/file-20250106-17-rlmijt.jpg?ixlib=rb-4.1.0&rect=0%2C89%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop"
+        },
+        {
+          "id": "https://publicdomainreview.org/collection/francis-picabia-391-review/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://publicdomainreview.org/collection/francis-picabia-391-review/",
+          "publishedOn": "2025-01-09T19:28:56.000Z",
+          "wordCount": 10743,
+          "title": "Perpetual Movement: Francis Picabia's 391 Review (1917–1924)",
+          "imageUrl": "https://the-public-domain-review.imgix.net/collections/francis-picabias-391/391_thumb.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42648597",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42648597",
+          "publishedOn": "2025-01-09T18:43:07.000Z",
+          "wordCount": 5380,
+          "title": "Ask HN: How do you backup your Android?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42647695",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=42647695",
+          "publishedOn": "2025-01-09T17:15:11.000Z",
+          "wordCount": 752,
+          "title": "MixRank (YC S11) Is Hiring Software Engineers Globally",
+          "imageUrl": null
+        },
+        {
+          "id": "https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/",
+          "publishedOn": "2025-01-09T17:07:40.000Z",
+          "wordCount": 9674,
+          "title": "\"Twelfth Night Till Candlemas\" – a 40-year book-quest and its remarkable ending",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F927d3b98-1136-4a4a-8bfb-74c7315bb76b_589x948.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41586-024-08328-6/link",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41586-024-08328-6/link",
+          "publishedOn": "2025-01-09T16:38:26.000Z",
+          "wordCount": 15144,
+          "title": "Show HN: TabPFN v2 – A SOTA foundation model for small tabular data",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-024-08328-6/MediaObjects/41586_2024_8328_Fig1_HTML.png"
+        },
+        {
+          "id": "https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/",
+          "publishedOn": "2025-01-09T16:19:34.000Z",
+          "wordCount": 6705,
+          "title": "WorstFit: Unveiling Hidden Transformers in Windows ANSI",
+          "imageUrl": "https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/fb7a21f99453ce05667ddab5a.jpg"
+        },
+        {
+          "id": "https://th0mas.nl/downloads/pdftris.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://th0mas.nl/downloads/pdftris.pdf",
+          "publishedOn": "2025-01-09T13:31:33.000Z",
+          "wordCount": 13165,
+          "title": "Show HN: Tetris in a PDF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jirevwe.github.io/sql-nulls-are-weird.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jirevwe.github.io/sql-nulls-are-weird.html",
+          "publishedOn": "2025-01-09T13:21:40.000Z",
+          "wordCount": 2042,
+          "title": "SQL nulls are weird",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/piebro/factorio-blueprint-visualizer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/piebro/factorio-blueprint-visualizer",
+          "publishedOn": "2025-01-09T11:23:03.000Z",
+          "wordCount": 3028,
+          "title": "Show HN: Factorio Blueprint Visualizer",
+          "imageUrl": "https://opengraph.githubassets.com/1a316dfecb8831ff522fb660ee4ff1a1ed2a5719588198b4fb53afed494f9845/piebro/factorio-blueprint-visualizer"
+        },
         {
           "id": "https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase",
           "author": null,
@@ -521,6 +761,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2025/01/03/books/david-lodge-dead.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2025/01/03/books/david-lodge-dead.html",
+          "publishedOn": "2025-01-07T19:42:24.000Z",
+          "wordCount": null,
+          "title": "David Lodge, British novelist who satirized academic life, has died",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer",
           "author": null,
           "description": "Comments",
@@ -579,6 +829,16 @@
           "wordCount": 87,
           "title": "Show HN: HipScript – Run CUDA in the browser with WebAssembly and WebGPU",
           "imageUrl": null
+        },
+        {
+          "id": "https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/",
+          "publishedOn": "2025-01-07T13:50:16.000Z",
+          "wordCount": 2746,
+          "title": "May Mobility reveals electric autonomous minibus at CES 2025",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/maymobility-bus.jpg?resize=1200,561"
         },
         {
           "id": "https://learningsynths.ableton.com/",
@@ -821,6 +1081,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://apple.fandom.com/wiki/MacBASIC",
+          "author": null,
+          "description": "Comments",
+          "link": "https://apple.fandom.com/wiki/MacBASIC",
+          "publishedOn": "2025-01-06T16:39:57.000Z",
+          "wordCount": 3019,
+          "title": "MacBASIC",
+          "imageUrl": "https://static.wikia.nocookie.net/ipod/images/c/c9/MacBASIC_0.29_about_box.png/revision/latest?cb=20210313003529"
+        },
+        {
+          "id": "https://tiki.li/apps/particles.html?v=2501a",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tiki.li/apps/particles.html?v=2501a",
+          "publishedOn": "2025-01-06T16:27:20.000Z",
+          "wordCount": 268,
+          "title": "Relax while watching bouncing particles making connections when they get closer",
+          "imageUrl": null
+        },
+        {
           "id": "https://zone.dog/braindump/spline_fields/",
           "author": null,
           "description": "Comments",
@@ -841,6 +1121,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://hackclub.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hackclub.com/",
+          "publishedOn": "2025-01-06T15:21:14.000Z",
+          "wordCount": 7122,
+          "title": "We are teen hackers from around the world who code together",
+          "imageUrl": "https://cloud-lgl7kg862-hack-club-bot.vercel.app/0start__1_.png"
+        },
+        {
           "id": "https://www.scopeofwork.net/the-honorable-parts/",
           "author": null,
           "description": "Comments",
@@ -859,6 +1149,16 @@
           "wordCount": 1753,
           "title": "LLMs and Code Optimization",
           "imageUrl": "https://wiredream.com/banner.png"
+        },
+        {
+          "id": "https://pypy.org/posts/2025/01/musings-tracing.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pypy.org/posts/2025/01/musings-tracing.html",
+          "publishedOn": "2025-01-06T12:41:20.000Z",
+          "wordCount": 2138,
+          "title": "Musings on Tracing in PyPy",
+          "imageUrl": null
         },
         {
           "id": "https://www.seangoedecke.com/ratchet-effects/",
@@ -1189,6 +1489,16 @@
           "wordCount": 6729,
           "title": "Remote code execution via MIDI messages",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck",
+          "publishedOn": "2025-01-05T06:15:14.000Z",
+          "wordCount": 33476,
+          "title": "Writing as Transformation",
+          "imageUrl": "https://media.newyorker.com/photos/6769886303d5f7a137819786/16:9/w_1280,c_limit/Gluck_Writing.jpg"
         },
         {
           "id": "https://github.com/Neradoc/discotool",
@@ -8259,306 +8569,6 @@
           "wordCount": 1189,
           "title": "Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms",
           "imageUrl": "/images/original/missing.png"
-        },
-        {
-          "id": "https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu",
-          "publishedOn": "2024-12-11T16:33:56.000Z",
-          "wordCount": 1664,
-          "title": "RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available",
-          "imageUrl": "https://www.sifive.com/assets/fb-black.png"
-        },
-        {
-          "id": "https://pgroll.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pgroll.com/",
-          "publishedOn": "2024-12-11T15:51:22.000Z",
-          "wordCount": 2937,
-          "title": "Pgroll – Zero-downtime, reversible, schema changes for PostgreSQL (new website)",
-          "imageUrl": "https://pgroll.com/website_template_og.webp"
-        },
-        {
-          "id": "https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga",
-          "publishedOn": "2024-12-11T15:44:58.000Z",
-          "wordCount": 25184,
-          "title": "Trillium TPU Is GA",
-          "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/trillium.max-2500x2500.jpg"
-        },
-        {
-          "id": "https://pilcrowonpaper.com/blog/dear-oauth-providers/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pilcrowonpaper.com/blog/dear-oauth-providers/",
-          "publishedOn": "2024-12-11T15:42:20.000Z",
-          "wordCount": 424,
-          "title": "Dear OAuth Providers",
-          "imageUrl": "https://pilcrowonpaper.com/profile.jpg"
-        },
-        {
-          "id": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
-          "publishedOn": "2024-12-11T15:33:54.000Z",
-          "wordCount": 3672,
-          "title": "Gemini 2.0: our new AI model for the agentic era",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_gemini_hero_thumbnail.width-1300.png"
-        },
-        {
-          "id": "https://libc.llvm.org/gpu/using.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://libc.llvm.org/gpu/using.html",
-          "publishedOn": "2024-12-11T15:29:21.000Z",
-          "wordCount": 1524,
-          "title": "Using Libc for GPUs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dioxuslabs.com/blog/release-060/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dioxuslabs.com/blog/release-060/",
-          "publishedOn": "2024-12-11T15:24:10.000Z",
-          "wordCount": 4768,
-          "title": "Dioxus 0.6 – Crossplatform apps with Rust",
-          "imageUrl": "https://dioxuslabs.com/assets/static/opengraph.png"
-        },
-        {
-          "id": "https://joinpeertube.org/news/peertube-app",
-          "author": null,
-          "description": "Comments",
-          "link": "https://joinpeertube.org/news/peertube-app",
-          "publishedOn": "2024-12-11T15:09:56.000Z",
-          "wordCount": 1740,
-          "title": "PeerTube mobile app: discover videos while caring for your attention",
-          "imageUrl": "https://joinpeertube.org/img/card-opengraph.jpg"
-        },
-        {
-          "id": "https://puzzlezilla.com/create-puzzle",
-          "author": null,
-          "description": "Comments",
-          "link": "https://puzzlezilla.com/create-puzzle",
-          "publishedOn": "2024-12-11T14:56:30.000Z",
-          "wordCount": 307,
-          "title": "Create your own jigsaw puzzle from any image",
-          "imageUrl": null
-        },
-        {
-          "id": "https://andyatkinson.com/django-python-postgres-busy-rails-developer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://andyatkinson.com/django-python-postgres-busy-rails-developer",
-          "publishedOn": "2024-12-11T14:56:29.000Z",
-          "wordCount": 1836,
-          "title": "Django and Postgres for the Busy Rails Developer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alphafind.fi.muni.cz/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://alphafind.fi.muni.cz/",
-          "publishedOn": "2024-12-11T14:32:52.000Z",
-          "wordCount": 50,
-          "title": "Structure-Based Search of the Entire AlphaFold Protein Structure Database",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cowfreedom.de/#dot_product/introduction/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cowfreedom.de/#dot_product/introduction/",
-          "publishedOn": "2024-12-11T14:28:42.000Z",
-          "wordCount": 106,
-          "title": "The GPU is not always faster",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ntietz.com/blog/evolving-ergo-setup/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ntietz.com/blog/evolving-ergo-setup/",
-          "publishedOn": "2024-12-11T08:56:50.000Z",
-          "wordCount": 2306,
-          "title": "Evolving my ergonomic setup (or, my laptop with extra steps)",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.sparkbangbuzz.com/els/borax-el.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.sparkbangbuzz.com/els/borax-el.htm",
-          "publishedOn": "2024-12-11T02:34:06.000Z",
-          "wordCount": 1755,
-          "title": "Borax or Baking Soda Rectifier and the glow (2003)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.genengnews.com/topics/translational-medicine/ketone-body-role-in-regulating-misfolded-proteins-may-inform-strategies-targeting-aging-alzheimers-disease/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.genengnews.com/topics/translational-medicine/ketone-body-role-in-regulating-misfolded-proteins-may-inform-strategies-targeting-aging-alzheimers-disease/",
-          "publishedOn": "2024-12-11T01:48:35.000Z",
-          "wordCount": 11147,
-          "title": "Alzheimer's study shows ketone bodies help clear misfolded proteins",
-          "imageUrl": "https://www.genengnews.com/wp-content/uploads/2018/12/Alzheimers_iStock_0000213364362.jpg"
-        },
-        {
-          "id": "https://electric-sql.com/blog/2024/12/10/electric-beta-release",
-          "author": null,
-          "description": "Comments",
-          "link": "https://electric-sql.com/blog/2024/12/10/electric-beta-release",
-          "publishedOn": "2024-12-11T00:04:41.000Z",
-          "wordCount": 1109,
-          "title": "Electric (Postgres sync engine) beta release",
-          "imageUrl": "https://electric-sql.com/img/blog/electric-beta-release/header.jpg"
-        },
-        {
-          "id": "https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/",
-          "publishedOn": "2024-12-10T23:20:34.000Z",
-          "wordCount": null,
-          "title": "WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lflank.wordpress.com/2024/12/10/the-albuquerque-broken-arrow-nuclear-accident/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lflank.wordpress.com/2024/12/10/the-albuquerque-broken-arrow-nuclear-accident/",
-          "publishedOn": "2024-12-10T23:12:21.000Z",
-          "wordCount": 6348,
-          "title": "The Albuquerque \"Broken Arrow\" Nuclear Accident",
-          "imageUrl": "https://c8.staticflickr.com/6/5505/31126840431_18460cef89_z.jpg"
-        },
-        {
-          "id": "https://desmolysium.com/bryan-johnson-the-worlds-most-expensive-eating-disorder/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://desmolysium.com/bryan-johnson-the-worlds-most-expensive-eating-disorder/",
-          "publishedOn": "2024-12-10T22:55:13.000Z",
-          "wordCount": 5094,
-          "title": "The Most Expensive Eating Disorder",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md",
-          "publishedOn": "2024-12-10T22:31:32.000Z",
-          "wordCount": 9740,
-          "title": "Making my first robot as a software engineer",
-          "imageUrl": "https://opengraph.githubassets.com/3335cc6176c0de4705c23432ba534f672c2f2a70ee0f5f44139a141d4b9783b2/Robertleoj/pen_plotter_robot"
-        },
-        {
-          "id": "https://www.hyperbrowser.ai/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.hyperbrowser.ai/",
-          "publishedOn": "2024-12-10T21:24:40.000Z",
-          "wordCount": 1953,
-          "title": "Show HN: Hyperbrowser – Scalable Browser Infrastructure for AI Apps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html",
-          "publishedOn": "2024-12-10T21:19:22.000Z",
-          "wordCount": 27127,
-          "title": "GM exits robotaxi market, will bring Cruise operations in house",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108024233-1724336619361-gettyimages-1590512040-TAXI_PROTEST.jpeg?v=1733865313&w=1920&h=1080"
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering",
-          "publishedOn": "2024-12-10T21:02:29.000Z",
-          "wordCount": 695,
-          "title": "Distro (YC S24) is seeking a Head of Engineering in the Bay Area",
-          "imageUrl": "https://yc-workatastartup-production.s3.amazonaws.com/jobs_company_jobs/images/67180/6adaae43016f3fa24719b885585d5b8527d5bb41.png?1733594625"
-        },
-        {
-          "id": "https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/",
-          "publishedOn": "2024-12-10T20:59:50.000Z",
-          "wordCount": 3867,
-          "title": "AMD's trusted execution environment blown wide open by new BadRAM attack",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/cloud-computing-1000x648.jpg"
-        },
-        {
-          "id": "https://supabase.com/blog/durable-workflows-in-postgres-dbos",
-          "author": null,
-          "description": "Comments",
-          "link": "https://supabase.com/blog/durable-workflows-in-postgres-dbos",
-          "publishedOn": "2024-12-10T18:47:20.000Z",
-          "wordCount": 5499,
-          "title": "Running Durable Workflows in Postgres Using DBOS",
-          "imageUrl": "https://supabase.com/images/blog/dbos/og.png"
-        },
-        {
-          "id": "http://sibervepunk.com/digital-consumption.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://sibervepunk.com/digital-consumption.html",
-          "publishedOn": "2024-12-10T18:46:50.000Z",
-          "wordCount": 1592,
-          "title": "Digital consumption keeps me from getting better at my job",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.npr.org/2024/12/10/nx-s1-5222574/kids-character-ai-lawsuit",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.npr.org/2024/12/10/nx-s1-5222574/kids-character-ai-lawsuit",
-          "publishedOn": "2024-12-10T18:03:16.000Z",
-          "wordCount": 1878,
-          "title": "Chatbot hinted a kid should kill his parents over screen time limits: lawsuit",
-          "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5200x2925+0+271/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2F62%2Fe7de28304736bdc5398544c2f81e%2Fgettyimages-159627312.jpg"
-        },
-        {
-          "id": "https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/",
-          "publishedOn": "2024-12-10T17:24:13.000Z",
-          "wordCount": 5010,
-          "title": "U.S. math scores drop on major international test",
-          "imageUrl": "https://www.chalkbeat.org/resizer/v2/IC53LGA3HFG5ZNYEZNG2K3UTRQ.jpg?smart=true&auth=f865915dbc01c476d2654a7a320703300666bdfa35f46872bb4daa789530723f&width=1200&height=630"
-        },
-        {
-          "id": "https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware",
-          "publishedOn": "2024-12-10T16:44:52.000Z",
-          "wordCount": 1352,
-          "title": "AI model for near-instant image creation on consumer-grade hardware",
-          "imageUrl": null
-        },
-        {
-          "id": "https://antirez.com/news/144",
-          "author": null,
-          "description": "Comments",
-          "link": "https://antirez.com/news/144",
-          "publishedOn": "2024-12-10T16:41:52.000Z",
-          "wordCount": 3019,
-          "title": "From where I left",
-          "imageUrl": null
         }
       ]
     },
@@ -8923,21 +8933,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/self-continuity-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/health-disease/2024/diabetes-drug-metformin-doesnt-help-treat-cancer",
-          "author": "Amber Dance",
-          "description": "Population and animal studies suggested it could treat cancer, but the clinical trials were a bust. Here’s what happened and what potential may remain.",
-          "link": "https://knowablemagazine.org/content/article/health-disease/2024/diabetes-drug-metformin-doesnt-help-treat-cancer",
-          "publishedOn": "2024-12-11T04:37:59.549Z",
-          "wordCount": 4430,
-          "title": "Why a diabetes drug fell short of anticancer hopes",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/metformin-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/metformin-500x288.jpg"
         }
       ]
     },
