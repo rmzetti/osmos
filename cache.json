@@ -170,16 +170,6 @@
           "wordCount": 4008,
           "title": "How to Wait for the sibling-count() and sibling-index() Functions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383435"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383563",
-          "author": "Geoff Graham",
-          "description": "I wrote a post for Smashing Magazine that was published today about this thing that Chrome and Safari have called “Tight Mode” and how it impacts page performance. I’d never heard the term until DebugBear’s Matt Zeunert mentioned it in …\nTight Mode: Why Browsers Produce Different Performance Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/tight-mode-why-browsers-produce-different-performance-results/",
-          "publishedOn": "2025-01-09T16:16:15.000Z",
-          "wordCount": 1927,
-          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383563"
         }
       ]
     },
@@ -188,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
+          "author": "hello@smashingmagazine.com (Tomasz Jakut)",
+          "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
+          "link": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
+          "publishedOn": "2025-02-07T13:00:00.000Z",
+          "wordCount": 5722,
+          "title": "Taking RWD To The Extreme",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/02/integrations-from-simple-data-transfer-to-composable-architectures/",
           "author": "hello@smashingmagazine.com (Edoardo Dusi)",
@@ -337,21 +342,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-priorities?utm_campaign=sm-7). Chrome and Safari have implemented a “Tight Mode” that constrains which resources are loaded and in what order, but they each take drastically different approaches to it. With so little information about Tight Mode available, this article attempts a high-level explanation of what it is, what triggers it, and how it is treated differently in major browsers.",
-          "link": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
-          "publishedOn": "2025-01-09T13:00:00.000Z",
-          "wordCount": 4451,
-          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg"
         }
       ]
     },
@@ -360,6 +350,216 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.docker.com/blog/ga-launch-docker-bake/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.docker.com/blog/ga-launch-docker-bake/",
+          "publishedOn": "2025-02-08T03:39:46.000Z",
+          "wordCount": 12609,
+          "title": "Docker Bake Is Now Generally Available",
+          "imageUrl": "https://www.docker.com/app/uploads/2024/12/1300x1300_docker-evergreen_logo_blog_C-1.png"
+        },
+        {
+          "id": "http://archive.computerhistory.org/resources/access/text/2016/06/102737929-05-01-acc.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "http://archive.computerhistory.org/resources/access/text/2016/06/102737929-05-01-acc.pdf",
+          "publishedOn": "2025-02-08T03:13:20.000Z",
+          "wordCount": 10465,
+          "title": "Oral History of Andy Bechtolsheim (2015) [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2502.03860",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2502.03860",
+          "publishedOn": "2025-02-08T02:47:19.000Z",
+          "wordCount": 771,
+          "title": "Bolt: Bootstrap long chain-of-thought in LLMs without distillation [pdf]",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/",
+          "publishedOn": "2025-02-08T02:41:35.000Z",
+          "wordCount": 2560,
+          "title": "Starlink in the Falkland Islands – A national emergency situation?",
+          "imageUrl": "https://www.openfalklands.com/wp-content/uploads/sites/12/2025/02/starlinklong.png"
+        },
+        {
+          "id": "https://arxiv.org/abs/2502.04327",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2502.04327",
+          "publishedOn": "2025-02-08T02:36:38.000Z",
+          "wordCount": 723,
+          "title": "Value-Based Deep RL Scales Predictably",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://fly.io/blog/vscode-ssh-wtf/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fly.io/blog/vscode-ssh-wtf/",
+          "publishedOn": "2025-02-08T01:25:32.000Z",
+          "wordCount": 826,
+          "title": "VSCode's SSH agent is bananas",
+          "imageUrl": "https://fly.io/static/images/fly-social-square.webp"
+        },
+        {
+          "id": "https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/",
+          "publishedOn": "2025-02-07T21:06:40.000Z",
+          "wordCount": 7408,
+          "title": "Portland's exploding Liberty Bell (2020)",
+          "imageUrl": "https://tomlovesthelibertybell.com/wp-content/uploads/2018/12/8Snyvgf.jpg"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer",
+          "publishedOn": "2025-02-07T21:00:03.000Z",
+          "wordCount": 1222,
+          "title": "Zep AI (YC W24) is hiring engineers to build SOTA agent memory",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://github.com/Tanq16/ExpenseOwl",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Tanq16/ExpenseOwl",
+          "publishedOn": "2025-02-07T20:56:58.000Z",
+          "wordCount": 5144,
+          "title": "Show HN: ExpenseOwl – Simple, self-hosted expense tracker",
+          "imageUrl": "https://opengraph.githubassets.com/e8f32326462bfe65e01f7272b7d5b14df5c3a1dc1145505b8fb8c84ffa706211/Tanq16/ExpenseOwl"
+        },
+        {
+          "id": "https://theretowhere.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theretowhere.com/",
+          "publishedOn": "2025-02-07T18:23:40.000Z",
+          "wordCount": 11,
+          "title": "Show HN: A website that heatmaps your city based on your housing preferences",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hearsum.ca/posts/history-of-code-signing-at-mozilla/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hearsum.ca/posts/history-of-code-signing-at-mozilla/",
+          "publishedOn": "2025-02-07T17:51:49.000Z",
+          "wordCount": 2020,
+          "title": "A brief history of code signing at Mozilla",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/jeprinz/pantograph/blob/main/README.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/jeprinz/pantograph/blob/main/README.md",
+          "publishedOn": "2025-02-07T17:27:57.000Z",
+          "wordCount": 3970,
+          "title": "Pantograph: A Fluid and Typed Structure Editor",
+          "imageUrl": "https://opengraph.githubassets.com/45c77a14373f1a1c555c0219225fb4b62567d9660fb8a2b1dd4779d40bff0ee4/jeprinz/pantograph"
+        },
+        {
+          "id": "https://ieeexplore.ieee.org/document/628099",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ieeexplore.ieee.org/document/628099",
+          "publishedOn": "2025-02-07T16:53:20.000Z",
+          "wordCount": 1631,
+          "title": "The origins of 60-Hz as a power frequency",
+          "imageUrl": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png"
+        },
+        {
+          "id": "https://carto.com/blog/zip-codes-spatial-analysis",
+          "author": null,
+          "description": "Comments",
+          "link": "https://carto.com/blog/zip-codes-spatial-analysis",
+          "publishedOn": "2025-02-07T16:46:47.000Z",
+          "wordCount": 4662,
+          "title": "Stop using zip codes for geospatial analysis (2019)",
+          "imageUrl": "https://cdn.prod.website-files.com/63483ad423421bd16e7a7ae7/639c39c9c67f664c8539d8da_zip-first-digit.png"
+        },
+        {
+          "id": "https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm",
+          "publishedOn": "2025-02-07T16:46:45.000Z",
+          "wordCount": 4089,
+          "title": "Radiation belts detected around Earth after solar storm",
+          "imageUrl": "https://www.sciencealert.com/images/2025/02/new-belts.jpg"
+        },
+        {
+          "id": "https://github.com/AIFanatic/three-nanite",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/AIFanatic/three-nanite",
+          "publishedOn": "2025-02-07T16:23:50.000Z",
+          "wordCount": 1831,
+          "title": "Three-nanite: Unreal Nanite in Three.js",
+          "imageUrl": "https://opengraph.githubassets.com/7d1b984a9a54fb6fd13e29883a247b2df85b5a0b02d631d170f60bd9f073fc1f/AIFanatic/three-nanite"
+        },
+        {
+          "id": "https://github.com/c0stya/trre",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/c0stya/trre",
+          "publishedOn": "2025-02-07T16:18:14.000Z",
+          "wordCount": 5628,
+          "title": "Show HN: Transductive regular expressions for text editing",
+          "imageUrl": "https://opengraph.githubassets.com/01dc4218959688b68b2aa9ad4264a912e12781b38a07f3cff85515854face1ae/c0stya/trre"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41586-024-08502-w",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41586-024-08502-w",
+          "publishedOn": "2025-02-07T14:18:19.000Z",
+          "wordCount": 13366,
+          "title": "Children's arithmetic skills do not transfer between applied and academic math",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-024-08502-w/MediaObjects/41586_2024_8502_Fig1_HTML.png"
+        },
+        {
+          "id": "https://lkml.org/lkml/2025/2/7/9",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lkml.org/lkml/2025/2/7/9",
+          "publishedOn": "2025-02-07T13:02:03.000Z",
+          "wordCount": 201,
+          "title": "Asahi Linux lead developer Hector Martin resigns from Linux kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/",
+          "publishedOn": "2025-02-07T12:18:46.000Z",
+          "wordCount": 3218,
+          "title": "Apple ordered by UK to create global iCloud encryption backdoor",
+          "imageUrl": "https://images.macrumors.com/t/kgOQZrxDvHnu-Guk7aZzH9Be4-Y=/2500x/article-new/2024/12/iCloud-General-Feature-Redux.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Hi8r_63LGyg",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=Hi8r_63LGyg",
+          "publishedOn": "2025-02-07T07:11:36.000Z",
+          "wordCount": null,
+          "title": "Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]",
+          "imageUrl": null
+        },
         {
           "id": "https://insideevs.com/news/749741/tesla-ev-buyers-favorability-rating/",
           "author": null,
@@ -421,6 +621,16 @@
           "imageUrl": "http://static1.squarespace.com/static/5e1e5ef4c84b953ac52564ba/5e1e630093fea070e53da8aa/5ff089870493bd28271993a7/1726076604486/960_epiteszforum-lakotornyok-chicago-varosepiteszete-02--benko-melinda-sorozata-3-230-2020-07-07-212257.jpeg?format=1500w"
         },
         {
+          "id": "https://www.runpulse.com/blog/why-llms-suck-at-ocr",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.runpulse.com/blog/why-llms-suck-at-ocr",
+          "publishedOn": "2025-02-06T22:04:03.000Z",
+          "wordCount": 2410,
+          "title": "Why LLMs still have problems with OCR",
+          "imageUrl": "https://cdn.prod.website-files.com/6707c5683ddae1a50202bac6/67a521a33f69fd548661a0c1_V2.png"
+        },
+        {
           "id": "https://magazine.sebastianraschka.com/p/understanding-reasoning-llms",
           "author": null,
           "description": "Comments",
@@ -471,6 +681,16 @@
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fstock%2Funsplash%2FV72Hk6LjjjI%2Fupload%2Faed1ed418548eeb647e5eef0a9f7f9d5.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
         {
+          "id": "https://www.newscientist.com/article/2466930-the-superconductivity-of-layered-graphene-is-surprisingly-strange/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newscientist.com/article/2466930-the-superconductivity-of-layered-graphene-is-surprisingly-strange/",
+          "publishedOn": "2025-02-06T16:44:21.000Z",
+          "wordCount": 11353,
+          "title": "The superconductivity of layered graphene",
+          "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/02/05143439/SEI_238650644.jpg"
+        },
+        {
           "id": "https://thestrikeagency.com/kaos/",
           "author": null,
           "description": "Comments",
@@ -511,6 +731,16 @@
           "imageUrl": "http://gladdendesign.com/cdn/shop/collections/IMG_7428.jpg?v=1733973949"
         },
         {
+          "id": "https://github.com/mierau/hotline",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mierau/hotline",
+          "publishedOn": "2025-02-06T07:01:26.000Z",
+          "wordCount": 2460,
+          "title": "Hotline for modern Apple systems",
+          "imageUrl": "https://opengraph.githubassets.com/cf614af98f6aaef984fd1165c0b144178108923e12fe45c5fabf20a95b57ff8b/mierau/hotline"
+        },
+        {
           "id": "https://github.com/heap-exploitation/heap-explorer",
           "author": null,
           "description": "Comments",
@@ -519,6 +749,16 @@
           "wordCount": 1949,
           "title": "Show HN: Heap Explorer",
           "imageUrl": "https://opengraph.githubassets.com/0144cadd177ceb7580ebe7380da7ce4f7340c9ba58595bfcba729b4522f9d4d5/heap-exploitation/heap-explorer"
+        },
+        {
+          "id": "https://sacckey.dev/posts/implementing-a-game-boy-emulator-in-ruby/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sacckey.dev/posts/implementing-a-game-boy-emulator-in-ruby/",
+          "publishedOn": "2025-02-06T04:32:43.000Z",
+          "wordCount": 8175,
+          "title": "Implementing a Game Boy emulator in Ruby",
+          "imageUrl": "https://sacckey.dev/sacckey.png"
         },
         {
           "id": "https://opensource.web.cern.ch/cern-open-source-heritage",
@@ -751,6 +991,16 @@
           "imageUrl": "https://opengraph.githubassets.com/b7f6f36fd3e94b1627328b382b80c856d89ab76b14ed378f505a3965a37e8b1a/atgreen/openldk"
         },
         {
+          "id": "https://hnhell.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hnhell.com/",
+          "publishedOn": "2025-02-05T11:15:01.000Z",
+          "wordCount": 47,
+          "title": "Show HN: HN as TikTok, welcome to HN hell",
+          "imageUrl": null
+        },
+        {
           "id": "https://timkellogg.me/blog/2025/02/03/s1",
           "author": null,
           "description": "Comments",
@@ -781,6 +1031,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://soranews24.com/2024/12/21/station-of-despair-what-to-do-if-you-get-stuck-at-the-end-of-tokyos-chuo-rapid-line/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://soranews24.com/2024/12/21/station-of-despair-what-to-do-if-you-get-stuck-at-the-end-of-tokyos-chuo-rapid-line/",
+          "publishedOn": "2025-02-05T09:12:41.000Z",
+          "wordCount": 4195,
+          "title": "Station of despair: What to do if you get stuck at end of Tokyo Chuo Rapid Line",
+          "imageUrl": "https://soranews24.com/wp-content/uploads/sites/3/2024/12/OS-0.jpg?w=580&h=305&crop=1"
+        },
+        {
           "id": "https://gmsl.jgc.org/",
           "author": null,
           "description": "Comments",
@@ -809,6 +1069,16 @@
           "wordCount": 6094,
           "title": "Zig; what I think after months of using it",
           "imageUrl": null
+        },
+        {
+          "id": "https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics",
+          "author": null,
+          "description": "Comments",
+          "link": "https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics",
+          "publishedOn": "2025-02-05T01:25:05.000Z",
+          "wordCount": 2037,
+          "title": "Visual explanations of mathematics (2020)",
+          "imageUrl": "http://static1.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/5ae9e868f950b74c297b583c/1641408417444/annotated_mouse_thumb.png?format=1500w"
         },
         {
           "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840",
@@ -919,6 +1189,16 @@
           "wordCount": 7223,
           "title": "How to prove false statements? (Part 1)",
           "imageUrl": "https://blog.cryptographyengineering.com/wp-content/uploads/2025/02/cuckoo-2-jpg.webp"
+        },
+        {
+          "id": "https://blog.paulsajna.com/fpga-mcs6530-rriot/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.paulsajna.com/fpga-mcs6530-rriot/",
+          "publishedOn": "2025-02-04T20:38:12.000Z",
+          "wordCount": 239,
+          "title": "Unobtanium 6502 based KIM-1 part now obtanium with FPGA",
+          "imageUrl": null
         },
         {
           "id": "https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm",
@@ -1039,6 +1319,16 @@
           "wordCount": 671,
           "title": "DeepRAG: Thinking to retrieval step by step for large language models",
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353",
+          "author": null,
+          "description": "Comments",
+          "link": "https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353",
+          "publishedOn": "2025-02-04T11:56:35.000Z",
+          "wordCount": 6281,
+          "title": "The PS2's backwards compatibility from the engineer who built it (2020)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*rTopLM7Y9cCvuGYI.jpeg"
         },
         {
           "id": "https://bsky.app/profile/sinevibes.bsky.social/post/3lhc6l3caps2l",
@@ -8609,256 +8899,6 @@
           "wordCount": 15144,
           "title": "Show HN: TabPFN v2 – A SOTA foundation model for small tabular data",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-024-08328-6/MediaObjects/41586_2024_8328_Fig1_HTML.png"
-        },
-        {
-          "id": "https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/",
-          "publishedOn": "2025-01-09T16:19:34.000Z",
-          "wordCount": 6705,
-          "title": "WorstFit: Unveiling Hidden Transformers in Windows ANSI",
-          "imageUrl": "https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/fb7a21f99453ce05667ddab5a.jpg"
-        },
-        {
-          "id": "http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html",
-          "publishedOn": "2025-01-09T14:25:21.000Z",
-          "wordCount": 8542,
-          "title": "The Tsunami of Burnout Few See",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ssIlxad1BbaR0B2kPpXzxEVM0j0wH_agVjF-u49r8f8CI_B3ecXvNrPcrb6NWlUKWkp-DboEtcaf1CgpckwiwVbbbeubtG5XB8IfcDp82M9i5md0DTW1BvCD5JSA=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://practicapp.com/binary-modding-a-watercooler/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://practicapp.com/binary-modding-a-watercooler/",
-          "publishedOn": "2025-01-09T13:47:59.000Z",
-          "wordCount": 2409,
-          "title": "Binary modding a water dispenser to save me from pressing a button (2021)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://th0mas.nl/downloads/pdftris.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://th0mas.nl/downloads/pdftris.pdf",
-          "publishedOn": "2025-01-09T13:31:33.000Z",
-          "wordCount": 13165,
-          "title": "Show HN: Tetris in a PDF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jirevwe.github.io/sql-nulls-are-weird.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jirevwe.github.io/sql-nulls-are-weird.html",
-          "publishedOn": "2025-01-09T13:21:40.000Z",
-          "wordCount": 2042,
-          "title": "SQL nulls are weird",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/piebro/factorio-blueprint-visualizer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/piebro/factorio-blueprint-visualizer",
-          "publishedOn": "2025-01-09T11:23:03.000Z",
-          "wordCount": 3028,
-          "title": "Show HN: Factorio Blueprint Visualizer",
-          "imageUrl": "https://opengraph.githubassets.com/1a316dfecb8831ff522fb660ee4ff1a1ed2a5719588198b4fb53afed494f9845/piebro/factorio-blueprint-visualizer"
-        },
-        {
-          "id": "https://ollama.com/library/phi4",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ollama.com/library/phi4",
-          "publishedOn": "2025-01-09T08:12:57.000Z",
-          "wordCount": 2516,
-          "title": "Phi 4 available on Ollama",
-          "imageUrl": "https://ollama.com/public/og.png"
-        },
-        {
-          "id": "https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase",
-          "publishedOn": "2025-01-09T00:25:39.000Z",
-          "wordCount": 1498,
-          "title": "You don't have to pay the Microsoft 365 price increase",
-          "imageUrl": "https://d3c7odttnp7a2d.cloudfront.net/uploads/article/social_image/you-don-t-have-to-pay-the-microsoft-365-price-increase/Social_Image_1200_x_630__5_.jpg"
-        },
-        {
-          "id": "https://www.tuhs.org/Archive/Documentation/TechReports/Bell_Labs/ReedsShellHoles.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tuhs.org/Archive/Documentation/TechReports/Bell_Labs/ReedsShellHoles.pdf",
-          "publishedOn": "2025-01-08T23:46:02.000Z",
-          "wordCount": null,
-          "title": "/bin/sh: the biggest Unix security loophole (1984) [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sidhion.com/blog/28h_days_update_1/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sidhion.com/blog/28h_days_update_1/",
-          "publishedOn": "2025-01-08T23:37:54.000Z",
-          "wordCount": 1213,
-          "title": "28h Days: year 1 update",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california",
-          "publishedOn": "2025-01-08T23:29:06.000Z",
-          "wordCount": 12783,
-          "title": "A Supermarket in California (1955)",
-          "imageUrl": "https://s3-us-east-2.amazonaws.com/cdn-test.poetryfoundation.org/content/images/4e10cff72d74e4bb21ffd9935dac615912684e14.jpeg"
-        },
-        {
-          "id": "https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator",
-          "author": null,
-          "description": "Comments",
-          "link": "https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator",
-          "publishedOn": "2025-01-08T23:15:25.000Z",
-          "wordCount": 760,
-          "title": "A visual demo of Ruby's lazy enumerator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/",
-          "publishedOn": "2025-01-08T23:13:08.000Z",
-          "wordCount": null,
-          "title": "Steve Langasek, one of Ubuntu Linux's leading lights, has died",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/",
-          "publishedOn": "2025-01-08T22:56:27.000Z",
-          "wordCount": 1495,
-          "title": "Salesforce will hire no more software engineers in 2025, says Marc Benioff",
-          "imageUrl": "https://www.salesforceben.com/wp-content/uploads/2024/12/Salesforce-Will-Hire-No-More-Software-Engineers-in-2025-Says-Marc-Benioff.png"
-        },
-        {
-          "id": "https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/",
-          "publishedOn": "2025-01-08T21:40:09.000Z",
-          "wordCount": 1335,
-          "title": "LA wildfires force thousands to evacuate, NASA JPL closed",
-          "imageUrl": "https://regmedia.co.uk/2025/01/08/shutterstock_1818129098.jpg"
-        },
-        {
-          "id": "https://hudsonreview.com/2024/11/the-heroic-industry-of-the-brothers-grimm/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hudsonreview.com/2024/11/the-heroic-industry-of-the-brothers-grimm/",
-          "publishedOn": "2025-01-08T21:36:26.000Z",
-          "wordCount": 4654,
-          "title": "The Heroic Industry of the Brothers Grimm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb",
-          "publishedOn": "2025-01-08T21:27:12.000Z",
-          "wordCount": 1929,
-          "title": "I had to take down my course-swapping site or be expelled",
-          "imageUrl": "https://media.licdn.com/dms/image/sync/v2/D5627AQExQHaQFQpkag/articleshare-shrink_800/articleshare-shrink_800/0/1736309267479?e=2147483647&v=beta&t=JdFT-liJg4bN7LEKuEUh2tomsTA9cXjTVCROEU3TTxw"
-        },
-        {
-          "id": "https://www.houseandgarden.co.uk/gallery/prieure-de-vauboin-garden",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.houseandgarden.co.uk/gallery/prieure-de-vauboin-garden",
-          "publishedOn": "2025-01-08T20:10:03.000Z",
-          "wordCount": 18187,
-          "title": "17th-century priory in France converted into a medieval-inspired topiary garden",
-          "imageUrl": "https://media.houseandgarden.co.uk/photos/63ef8d3ba44abed5b9bea710/16:9/w_2580,c_limit/ag_2204_012-production_digital.jpg"
-        },
-        {
-          "id": "https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md",
-          "publishedOn": "2025-01-08T19:58:22.000Z",
-          "wordCount": 4059,
-          "title": "Multiplicative Infinitesimals",
-          "imageUrl": "https://opengraph.githubassets.com/267f787ae88f54d2f7e49a4b9cddb301048df4c24301f5202a940da8de95877c/Ericson2314/baccumulation"
-        },
-        {
-          "id": "https://jerf.org/iri/post/2025/programming_language_ideas/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jerf.org/iri/post/2025/programming_language_ideas/",
-          "publishedOn": "2025-01-08T18:58:58.000Z",
-          "wordCount": 5217,
-          "title": "Some programming language ideas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sagipolaczek.github.io/NeuralSVG/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sagipolaczek.github.io/NeuralSVG/",
-          "publishedOn": "2025-01-08T18:16:37.000Z",
-          "wordCount": 540,
-          "title": "NeuralSVG: An Implicit Representation for Text-to-Vector Generation",
-          "imageUrl": "static/images/og_tag_header_image.jpg"
-        },
-        {
-          "id": "https://www.nextgov.com/cybersecurity/2025/01/white-house-unveils-cyber-trust-mark-program-consumer-devices/401991/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nextgov.com/cybersecurity/2025/01/white-house-unveils-cyber-trust-mark-program-consumer-devices/401991/",
-          "publishedOn": "2025-01-08T17:53:51.000Z",
-          "wordCount": null,
-          "title": "White House unveils Cyber Trust Mark program for consumer devices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer",
-          "publishedOn": "2025-01-08T17:00:22.000Z",
-          "wordCount": 703,
-          "title": "Two Dots (YC S22) Is Hiring ML and Back End Engineers",
-          "imageUrl": "/images/original/missing.png"
-        },
-        {
-          "id": "https://sdomi.pl/weblog/23-serenityos-realhw/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sdomi.pl/weblog/23-serenityos-realhw/",
-          "publishedOn": "2025-01-08T16:54:39.000Z",
-          "wordCount": 4411,
-          "title": "Bringing SerenityOS to real hardware, one driver at a time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/browserbase/stagehand",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/browserbase/stagehand",
-          "publishedOn": "2025-01-08T16:41:04.000Z",
-          "wordCount": 3016,
-          "title": "Show HN: Stagehand – an open source browser automation framework powered by AI",
-          "imageUrl": "https://opengraph.githubassets.com/e946b2242cb5271e65fa27443dee85eea124ad43d5fe435e154d783e3b639dae/browserbase/stagehand"
         }
       ]
     },
@@ -8924,6 +8964,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/living-world/2024/new-strategies-offer-hope-for-frogs-dying-from-fungus",
+          "author": "Martin J. Kernan",
+          "description": "Scientists are seeing signs of resistance to the infections that have been wiping out the world’s amphibian populations — and developing strategies to aid in the fight Down Under",
+          "link": "https://knowablemagazine.org/content/article/living-world/2024/new-strategies-offer-hope-for-frogs-dying-from-fungus",
+          "publishedOn": "2025-02-08T04:34:56.407Z",
+          "wordCount": 2629,
+          "title": "Frogs kick back against lethal fungus",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/frog-good-news-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/frog-good-news-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/society/2024/using-physics-to-understand-behavior-of-human-crowds",
           "author": "Matthew R. Francis",
@@ -9353,6 +9408,16 @@
       "feedUrl": "http://news.google.com/news?hl=en&output=rss&q=Google+NZ+blog&cf=all&num=30",
       "siteUrl": "https://news.google.com/search?hl=en-US&q=Google+NZ+blog&cf=all&num=30&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiogFBVV95cUxPUDlqUm9vQ21lRlIybkdWeEVXWU1Xa1R1WU53aHgyc1lNTTZFU0x3aENuSUUyNkVyY3NsNGxicjJMRnp2dmJQUEZyaFRlcTZaS2t1cmJEX1RXYk9jY1VFb2JXSVZzZnZOSGZxem5yWHZLLXpnTDVlQ0o5bWhOY1l0YU1JRzFqeTRBMzhrSXZfUUwtUEJUelZWYXpkOGlpXzkwbEE",
+          "author": null,
+          "description": "23 Price Comparison Apps, Tools, and Websites (2025)  Shopify",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUDlqUm9vQ21lRlIybkdWeEVXWU1Xa1R1WU53aHgyc1lNTTZFU0x3aENuSUUyNkVyY3NsNGxicjJMRnp2dmJQUEZyaFRlcTZaS2t1cmJEX1RXYk9jY1VFb2JXSVZzZnZOSGZxem5yWHZLLXpnTDVlQ0o5bWhOY1l0YU1JRzFqeTRBMzhrSXZfUUwtUEJUelZWYXpkOGlpXzkwbEE?oc=5",
+          "publishedOn": "2025-02-02T16:30:00.000Z",
+          "wordCount": 12542,
+          "title": "23 Price Comparison Apps, Tools, and Websites (2025) - Shopify",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMivwFBVV95cUxPTkhaTFlzT3BHOWJWQm9wMzBac0dGb2kza2k0alZVanNmcGVZWk1tYk1TdTN4ejdiX0hhendYRmotZHZNMlBrWk9YR0xOU1hKalNWOGVjN0hUNFBuNzFyN0JVRUpibnhrbFN5Z09va0F1cnFZdFJnNGxHdVgwc2xNdmt3Snpyemx0R3VwNGgzMnZpczJnYkE5MnhrVHFMc05CVUVBUkhqTUI1Q0gzVUtlMHdpZF84b1E2UTgybml5Zw",
           "author": null,
