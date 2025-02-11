@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384306",
+          "author": "Ryan Trimble",
+          "description": "I enjoy organizing code and find cascade layers a fantastic way to organize code explicitly as the cascade looks at it. The neat part is, that as much as it helps with \"top-level\" organization, cascade layers can be nested, which allows us to author more precise styles based on the cascade and inheritance.\nOrganizing Design System Component Patterns With CSS Cascade Layers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/organizing-design-system-component-patterns-with-css-cascade-layers/",
+          "publishedOn": "2025-02-10T14:06:52.000Z",
+          "wordCount": 4019,
+          "title": "Organizing Design System Component Patterns With CSS Cascade Layers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384306"
+        },
+        {
+          "id": "https://css-tricks.com/?p=384563",
+          "author": "Geoff Graham",
+          "description": "Stationery Pad is a handy way to nix a step in your workflow if you regularly use document templates on your Mac. The long-standing Finder feature essentially tells a file’s parent application to open a copy of it by default, ensuring that the original file remains unedited.\nMake Any File a Template Using This Hidden macOS Tool originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/make-any-file-a-template-using-this-hidden-macos-tool/",
+          "publishedOn": "2025-02-10T13:54:00.000Z",
+          "wordCount": 1894,
+          "title": "Make Any File a Template Using This Hidden macOS Tool",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384563"
+        },
+        {
           "id": "https://css-tricks.com/?p=384468",
           "author": "Geoff Graham",
           "description": "A little gem from Kevin Powell's \"HTML & CSS Tip of the Week\" website, reminding us that using container queries opens up container query units for sizing things based on the size of the queried container.\nContainer query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -179,6 +199,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/",
+          "author": "hello@smashingmagazine.com (Marcel Moerkens)",
+          "description": "In 2013, Marcel Moerkens was working on Brooklyn, his WordPress theme, and he needed a way to make it stand out from the pack of other WordPress themes. Little did he know that the intro section he called a “Hero” would become one of the most recognizable patterns in web design today. Here’s how the idea came to life and how it changed everything.",
+          "link": "https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/",
+          "publishedOn": "2025-02-10T13:00:00.000Z",
+          "wordCount": 3866,
+          "title": "How I Created A Popular WordPress Theme And Coined The Term “Hero Section” (Without Realizing It)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/popular-wordpress-theme-term-hero-section/popular-wordpress-theme-term-hero-section.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/popular-wordpress-theme-term-hero-section/popular-wordpress-theme-term-hero-section.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
           "author": "hello@smashingmagazine.com (Tomasz Jakut)",
           "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
@@ -335,6 +370,216 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://lapcatsoftware.com/articles/2025/2/3.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lapcatsoftware.com/articles/2025/2/3.html",
+          "publishedOn": "2025-02-11T02:55:31.000Z",
+          "wordCount": 433,
+          "title": "Apple software update \"bug\" enables Apple Intelligence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dagger.io/blog/replaced-react-with-go",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dagger.io/blog/replaced-react-with-go",
+          "publishedOn": "2025-02-11T02:13:56.000Z",
+          "wordCount": 8816,
+          "title": "We replaced our React front end with Go and WebAssembly",
+          "imageUrl": "https://framerusercontent.com/images/rpEQqTKSeayyQu6gE5juicjnz4.png"
+        },
+        {
+          "id": "https://investors.solarwinds.com/news/news-details/2025/SolarWinds-to-Be-Acquired-by-TurnRiver-Capital/default.aspx",
+          "author": null,
+          "description": "Comments",
+          "link": "https://investors.solarwinds.com/news/news-details/2025/SolarWinds-to-Be-Acquired-by-TurnRiver-Capital/default.aspx",
+          "publishedOn": "2025-02-11T02:05:35.000Z",
+          "wordCount": null,
+          "title": "SolarWinds to Be Acquired by Turn/River Capital",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed",
+          "publishedOn": "2025-02-11T01:50:21.000Z",
+          "wordCount": 2584,
+          "title": "Elementary Functions and Not Following the IEEE754 Floating-Point Standard(2020)",
+          "imageUrl": "http://static1.squarespace.com/static/527a1723e4b0f6a5f0900aff/t/5e3176a10f6dd313bf60dc2f/1580299946461/MSVCSinError.png?format=1500w"
+        },
+        {
+          "id": "http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/",
+          "publishedOn": "2025-02-11T01:19:14.000Z",
+          "wordCount": 975,
+          "title": "How Copyover MUD Servers Worked",
+          "imageUrl": null
+        },
+        {
+          "id": "https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/",
+          "publishedOn": "2025-02-11T01:02:48.000Z",
+          "wordCount": 4521,
+          "title": "The Floppotron 3.0 (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2025/feb/10/v-fluence-pesticide-critics",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/us-news/2025/feb/10/v-fluence-pesticide-critics",
+          "publishedOn": "2025-02-11T00:44:57.000Z",
+          "wordCount": 4785,
+          "title": "'social network' attacking pesticide critics shuts down after investigation",
+          "imageUrl": "https://i.guim.co.uk/img/media/b0942b81bdf441ba092d0792f98ded65fc2bbdb7/0_253_5508_3304/master/5508.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2fc32bdb1afcb59194e011b84720511a"
+        },
+        {
+          "id": "https://github.com/VKCOM/nocc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/VKCOM/nocc",
+          "publishedOn": "2025-02-11T00:35:34.000Z",
+          "wordCount": 6185,
+          "title": "Nocc – A Distributed C++ Compiler",
+          "imageUrl": "https://opengraph.githubassets.com/687de3bc54d6ecfd0c5ada794a61bf3dd94d431ae05456cb74ddf298fea8f195/VKCOM/nocc"
+        },
+        {
+          "id": "https://pydong.org/posts/KwArgs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pydong.org/posts/KwArgs/",
+          "publishedOn": "2025-02-10T23:16:33.000Z",
+          "wordCount": 5055,
+          "title": "Fun with C++26 reflection: Keyword Arguments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://plato.stanford.edu/entries/qm-relational/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://plato.stanford.edu/entries/qm-relational/",
+          "publishedOn": "2025-02-10T22:53:40.000Z",
+          "wordCount": 11237,
+          "title": "Relational Quantum Mechanics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43005096",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=43005096",
+          "publishedOn": "2025-02-10T21:00:29.000Z",
+          "wordCount": 247,
+          "title": "Fly.io (YC W20) Is Hiring a Customer Support Director",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/tinycorelinux/tinyx",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/tinycorelinux/tinyx",
+          "publishedOn": "2025-02-10T19:52:02.000Z",
+          "wordCount": 1167,
+          "title": "TinyX: Small Featured X Server",
+          "imageUrl": "https://opengraph.githubassets.com/363b2cef432171255ce731d4563508f610b40d05f44e4d27d4b7607e14db1f0f/tinycorelinux/tinyx"
+        },
+        {
+          "id": "https://arxiv.org/abs/2502.05171",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2502.05171",
+          "publishedOn": "2025-02-10T19:50:20.000Z",
+          "wordCount": 703,
+          "title": "Scaling up test-time compute with latent reasoning: A recurrent depth approach",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://zknill.io/posts/patterns-for-building-realtime/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zknill.io/posts/patterns-for-building-realtime/",
+          "publishedOn": "2025-02-10T19:42:02.000Z",
+          "wordCount": 1156,
+          "title": "Patterns for Building Realtime Features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.abortretry.fail/p/work-at-the-mill",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.abortretry.fail/p/work-at-the-mill",
+          "publishedOn": "2025-02-10T17:39:28.000Z",
+          "wordCount": 27950,
+          "title": "Work at the Mill Or, the Story of Digital Equipment Corporation",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0a2532e-8e94-41b8-8401-af9c2ae41402_640x475.jpeg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/",
+          "publishedOn": "2025-02-10T17:05:09.000Z",
+          "wordCount": 2563,
+          "title": "Undergraduate shows that searches within hash tables can be much faster",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/02/Hash-Tables-Redux_cr_Nash-Weerasekera-Social.jpg"
+        },
+        {
+          "id": "https://topography.jessekv.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://topography.jessekv.com/",
+          "publishedOn": "2025-02-10T15:54:45.000Z",
+          "wordCount": 451,
+          "title": "Show HN: Global 3D topography explorer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.anthropic.com/news/the-anthropic-economic-index",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anthropic.com/news/the-anthropic-economic-index",
+          "publishedOn": "2025-02-10T14:14:22.000Z",
+          "wordCount": 4612,
+          "title": "The Anthropic Economic Index",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/cf37534d043f4ce407b102ec287483f53732372c-1200x675.png"
+        },
+        {
+          "id": "https://blog.plover.com/lang/etym/nickname-names.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.plover.com/lang/etym/nickname-names.html",
+          "publishedOn": "2025-02-10T13:54:38.000Z",
+          "wordCount": 1620,
+          "title": "Surnames from nicknames nobody has any more",
+          "imageUrl": "https://pic.blog.plover.com/FIRST_IMAGE_DEFAULT.jpg"
+        },
+        {
+          "id": "https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md",
+          "publishedOn": "2025-02-10T13:52:53.000Z",
+          "wordCount": 2218,
+          "title": "Show HN: HTML visualization of a PDF file's internal structure",
+          "imageUrl": "https://opengraph.githubassets.com/c9890383e21702a6148fee3d315563124cab7bdb9076510c87d3ad1f48ce2029/desgeeko/pdfsyntax"
+        },
+        {
+          "id": "https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/",
+          "publishedOn": "2025-02-10T13:50:40.000Z",
+          "wordCount": 2525,
+          "title": "Why hasn't commercial air travel gotten any faster since the 1960s? (2009)",
+          "imageUrl": "https://engineering.mit.edu/wp-content/uploads/2017/01/square_transportation.jpg"
+        },
         {
           "id": "https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years",
           "author": null,
@@ -806,6 +1051,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.science.org/content/article/tally-bones-artifacts-reveals-2000-years-population-swings-among-indigenous-americans",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.science.org/content/article/tally-bones-artifacts-reveals-2000-years-population-swings-among-indigenous-americans",
+          "publishedOn": "2025-02-07T18:17:05.000Z",
+          "wordCount": null,
+          "title": "2000 years of population swings among Indigenous Americans",
+          "imageUrl": null
+        },
+        {
           "id": "https://kevin.burke.dev/kevin/norcal-cities-new-utility/",
           "author": null,
           "description": "Comments",
@@ -823,6 +1078,16 @@
           "publishedOn": "2025-02-07T17:51:49.000Z",
           "wordCount": 2020,
           "title": "A brief history of code signing at Mozilla",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wordlecharts.crtez.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wordlecharts.crtez.dev/",
+          "publishedOn": "2025-02-07T17:45:01.000Z",
+          "wordCount": 4,
+          "title": "Show HN: Wordle Charts – insights about Wordle you don't need",
           "imageUrl": null
         },
         {
@@ -886,6 +1151,26 @@
           "imageUrl": "https://opengraph.githubassets.com/01dc4218959688b68b2aa9ad4264a912e12781b38a07f3cff85515854face1ae/c0stya/trre"
         },
         {
+          "id": "https://willhbr.net/2024/12/27/solving-sudoku-with-tmux/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://willhbr.net/2024/12/27/solving-sudoku-with-tmux/",
+          "publishedOn": "2025-02-07T15:20:35.000Z",
+          "wordCount": 2900,
+          "title": "Solving Sudoku with Tmux",
+          "imageUrl": "https://willhbr.net/images/opengraph.png"
+        },
+        {
+          "id": "https://cerncourier.com/a/the-other-99/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cerncourier.com/a/the-other-99/",
+          "publishedOn": "2025-02-07T14:48:42.000Z",
+          "wordCount": 3293,
+          "title": "The other 99% – CERN Courier",
+          "imageUrl": "https://cerncourier.com/wp-content/uploads/2025/01/CCJanFeb25_GLUON_frontis.jpg"
+        },
+        {
           "id": "https://www.nature.com/articles/s41586-024-08502-w",
           "author": null,
           "description": "Comments",
@@ -936,6 +1221,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off",
+          "publishedOn": "2025-02-07T09:23:49.000Z",
+          "wordCount": 4710,
+          "title": "Balcony solar is taking off",
+          "imageUrl": "https://i.guim.co.uk/img/media/2d2dfb332fe9a6c97890c961de8e818346c62298/135_0_3841_2305/master/3841.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=daaba4083c67dd6fa5fa3022463c0a77"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Hi8r_63LGyg",
           "author": null,
           "description": "Comments",
@@ -944,6 +1239,26 @@
           "wordCount": null,
           "title": "Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.mend.io/blog/fake-vs-code-extension-on-npm-spreads-multi-stage-malware/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.mend.io/blog/fake-vs-code-extension-on-npm-spreads-multi-stage-malware/",
+          "publishedOn": "2025-02-07T06:58:10.000Z",
+          "wordCount": null,
+          "title": "Fake VS Code Extension on NPM Spreads Multi-Stage Malware",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012",
+          "publishedOn": "2025-02-07T06:23:36.000Z",
+          "wordCount": 10224,
+          "title": "Indigenous engineers are using AI to preserve their culture",
+          "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-11/241126-indigenous-AI-ms-e2056e.png"
         },
         {
           "id": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
@@ -964,6 +1279,16 @@
           "wordCount": 8009,
           "title": "Tesla Is Alienating the People It Needs Most: Study",
           "imageUrl": "https://cdn.motor1.com/images/mgl/g4zpk8/s1/ev-study-2.jpg"
+        },
+        {
+          "id": "https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family",
+          "publishedOn": "2025-02-07T03:30:10.000Z",
+          "wordCount": 2112,
+          "title": "Ancient-DNA study identifies originators of Indo-European language family",
+          "imageUrl": "https://hms.harvard.edu/sites/default/files/2025-02/Uberti%20proto-indo%20wheel%20750.jpg"
         },
         {
           "id": "https://skilldrick.github.io/easy6502/",
@@ -8544,246 +8869,6 @@
           "wordCount": 12976,
           "title": "It's time to abandon the cargo cult metaphor",
           "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_s6VPX29KX4znGVZGuEZInNCzMfiFz-NSPpzn4WJ-euSC8irAZhV_A9vxtXZli6LD12PI-7wsUPoRo4S719d4n0v1p7-7HYCU7t0MKvOYlDMskQP7Zp1Cm_HbpgiC3wGQ=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/",
-          "publishedOn": "2025-01-12T16:01:00.000Z",
-          "wordCount": 3683,
-          "title": "Backdooring Your Backdoors – Another $20 Domain, More Governments",
-          "imageUrl": "https://labs.watchtowr.com/content/images/size/w1200/2024/12/bd.png"
-        },
-        {
-          "id": "https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html",
-          "publishedOn": "2025-01-12T15:53:02.000Z",
-          "wordCount": 7243,
-          "title": "Mac Mini G4 – The best « classic » Macintosh for retro-gaming?",
-          "imageUrl": "https://www.xtof.info/MacMini-Banner.png"
-        },
-        {
-          "id": "https://eieio.games/blog/bad-apple-with-regex-in-vim/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eieio.games/blog/bad-apple-with-regex-in-vim/",
-          "publishedOn": "2025-01-12T15:13:14.000Z",
-          "wordCount": 3063,
-          "title": "Bad Apple but it's 6,500 regexes that I search for in Vim",
-          "imageUrl": "https://eieio.games/images/bad-apple-with-regex-in-vim/title-image.png"
-        },
-        {
-          "id": "http://beza1e1.tuxen.de/lore/index.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://beza1e1.tuxen.de/lore/index.html",
-          "publishedOn": "2025-01-12T14:27:15.000Z",
-          "wordCount": 1479,
-          "title": "Software Folklore",
-          "imageUrl": null
-        },
-        {
-          "id": "https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html",
-          "publishedOn": "2025-01-12T14:03:15.000Z",
-          "wordCount": 6872,
-          "title": "The mistake of yearning for the 'friendly' online world of 20 years ago",
-          "imageUrl": "https://imagenes.elpais.com/resizer/v2/W52KP4YNAVDFVHFY6TZYANHCKQ.jpg?auth=4594fb11b8f167e0687b48621801b36e5df9284a19e590c1f7cc7c976afcc7fc&width=1200"
-        },
-        {
-          "id": "https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/",
-          "publishedOn": "2025-01-12T13:33:39.000Z",
-          "wordCount": 2699,
-          "title": "Getting an all-optical AI to handle non-linear math",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/image-1.jpeg"
-        },
-        {
-          "id": "https://github.com/pyper-dev/pyper",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/pyper-dev/pyper",
-          "publishedOn": "2025-01-12T13:05:41.000Z",
-          "wordCount": 3067,
-          "title": "Show HN: Pyper – Concurrent Python Made Simple",
-          "imageUrl": "https://opengraph.githubassets.com/2792052f6a65250a0c33d38ccb32ed1115df9ae3ab192a1f6cb7a5cbd80eeff5/pyper-dev/pyper"
-        },
-        {
-          "id": "https://www.hardbreak.wiki/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.hardbreak.wiki/",
-          "publishedOn": "2025-01-12T11:29:52.000Z",
-          "wordCount": 9307,
-          "title": "I created an open-source Hardware Hacking Wiki – with tutorials for beginners",
-          "imageUrl": "https://2343901342-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FiAi4u24KW445RkQwdeSM%2Fsites%2Fsite_JnjIO%2Fsocialpreview%2Fb6ft7MBhZGQ1maI5151U%2Fpreview_1280_630.png?alt=media&token=f52a4e41-fba1-42a8-827e-5bc34dc527e5"
-        },
-        {
-          "id": "https://rodyne.com/?p=1674",
-          "author": null,
-          "description": "Comments",
-          "link": "https://rodyne.com/?p=1674",
-          "publishedOn": "2025-01-12T09:39:50.000Z",
-          "wordCount": 3022,
-          "title": "Das Blinkenlights",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42672339",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=42672339",
-          "publishedOn": "2025-01-12T09:30:34.000Z",
-          "wordCount": 2283,
-          "title": "What do you think about using a game engine for UI?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.instructables.com/Virtual-Vette-Racing-Simulator-Built-From-Wrecked-/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.instructables.com/Virtual-Vette-Racing-Simulator-Built-From-Wrecked-/",
-          "publishedOn": "2025-01-12T08:04:57.000Z",
-          "wordCount": 10274,
-          "title": "Virtual Vette – Racing Simulator Built from Wrecked Corvette",
-          "imageUrl": "https://content.instructables.com/FMQ/5ONI/M5PCAIWG/FMQ5ONIM5PCAIWG.jpg?auto=webp&frame=1"
-        },
-        {
-          "id": "https://www.potaroo.net/ispcol/2025-01/addr2024.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.potaroo.net/ispcol/2025-01/addr2024.html",
-          "publishedOn": "2025-01-12T01:39:10.000Z",
-          "wordCount": 10226,
-          "title": "IP addresses through 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j",
-          "publishedOn": "2025-01-12T00:33:38.000Z",
-          "wordCount": 309,
-          "title": "Adobe Lightroom's AI Remove feature added a Bitcoin to bird in flight photo",
-          "imageUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3iedncza2wlxqkfj3ljsc2wb/bafkreieeowdwtqk2tps4o5v2i2a55lqe7waza44l273e76qofed6usb6jy@jpeg"
-        },
-        {
-          "id": "https://maharshi.bearblog.dev/contemplative-llms-prompt/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://maharshi.bearblog.dev/contemplative-llms-prompt/",
-          "publishedOn": "2025-01-12T00:02:48.000Z",
-          "wordCount": 1622,
-          "title": "Contemplative LLMs",
-          "imageUrl": "https://raw.githubusercontent.com/Maharshi-Pandya/bearblogs/refs/heads/master/contemplative-llms/media/autoregressive.png"
-        },
-        {
-          "id": "https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/",
-          "publishedOn": "2025-01-11T23:43:33.000Z",
-          "wordCount": 9537,
-          "title": "Why the weak nuclear force is short range",
-          "imageUrl": "https://profmattstrassler.com/wp-content/uploads/2025/01/image-9.png"
-        },
-        {
-          "id": "https://matduggan.com/stop-trying-to-schedule-a-call-with-me/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://matduggan.com/stop-trying-to-schedule-a-call-with-me/",
-          "publishedOn": "2025-01-11T23:20:10.000Z",
-          "wordCount": 2020,
-          "title": "Stop Trying to Schedule a Call with Me",
-          "imageUrl": "https://images.unsplash.com/photo-1508517911809-9fb266784e95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGNhbGxpbmd8ZW58MHx8fHwxNzM2MzM1NzE5fDA&ixlib=rb-4.0.3&q=80&w=2000"
-        },
-        {
-          "id": "https://www.digitalmars.com/articles/Cobvious.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.digitalmars.com/articles/Cobvious.html",
-          "publishedOn": "2025-01-11T22:58:22.000Z",
-          "wordCount": 1163,
-          "title": "Obvious things C should do",
-          "imageUrl": null
-        },
-        {
-          "id": "http://gerdbreitenbach.de/arnold_cat/cat.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://gerdbreitenbach.de/arnold_cat/cat.html",
-          "publishedOn": "2025-01-11T22:25:37.000Z",
-          "wordCount": 429,
-          "title": "Arnold's Cat (2018)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/",
-          "publishedOn": "2025-01-11T21:30:04.000Z",
-          "wordCount": 4650,
-          "title": "Test if a number is even",
-          "imageUrl": "https://secure.gravatar.com/blavatar/169e7f8ec416523b233b0cbdb2bd8bb942587d524dec828f7bdb57fd3466f82c?s=200&ts=1736910061"
-        },
-        {
-          "id": "https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/",
-          "publishedOn": "2025-01-11T21:25:31.000Z",
-          "wordCount": 7628,
-          "title": "Chatham House Rule is suddenly everywhere in the Bay Area",
-          "imageUrl": "https://content.sfstandard.com/wp-content/uploads/2025/01/chatham_house_rules_feature_illo_250111_wide.png?crop=0px%2C202px%2C2400px%2C1260px&w=1200"
-        },
-        {
-          "id": "https://www.eso.org/public/news/eso2501/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.eso.org/public/news/eso2501/",
-          "publishedOn": "2025-01-11T21:11:06.000Z",
-          "wordCount": 2073,
-          "title": "Darkest and clearest skies at risk from industrial megaproject",
-          "imageUrl": "https://cdn.eso.org/images/screen/potw2124a.jpg"
-        },
-        {
-          "id": "https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0",
-          "publishedOn": "2025-01-11T18:18:36.000Z",
-          "wordCount": 148498,
-          "title": "Map of California roads for cyclers (1895)",
-          "imageUrl": "http://tile.loc.gov/storage-services/service/gmd/gmd436/g4361/g4361p/ct000092.gif"
-        },
-        {
-          "id": "https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/",
-          "publishedOn": "2025-01-11T18:14:17.000Z",
-          "wordCount": 3398,
-          "title": "Matt Mullenweg deactivates WordPress accounts of contributors planning a fork",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-bling-watch.jpg?resize=1200,799"
-        },
-        {
-          "id": "https://daringfireball.net/linked/2025/01/10/thomson-dock",
-          "author": null,
-          "description": "Comments",
-          "link": "https://daringfireball.net/linked/2025/01/10/thomson-dock",
-          "publishedOn": "2025-01-11T17:27:11.000Z",
-          "wordCount": 533,
-          "title": "James Thomson on the Origins of the macOS Dock",
-          "imageUrl": "https://daringfireball.net/graphics/df-wide-card.png"
         }
       ]
     },
@@ -8849,6 +8934,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/mind/2025/psychology-of-silence-between-couples",
+          "author": "Francine Russo",
+          "description": "The right kind of silence can be golden, revitalizing and strengthening a relationship",
+          "link": "https://knowablemagazine.org/content/article/mind/2025/psychology-of-silence-between-couples",
+          "publishedOn": "2025-02-11T04:35:49.412Z",
+          "wordCount": 2303,
+          "title": "Quiet couples: Alone time together",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/silence-in-couples-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/silence-in-couples-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/living-world/2024/new-strategies-offer-hope-for-frogs-dying-from-fungus",
           "author": "Martin J. Kernan",
@@ -9178,36 +9278,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/earwig-science-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/mind/2024/self-continuity-connecting-with-your-past-and-future-selves",
-          "author": "Katherine Ellison",
-          "description": "It’s what psychologists call self-continuity, and can improve your health and well-being",
-          "link": "https://knowablemagazine.org/content/article/mind/2024/self-continuity-connecting-with-your-past-and-future-selves",
-          "publishedOn": "2025-01-12T04:35:44.638Z",
-          "wordCount": 3874,
-          "title": "Making friends with your past and future selves",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/self-continuity-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/self-continuity-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/mind/2024/genetics-of-people-who-need-little-sleep",
-          "author": "Marla Broadfoot",
-          "description": "Short sleepers cruise by on four to six hours a night and don’t seem to suffer ill effects. Turns out they’re genetically built to require less sleep than the rest of us.",
-          "link": "https://knowablemagazine.org/content/article/mind/2024/genetics-of-people-who-need-little-sleep",
-          "publishedOn": "2025-01-12T04:35:44.620Z",
-          "wordCount": 4330,
-          "title": "The ones who need little sleep",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/short-sleepers-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/short-sleepers-500x288.jpg"
         }
       ]
     },
@@ -9216,6 +9286,16 @@
       "feedUrl": "http://livingthing.danmackinlay.name/feeds/all.atom.xml",
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
+        {
+          "id": "https://danmackinlay.name/notebook/building_ai_agents.html",
+          "author": null,
+          "description": "Figure 1\n\n\n\nPlaceholder while I think about the practicalities and theory of AI agents.\nPractically, this usually means many agents. See also Multi agent systems.\n1 Factored cognition\nField of study? Or one company’s marketing term?\nFactored Cognition | Ought:\nIn this project, we explore whether we can solve difficult problems by composing small and mostly context-free contributions from individual agents who don’t know the big picture.\nFactored Cognition Primer\n2 Incoming\nIntroducing smolagents: simple agents that write actions in code.\n\n\nWorkshop on Agentic AI for Scientific Discovery\n\n\nAgent Laboratory: Using LLM Agents as Research Assistants\nAgent Laboratory takes input from a human-produced research idea and outputs a research report and code repository. Agent Laboratory is meant to a…",
+          "link": "https://danmackinlay.name/notebook/building_ai_agents.html",
+          "publishedOn": "2025-02-02T03:34:15.000Z",
+          "wordCount": 2081,
+          "title": "Building AI Agents",
+          "imageUrl": "https://danmackinlay.name/images/puppets_RP-P-OB-77.629.thumbnail.avif"
+        },
         {
           "id": "https://danmackinlay.name/notebook/ai_agents.html",
           "author": null,
@@ -9311,16 +9391,6 @@
           "publishedOn": "2025-01-17T22:36:48.000Z",
           "wordCount": 12563,
           "title": "What Is Google Gemini (formerly Bard)? How Gemini AI Tools Work - Shopify",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigwFBVV95cUxPRWFISk1pRXhPSzlreDRuT3ZYeUQtN05JTXg1Q2Z1S1hCMDA3ZmdhRGxsazBuWGxzS0FJSHdoalpLa0ljamkwTXZuV09aSzNDaFB1TWJGOVdlSzdqYW5pSjNMbFNTTjQtOU1XbVVYaU1CS0ZRT0ZQMVZRWkphYW5GYXRtUQ",
-          "author": null,
-          "description": "New tools to help retailers build gen AI search and agents  The Keyword",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRWFISk1pRXhPSzlreDRuT3ZYeUQtN05JTXg1Q2Z1S1hCMDA3ZmdhRGxsazBuWGxzS0FJSHdoalpLa0ljamkwTXZuV09aSzNDaFB1TWJGOVdlSzdqYW5pSjNMbFNTTjQtOU1XbVVYaU1CS0ZRT0ZQMVZRWkphYW5GYXRtUQ?oc=5",
-          "publishedOn": "2025-01-12T13:19:08.000Z",
-          "wordCount": 12542,
-          "title": "New tools to help retailers build gen AI search and agents - The Keyword",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
