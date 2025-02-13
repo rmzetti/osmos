@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384339",
+          "author": "Juan Diego Rodríguez",
+          "description": "We’ve been able to get the length of the viewport in CSS since… checks notes… 2013! Surprisingly, that was more than a decade ago. Getting the viewport width is as easy these days as easy as writing 100vw, but …\nTypecasting and Viewport Transitions in CSS With tan(atan2()) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/typecasting-and-viewport-transitions-in-css-with-tanatan2/",
+          "publishedOn": "2025-02-12T14:15:28.000Z",
+          "wordCount": 3292,
+          "title": "Typecasting and Viewport Transitions in CSS With tan(atan2())",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384339"
+        },
+        {
           "id": "https://css-tricks.com/?p=384306",
           "author": "Ryan Trimble",
           "description": "I enjoy organizing code and find cascade layers a fantastic way to organize code explicitly as the cascade looks at it. The neat part is, that as much as it helps with \"top-level\" organization, cascade layers can be nested, which allows us to author more precise styles based on the cascade and inheritance.\nOrganizing Design System Component Patterns With CSS Cascade Layers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -170,16 +180,6 @@
           "wordCount": 2933,
           "title": "Web-Slinger.css: Across the Swiper-Verse",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383533"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382719",
-          "author": "Geoff Graham",
-          "description": "(This is a sponsored post.)\nIt’s probably no surprise to you that CSS-Tricks is (proudly) hosted on Cloudways, DigitalOcean’s managed hosting arm. Given both CSS-Tricks and Cloudways are part of DigitalOcean, it was just a matter of time …\nA Few Ways That Cloudways Makes Running This Site a Little Easier originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-few-ways-that-cloudways-makes-running-this-site-a-little-easier/",
-          "publishedOn": "2025-01-14T14:49:10.000Z",
-          "wordCount": 2434,
-          "title": "A Few Ways That Cloudways Makes Running This Site a Little Easier",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382719"
         }
       ]
     },
@@ -188,6 +188,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/",
+          "author": "hello@smashingmagazine.com (Matt Zeunert)",
+          "description": "Optimizing web performance means looking beyond surface-level metrics. Time to First Byte (TTFB) is crucial, but improving it requires more than tweaking server response time. Matt Zeunert breaks down what TTFB is, what causes its poor score, and why reducing server response time alone isn’t enough for optimization and often won’t be the most impactful change you can make to your website.",
+          "link": "https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/",
+          "publishedOn": "2025-02-12T17:00:00.000Z",
+          "wordCount": 3656,
+          "title": "Time To First Byte: Beyond Server Response Time",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/time-to-first-byte-beyond-server-response-time/time-to-first-byte-beyond-server-response-time.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/time-to-first-byte-beyond-server-response-time/time-to-first-byte-beyond-server-response-time.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/",
           "author": "hello@smashingmagazine.com (Marcel Moerkens)",
@@ -337,21 +352,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
-          "author": "hello@smashingmagazine.com (Thomas Bohm)",
-          "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
-          "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
-          "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4326,
-          "title": "The Role Of Illustration Style In Visual Storytelling",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg"
         }
       ]
     },
@@ -360,6 +360,246 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://github.com/AkashRajpurohit/howtoprofessionallysay",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/AkashRajpurohit/howtoprofessionallysay",
+          "publishedOn": "2025-02-13T01:24:31.000Z",
+          "wordCount": 2505,
+          "title": "How to professionally say (2022)",
+          "imageUrl": "https://opengraph.githubassets.com/d61016431aac64716d57f1ec79f0ccb468b48c56f1dd378b2d4fe25692f79f05/AkashRajpurohit/howtoprofessionallysay"
+        },
+        {
+          "id": "https://design.google/library/youtube-new-red-color",
+          "author": null,
+          "description": "Comments",
+          "link": "https://design.google/library/youtube-new-red-color",
+          "publishedOn": "2025-02-13T00:55:26.000Z",
+          "wordCount": 4167,
+          "title": "YouTube's New Hue",
+          "imageUrl": "https://storage.googleapis.com/gd-prod/images/76c29efe-e54b-4fcb-b1e4-a27a54fd2a3a.0db06b6b53a87fb0.png"
+        },
+        {
+          "id": "https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/",
+          "publishedOn": "2025-02-13T00:24:08.000Z",
+          "wordCount": 1232,
+          "title": "Why cryptography is not based on NP-complete problems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/",
+          "publishedOn": "2025-02-12T22:20:19.000Z",
+          "wordCount": 1919,
+          "title": "Tiny JITs for a Faster FFI",
+          "imageUrl": "https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/b179fca8f6d604ee598a5b481f19d917070f281a.png"
+        },
+        {
+          "id": "https://jotalea.com.ar/misc/jotaleaos/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jotalea.com.ar/misc/jotaleaos/",
+          "publishedOn": "2025-02-12T20:55:12.000Z",
+          "wordCount": 620,
+          "title": "Show HN: I made my own OS from scratch because I was bored",
+          "imageUrl": "https://jotalea.com.ar/misc/jotaleaos/icon.png"
+        },
+        {
+          "id": "https://www.cpubenchmark.net/year-on-year.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cpubenchmark.net/year-on-year.html",
+          "publishedOn": "2025-02-12T20:34:41.000Z",
+          "wordCount": 5277,
+          "title": "The average CPU performance of PCs and notebooks fell for the first time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/noperator/yknotify",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/noperator/yknotify",
+          "publishedOn": "2025-02-12T20:24:59.000Z",
+          "wordCount": 1924,
+          "title": "Show HN: yknotify – Notify when YubiKey needs touch on macOS",
+          "imageUrl": "https://opengraph.githubassets.com/f99824c9ac4e2b15fb702850043db31706313d899e65eb6da2ba9257481f1b49/noperator/yknotify"
+        },
+        {
+          "id": "https://jsr.io/@fullsoak/fullsoak",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jsr.io/@fullsoak/fullsoak",
+          "publishedOn": "2025-02-12T19:54:52.000Z",
+          "wordCount": null,
+          "title": "Show HN: A no-build fullstack SSR TypeScript web framework",
+          "imageUrl": null
+        },
+        {
+          "id": "https://imapsync.lamiral.info/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://imapsync.lamiral.info/",
+          "publishedOn": "2025-02-12T18:54:35.000Z",
+          "wordCount": 2942,
+          "title": "Imapsync",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2502.07577",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2502.07577",
+          "publishedOn": "2025-02-12T18:14:34.000Z",
+          "wordCount": 750,
+          "title": "Automated Capability Discovery via Foundation Model Self-Exploration",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://eli.lipsitz.net/posts/introducing-gamebub/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://eli.lipsitz.net/posts/introducing-gamebub/",
+          "publishedOn": "2025-02-12T17:11:25.000Z",
+          "wordCount": 25451,
+          "title": "Show HN: Game Bub – open-source FPGA retro emulation handheld",
+          "imageUrl": "https://eli.lipsitz.net/posts/introducing-gamebub/media/poster.jpg"
+        },
+        {
+          "id": "https://spectrum.ieee.org/5g-bandwidth",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/5g-bandwidth",
+          "publishedOn": "2025-02-12T17:04:22.000Z",
+          "wordCount": 11994,
+          "title": "5G networks meet consumer needs as mobile data growth slows",
+          "imageUrl": "https://spectrum.ieee.org/media-library/an-illustration-of-person-sitting-at-a-table-with-number-of-icons-sitting-on-it.png?id=56130041&width=1200&height=600&coordinates=0%2C413%2C0%2C413"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations",
+          "publishedOn": "2025-02-12T17:00:48.000Z",
+          "wordCount": 1329,
+          "title": "Artie (YC S23) Is Hiring Business Operations",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-025-00444-1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-025-00444-1",
+          "publishedOn": "2025-02-12T16:52:57.000Z",
+          "wordCount": 2949,
+          "title": "Record-breaking neutrino is most energetic ever detected",
+          "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-025-00444-1/d41586-025-00444-1_50625566.jpg"
+        },
+        {
+          "id": "https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/",
+          "publishedOn": "2025-02-12T16:32:37.000Z",
+          "wordCount": null,
+          "title": "How Nissan and Honda's $60B merger talks collapsed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.worksinprogress.news/p/the-prophet-of-parking",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.worksinprogress.news/p/the-prophet-of-parking",
+          "publishedOn": "2025-02-12T16:31:04.000Z",
+          "wordCount": 9438,
+          "title": "The Prophet of Parking: A eulogy for the great Donald Shoup",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75ed47c7-e9a4-4761-ac58-3768ac8291a4_3025x2212.jpeg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43026774",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=43026774",
+          "publishedOn": "2025-02-12T16:13:41.000Z",
+          "wordCount": 4901,
+          "title": "Ask HN: Former employees' RSUs at risk after startup's IPO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/nexsol-technologies/pgassistant",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/nexsol-technologies/pgassistant",
+          "publishedOn": "2025-02-12T15:01:40.000Z",
+          "wordCount": 3165,
+          "title": "PgAssistant: OSS tool to help devs understand and optimize PG performance",
+          "imageUrl": "https://opengraph.githubassets.com/4e79d33c07e717ecfb58736d5aefe1bd61f128a76dad356ce7d5b61de75731c9/nexsol-technologies/pgassistant"
+        },
+        {
+          "id": "https://perthirtysix.com/visualizing-data-is-an-art",
+          "author": null,
+          "description": "Comments",
+          "link": "https://perthirtysix.com/visualizing-data-is-an-art",
+          "publishedOn": "2025-02-12T14:17:48.000Z",
+          "wordCount": 4125,
+          "title": "Visualizing Data Is an Art – We Should Treat It Like One",
+          "imageUrl": "https://perthirtysix.com/img/datavizart-cover.png"
+        },
+        {
+          "id": "https://brutecat.com/articles/leaking-youtube-emails",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brutecat.com/articles/leaking-youtube-emails",
+          "publishedOn": "2025-02-12T11:19:42.000Z",
+          "wordCount": 2796,
+          "title": "Leaking the email of any YouTube user for $10k",
+          "imageUrl": "/assets/youtube-email-disclosure.png"
+        },
+        {
+          "id": "https://maknee.github.io/blog/2025/League-Data-Scraping/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://maknee.github.io/blog/2025/League-Data-Scraping/",
+          "publishedOn": "2025-02-12T11:11:38.000Z",
+          "wordCount": 8887,
+          "title": "League of Legends data scraping the hard and tedious way for fun",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43023875",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=43023875",
+          "publishedOn": "2025-02-12T10:22:21.000Z",
+          "wordCount": 4402,
+          "title": "Ask HN: What's the best implementation of Conway's Game of Life?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/",
+          "publishedOn": "2025-02-12T09:33:29.000Z",
+          "wordCount": 2030,
+          "title": "US and UK refuse to sign AI safety declaration at summit",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-1467485842-1152x648.jpg"
+        },
+        {
+          "id": "https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/",
+          "publishedOn": "2025-02-12T09:24:08.000Z",
+          "wordCount": 1054,
+          "title": "Smuggling arbitrary data through an emoji",
+          "imageUrl": "https://r.moxy.social/ykZcSLKZUq/paulbutler/fb.png?date=February+8%2C+2025&title=Smuggling+arbitrary+data+through+an+emoji"
+        },
         {
           "id": "https://claytonwramsey.com/blog/no-html/",
           "author": null,
@@ -811,6 +1051,26 @@
           "imageUrl": "https://thereader.mitpress.mit.edu/wp-content/uploads/2025/01/Delirium-new.jpg"
         },
         {
+          "id": "https://pubby.games/nesfab.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pubby.games/nesfab.html",
+          "publishedOn": "2025-02-10T12:39:43.000Z",
+          "wordCount": 482,
+          "title": "NESFab – A new programming language for creating NES games",
+          "imageUrl": null
+        },
+        {
+          "id": "https://bucket.co/blog/trunk-based-development",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bucket.co/blog/trunk-based-development",
+          "publishedOn": "2025-02-10T12:15:51.000Z",
+          "wordCount": 1799,
+          "title": "Trunk-Based Development",
+          "imageUrl": "https://cdn.prod.website-files.com/65c0b8763c04cd15daa89ad3/675aff66c25f54039c6467e5_Trunk-Based%20Development%20OG-V4.png"
+        },
+        {
           "id": "https://pinballnirvana.com/forums/threads/the-pinball-philosophy-john-mcphee-1975.22239/",
           "author": null,
           "description": "Comments",
@@ -829,6 +1089,16 @@
           "wordCount": 3509,
           "title": "Thomas Aquinas' Skull Reveals Appearance and Cause of Death",
           "imageUrl": "https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20250207050244_2d24c5f3-deb4-436b-a1ae-d91d1907a2ba.jpg"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Half_cent_(United_States_coin)",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Half_cent_(United_States_coin)",
+          "publishedOn": "2025-02-10T03:25:15.000Z",
+          "wordCount": 2851,
+          "title": "Half Cent Coin",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/1851_half_cent_obv.jpg"
         },
         {
           "id": "https://www.washingtonpost.com/technology/2025/02/09/tmobile-starlink-satellite-texting/",
@@ -961,6 +1231,16 @@
           "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
         },
         {
+          "id": "https://www.core77.com/posts/135333/Industrial-Designer-Invents-Drill-Bit-that-Can-Also-Drive-Screws",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.core77.com/posts/135333/Industrial-Designer-Invents-Drill-Bit-that-Can-Also-Drive-Screws",
+          "publishedOn": "2025-02-09T16:48:25.000Z",
+          "wordCount": 1343,
+          "title": "A drill bit that can also drive screws",
+          "imageUrl": "https://s3files.core77.com/blog/images/lead_n_spotlight/1633564_lead_400_135333_.jpg"
+        },
+        {
           "id": "https://arxiv.org/abs/2502.03387",
           "author": null,
           "description": "Comments",
@@ -979,6 +1259,16 @@
           "wordCount": 10899,
           "title": "Advanced Magnet Manufacturing Begins in the United States",
           "imageUrl": "https://spectrum.ieee.org/media-library/a-gloved-lab-worker-using-two-fingers-to-hold-up-a-small-silvery-rectangular-object.jpg?id=56224034&width=1200&height=600&coordinates=0%2C375%2C0%2C375"
+        },
+        {
+          "id": "https://digitalseams.com/blog/what-happens-to-your-online-accounts-when-you-die",
+          "author": null,
+          "description": "Comments",
+          "link": "https://digitalseams.com/blog/what-happens-to-your-online-accounts-when-you-die",
+          "publishedOn": "2025-02-09T15:09:41.000Z",
+          "wordCount": 1904,
+          "title": "What happens to your online accounts when you die?",
+          "imageUrl": "http://static1.squarespace.com/static/598a2436f7e0ab837d08f4c6/t/67a441ac89e409414e335e4e/1738817967182/Screenshot-what-happens.png?format=1500w"
         },
         {
           "id": "https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits",
@@ -1029,6 +1319,16 @@
           "wordCount": 1216,
           "title": "Classic Data science pipelines built with LLMs",
           "imageUrl": "https://repository-images.githubusercontent.com/917748781/db23fac6-3d91-4cd9-97f7-58c80af0e43a"
+        },
+        {
+          "id": "https://luj.fr/blog/is-nixos-truly-reproducible.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://luj.fr/blog/is-nixos-truly-reproducible.html",
+          "publishedOn": "2025-02-09T09:56:13.000Z",
+          "wordCount": 1260,
+          "title": "Is NixOS truly reproducible?",
+          "imageUrl": null
         },
         {
           "id": "https://asteriskmag.com/issues/08/chimes-at-midnight",
@@ -8469,306 +8769,6 @@
           "wordCount": 2101,
           "title": "Generating an infinite world with the Wave Function Collapse algorithm",
           "imageUrl": "https://marian42.de/article/infinite-wfc/city_1280.jpg"
-        },
-        {
-          "id": "https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw",
-          "author": null,
-          "description": "Comments",
-          "link": "https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw",
-          "publishedOn": "2025-01-14T16:14:01.000Z",
-          "wordCount": 3410,
-          "title": "Google’s OAuth login doesn’t protect against purchasing a failed startup domain",
-          "imageUrl": "https://framerusercontent.com/images/5wRWuuEJf8ZKT5TGUmOS6bevnDY.png"
-        },
-        {
-          "id": "https://arena-ai.github.io/structured-logprobs/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arena-ai.github.io/structured-logprobs/",
-          "publishedOn": "2025-01-14T15:52:43.000Z",
-          "wordCount": 270,
-          "title": "Show HN: Value likelihoods for OpenAI structured output",
-          "imageUrl": null
-        },
-        {
-          "id": "https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into",
-          "author": null,
-          "description": "Comments",
-          "link": "https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into",
-          "publishedOn": "2025-01-14T15:51:33.000Z",
-          "wordCount": 4628,
-          "title": "Why is homeschooling becoming fashionable?",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F319d1573-461d-40ea-a807-d184246c44b5_3021x1973.jpeg"
-        },
-        {
-          "id": "https://www.getdbt.com/blog/dbt-labs-acquires-sdf-labs",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.getdbt.com/blog/dbt-labs-acquires-sdf-labs",
-          "publishedOn": "2025-01-14T14:42:54.000Z",
-          "wordCount": 6029,
-          "title": "Dbt Labs acquires SDF Labs",
-          "imageUrl": "https://cdn.sanity.io/images/wl0ndo6t/main/26df812e1b04ba324b438c654f3c31bb5b337d7e-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630"
-        },
-        {
-          "id": "https://www.fortressofdoors.com/take-the-pedals-off-the-bike/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.fortressofdoors.com/take-the-pedals-off-the-bike/",
-          "publishedOn": "2025-01-14T14:17:52.000Z",
-          "wordCount": 1149,
-          "title": "Take the Pedals Off the Bike",
-          "imageUrl": "https://www.fortressofdoors.com/content/images/size/w1200/2025/01/IMG_2844.jpg"
-        },
-        {
-          "id": "https://github.com/popcar2/BadWebsiteBlocklist",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/popcar2/BadWebsiteBlocklist",
-          "publishedOn": "2025-01-14T14:06:41.000Z",
-          "wordCount": 1566,
-          "title": "Show HN: A blocklist to remove spam and bad websites from search results",
-          "imageUrl": "https://opengraph.githubassets.com/80a576e1ab45e1b9384a784d6ac8966276638e0834b1784eb8720fec32ed91d1/popcar2/BadWebsiteBlocklist"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H-nO1F-AO9I",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=H-nO1F-AO9I",
-          "publishedOn": "2025-01-14T14:05:40.000Z",
-          "wordCount": null,
-          "title": "Servo vs. steppers: Speed, Torque and Accuracy [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lightcellenergy.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.lightcellenergy.com/",
-          "publishedOn": "2025-01-14T13:36:09.000Z",
-          "wordCount": 427,
-          "title": "Lightcell: An engine that uses light to make electricity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates",
-          "publishedOn": "2025-01-14T12:41:46.000Z",
-          "wordCount": 1200,
-          "title": "Estimates of plant CO2 uptake rise by nearly one third",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ffmpegbyexample.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ffmpegbyexample.com/",
-          "publishedOn": "2025-01-14T09:58:15.000Z",
-          "wordCount": 839,
-          "title": "FFmpeg by Example",
-          "imageUrl": "https://ffmpegbyexample.com/img/ffmpeg-by-example.png"
-        },
-        {
-          "id": "https://github.com/M3rcuryLake/Nyxelf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/M3rcuryLake/Nyxelf",
-          "publishedOn": "2025-01-14T08:33:08.000Z",
-          "wordCount": 2883,
-          "title": "Show HN: Another ELF Analysis Toolkit",
-          "imageUrl": "https://opengraph.githubassets.com/23b60a12807023df88755d911fe3e90912af2b20d82c5cd7941ee9aba7121303/M3rcuryLake/Nyxelf"
-        },
-        {
-          "id": "https://postgresql-anonymizer.readthedocs.io/en/stable/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://postgresql-anonymizer.readthedocs.io/en/stable/",
-          "publishedOn": "2025-01-14T07:36:25.000Z",
-          "wordCount": 790,
-          "title": "PostgreSQL Anonymizer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://docs.p2p.industries/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://docs.p2p.industries/",
-          "publishedOn": "2025-01-14T06:31:22.000Z",
-          "wordCount": 857,
-          "title": "Show HN: Decentralized robots (and things) orchestration system",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html",
-          "publishedOn": "2025-01-14T04:44:06.000Z",
-          "wordCount": 12456,
-          "title": "DoubleClickjacking: A New type of web hacking technique",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguGmhrd0CL2DZf_1AUpRuyxGq2u-4iThnd64mHOgFe6cLMpRE3UzL8qW8dkb4wgfIgVcPGbisBWuqM8WzU7kSdYdyTTq4vTx2SiH3hO-RgUeSvRENFBMB3CzcFBhfOqha17Ona4gnLcbD4KsE2Wyy0_YfbG8Af6iYnIphO_4le7BrYgwzvgKVEXT8FGzzy/s16000/Screenshot%202024-12-30%20at%208.53.06%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says",
-          "publishedOn": "2025-01-14T02:26:46.000Z",
-          "wordCount": 8753,
-          "title": "43K fewer drivers on Manhattan roads after congestion pricing turned on",
-          "imageUrl": "https://api-prod.gothamist.com/images/349199/fill-1200x650|format-webp|webpquality-85/"
-        },
-        {
-          "id": "https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature",
-          "publishedOn": "2025-01-14T00:48:33.000Z",
-          "wordCount": null,
-          "title": "'Absolutely insane'. Dragonfly's extreme loop-the-loops unparalleled in nature",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.economist.com/christmas-specials/2024/12/19/why-do-small-children-in-japan-ride-the-subway-alone",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.economist.com/christmas-specials/2024/12/19/why-do-small-children-in-japan-ride-the-subway-alone",
-          "publishedOn": "2025-01-14T00:42:38.000Z",
-          "wordCount": 4371,
-          "title": "Why do small children in Japan ride the subway alone?",
-          "imageUrl": "https://www.economist.com/content-assets/images/20241221_XMD013.jpg"
-        },
-        {
-          "id": "https://www.githubstatus.com/incidents/qd96yfgvmcf9",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.githubstatus.com/incidents/qd96yfgvmcf9",
-          "publishedOn": "2025-01-13T23:47:31.000Z",
-          "wordCount": 5472,
-          "title": "GitHub Git Operations Are Down",
-          "imageUrl": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png"
-        },
-        {
-          "id": "https://docs.linuxserver.io/images/docker-webtop/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://docs.linuxserver.io/images/docker-webtop/",
-          "publishedOn": "2025-01-13T23:25:08.000Z",
-          "wordCount": 3373,
-          "title": "Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.voyageai.com/2024/12/04/voyage-code-3/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.voyageai.com/2024/12/04/voyage-code-3/",
-          "publishedOn": "2025-01-13T23:09:14.000Z",
-          "wordCount": 3484,
-          "title": "voyage-code-3",
-          "imageUrl": "https://i0.wp.com/blog.voyageai.com/wp-content/uploads/2024/12/voyage-code-3-blog-featured-image.webp?fit=1024%2C1024&quality=80&ssl=1"
-        },
-        {
-          "id": "https://sourcecodered.com/snyk-malicious-npm-package/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sourcecodered.com/snyk-malicious-npm-package/",
-          "publishedOn": "2025-01-13T22:38:27.000Z",
-          "wordCount": 6509,
-          "title": "Snyk security researcher deploys malicious NPM packages targeting Cursor.com",
-          "imageUrl": "https://sourcecodered.com/wp-content/uploads/2025/01/snyk-cursor-malicious-package-banner.png"
-        },
-        {
-          "id": "https://shopify.engineering/five-years-of-react-native-at-shopify",
-          "author": null,
-          "description": "Comments",
-          "link": "https://shopify.engineering/five-years-of-react-native-at-shopify",
-          "publishedOn": "2025-01-13T22:08:51.000Z",
-          "wordCount": 10594,
-          "title": "Five years of React Native at Shopify",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ROADMAP_HEADER.png?v=1736810457"
-        },
-        {
-          "id": "https://scitechdaily.com/scientists-discover-a-massive-underground-water-vault-in-oregon-3x-the-size-of-lake-mead/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://scitechdaily.com/scientists-discover-a-massive-underground-water-vault-in-oregon-3x-the-size-of-lake-mead/",
-          "publishedOn": "2025-01-13T22:02:04.000Z",
-          "wordCount": null,
-          "title": "Scientists Discover Underground Water Vault in Oregon 3x the Size of Lake Mead",
-          "imageUrl": null
-        },
-        {
-          "id": "https://people.ece.ubc.ca/aamodt/publications/papers/realgpu-noc.micro2024.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://people.ece.ubc.ca/aamodt/publications/papers/realgpu-noc.micro2024.pdf",
-          "publishedOn": "2025-01-13T21:41:12.000Z",
-          "wordCount": 245413,
-          "title": "Uncovering Real GPU NoC Characteristics: Implications on Interconnect Arch.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arxiv.org/abs/2501.00663",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2501.00663",
-          "publishedOn": "2025-01-13T20:11:14.000Z",
-          "wordCount": 782,
-          "title": "Titans: Learning to Memorize at Test Time",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/",
-          "publishedOn": "2025-01-13T19:42:48.000Z",
-          "wordCount": null,
-          "title": "Sonos CEO steps down after app update debacle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thehustle.co/originals/how-corn-syrup-took-over-america",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thehustle.co/originals/how-corn-syrup-took-over-america",
-          "publishedOn": "2025-01-13T18:56:47.000Z",
-          "wordCount": 3191,
-          "title": "How corn syrup took over America",
-          "imageUrl": "https://20627419.fs1.hubspotusercontent-na1.net/hubfs/20627419/Daily%20Newsletter%20Images/Daily%20Images/Jan%2012%202025/Sunday-sugar-share-iamge.png"
-        },
-        {
-          "id": "https://www.latent.space/p/2025-papers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.latent.space/p/2025-papers",
-          "publishedOn": "2025-01-13T18:11:17.000Z",
-          "wordCount": 6788,
-          "title": "AI Engineer Reading List",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9242370c-229f-453d-924a-7a5aa4d20a4c_1090x502.png"
-        },
-        {
-          "id": "https://ryanis.cool/cosmos/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ryanis.cool/cosmos/",
-          "publishedOn": "2025-01-13T17:42:00.000Z",
-          "wordCount": 466,
-          "title": "Cosmos Keyboard: Scan your hand, build a keyboard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084",
-          "author": null,
-          "description": "Comments",
-          "link": "https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084",
-          "publishedOn": "2025-01-13T17:00:21.000Z",
-          "wordCount": 1185,
-          "title": "Humanize Healthcare Content as Wyndly (YC W21) 's first content hire",
-          "imageUrl": null
         }
       ]
     },
@@ -8834,6 +8834,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/physical-world/2025/far-side-of-moon-reveals-dynamic-past-previews-future-exploration",
+          "author": "Nicola Jones",
+          "description": "As NASA astronauts aim for landings in 2027, geologists find surprises in recently retrieved samples from the far side",
+          "link": "https://knowablemagazine.org/content/article/physical-world/2025/far-side-of-moon-reveals-dynamic-past-previews-future-exploration",
+          "publishedOn": "2025-02-13T04:36:16.314Z",
+          "wordCount": 4224,
+          "title": "Moon rocks reveal hidden lunar history",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/moon-rocks-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/moon-rocks-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/mind/2024/self-continuity-connecting-with-your-past-and-future-selves",
           "author": "Katherine Ellison",
