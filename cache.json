@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385117",
+          "author": "Geoff Graham",
+          "description": "This easily qualifies as a \"gotcha\" in CSS and is a good reminder that the cascade doesn't know everything all at the same time. If a custom property is invalid, the cascade won't ignore it, and it gets evaluated, which invalidates the declaration.\nMaybe don’t use custom properties in shorthand properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/maybe-dont-use-custom-properties-in-shorthand-properties/",
+          "publishedOn": "2025-03-06T16:33:55.000Z",
+          "wordCount": 1833,
+          "title": "Maybe don’t use custom properties in shorthand properties",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=384971",
           "author": "Preethi",
           "description": "Preethi demonstrates how to make a user interface to group selected items using CSS Grid using two different methods: the auto-fill keyword for stable layouts and the span keyword for flexible arrangements.\nGrouping Selection List Items Together With CSS Grid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -155,21 +165,6 @@
           "wordCount": 1971,
           "title": "Container query units: cqi and cqb",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384468"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382311",
-          "author": "Geoff Graham",
-          "description": "The steps for how I took the Baseline Status web component and made it into a WordPress block that can be used on any page of post.\nBaseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/baseline-status-in-a-wordpress-block/",
-          "publishedOn": "2025-02-05T14:58:18.000Z",
-          "wordCount": 3717,
-          "title": "Baseline Status in a WordPress Block",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/11/Screen-Recording-2024-11-05-at-2.56.06 PM.mp4",
-            "length": "17563755",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382311"
         }
       ]
     },
@@ -178,6 +173,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/03/how-fix-largest-contentful-issues-subpart-analysis/",
+          "author": "hello@smashingmagazine.com (Matt Zeunert)",
+          "description": "Struggling with slow Largest Contentful Paint (LCP)? Newly introduced by Google, LCP subparts help you pinpoint where page load delays come from. Now, in the Chrome UX Report, this data provides real visitor insights to speed up your site and boost rankings. Matt Zeunert unpacks what LCP subparts are, what they mean for your website speed, and how you can measure them.",
+          "link": "https://smashingmagazine.com/2025/03/how-fix-largest-contentful-issues-subpart-analysis/",
+          "publishedOn": "2025-03-06T10:00:00.000Z",
+          "wordCount": 3967,
+          "title": "How To Fix Largest Contentful Issues With Subpart Analysis",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-fix-largest-contentful-issues-subpart-analysis/how-fix-largest-contentful-issues-subpart-analysis.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-fix-largest-contentful-issues-subpart-analysis/how-fix-largest-contentful-issues-subpart-analysis.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
           "author": "hello@smashingmagazine.com (Kevin Leary)",
@@ -320,6 +330,226 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://google-research.github.io/self-organising-systems/difflogic-ca/?hn",
+          "author": null,
+          "description": "Comments",
+          "link": "https://google-research.github.io/self-organising-systems/difflogic-ca/?hn",
+          "publishedOn": "2025-03-06T23:43:37.000Z",
+          "wordCount": 8163,
+          "title": "Differentiable Logic Cellular Automata",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/instantX-research/InstantStyle",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/instantX-research/InstantStyle",
+          "publishedOn": "2025-03-06T23:31:13.000Z",
+          "wordCount": 6615,
+          "title": "InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation",
+          "imageUrl": "https://opengraph.githubassets.com/eb1216ff2156cde742b9edc4c943539a01d32c901a48065d4bcd67020ac5c7ee/instantX-research/InstantStyle"
+        },
+        {
+          "id": "https://rnikhil.com/2025/03/06/diffusion-models-eval",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rnikhil.com/2025/03/06/diffusion-models-eval",
+          "publishedOn": "2025-03-06T22:35:00.000Z",
+          "wordCount": 494,
+          "title": "Why I find diffusion models interesting?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dadrian.io/blog/posts/sct-not-after/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dadrian.io/blog/posts/sct-not-after/",
+          "publishedOn": "2025-03-06T22:28:01.000Z",
+          "wordCount": 1359,
+          "title": "How to distrust a CA without any certificate errors",
+          "imageUrl": "https://dadrian.io/img/david4.jpg"
+        },
+        {
+          "id": "https://the-nerve-blog.ghost.io/a-brief-meditation-on-formal-systems-and-lying-goblins/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://the-nerve-blog.ghost.io/a-brief-meditation-on-formal-systems-and-lying-goblins/",
+          "publishedOn": "2025-03-06T22:00:38.000Z",
+          "wordCount": 2606,
+          "title": "A brief meditation on formal systems and lying goblins",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/koko-2/jobs/oPgy08B-lead-engineer-cto",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/koko-2/jobs/oPgy08B-lead-engineer-cto",
+          "publishedOn": "2025-03-06T21:00:00.000Z",
+          "wordCount": 1441,
+          "title": "Koko (YC W22) Is Hiring a CTO / Lead Engineer",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://github.com/David-OConnor/lin-alg",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/David-OConnor/lin-alg",
+          "publishedOn": "2025-03-06T20:32:47.000Z",
+          "wordCount": 2485,
+          "title": "Show HN: Rust Vector and Quaternion Lib",
+          "imageUrl": "https://opengraph.githubassets.com/f23942f1a3243c63e9ebb2bad5b9227d45fba6c168a45008319deac4d2e0b773/David-OConnor/lin-alg"
+        },
+        {
+          "id": "https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue",
+          "publishedOn": "2025-03-06T19:51:55.000Z",
+          "wordCount": 4735,
+          "title": "Using GRPO to Beat o1, o3-mini and R1 at \"Temporal Clue\"",
+          "imageUrl": "https://framerusercontent.com/images/pPh2UeXFZfvnhtW1SOVhtzu1FlI.png"
+        },
+        {
+          "id": "https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/",
+          "publishedOn": "2025-03-06T19:38:57.000Z",
+          "wordCount": 3515,
+          "title": "How the Index Card Cataloged the World (2017)",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/bT2Zz5KUHWlux_wSKLtD9yS_B80=/0x66:2109x1164/1200x625/media/img/mt/2017/12/IndexHistory/original.jpg"
+        },
+        {
+          "id": "https://github.com/NishantJoshi00/shelgon",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/NishantJoshi00/shelgon",
+          "publishedOn": "2025-03-06T19:32:12.000Z",
+          "wordCount": 2779,
+          "title": "Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust",
+          "imageUrl": "https://opengraph.githubassets.com/bf103418278c7c8164b918ea8f018ade3bfc7b0e81a526794fc2851c309716e6/NishantJoshi00/shelgon"
+        },
+        {
+          "id": "https://github.com/EFForg/rayhunter",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/EFForg/rayhunter",
+          "publishedOn": "2025-03-06T19:04:12.000Z",
+          "wordCount": 3150,
+          "title": "Rayhunter – Rust tool to detect cell site simulators on an orbic mobile hotspot",
+          "imageUrl": "https://opengraph.githubassets.com/a7c02ffd01affa793b12d22f00d55ebad702ba34e50347a0c00c07aa1f7dc9f0/EFForg/rayhunter"
+        },
+        {
+          "id": "https://sshmenu.sourceforge.net/articles/bcvi/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sshmenu.sourceforge.net/articles/bcvi/",
+          "publishedOn": "2025-03-06T18:55:47.000Z",
+          "wordCount": 1572,
+          "title": "Bcvi – run vi over a 'back-channel' (2010)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/warewulf/warewulf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/warewulf/warewulf",
+          "publishedOn": "2025-03-06T18:45:47.000Z",
+          "wordCount": 1036,
+          "title": "Warewulf is a stateless and diskless container OS provisioning system",
+          "imageUrl": "https://repository-images.githubusercontent.com/308060485/ba0e6501-a269-4dcd-8290-aabfa14e863d"
+        },
+        {
+          "id": "https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html",
+          "publishedOn": "2025-03-06T18:34:11.000Z",
+          "wordCount": 3477,
+          "title": "50 Years in Filesystems: 1984",
+          "imageUrl": "https://blog.koehntopp.info/assets/img/background/rijksmuseum.jpg"
+        },
+        {
+          "id": "https://github.com/pipecat-ai/smart-turn",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/pipecat-ai/smart-turn",
+          "publishedOn": "2025-03-06T18:20:48.000Z",
+          "wordCount": 6141,
+          "title": "Show HN: Open-source, native audio turn detection model",
+          "imageUrl": "https://opengraph.githubassets.com/51980b95153924be61de4caec33e4a7dd56074d91bac56c352fb10dfb2f9bb30/pipecat-ai/smart-turn"
+        },
+        {
+          "id": "https://blog.startifact.com/posts/succinct/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.startifact.com/posts/succinct/",
+          "publishedOn": "2025-03-06T17:48:37.000Z",
+          "wordCount": 3325,
+          "title": "Succinct Data Structures",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mistral.ai/fr/news/mistral-ocr",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mistral.ai/fr/news/mistral-ocr",
+          "publishedOn": "2025-03-06T17:39:39.000Z",
+          "wordCount": 3917,
+          "title": "Mistral OCR",
+          "imageUrl": "https://cms.mistral.ai/assets/060bdeb1-fbff-419c-b2ae-b32b5e441864"
+        },
+        {
+          "id": "https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/",
+          "publishedOn": "2025-03-06T16:37:34.000Z",
+          "wordCount": 3754,
+          "title": "Anime fans stumbled upon a mathematical proof",
+          "imageUrl": "https://static.scientificamerican.com/dam/m/2de9aff25131692e/original/-Anime_Japan-2014.jpg?m=1740758177.232&w=1200"
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2025/03/05/1670/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rachelbythebay.com/w/2025/03/05/1670/",
+          "publishedOn": "2025-03-06T16:18:11.000Z",
+          "wordCount": null,
+          "title": "More thoughts on the 1670 modem's weird noises",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43280836",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=43280836",
+          "publishedOn": "2025-03-06T14:47:35.000Z",
+          "wordCount": 2045,
+          "title": "Launch HN: Cenote (YC W25) – Back Office Automation for Medical Clinics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/metacraft-labs/codetracer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/metacraft-labs/codetracer",
+          "publishedOn": "2025-03-06T14:30:10.000Z",
+          "wordCount": 6883,
+          "title": "Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust",
+          "imageUrl": "https://opengraph.githubassets.com/2b5bbef18200b4bd4ed04f801ff60d910d9d99a1e07e18093ca41265e84ad10b/metacraft-labs/codetracer"
+        },
+        {
+          "id": "https://revolt.chat/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://revolt.chat/",
+          "publishedOn": "2025-03-06T08:47:32.000Z",
+          "wordCount": 235,
+          "title": "Revolt: Open-Source Alternative to Discord",
+          "imageUrl": null
+        },
         {
           "id": "https://arxiv.org/abs/2503.01307",
           "author": null,
@@ -801,6 +1031,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.bostonreview.net/articles/theres-a-word-for-that/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bostonreview.net/articles/theres-a-word-for-that/",
+          "publishedOn": "2025-03-04T02:58:13.000Z",
+          "wordCount": null,
+          "title": "Words for the Heart: A treasury of emotions from classical India",
+          "imageUrl": null
+        },
+        {
           "id": "https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked",
           "author": null,
           "description": "Comments",
@@ -891,6 +1131,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://dl.acm.org/doi/pdf/10.1145/361598.361623",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/361598.361623",
+          "publishedOn": "2025-03-03T18:16:09.000Z",
+          "wordCount": 15253,
+          "title": "On the criteria to be used in decomposing systems into modules (1972)",
+          "imageUrl": null
+        },
+        {
           "id": "https://icode4.coffee/?p=1081",
           "author": null,
           "description": "Comments",
@@ -971,6 +1221,16 @@
           "imageUrl": "https://images.wsj.net/im-51956276/social"
         },
         {
+          "id": "https://wonderfall.dev/autoregressive/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wonderfall.dev/autoregressive/",
+          "publishedOn": "2025-03-03T16:40:00.000Z",
+          "wordCount": 4149,
+          "title": "Some Thoughts on Autoregressive Models",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/takara-ai/go-attention",
           "author": null,
           "description": "Comments",
@@ -1041,6 +1301,26 @@
           "imageUrl": "https://repository-images.githubusercontent.com/633262635/54412910-a4fb-4653-a982-027d6fa4535c"
         },
         {
+          "id": "https://pubs.acs.org/doi/10.1021/acsagscitech.4c00243",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pubs.acs.org/doi/10.1021/acsagscitech.4c00243",
+          "publishedOn": "2025-03-03T14:05:46.000Z",
+          "wordCount": null,
+          "title": "Multicomponent Glass Fertilizer for Nutrient Delivery in Precision Agriculture",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wildlifetrusts.org/news/beavers-are-coming-home",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wildlifetrusts.org/news/beavers-are-coming-home",
+          "publishedOn": "2025-03-03T13:39:04.000Z",
+          "wordCount": 1735,
+          "title": "Reintroductions of beavers into the wild in several parts of England",
+          "imageUrl": null
+        },
+        {
           "id": "https://sepllm.github.io/",
           "author": null,
           "description": "Comments",
@@ -1059,6 +1339,36 @@
           "wordCount": 2672,
           "title": "Math Academy pulled me out of the Valley of Despair",
           "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+        },
+        {
+          "id": "https://phys.org/news/2025-02-equation-state-dense-nuclear-neutron.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2025-02-equation-state-dense-nuclear-neutron.html",
+          "publishedOn": "2025-03-03T12:29:45.000Z",
+          "wordCount": 2630,
+          "title": "An equation of state for dense nuclear matter such as neutron stars",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/2025/an-equation-of-state-f-1.jpg"
+        },
+        {
+          "id": "https://github.com/qianfei11/ShadowyCompression",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/qianfei11/ShadowyCompression",
+          "publishedOn": "2025-03-03T09:35:29.000Z",
+          "wordCount": 1022,
+          "title": "A JPEG Image Compression Service Using Part Homomorphic Encryption (2019)",
+          "imageUrl": "https://opengraph.githubassets.com/8851bcc3f52a05ca4632729750bcce1770bebb9f67d36966addc200fb86b89f5/qianfei11/ShadowyCompression"
+        },
+        {
+          "id": "https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/",
+          "publishedOn": "2025-03-03T07:47:49.000Z",
+          "wordCount": 2771,
+          "title": "Discovery of fresco portraying Dionysian mysteries at Pompeii",
+          "imageUrl": "https://pompeiisites.org/wp-content/uploads/MegalografiaRegioIX-1-500-2.jpg"
         },
         {
           "id": "https://github.com/tearflake/flake-ui",
@@ -8509,426 +8819,6 @@
           "wordCount": 394,
           "title": "Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth) and Ex-Founders",
           "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/a80c6b2e447bdd5f64d0d57fec5b827b2540c887.png?1701886253"
-        },
-        {
-          "id": "https://chiraaggohel.com/posts/llms-eda/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://chiraaggohel.com/posts/llms-eda/",
-          "publishedOn": "2025-02-05T16:33:55.000Z",
-          "wordCount": 4388,
-          "title": "Are LLMs able to notice the “gorilla in the data”?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tradingeconomics.com/commodity/eggs-us",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tradingeconomics.com/commodity/eggs-us",
-          "publishedOn": "2025-02-05T16:31:24.000Z",
-          "wordCount": null,
-          "title": "Eggs US – Price – Chart",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000",
-          "publishedOn": "2025-02-05T16:23:10.000Z",
-          "wordCount": 1543,
-          "title": "20k federal workers take \"buyout\" so far, official says",
-          "imageUrl": "https://images.axios.com/3ZvBqd72melFAc2kfhbtZL2xs0g=/0x0:1920x1080/1366x768/2025/02/04/1738674582385.jpg"
-        },
-        {
-          "id": "https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/",
-          "publishedOn": "2025-02-05T16:03:18.000Z",
-          "wordCount": 2006,
-          "title": "Gemini 2.0 is now available to everyone",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_28.01.25_keyword_social.width-1300.png"
-        },
-        {
-          "id": "https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/",
-          "publishedOn": "2025-02-05T15:45:30.000Z",
-          "wordCount": 4336,
-          "title": "You're missing your near misses",
-          "imageUrl": "https://surfingcomplexity.blog/wp-content/uploads/2020/05/surfer_1f3c4.png?w=120"
-        },
-        {
-          "id": "https://tenochtitlan.thomaskole.nl/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tenochtitlan.thomaskole.nl/",
-          "publishedOn": "2025-02-05T15:40:27.000Z",
-          "wordCount": 1509,
-          "title": "3D reconstruction of the capital of the Aztec empire",
-          "imageUrl": "https://tenochtitlan.thomaskole.nl/resources/opengraph.jpg"
-        },
-        {
-          "id": "https://servo.org/blog/2025/01/31/servo-in-2024/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://servo.org/blog/2025/01/31/servo-in-2024/",
-          "publishedOn": "2025-02-05T15:03:09.000Z",
-          "wordCount": 818,
-          "title": "Servo's progress in 2024",
-          "imageUrl": "/img/servo-color-positive.png"
-        },
-        {
-          "id": "https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/",
-          "publishedOn": "2025-02-05T14:55:03.000Z",
-          "wordCount": 3599,
-          "title": "Avoiding outrage fatigue while staying informed",
-          "imageUrl": "https://static.scientificamerican.com/dam/m/225cfca2d98f2cb5/original/SQ-Wednesday-EP-Art.png?m=1716342177.955&w=1200"
-        },
-        {
-          "id": "https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/",
-          "publishedOn": "2025-02-05T14:47:32.000Z",
-          "wordCount": 3554,
-          "title": "Why is Warner Bros. Discovery putting old movies on YouTube?",
-          "imageUrl": "https://v1.screenshot.11ty.dev/https%3A%2F%2Ftedium.co%2Fog-images%2F2025%2F02%2F05%2Fwarner-bros-youtube-full-movie-releases%2F/opengraph/?v=1738810619"
-        },
-        {
-          "id": "https://abeljansma.nl/2025/01/28/mereoPhysics.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://abeljansma.nl/2025/01/28/mereoPhysics.html",
-          "publishedOn": "2025-02-05T14:06:44.000Z",
-          "wordCount": 3462,
-          "title": "Complex Systems and Quantitative Mereology",
-          "imageUrl": null
-        },
-        {
-          "id": "http://wtarreau.blogspot.com/2011/12/elastic-binary-trees-ebtree.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://wtarreau.blogspot.com/2011/12/elastic-binary-trees-ebtree.html",
-          "publishedOn": "2025-02-05T13:08:40.000Z",
-          "wordCount": 6858,
-          "title": "Elastic Binary Trees (2011)",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1Ac5Hzt1hhRuMH-5kGV9HXonnpr1AXhBC9ZCm45zGKCd58MyBYeitPS8ZfimSWFXpxSEEx4MQ0zoBkRBVQZcx4DHlYeifqYAP6hyphenhyphen80my8xf2AuqkFHfuqn-G0RQTCWuby8L3sbhv3E2M/w1200-h630-p-k-no-nu/Ebnode.png"
-        },
-        {
-          "id": "https://github.com/atgreen/openldk",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/atgreen/openldk",
-          "publishedOn": "2025-02-05T12:17:47.000Z",
-          "wordCount": 3735,
-          "title": "OpenLDK: A Java JIT compiler and runtime in Common Lisp",
-          "imageUrl": "https://opengraph.githubassets.com/b7f6f36fd3e94b1627328b382b80c856d89ab76b14ed378f505a3965a37e8b1a/atgreen/openldk"
-        },
-        {
-          "id": "https://hnhell.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hnhell.com/",
-          "publishedOn": "2025-02-05T11:15:01.000Z",
-          "wordCount": 47,
-          "title": "Show HN: HN as TikTok, welcome to HN hell",
-          "imageUrl": null
-        },
-        {
-          "id": "https://timkellogg.me/blog/2025/02/03/s1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://timkellogg.me/blog/2025/02/03/s1",
-          "publishedOn": "2025-02-05T11:05:40.000Z",
-          "wordCount": 1303,
-          "title": "S1: A $6 R1 competitor?",
-          "imageUrl": "https://timkellogg.mehttps://cdn.pixabay.com/photo/2024/08/13/16/50/ai-generated-8966531_960_720.png"
-        },
-        {
-          "id": "https://spillhistorie.no/qa-with-game-designer-steve-meretzky/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spillhistorie.no/qa-with-game-designer-steve-meretzky/",
-          "publishedOn": "2025-02-05T10:53:02.000Z",
-          "wordCount": 3309,
-          "title": "Steve Meretzky – Working with Douglas Adams on the Hitchhiker's Guide",
-          "imageUrl": "https://i0.wp.com/spillhistorie.no/wp-content/uploads/2025/02/steve-meretzky-topp.jpg?fit=1200%2C600&ssl=1"
-        },
-        {
-          "id": "https://cacm.acm.org/blogcacm/21st-century-c/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cacm.acm.org/blogcacm/21st-century-c/",
-          "publishedOn": "2025-02-05T09:55:11.000Z",
-          "wordCount": 8229,
-          "title": "21st Century C++",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chriskiehl.com/article/thoughts-after-10-years",
-          "author": null,
-          "description": "Comments",
-          "link": "https://chriskiehl.com/article/thoughts-after-10-years",
-          "publishedOn": "2025-02-05T09:50:30.000Z",
-          "wordCount": 502,
-          "title": "Software development topics I've changed my mind on",
-          "imageUrl": null
-        },
-        {
-          "id": "https://frame.work/gb/en/blog/risc-v-mainboard-for-framework-laptop-13-is-now-available",
-          "author": null,
-          "description": "Comments",
-          "link": "https://frame.work/gb/en/blog/risc-v-mainboard-for-framework-laptop-13-is-now-available",
-          "publishedOn": "2025-02-05T09:43:48.000Z",
-          "wordCount": 728,
-          "title": "RISC-V Mainboard for Framework Laptop 13 is now available",
-          "imageUrl": "https://images.prismic.io/frameworkmarketplace/Z6JOdJbqstJ9-ONg_20250115BlogPost-RISC-VMainboardforFrameworkLaptop13isnowavailable.png?auto=format,compress"
-        },
-        {
-          "id": "https://soranews24.com/2024/12/21/station-of-despair-what-to-do-if-you-get-stuck-at-the-end-of-tokyos-chuo-rapid-line/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://soranews24.com/2024/12/21/station-of-despair-what-to-do-if-you-get-stuck-at-the-end-of-tokyos-chuo-rapid-line/",
-          "publishedOn": "2025-02-05T09:12:41.000Z",
-          "wordCount": 4195,
-          "title": "Station of despair: What to do if you get stuck at end of Tokyo Chuo Rapid Line",
-          "imageUrl": "https://soranews24.com/wp-content/uploads/sites/3/2024/12/OS-0.jpg?w=580&h=305&crop=1"
-        },
-        {
-          "id": "https://gmsl.jgc.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gmsl.jgc.org/",
-          "publishedOn": "2025-02-05T07:30:59.000Z",
-          "wordCount": 2334,
-          "title": "GNU Make Standard Library",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.guernicamag.com/inventing-the-commons-on-alternative-technologies/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.guernicamag.com/inventing-the-commons-on-alternative-technologies/",
-          "publishedOn": "2025-02-05T07:11:41.000Z",
-          "wordCount": 3892,
-          "title": "Inventing the Commons: On Alternative Technologies",
-          "imageUrl": "https://www.guernicamag.com/wp-content/uploads/2025/01/milpa-1200x900.jpg"
-        },
-        {
-          "id": "https://www.jordanroga.com/blog/introducing-a-hexagonal-tiled-cartogram-for-u-s-counties",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.jordanroga.com/blog/introducing-a-hexagonal-tiled-cartogram-for-u-s-counties",
-          "publishedOn": "2025-02-05T03:18:22.000Z",
-          "wordCount": 1257,
-          "title": "A hexagonal-tiled cartogram for U.S. counties",
-          "imageUrl": null
-        },
-        {
-          "id": "https://strongly-typed-thoughts.net/blog/zig-2025",
-          "author": null,
-          "description": "Comments",
-          "link": "https://strongly-typed-thoughts.net/blog/zig-2025",
-          "publishedOn": "2025-02-05T02:04:55.000Z",
-          "wordCount": 6094,
-          "title": "Zig; what I think after months of using it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics",
-          "author": null,
-          "description": "Comments",
-          "link": "https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics",
-          "publishedOn": "2025-02-05T01:25:05.000Z",
-          "wordCount": 2037,
-          "title": "Visual explanations of mathematics (2020)",
-          "imageUrl": "http://static1.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/5ae9e868f950b74c297b583c/1641408417444/annotated_mouse_thumb.png?format=1500w"
-        },
-        {
-          "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840",
-          "publishedOn": "2025-02-05T01:13:59.000Z",
-          "wordCount": null,
-          "title": "Changes in schizophrenia diagnoses associated with cannabis use disorder",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cip.org/blog/network-societies",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cip.org/blog/network-societies",
-          "publishedOn": "2025-02-05T01:01:09.000Z",
-          "wordCount": 3535,
-          "title": "We need network societies, not network states (2024)",
-          "imageUrl": "http://static1.squarespace.com/static/631d02b2dfa9482a32db47ec/63bdcd26d1fc017129b1b884/664bbccafbadfc4fb8e5fa23/1722956050424/Firefly+abstract+pattern+of+a+mixture+of+industrial%2C+forest%2C+natural%2C+and+people+%2C+technofuturist+co+%282%29.jpg?format=1500w"
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention",
-          "publishedOn": "2025-02-05T01:00:27.000Z",
-          "wordCount": 1601,
-          "title": "CodeCrafters (YC S22) is hiring a software engineer to change how devs learn",
-          "imageUrl": "/images/original/missing.png"
-        },
-        {
-          "id": "https://beej.us/guide/bggit/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://beej.us/guide/bggit/",
-          "publishedOn": "2025-02-05T00:07:24.000Z",
-          "wordCount": 152,
-          "title": "Beej's Guide to Git",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.inkandswitch.com/ambsheets/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.inkandswitch.com/ambsheets/",
-          "publishedOn": "2025-02-04T23:56:25.000Z",
-          "wordCount": 1040,
-          "title": "Ambsheets: Spreadsheets for Exploring Scenarios",
-          "imageUrl": "https://www.inkandswitch.com/ambsheets/assets/logo-favicon-196x196.png"
-        },
-        {
-          "id": "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/",
-          "publishedOn": "2025-02-04T23:43:34.000Z",
-          "wordCount": 2613,
-          "title": "Securing edge device systems, including firewalls, routers, and VPN gateways",
-          "imageUrl": "https://media.defense.gov/2025/Feb/04/2003637132/1920/1080/0/250204-D-IM742-2025.PNG"
-        },
-        {
-          "id": "https://linusakesson.net/scene/nine/index.php",
-          "author": null,
-          "description": "Comments",
-          "link": "https://linusakesson.net/scene/nine/index.php",
-          "publishedOn": "2025-02-04T23:11:38.000Z",
-          "wordCount": 344,
-          "title": "Nine – seemingly impossible C64 demo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://deno.com/blog/deno-v-oracle2",
-          "author": null,
-          "description": "Comments",
-          "link": "https://deno.com/blog/deno-v-oracle2",
-          "publishedOn": "2025-02-04T22:29:48.000Z",
-          "wordCount": 1222,
-          "title": "Oracle justified its JavaScript trademark with Node.js–now it wants that ignored",
-          "imageUrl": "https://deno.com/blog/deno-v-oracle2/og.png"
-        },
-        {
-          "id": "https://infosecforactivists.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://infosecforactivists.org/",
-          "publishedOn": "2025-02-04T22:25:32.000Z",
-          "wordCount": 4766,
-          "title": "Infosec 101 for Activists",
-          "imageUrl": null
-        },
-        {
-          "id": "https://challenge.dyalog.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://challenge.dyalog.com/",
-          "publishedOn": "2025-02-04T22:02:35.000Z",
-          "wordCount": 5190,
-          "title": "The APL Challenge",
-          "imageUrl": "https://challenge.dyalog.com/assets/apl-challenge.png"
-        },
-        {
-          "id": "https://blog.cryptographyengineering.com/2025/02/04/how-to-prove-false-statements-part-1/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.cryptographyengineering.com/2025/02/04/how-to-prove-false-statements-part-1/",
-          "publishedOn": "2025-02-04T21:47:12.000Z",
-          "wordCount": 7223,
-          "title": "How to prove false statements? (Part 1)",
-          "imageUrl": "https://blog.cryptographyengineering.com/wp-content/uploads/2025/02/cuckoo-2-jpg.webp"
-        },
-        {
-          "id": "https://blog.paulsajna.com/fpga-mcs6530-rriot/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.paulsajna.com/fpga-mcs6530-rriot/",
-          "publishedOn": "2025-02-04T20:38:12.000Z",
-          "wordCount": 239,
-          "title": "Unobtanium 6502 based KIM-1 part now obtanium with FPGA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm",
-          "publishedOn": "2025-02-04T20:28:16.000Z",
-          "wordCount": null,
-          "title": "Google drops pledge not to use AI for weapons or surveillance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research",
-          "publishedOn": "2025-02-04T19:55:27.000Z",
-          "wordCount": 728,
-          "title": "Open Deep Research",
-          "imageUrl": "https://opengraph.githubassets.com/ab57c594ae76d3d27bec4123720175962240ae7c1794fccd718b6dd66dd64bfb/huggingface/smolagents"
-        },
-        {
-          "id": "https://wikitok.vercel.app/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wikitok.vercel.app/",
-          "publishedOn": "2025-02-04T18:40:55.000Z",
-          "wordCount": 3,
-          "title": "WikiTok",
-          "imageUrl": null
-        },
-        {
-          "id": "https://zachholman.com/posts/red-teams",
-          "author": null,
-          "description": "Comments",
-          "link": "https://zachholman.com/posts/red-teams",
-          "publishedOn": "2025-02-04T18:01:45.000Z",
-          "wordCount": 857,
-          "title": "Nontraditional Red Teams",
-          "imageUrl": "/images/front.jpg"
-        },
-        {
-          "id": "https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f",
-          "publishedOn": "2025-02-04T17:21:02.000Z",
-          "wordCount": 3223,
-          "title": "Roc rewrites the compiler in Zig",
-          "imageUrl": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42935355",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=42935355",
-          "publishedOn": "2025-02-04T17:10:51.000Z",
-          "wordCount": 2425,
-          "title": "Launch HN: Pinch (YC W25) – Video conferencing with immersive translation",
-          "imageUrl": null
         }
       ]
     },
@@ -9383,21 +9273,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/condor-reintroduction-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/society/2024/how-do-deep-retrofits-make-buildings-greener",
-          "author": "Kaja Šeruga",
-          "description": "Getting our homes and workplaces to be energy efficient has major benefits — but not when it is done one window at a time. Here’s why deep retrofits and biomaterials are key to more sustainable living.",
-          "link": "https://knowablemagazine.org/content/article/society/2024/how-do-deep-retrofits-make-buildings-greener",
-          "publishedOn": "2025-02-05T04:36:47.780Z",
-          "wordCount": 5108,
-          "title": "The great green building makeover",
-          "enclosure": {
-            "type": "image/png",
-            "url": "https://knowablemagazine.org/docserver/fulltext/green-insulation-500x288.png",
-            "length": "121023"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/green-insulation-500x288.png"
         }
       ]
     },
