@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385336",
+          "author": "Geoff Graham",
+          "description": "I’ve seen a handful of recent posts talking about the utility of the :is() relational pseudo-selector. No need to delve into the details other than to say it can help make compound selectors a lot more readable.\n:is(section, article, aside, \n…\nQuick Reminder That :is() and :where() Are Basically the Same With One Key Difference originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-reminder-that-is-and-where-are-basically-the-same-with-one-key-difference/",
+          "publishedOn": "2025-03-20T13:51:29.000Z",
+          "wordCount": 2067,
+          "title": "Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/is-where-funnels.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=384529",
           "author": "Juan Diego Rodríguez",
           "description": "Going from the most basic ways to style lists directly in HTML to advanced customization techniques that are even capable of making things that aren't lists look like lists.\nStyling Counters in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -135,16 +145,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384665"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382234",
-          "author": "Geoff Graham",
-          "description": "I know, super niche, but it could be any loop, really. The challenge is having multiple tooltips on the same page that make use of the Popover API for toggling goodness and CSS Anchor Positioning for attaching a tooltip to its respective anchor element.\nWorking With Multiple CSS Anchors and Popovers Inside the WordPress Loop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/working-with-multiple-css-anchors-and-popovers-inside-the-wordpress-loop/",
-          "publishedOn": "2025-02-19T13:55:31.000Z",
-          "wordCount": 3311,
-          "title": "Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382234"
         }
       ]
     },
@@ -272,21 +272,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/human-element-using-research-psychology-elevate-data-storytelling/human-element-using-research-psychology-elevate-data-storytelling.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
-          "author": "hello@smashingmagazine.com (Eduard Kuric)",
-          "description": "Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.",
-          "link": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
-          "publishedOn": "2025-02-19T10:00:00.000Z",
-          "wordCount": 5957,
-          "title": "Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg"
         }
       ]
     },
@@ -295,6 +280,206 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html",
+          "publishedOn": "2025-03-21T04:01:00.000Z",
+          "wordCount": 36810,
+          "title": "Apple Shuffles AI Executive Ranks in Bid to Turn Around Siri",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0qiJAaJK5WgTckXvwSyf3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_technology_68/66d71aefcf095b00dc804550cf21acac"
+        },
+        {
+          "id": "https://www.hani.co.kr/arti/society/society_general/1187705.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.hani.co.kr/arti/society/society_general/1187705.html",
+          "publishedOn": "2025-03-21T03:21:12.000Z",
+          "wordCount": 5955,
+          "title": "The head of South Korea's guard consulted ChatGPT before martial law was imposed",
+          "imageUrl": "https://flexible.img.hani.co.kr/flexible/normal/800/574/imgdb/original/2025/0319/20250319501404.webp"
+        },
+        {
+          "id": "https://www.nytimes.com/2025/03/19/us/nonprofit-leader-convicted-federal-food-aid.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2025/03/19/us/nonprofit-leader-convicted-federal-food-aid.html",
+          "publishedOn": "2025-03-21T02:14:46.000Z",
+          "wordCount": null,
+          "title": "Nonprofit's Leader Convicted of Siphoning Off $240M in Federal Food Aid",
+          "imageUrl": null
+        },
+        {
+          "id": "https://susam.net/indieweb-does-not-need-to-take-off.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://susam.net/indieweb-does-not-need-to-take-off.html",
+          "publishedOn": "2025-03-21T01:46:31.000Z",
+          "wordCount": 350,
+          "title": "The IndieWeb Doesn't Need to \"Take Off\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2503.11576",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2503.11576",
+          "publishedOn": "2025-03-21T01:06:42.000Z",
+          "wordCount": 741,
+          "title": "SmolDocling: An ultra-compact VLM for end-to-end multi-modal document conversion",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://github.com/megabytesofrem/chibi",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/megabytesofrem/chibi",
+          "publishedOn": "2025-03-21T00:49:10.000Z",
+          "wordCount": 1268,
+          "title": "Chibi: PNG-tuber application made in Rust",
+          "imageUrl": "https://opengraph.githubassets.com/fa124fd011d4a342c18844148157585bf98987f4492a784e0e686651af7e2459/megabytesofrem/chibi"
+        },
+        {
+          "id": "https://github.com/smparsons/retroboy",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/smparsons/retroboy",
+          "publishedOn": "2025-03-20T21:54:17.000Z",
+          "wordCount": 2527,
+          "title": "Retro Boy: simple Game Boy emulator written in Rust, can be played on the web",
+          "imageUrl": "https://opengraph.githubassets.com/ae5e52d87703d8be934bfa9ebddfbbcb40b9ef9024c431cb9e41b031a0543ac2/smparsons/retroboy"
+        },
+        {
+          "id": "https://github.com/nafey/minimalytics",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/nafey/minimalytics",
+          "publishedOn": "2025-03-20T19:33:30.000Z",
+          "wordCount": 3421,
+          "title": "Show HN: Minimalytics – a standalone minimal analytics app built on SQLite",
+          "imageUrl": "https://opengraph.githubassets.com/66477bb6c8a42868fef72d7fb3d8a2a2fc976bfac21d9dfc67bb4a946992a5d6/nafey/minimalytics"
+        },
+        {
+          "id": "https://unionize.fyi/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://unionize.fyi/",
+          "publishedOn": "2025-03-20T18:24:17.000Z",
+          "wordCount": 1504,
+          "title": "The Burnout Machine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.openai.fm/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.openai.fm/",
+          "publishedOn": "2025-03-20T17:18:00.000Z",
+          "wordCount": 91,
+          "title": "OpenAI Audio Models",
+          "imageUrl": "https://www.openai.fm/og-image.png"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager",
+          "publishedOn": "2025-03-20T17:01:08.000Z",
+          "wordCount": 1053,
+          "title": "Pump.co (YC S22) Is Hiring",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://www.anthropic.com/news/web-search",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anthropic.com/news/web-search",
+          "publishedOn": "2025-03-20T16:51:12.000Z",
+          "wordCount": 7455,
+          "title": "Claude can now search the web",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/1ea9218af422ddb7fc319edd3633cd26080558cf-2400x1260.png"
+        },
+        {
+          "id": "https://acarsdrama.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://acarsdrama.com/",
+          "publishedOn": "2025-03-20T14:33:28.000Z",
+          "wordCount": 1560,
+          "title": "ACARS Drama",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.galois.com/articles/introducing-grease",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.galois.com/articles/introducing-grease",
+          "publishedOn": "2025-03-20T13:57:30.000Z",
+          "wordCount": 3921,
+          "title": "Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mexicocitywater.longlead.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mexicocitywater.longlead.com/",
+          "publishedOn": "2025-03-20T13:28:44.000Z",
+          "wordCount": 10786,
+          "title": "The Last Drops of Mexico City",
+          "imageUrl": "http://photo.longlead-cms.decimalstudios.com/wp-content/uploads/sites/5/2025/03/250307_MCW_socialcard1.jpg"
+        },
+        {
+          "id": "https://www.eso.org/public/news/eso2507/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.eso.org/public/news/eso2507/",
+          "publishedOn": "2025-03-20T13:21:34.000Z",
+          "wordCount": 4009,
+          "title": "Oxygen discovered in most distant known galaxy",
+          "imageUrl": "https://cdn.eso.org/images/screen/eso2507a.jpg"
+        },
+        {
+          "id": "https://polotek.net/posts/the-frontend-treadmill/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://polotek.net/posts/the-frontend-treadmill/",
+          "publishedOn": "2025-03-20T12:25:31.000Z",
+          "wordCount": 970,
+          "title": "The Frontend Treadmill",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.construction-physics.com/p/understanding-solar-energy",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.construction-physics.com/p/understanding-solar-energy",
+          "publishedOn": "2025-03-20T12:09:32.000Z",
+          "wordCount": 10548,
+          "title": "Understanding Solar Energy",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89e6a2a1-18ec-4fbc-9ae4-93792e5a208f_1200x556.png"
+        },
+        {
+          "id": "https://oeis.org/A068994",
+          "author": null,
+          "description": "Comments",
+          "link": "https://oeis.org/A068994",
+          "publishedOn": "2025-03-20T11:55:13.000Z",
+          "wordCount": null,
+          "title": "Powers of 2 with all even digits",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/",
+          "publishedOn": "2025-03-20T08:00:54.000Z",
+          "wordCount": 2441,
+          "title": "Minding the gaps: A new way to draw separators in CSS",
+          "imageUrl": "https://pub-d00f534024b04d0e8036586fc78a41fa.r2.dev/sites/33/2020/09/Edge-Hero-scaled.jpg"
+        },
         {
           "id": "https://github.com/jae-jae/fetch-mcp",
           "author": null,
@@ -344,6 +529,16 @@
           "wordCount": 3533,
           "title": "GPascal – A Blast from the Past (2011)",
           "imageUrl": null
+        },
+        {
+          "id": "https://group.softbank/en/news/press/20250320",
+          "author": null,
+          "description": "Comments",
+          "link": "https://group.softbank/en/news/press/20250320",
+          "publishedOn": "2025-03-20T01:58:47.000Z",
+          "wordCount": 3155,
+          "title": "SoftBank Group to Acquire Ampere Computing for 6.5B",
+          "imageUrl": "https://group.softbank/sites/default/files/assets/img/logo-group.png"
         },
         {
           "id": "https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33",
@@ -616,6 +811,16 @@
           "imageUrl": "https://image-generator.buttondown.email/api/emphasize-subject?subject=&author=Computer%20Things&date=2025-03-18&img="
         },
         {
+          "id": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/whoosh-rocket/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/whoosh-rocket/",
+          "publishedOn": "2025-03-18T17:23:30.000Z",
+          "wordCount": 2068,
+          "title": "NASA Whoosh Rocket",
+          "imageUrl": "https://www1.grc.nasa.gov/wp-content/uploads/whoosh-600x450.gif"
+        },
+        {
           "id": "https://bluemigrate.com/",
           "author": null,
           "description": "Comments",
@@ -676,6 +881,16 @@
           "imageUrl": "https://ericmigi.com/assets/introducing-two-new-pebbleos-watches-0-c2p2_03v2.png"
         },
         {
+          "id": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
+          "publishedOn": "2025-03-18T13:23:57.000Z",
+          "wordCount": 7075,
+          "title": "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries (20",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/05/featured-image.png"
+        },
+        {
           "id": "https://www.reuters.com/technology/cybersecurity/google-agrees-buy-cybersecurity-startup-wiz-32-bln-ft-reports-2025-03-18/",
           "author": null,
           "description": "Comments",
@@ -696,6 +911,16 @@
           "imageUrl": "https://www.ilograph.com/blog/img/ai/cgpt4.webp"
         },
         {
+          "id": "https://www.cybertec-postgresql.com/en/debugging-postgresql-more-easily/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cybertec-postgresql.com/en/debugging-postgresql-more-easily/",
+          "publishedOn": "2025-03-18T11:25:54.000Z",
+          "wordCount": 4775,
+          "title": "Debugging PostgreSQL More Easily",
+          "imageUrl": "https://www.cybertec-postgresql.com/wp-content/uploads/2025/03/Debugging-PostgreSQL-more-easily-Hans-Jurgen-Schonig-Facebook-1.png"
+        },
+        {
           "id": "https://www.minesweeperpro.com/",
           "author": null,
           "description": "Comments",
@@ -704,6 +929,16 @@
           "wordCount": null,
           "title": "Show HN: I made a live multiplayer Minesweeper game",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.instantdb.com/essays/sync_future",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.instantdb.com/essays/sync_future",
+          "publishedOn": "2025-03-18T10:18:12.000Z",
+          "wordCount": 3052,
+          "title": "Sync Engines Are the Future",
+          "imageUrl": "/api/og/essay?title=Sync%20Engines%20are%20the%20Future"
         },
         {
           "id": "https://wildlife.onlinelibrary.wiley.com/doi/10.1002/jwmg.70012",
@@ -723,6 +958,16 @@
           "publishedOn": "2025-03-18T07:59:50.000Z",
           "wordCount": 24790,
           "title": "Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://danishpraka.sh/posts/build-a-container-image-from-scratch/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://danishpraka.sh/posts/build-a-container-image-from-scratch/",
+          "publishedOn": "2025-03-18T05:57:56.000Z",
+          "wordCount": 2947,
+          "title": "Build a Container Image from Scratch",
           "imageUrl": null
         },
         {
@@ -764,6 +1009,16 @@
           "wordCount": 925,
           "title": "Doctor Droid (YC W23) Is Hiring",
           "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://vasekrozhon.wordpress.com/2025/03/17/zero-knowledge-proofs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vasekrozhon.wordpress.com/2025/03/17/zero-knowledge-proofs/",
+          "publishedOn": "2025-03-18T00:56:19.000Z",
+          "wordCount": 4081,
+          "title": "Zero-knowledge proofs, encoding Sudoku and Mario speedruns without semantic leak",
+          "imageUrl": "https://vasekrozhon.wordpress.com/wp-content/uploads/2025/03/dallc2b7e-2025-03-17-15.48.49-a-classic-lighthouse-style-beacon-standing-on-a-rocky-coast-next-to-the-sea-during-twilight.-the-beacon-emits-a-strong-warm-beam-of-light-that-cuts-t.webp"
         },
         {
           "id": "https://www.datagubbe.se/futui/",
@@ -886,6 +1141,16 @@
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
         },
         {
+          "id": "https://www.thedrive.com/news/mclaren-invented-new-carbon-fiber-tape-to-build-even-more-complex-parts",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thedrive.com/news/mclaren-invented-new-carbon-fiber-tape-to-build-even-more-complex-parts",
+          "publishedOn": "2025-03-17T12:53:52.000Z",
+          "wordCount": 3763,
+          "title": "McLaren Invented New Carbon Fiber Tape to Build Even More Complex Parts",
+          "imageUrl": "https://www.thedrive.com/wp-content/uploads/2025/03/Original-17263-dsc07178.jpg"
+        },
+        {
           "id": "http://blog.kevinalbs.com/stupid_smart_pointers",
           "author": null,
           "description": "Comments",
@@ -934,6 +1199,16 @@
           "wordCount": 1889,
           "title": "Let's knock down social media's walled gardens – Tim Berners-Lee",
           "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4ccf1329-442e-49a5-bfa2-a5d2027c23ed.jpg?source=next-barrier-page"
+        },
+        {
+          "id": "https://liu.se/en/news-item/nasta-generations-lysdioder-ar-billiga-och-miljovanliga",
+          "author": null,
+          "description": "Comments",
+          "link": "https://liu.se/en/news-item/nasta-generations-lysdioder-ar-billiga-och-miljovanliga",
+          "publishedOn": "2025-03-17T02:42:16.000Z",
+          "wordCount": 5468,
+          "title": "Next generation LEDs are cheap and sustainable",
+          "imageUrl": "https://liu.se/dfsmedia/dd35e243dfb7406993c1815aaf88a675/105762-50118/muyi-zhang-led-perovskites-20250130-2-2"
         },
         {
           "id": "https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en",
@@ -8524,336 +8799,6 @@
           "wordCount": 1787,
           "title": "When imperfect systems are good: Bluesky's lossy timelines",
           "imageUrl": null
-        },
-        {
-          "id": "https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/",
-          "publishedOn": "2025-02-19T16:35:51.000Z",
-          "wordCount": 4649,
-          "title": "Microsoft unveils Majorana 1 quantum processor",
-          "imageUrl": "https://azure.microsoft.com/en-us/blog/quantum/wp-content/uploads/2025/02/majorana1_1260x708_v2.jpg"
-        },
-        {
-          "id": "https://peter.horne-khan.com/relaxed-radix-balanced-trees/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://peter.horne-khan.com/relaxed-radix-balanced-trees/",
-          "publishedOn": "2025-02-19T16:05:10.000Z",
-          "wordCount": 3518,
-          "title": "Relaxed Radix Balanced Trees (2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/",
-          "publishedOn": "2025-02-19T16:00:25.000Z",
-          "wordCount": 10228,
-          "title": "Apple Debuts iPhone 16e",
-          "imageUrl": "https://www.apple.com/newsroom/images/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/tile/Apple-iPhone-16e-hero-250219-lp.jpg.og.jpg?202502191636"
-        },
-        {
-          "id": "https://github.com/mastra-ai/mastra",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/mastra-ai/mastra",
-          "publishedOn": "2025-02-19T15:25:08.000Z",
-          "wordCount": 2889,
-          "title": "Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby",
-          "imageUrl": "https://opengraph.githubassets.com/d315c05d5eaea7b125dad54e1044d5f3e43ec8a7d69696f33c7e109be6581005/mastra-ai/mastra"
-        },
-        {
-          "id": "https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/",
-          "publishedOn": "2025-02-19T14:32:54.000Z",
-          "wordCount": 2630,
-          "title": "Accelerating scientific breakthroughs with an AI co-scientist",
-          "imageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg"
-        },
-        {
-          "id": "https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger",
-          "publishedOn": "2025-02-19T14:05:23.000Z",
-          "wordCount": 6536,
-          "title": "Multiple Russia-aligned threat actors actively targeting Signal Messenger",
-          "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png"
-        },
-        {
-          "id": "https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode",
-          "publishedOn": "2025-02-19T12:40:58.000Z",
-          "wordCount": 1902,
-          "title": "Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode",
-          "imageUrl": "https://cdn.prod.website-files.com/64f9d9b4e737e7b37d4e39a4/67b3064d4f83b79f702be4c9_Hetzner%20AX%20162%20Annual%20Failure%20Rates.png"
-        },
-        {
-          "id": "https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/",
-          "publishedOn": "2025-02-19T12:36:06.000Z",
-          "wordCount": 2676,
-          "title": "Broken legs and ankles heal better if you walk on them within weeks",
-          "imageUrl": "https://static.scientificamerican.com/dam/m/2536f2bc1f78d195/original/sa0325SoH01.jpg?m=1738864029.009&w=1200"
-        },
-        {
-          "id": "https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/",
-          "publishedOn": "2025-02-19T12:12:52.000Z",
-          "wordCount": 1800,
-          "title": "Greg K-H: \"Writing new code in Rust is a win for all of us\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://0.space/about",
-          "author": null,
-          "description": "Comments",
-          "link": "https://0.space/about",
-          "publishedOn": "2025-02-19T09:24:02.000Z",
-          "wordCount": 954,
-          "title": "Show HN: AI-native browser game that users can craft unlimited 3D items",
-          "imageUrl": "https://res.cloudinary.com/space-zero/image/upload/f_auto,q_auto,c_limit,h_630,w_1200/about/3_jee1vv"
-        },
-        {
-          "id": "https://github.com/nst/PSTris",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/nst/PSTris",
-          "publishedOn": "2025-02-19T08:27:50.000Z",
-          "wordCount": 1538,
-          "title": "Tetris in PostScript",
-          "imageUrl": "https://opengraph.githubassets.com/90b1e42f9d750d10fada69baadf2ed8cb093ffaf38d91f0c1b75975f3158f9ad/nst/PSTris"
-        },
-        {
-          "id": "https://www.ft.com/content/df26fc4c-5488-4994-b2b8-be4bfbda2724",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ft.com/content/df26fc4c-5488-4994-b2b8-be4bfbda2724",
-          "publishedOn": "2025-02-19T06:34:35.000Z",
-          "wordCount": 1892,
-          "title": "Meta’s brave new horizons",
-          "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F49dfb537-6d0d-470c-8192-5455e9c953a4.jpg?source=next-barrier-page"
-        },
-        {
-          "id": "https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/",
-          "publishedOn": "2025-02-19T04:49:46.000Z",
-          "wordCount": 2746,
-          "title": "\"Ensuring Accountability for All Agencies\" – Executive Order",
-          "imageUrl": "https://www.whitehouse.gov/wp-content/uploads/2025/01/WH47-Social-Share-Card-Navy-1200x628-1.png"
-        },
-        {
-          "id": "https://saurabhalone.com/blogs/llama3/web",
-          "author": null,
-          "description": "Comments",
-          "link": "https://saurabhalone.com/blogs/llama3/web",
-          "publishedOn": "2025-02-19T02:37:10.000Z",
-          "wordCount": 3366,
-          "title": "Implementing LLaMA3 in 100 Lines of Pure Jax",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/augmentcode/augment.vim",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/augmentcode/augment.vim",
-          "publishedOn": "2025-02-19T02:19:46.000Z",
-          "wordCount": 4447,
-          "title": "Augment.vim: AI Chat and completion in Vim and Neovim",
-          "imageUrl": "https://opengraph.githubassets.com/dd4a7e2b4d3eb405b86cf5f1f3af6ab6af0c35626a52300fa87e9c17ea8b349f/augmentcode/augment.vim"
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg",
-          "publishedOn": "2025-02-19T02:16:04.000Z",
-          "wordCount": 2622,
-          "title": "1561 Celestial Phenomenon over Nuremberg",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Himmelserscheinung_%C3%BCber_N%C3%BCrnberg_vom_14._April_1561.jpg"
-        },
-        {
-          "id": "https://usetrmnl.com/blog/the-unbrickable-pledge",
-          "author": null,
-          "description": "Comments",
-          "link": "https://usetrmnl.com/blog/the-unbrickable-pledge",
-          "publishedOn": "2025-02-19T02:09:49.000Z",
-          "wordCount": 397,
-          "title": "The Unbrickable Pledge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716",
-          "publishedOn": "2025-02-19T02:04:35.000Z",
-          "wordCount": 12168,
-          "title": "USDA fired officials working on bird flu, now trying to rehire them",
-          "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-03/220321-chickens-stock-mn-1030-7c8a68.jpg"
-        },
-        {
-          "id": "https://www.krish.gg/blog/json-parser-in-rust",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.krish.gg/blog/json-parser-in-rust",
-          "publishedOn": "2025-02-19T00:25:10.000Z",
-          "wordCount": 7401,
-          "title": "Parsing JSON in 500 lines of Rust",
-          "imageUrl": "https://krish.gg/api/og?title=Parsing%20JSON%20in%20500%20lines%20of%20Rust&description=Finally%20sitting%20down%20to%20learn%20Rust%20and%20how%20to%20write%20parsers.&publishTime=Jun%205%2C%202024&readingTime=30"
-        },
-        {
-          "id": "https://github.com/subtrace/subtrace",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/subtrace/subtrace",
-          "publishedOn": "2025-02-18T23:29:17.000Z",
-          "wordCount": 1440,
-          "title": "Show HN: Subtrace – Wireshark for Docker Containers",
-          "imageUrl": "https://opengraph.githubassets.com/0c89b308f6b18045ce33dc8a5f34d8cc8b956b890d66b8cd3bf545190603ec5d/subtrace/subtrace"
-        },
-        {
-          "id": "https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/",
-          "publishedOn": "2025-02-18T23:22:22.000Z",
-          "wordCount": null,
-          "title": "Alice Hamilton waged a one-woman campaign to get the lead out of everything",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should",
-          "publishedOn": "2025-02-18T21:09:19.000Z",
-          "wordCount": 9424,
-          "title": "A year of uv: pros, cons, and should you migrate",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b67b659-6da9-4da4-a6e5-007a2856ebef_1024x1024.webp"
-        },
-        {
-          "id": "https://broot.ca/kafka-at-the-low-end.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://broot.ca/kafka-at-the-low-end.html",
-          "publishedOn": "2025-02-18T21:01:02.000Z",
-          "wordCount": 951,
-          "title": "Kafka at the low end: how bad can it get?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://threekindwords.com/blog/vending-machine-on-the-internet/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://threekindwords.com/blog/vending-machine-on-the-internet/",
-          "publishedOn": "2025-02-18T20:47:51.000Z",
-          "wordCount": 719,
-          "title": "A Vending Machine, on the Internet",
-          "imageUrl": "https://static.threekindwords.com/alien-stickers.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/c4gex0x87g4o",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/news/articles/c4gex0x87g4o",
-          "publishedOn": "2025-02-18T20:29:16.000Z",
-          "wordCount": 5037,
-          "title": "South Korean regulator accuses DeepSeek of sharing user data with ByteDance",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c4be/live/2a38e8b0-edde-11ef-9cb9-3360cc750412.jpg"
-        },
-        {
-          "id": "https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9",
-          "publishedOn": "2025-02-18T19:57:17.000Z",
-          "wordCount": 7431,
-          "title": "Valve releases Team Fortress 2 game code",
-          "imageUrl": "https://opengraph.githubassets.com/b586a6e9bbc3d649dd88b2f5a96cc97a9b88077b3f530bb00a44fd7c72bbb693/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9"
-        },
-        {
-          "id": "https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/",
-          "publishedOn": "2025-02-18T19:33:32.000Z",
-          "wordCount": 2980,
-          "title": "My LLM codegen workflow",
-          "imageUrl": "https://harper.blog/images/og.png"
-        },
-        {
-          "id": "https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx",
-          "publishedOn": "2025-02-18T19:26:33.000Z",
-          "wordCount": 2134,
-          "title": "Nuclear fusion: WEST beats the world record for plasma duration",
-          "imageUrl": "https://www.cea.fr/english/PublishingImages/thumbnails/photo-plasma.jpg"
-        },
-        {
-          "id": "https://arxiv.org/abs/2502.03402",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2502.03402",
-          "publishedOn": "2025-02-18T18:55:31.000Z",
-          "wordCount": 732,
-          "title": "Tensor evolution: A framework for fast tensor computations using recurrences",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://www.nytimes.com/2024/05/14/magazine/native-language-loss.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2024/05/14/magazine/native-language-loss.html",
-          "publishedOn": "2025-02-18T18:34:23.000Z",
-          "wordCount": null,
-          "title": "Can you lose your native tongue? (2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/",
-          "publishedOn": "2025-02-18T18:31:36.000Z",
-          "wordCount": 4795,
-          "title": "Pi-hole v6",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43092522",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=43092522",
-          "publishedOn": "2025-02-18T17:30:39.000Z",
-          "wordCount": 2512,
-          "title": "Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/",
-          "publishedOn": "2025-02-18T17:21:31.000Z",
-          "wordCount": 5783,
-          "title": "Try thinking and learning without working memory (2008)",
-          "imageUrl": "https://sharpbrains.com/wp-content/uploads/2020/05/sb-logo-with-brain.png"
         }
       ]
     },
@@ -9248,21 +9193,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/cosmic-dawn-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/food-environment/2024/developing-renewable-energy-storage-methods",
-          "author": "Katarina Zimmer",
-          "description": "When the Sun doesn’t shine and the wind doesn’t blow, humanity still needs power. Researchers are designing new technologies, from reinvented batteries to compressed air and spinning wheels, to keep energy in reserve for the lean times.",
-          "link": "https://knowablemagazine.org/content/article/food-environment/2024/developing-renewable-energy-storage-methods",
-          "publishedOn": "2025-02-19T04:37:18.299Z",
-          "wordCount": 6620,
-          "title": "Solving renewable energy’s sticky storage problem",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/renewable-energy-storage-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/renewable-energy-storage-500x288.jpg"
         }
       ]
     },
