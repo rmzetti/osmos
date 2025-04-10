@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385672",
+          "author": "Geoff Graham",
+          "description": "Chrome has prototyped these features and released them in Chrome 135. Adam Argyle has a wonderful explainer over at the Chrome Developer blog. Kevin Powell has an equally wonderful video where he follows the explainer. This post is me taking notes from them.\nCSS Carousels originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-carousels/",
+          "publishedOn": "2025-04-09T13:00:24.000Z",
+          "wordCount": 3001,
+          "title": "CSS Carousels",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/carousel-slides.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385271",
           "author": "Lee Meyer",
           "description": "Deploying like an idiot comes down to a mismatch between the tools you use to deploy and the reward in complexity reduced versus complexity added.\nFeeling Like I Have No Release: A Journey Towards Sane Deployments originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -140,16 +150,6 @@
           "wordCount": 9122,
           "title": "Web Components Demystified",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/web-components-demystified.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384941",
-          "author": "Bryan Robinson",
-          "description": "With Astro, we can generate most of our site during our build, but have a small bit of server-side code that can handle search functionality using something like Fuse.js. In this demo, we’ll use Fuse to search through a set of personal “bookmarks” that are generated at build time, but return back proper results from a server call.\nPowering Search With Astro Actions and Fuse.js originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/powering-search-with-astro-actions-and-fuse-js/",
-          "publishedOn": "2025-03-11T15:26:10.000Z",
-          "wordCount": 5170,
-          "title": "Powering Search With Astro Actions and Fuse.js",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/astro-search.jpg"
         }
       ]
     },
@@ -292,21 +292,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/03/how-to-build-confidence-in-your-ux-work/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "UX initiatives are often seen as a disruption rather than a means to solving existing problems in an organization. In this post, we’ll explore how you can build trust for your UX work, gain support, and make a noticeable impact. Part of [Measure UX and Design Impact](https://measure-ux.com/) by yours truly.",
-          "link": "https://smashingmagazine.com/2025/03/how-to-build-confidence-in-your-ux-work/",
-          "publishedOn": "2025-03-11T15:00:00.000Z",
-          "wordCount": 3834,
-          "title": "How To Build Confidence In Your UX Work",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-to-build-confidence-in-your-ux-work/onion-layers-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-to-build-confidence-in-your-ux-work/onion-layers-opt.png"
         }
       ]
     },
@@ -315,6 +300,266 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://businessclasskit.com/blog/design-system-options-for-rails",
+          "author": null,
+          "description": "Comments",
+          "link": "https://businessclasskit.com/blog/design-system-options-for-rails",
+          "publishedOn": "2025-04-10T03:55:07.000Z",
+          "wordCount": 2219,
+          "title": "Design System Options for Rails",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.haiku-os.org/development/learning_to_program_with_haiku",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.haiku-os.org/development/learning_to_program_with_haiku",
+          "publishedOn": "2025-04-10T03:41:49.000Z",
+          "wordCount": 1371,
+          "title": "Learning to Program with Haiku",
+          "imageUrl": "https://www.haiku-os.org/images/haiku_600x315.png"
+        },
+        {
+          "id": "https://www.science.org/content/article/nih-freezes-all-research-grants-columbia-university",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.science.org/content/article/nih-freezes-all-research-grants-columbia-university",
+          "publishedOn": "2025-04-10T03:14:19.000Z",
+          "wordCount": null,
+          "title": "NIH freezes all research grants to Columbia University",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far",
+          "publishedOn": "2025-04-10T02:48:08.000Z",
+          "wordCount": 2009,
+          "title": "Evidence suggesting Quasar Alpha is OpenAI's new model",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17d7e167-8010-4750-b8f9-78af4383ae9c_1492x978.png"
+        },
+        {
+          "id": "https://justincartwright.com/2025/02/25/dice-and-queues.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://justincartwright.com/2025/02/25/dice-and-queues.html",
+          "publishedOn": "2025-04-10T02:38:42.000Z",
+          "wordCount": 2065,
+          "title": "Dice and Queues",
+          "imageUrl": null
+        },
+        {
+          "id": "https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/",
+          "publishedOn": "2025-04-10T01:51:24.000Z",
+          "wordCount": 4123,
+          "title": "No Pay, No Work; Early Career Lessons",
+          "imageUrl": "https://danielsada.tech/images/DanielSadaLogo.png"
+        },
+        {
+          "id": "https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer",
+          "publishedOn": "2025-04-10T01:05:30.000Z",
+          "wordCount": 4973,
+          "title": "Google Cloud Rapid Storage",
+          "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/AI_Hypercomputer.max-2500x2500.jpg"
+        },
+        {
+          "id": "https://www.plugsocketmuseum.nl/British1.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.plugsocketmuseum.nl/British1.html",
+          "publishedOn": "2025-04-10T00:26:31.000Z",
+          "wordCount": 2490,
+          "title": "BS 1363 British Plugs and Sockets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak",
+          "publishedOn": "2025-04-10T00:00:34.000Z",
+          "wordCount": 3432,
+          "title": "The Columbian Orator taught nineteenth-century Americans how to speak",
+          "imageUrl": "https://www.neh.gov/sites/default/files/2025-03/Spring_2025_webimages_Bingham_10..jpg"
+        },
+        {
+          "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4998845",
+          "author": null,
+          "description": "Comments",
+          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4998845",
+          "publishedOn": "2025-04-09T23:47:45.000Z",
+          "wordCount": 2411,
+          "title": "The Consequences of Limiting the Tax Deductibility of R&D",
+          "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
+        },
+        {
+          "id": "https://entropicthoughts.com/parser-combinators-beat-regexes",
+          "author": null,
+          "description": "Comments",
+          "link": "https://entropicthoughts.com/parser-combinators-beat-regexes",
+          "publishedOn": "2025-04-09T21:53:05.000Z",
+          "wordCount": 2298,
+          "title": "Parser Combinators Beat Regexes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://obeli.sk/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://obeli.sk/",
+          "publishedOn": "2025-04-09T19:24:40.000Z",
+          "wordCount": 178,
+          "title": "Show HN: Obelisk – a WASM-based deterministic workflow engine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission",
+          "author": null,
+          "description": "Comments",
+          "link": "https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission",
+          "publishedOn": "2025-04-09T19:09:27.000Z",
+          "wordCount": 1359,
+          "title": "Antiviral chewing gum to reduce influenza and herpes simplex virus transmission",
+          "imageUrl": "https://penntoday.upenn.edu/sites/default/files/2025-03/daniell-tooth-model-teaser_0.jpg"
+        },
+        {
+          "id": "https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/",
+          "publishedOn": "2025-04-09T19:04:12.000Z",
+          "wordCount": 5781,
+          "title": "Baking the Y Combinator from Scratch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://firebase.studio/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://firebase.studio/",
+          "publishedOn": "2025-04-09T18:39:03.000Z",
+          "wordCount": 586,
+          "title": "Firebase Studio",
+          "imageUrl": "https://rstr.in/google/firebase-studio/jeRsLd9j3NZ"
+        },
+        {
+          "id": "https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/",
+          "publishedOn": "2025-04-09T18:07:14.000Z",
+          "wordCount": 367,
+          "title": "GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better",
+          "imageUrl": "https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/featured-before.png"
+        },
+        {
+          "id": "https://withaqua.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://withaqua.com/",
+          "publishedOn": "2025-04-09T16:31:06.000Z",
+          "wordCount": 1130,
+          "title": "Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows",
+          "imageUrl": "https://withaqua.com/images/aqua-voice-social.png"
+        },
+        {
+          "id": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude",
+          "publishedOn": "2025-04-09T15:41:38.000Z",
+          "wordCount": null,
+          "title": "How University Students Use Claude",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/herol3oy/austen",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/herol3oy/austen",
+          "publishedOn": "2025-04-09T15:34:27.000Z",
+          "wordCount": 2854,
+          "title": "Show HN: I built an app to generate story relationships using Mermaidjs",
+          "imageUrl": "https://opengraph.githubassets.com/4f29a17895434b89fa037b8ae30d56b7e829c4d375c50597b9409114168ebc3c/herol3oy/austen"
+        },
+        {
+          "id": "https://productrank.ai/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://productrank.ai/",
+          "publishedOn": "2025-04-09T14:53:01.000Z",
+          "wordCount": 14,
+          "title": "Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity",
+          "imageUrl": "https://productrank.ai/api/core/preview/image?url=http://productrank.ai/"
+        },
+        {
+          "id": "https://livesys.se/posts/the-chroot-technique/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://livesys.se/posts/the-chroot-technique/",
+          "publishedOn": "2025-04-09T14:12:47.000Z",
+          "wordCount": 1044,
+          "title": "The chroot Technique – a Swiss army multitool for Linux systems",
+          "imageUrl": "/posts/the-chroot-technique/liveusb.png"
+        },
+        {
+          "id": "https://spacetimedb.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spacetimedb.com/",
+          "publishedOn": "2025-04-09T13:27:30.000Z",
+          "wordCount": 1356,
+          "title": "SpacetimeDB",
+          "imageUrl": "https://spacetimedb.com/meta-tags.png"
+        },
+        {
+          "id": "https://jcarlosroldan.com/post/355",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jcarlosroldan.com/post/355",
+          "publishedOn": "2025-04-09T13:10:44.000Z",
+          "wordCount": 33587,
+          "title": "Quality-of-Life in Tetris Games",
+          "imageUrl": "https://jcarlosroldan.com/static/246.png"
+        },
+        {
+          "id": "https://twitter.com/dieworkwear/status/1909741170953273353",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/dieworkwear/status/1909741170953273353",
+          "publishedOn": "2025-04-09T12:58:39.000Z",
+          "wordCount": null,
+          "title": "How much do you think it costs to make a pair of Nike shoes in Asia?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/",
+          "publishedOn": "2025-04-09T12:24:19.000Z",
+          "wordCount": 4652,
+          "title": "Ironwood: The first Google TPU for the age of inference",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TPUv7_Social-Share_1920x1080.width-1300.png"
+        },
+        {
+          "id": "https://cosmographia.substack.com/p/photographs-of-old-japan",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cosmographia.substack.com/p/photographs-of-old-japan",
+          "publishedOn": "2025-04-09T12:20:06.000Z",
+          "wordCount": null,
+          "title": "Photographs of 19th Century Japan",
+          "imageUrl": null
+        },
         {
           "id": "https://github.com/reteps/dockerfmt",
           "author": null,
@@ -626,6 +871,16 @@
           "imageUrl": "https://www.tokyoweekender.com/wp-content/uploads/2025/03/ojisan-cards.jpg"
         },
         {
+          "id": "https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet",
+          "publishedOn": "2025-04-07T20:51:02.000Z",
+          "wordCount": 9570,
+          "title": "Uncovering a 0-Click RCE in the SuperNote Nomad E-Ink Tablet",
+          "imageUrl": "https://static.wixstatic.com/media/82b748_624e8f67c9d947258767a24d625667cf~mv2.avif/v1/fill/w_980,h_551,al_c,q_85/82b748_624e8f67c9d947258767a24d625667cf~mv2.avif"
+        },
+        {
           "id": "https://idiallo.com/blog/companies-dont-fix-bugs",
           "author": null,
           "description": "Comments",
@@ -756,6 +1011,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://bernsteinbear.com/blog/nix-by-hand/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bernsteinbear.com/blog/nix-by-hand/",
+          "publishedOn": "2025-04-07T03:25:13.000Z",
+          "wordCount": 1546,
+          "title": "Nix Derivations, Without Guessing",
+          "imageUrl": "https://bernsteinbear.com/favicon.ico"
+        },
+        {
           "id": "https://www.fortressofdoors.com/dark-mirror-ideologies/",
           "author": null,
           "description": "Comments",
@@ -784,6 +1049,16 @@
           "wordCount": null,
           "title": "After 'coding error' triggers firings, top NIH scientists called back to work",
           "imageUrl": null
+        },
+        {
+          "id": "https://petapixel.com/2025/04/01/astrophotographers-help-scientists-solve-mystery-of-sprite-fireworks/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://petapixel.com/2025/04/01/astrophotographers-help-scientists-solve-mystery-of-sprite-fireworks/",
+          "publishedOn": "2025-04-07T00:02:54.000Z",
+          "wordCount": 2295,
+          "title": "Astrophotographers Help Scientists Solve Mystery of 'Sprite Fireworks'",
+          "imageUrl": "https://petapixel.com/assets/uploads/2025/03/lightning-sprite-mystery-.jpg"
         },
         {
           "id": "http://www.moohar.com/blog/why_domino",
@@ -864,6 +1139,16 @@
           "wordCount": 4779,
           "title": "Rsync replaced with openrsync on macOS Sequoia",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://mixpeek.com/blog/turning-frames-into-dataframes",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mixpeek.com/blog/turning-frames-into-dataframes",
+          "publishedOn": "2025-04-06T21:00:14.000Z",
+          "wordCount": 110,
+          "title": "Applying Pandas' Group_by on Videos",
+          "imageUrl": "https://mixpeek.com/brand/preview.png"
         },
         {
           "id": "https://www.capitoltrades.com/",
@@ -8554,296 +8839,6 @@
           "wordCount": 3815,
           "title": "Launch HN: Sift Dev (YC W25) – AI-Powered Datadog Alternative",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c",
-          "author": null,
-          "description": "Comments",
-          "link": "https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c",
-          "publishedOn": "2025-03-11T16:33:24.000Z",
-          "wordCount": null,
-          "title": "Fastplotlib: GPU-accelerated, fast, and interactive plotting library",
-          "imageUrl": null
-        },
-        {
-          "id": "https://misterrogers.org/episodes/computers-and-mice/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://misterrogers.org/episodes/computers-and-mice/",
-          "publishedOn": "2025-03-11T16:15:02.000Z",
-          "wordCount": 457,
-          "title": "Computers and Mice – Mister Rogers Neighborhood",
-          "imageUrl": null
-        },
-        {
-          "id": "https://davidesantangelo.github.io/krep/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://davidesantangelo.github.io/krep/",
-          "publishedOn": "2025-03-11T16:12:43.000Z",
-          "wordCount": 1361,
-          "title": "Show HN: Krep a High-Performance String Search Utility Written in C",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pilaenergy.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pilaenergy.com/",
-          "publishedOn": "2025-03-11T15:48:33.000Z",
-          "wordCount": 9802,
-          "title": "Show HN: We built a Plug-in Home Battery for the 99.7% of us without Powerwalls",
-          "imageUrl": "http://static1.squarespace.com/static/6596f6c5d6c74805e05300b6/t/67cb7db07af01441128fc0e9/1741482536871/pila.jpg?format=1500w"
-        },
-        {
-          "id": "https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court",
-          "publishedOn": "2025-03-11T15:32:46.000Z",
-          "wordCount": 1940,
-          "title": "AI-Generated Voice Evidence Poses Dangers in Court",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption",
-          "publishedOn": "2025-03-11T14:44:44.000Z",
-          "wordCount": 2158,
-          "title": "NIST selects HQC as fifth algorithm for post-quantum encryption",
-          "imageUrl": "https://www.nist.gov/sites/default/files/styles/social/public/images/2023/08/22/PQC_Algo_Pre-standardization-vid.jpg?itok=QoP6Ie_b"
-        },
-        {
-          "id": "https://devblogs.microsoft.com/typescript/typescript-native-port/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://devblogs.microsoft.com/typescript/typescript-native-port/",
-          "publishedOn": "2025-03-11T14:32:23.000Z",
-          "wordCount": 7998,
-          "title": "A 10x Faster TypeScript",
-          "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2018/08/typescriptfeature.png"
-        },
-        {
-          "id": "https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english",
-          "publishedOn": "2025-03-11T14:24:48.000Z",
-          "wordCount": 10617,
-          "title": "The US island that speaks Elizabethan English",
-          "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p07dqgft.jpg"
-        },
-        {
-          "id": "https://twitter.com/garrytan/status/1899092996702048709",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/garrytan/status/1899092996702048709",
-          "publishedOn": "2025-03-11T14:14:35.000Z",
-          "wordCount": null,
-          "title": "Happy 20th Birthday, Y Combinator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://legacy.cs.indiana.edu/~dyb/papers/3imp.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://legacy.cs.indiana.edu/~dyb/papers/3imp.pdf",
-          "publishedOn": "2025-03-11T13:19:29.000Z",
-          "wordCount": 29922,
-          "title": "Three Implementation Models for Scheme (1987) [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cliprun.com/online-python-compiler-with-libraries",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cliprun.com/online-python-compiler-with-libraries",
-          "publishedOn": "2025-03-11T12:52:05.000Z",
-          "wordCount": 1318,
-          "title": "Show HN: Online Python Compiler with Libraries",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/crmne/ruby_llm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/crmne/ruby_llm",
-          "publishedOn": "2025-03-11T12:40:55.000Z",
-          "wordCount": 3819,
-          "title": "RubyLLM: A delightful Ruby way to work with AI",
-          "imageUrl": "https://opengraph.githubassets.com/6ea48327909b693c3b8bd92f138a5c97fc5e8eeb497368da7efb1c423e484949/crmne/ruby_llm"
-        },
-        {
-          "id": "https://multiverseemployeehandbook.com/blog/adams-birthday-toast/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://multiverseemployeehandbook.com/blog/adams-birthday-toast/",
-          "publishedOn": "2025-03-11T12:18:25.000Z",
-          "wordCount": 774,
-          "title": "So Long and Thanks for All the Words: A Toast to Douglas Adams",
-          "imageUrl": "https://multiverseemployeehandbook.com/assets/images/og_logo_multiverse_employee_handbook-min.jpg"
-        },
-        {
-          "id": "https://github.com/camel-ai/owl",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/camel-ai/owl",
-          "publishedOn": "2025-03-11T12:14:13.000Z",
-          "wordCount": 11102,
-          "title": "Owl: Optimized Workforce Learning for multi-agent collaboration",
-          "imageUrl": "https://opengraph.githubassets.com/e9ed2036248325028a934eace7fb6de17e301ece90618e5c5c684d355b06ee94/camel-ai/owl"
-        },
-        {
-          "id": "https://jackhopkins.github.io/factorio-learning-environment/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jackhopkins.github.io/factorio-learning-environment/",
-          "publishedOn": "2025-03-11T12:02:02.000Z",
-          "wordCount": 2534,
-          "title": "Show HN: Factorio Learning Environment – Agents Build Factories",
-          "imageUrl": null
-        },
-        {
-          "id": "https://seeinglogic.com/posts/visual-readability-patterns/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://seeinglogic.com/posts/visual-readability-patterns/",
-          "publishedOn": "2025-03-11T10:07:17.000Z",
-          "wordCount": 3871,
-          "title": "What makes code hard to read: Visual patterns of complexity (2023)",
-          "imageUrl": "https://seeinglogic.com/posts/visual-readability-patterns/featured.png"
-        },
-        {
-          "id": "https://sourcery.zone/articles/20250311094031-calendar_org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sourcery.zone/articles/20250311094031-calendar_org/",
-          "publishedOn": "2025-03-11T09:20:34.000Z",
-          "wordCount": 957,
-          "title": "Calendar.org",
-          "imageUrl": "https://og.tailgraph.com/og?fontFamily=Roboto&title=Calendar.org&titleTailwind=text-gray-800%20font-bold%20text-6xl&logoTailwind=h-8&bgTailwind=bg-white&footer=sourcery.zone&footerTailwind=text-teal-600"
-        },
-        {
-          "id": "https://thechipletter.substack.com/p/modern-baby",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thechipletter.substack.com/p/modern-baby",
-          "publishedOn": "2025-03-11T06:37:14.000Z",
-          "wordCount": null,
-          "title": "Modern Baby: A pioneering computer from Manchester",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43329030",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=43329030",
-          "publishedOn": "2025-03-11T04:01:10.000Z",
-          "wordCount": 424,
-          "title": "Ask HN: What are things to work on that are not AI or QC?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2025/03/09/movies/flow-movie-pets-oscars.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2025/03/09/movies/flow-movie-pets-oscars.html",
-          "publishedOn": "2025-03-11T03:00:15.000Z",
-          "wordCount": null,
-          "title": "Pets Can't Stop Watching 'Flow,' the Oscar-Winning Cat Movie",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.seven39.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.seven39.com/",
-          "publishedOn": "2025-03-11T01:05:10.000Z",
-          "wordCount": 106,
-          "title": "Seven39 – a social media app that is only open for 3 hours every evening",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/eduardoagarcia/shef",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/eduardoagarcia/shef",
-          "publishedOn": "2025-03-11T00:16:54.000Z",
-          "wordCount": 24469,
-          "title": "Shef",
-          "imageUrl": "https://opengraph.githubassets.com/11d049e4aacc2b2e7843bd9854cd047c55c571d81bcd4f24eb731d29dfba2757/eduardoagarcia/shef"
-        },
-        {
-          "id": "https://www.fourmilab.ch/gravitation/foobar/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.fourmilab.ch/gravitation/foobar/",
-          "publishedOn": "2025-03-11T00:11:33.000Z",
-          "wordCount": 6999,
-          "title": "Bending Spacetime in the Basement",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review",
-          "publishedOn": "2025-03-10T21:24:06.000Z",
-          "wordCount": 47069,
-          "title": "What made the Irish famine so deadly",
-          "imageUrl": "https://media.newyorker.com/photos/67c7722c674febccd3a7d36f/16:9/w_1280,c_limit/r45712.jpg"
-        },
-        {
-          "id": "https://yieldcode.blog/post/working-with-systemd-timers/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://yieldcode.blog/post/working-with-systemd-timers/",
-          "publishedOn": "2025-03-10T21:04:29.000Z",
-          "wordCount": 1786,
-          "title": "Working with Systemd Timers",
-          "imageUrl": "https://yieldcode.blog/post/working-with-systemd-timers/cover.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43325049",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=43325049",
-          "publishedOn": "2025-03-10T19:41:37.000Z",
-          "wordCount": 18632,
-          "title": "Ask HN: Any insider takes on Yann LeCun's push against current architectures?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning",
-          "publishedOn": "2025-03-10T18:27:32.000Z",
-          "wordCount": 6116,
-          "title": "Mathematical Foundations of Reinforcement Learning",
-          "imageUrl": "https://opengraph.githubassets.com/f9bae827ffc37ff110f44af5fe8cd9f491ba58c91a410fdab030e29b907cac19/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning"
-        },
-        {
-          "id": "https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf",
-          "publishedOn": "2025-03-10T18:22:57.000Z",
-          "wordCount": 69375,
-          "title": "STEPS Toward the Reinvention of Programming (2012) [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf",
-          "publishedOn": "2025-03-10T17:40:40.000Z",
-          "wordCount": 373300,
-          "title": "Software-Defined Radio for Engineers (2018) [pdf]",
-          "imageUrl": null
         }
       ]
     },
@@ -9283,21 +9278,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/africa-minigrids-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/health-disease/2025/overcoming-risks-of-pregnancy-at-high-elevation",
-          "author": "Tim Vernimmen",
-          "description": "In people not adapted to life at altitude, the sparse oxygen can impair fetal growth, causing problems that can last a lifetime. Researchers are searching for remedies.",
-          "link": "https://knowablemagazine.org/content/article/health-disease/2025/overcoming-risks-of-pregnancy-at-high-elevation",
-          "publishedOn": "2025-03-11T04:37:18.146Z",
-          "wordCount": 3311,
-          "title": "Born in thin air: Overcoming the challenges of pregnancy at high elevation",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/high-altitude-pregnancy-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/high-altitude-pregnancy-500x288.jpg"
         }
       ]
     },
