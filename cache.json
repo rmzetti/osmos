@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385848",
+          "author": "Geoff Graham",
+          "description": "Yay, let's jump for text-wrap: pretty landing in Safari Technology Preview! But beware that it's different from how it works in Chromium browsers.\n“Pretty” is in the eye of the beholder originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/pretty-is-in-the-eye-of-the-beholder/",
+          "publishedOn": "2025-04-18T12:12:35.000Z",
+          "wordCount": 2233,
+          "title": "“Pretty” is in the eye of the beholder",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/bad-typography-SM-light.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385199",
           "author": "Zell Liew",
           "description": "There was once upon a time when native CSS lacked many essential features, leaving developers to come up with all sorts of ways to make CSS easier to write over the years.\nSo, You Want to Give Up CSS Pre- and Post-Processors… originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -180,16 +190,6 @@
           "wordCount": 4125,
           "title": "Revisiting CSS border-image",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/border-image-menu.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385336",
-          "author": "Geoff Graham",
-          "description": "I’ve seen a handful of recent posts talking about the utility of the :is() relational pseudo-selector. No need to delve into the details other than to say it can help make compound selectors a lot more readable.\n:is(section, article, aside, \n…\nQuick Reminder That :is() and :where() Are Basically the Same With One Key Difference originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-reminder-that-is-and-where-are-basically-the-same-with-one-key-difference/",
-          "publishedOn": "2025-03-20T13:51:29.000Z",
-          "wordCount": 2067,
-          "title": "Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/is-where-funnels.jpg"
         }
       ]
     },
@@ -198,6 +198,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
+          "author": "hello@smashingmagazine.com (Eleanor Hecks)",
+          "description": "Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.",
+          "link": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
+          "publishedOn": "2025-04-18T13:00:00.000Z",
+          "wordCount": 4307,
+          "title": "What Does It Really Mean For A Site To Be Keyboard Navigable",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/04/fostering-accessibility-culture/",
           "author": "hello@smashingmagazine.com (Daniel Devesa Derksen-Staats)",
@@ -355,6 +370,216 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://github.com/matthewp/views-the-hard-way",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/matthewp/views-the-hard-way",
+          "publishedOn": "2025-04-19T02:10:52.000Z",
+          "wordCount": 7986,
+          "title": "JavaScript Views, the Hard Way – A Pattern for Writing UI",
+          "imageUrl": "https://opengraph.githubassets.com/2f69360f311597b33999a6d37ef9b062c0aa8b69be9a337e0bd0489817ecb376/matthewp/views-the-hard-way"
+        },
+        {
+          "id": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+          "publishedOn": "2025-04-19T01:52:55.000Z",
+          "wordCount": 3042,
+          "title": "Hands-On Large Language Models",
+          "imageUrl": "https://opengraph.githubassets.com/ceb7cc01d22acf3ffa7cb80dc3f1de04f592edafbbcc688dee91dfc7663ecdeb/HandsOnLLM/Hands-On-Large-Language-Models"
+        },
+        {
+          "id": "https://ieeexplore.ieee.org/document/1671509",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ieeexplore.ieee.org/document/1671509",
+          "publishedOn": "2025-04-19T01:33:56.000Z",
+          "wordCount": 1647,
+          "title": "System Design of a Cellular APL Computer",
+          "imageUrl": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png"
+        },
+        {
+          "id": "https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/",
+          "publishedOn": "2025-04-19T00:21:13.000Z",
+          "wordCount": null,
+          "title": "Cozy video games can quell stress and anxiety",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hypertext.tv/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hypertext.tv/",
+          "publishedOn": "2025-04-18T23:29:04.000Z",
+          "wordCount": 91,
+          "title": "Hypertext TV",
+          "imageUrl": "/assets/og.png"
+        },
+        {
+          "id": "https://www.playhextraction.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.playhextraction.com/",
+          "publishedOn": "2025-04-18T20:50:18.000Z",
+          "wordCount": 858,
+          "title": "Hextraction, a free and open source board game",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.judyrecords.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.judyrecords.com/",
+          "publishedOn": "2025-04-18T20:24:09.000Z",
+          "wordCount": 89,
+          "title": "Full Text Search of US Court records",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book",
+          "publishedOn": "2025-04-18T19:40:06.000Z",
+          "wordCount": 4239,
+          "title": "UML diagram for the DDD example in Evans' book",
+          "imageUrl": "https://repository-images.githubusercontent.com/967983891/00310225-37c1-496b-9dab-23d7de7949f4"
+        },
+        {
+          "id": "https://jonathan.protzenko.fr/2025/04/18/python.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jonathan.protzenko.fr/2025/04/18/python.html",
+          "publishedOn": "2025-04-18T19:28:44.000Z",
+          "wordCount": 1824,
+          "title": "15,000 lines of verified cryptography now in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lem12.uksw.edu.pl/wiki/Loglan%2782_project",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lem12.uksw.edu.pl/wiki/Loglan%2782_project",
+          "publishedOn": "2025-04-18T18:55:24.000Z",
+          "wordCount": 1035,
+          "title": "Loglan'82: programming language for object-oriented and distributed programming",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/wmcbrine/PDCurses",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/wmcbrine/PDCurses",
+          "publishedOn": "2025-04-18T18:52:58.000Z",
+          "wordCount": 1611,
+          "title": "PDCurses – for environments that don't fit the termcap/terminfo model",
+          "imageUrl": "https://opengraph.githubassets.com/aa73a7e7f53b727fff11d2248d8aaf81f0023d8a878d078c8b1c54f345337ae2/wmcbrine/PDCurses"
+        },
+        {
+          "id": "https://archivebox.github.io/good-karma-kit/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://archivebox.github.io/good-karma-kit/",
+          "publishedOn": "2025-04-18T18:52:40.000Z",
+          "wordCount": 1255,
+          "title": "The Good Karma Kit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.noemamag.com/theres-life-inside-earths-crust/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.noemamag.com/theres-life-inside-earths-crust/",
+          "publishedOn": "2025-04-18T18:35:05.000Z",
+          "wordCount": 3917,
+          "title": "There's Life Inside Earth's Crust",
+          "imageUrl": "https://noemamag.imgix.net/2025/04/Jesse-Zhang-Noema-Mag-FINAL_V2.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=84463e0cd78ea7ef2bca3379dd7e1957"
+        },
+        {
+          "id": "https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/",
+          "publishedOn": "2025-04-18T18:16:27.000Z",
+          "wordCount": 1567,
+          "title": "Judge Rules Blanket Search of Cell Tower Data Unconstitutional",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/04/Lattice_cell_tower-2.jpg"
+        },
+        {
+          "id": "https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc",
+          "publishedOn": "2025-04-18T18:06:25.000Z",
+          "wordCount": 541,
+          "title": "Show HN: (bits) of a Libc, Optimized for Wasm",
+          "imageUrl": "https://opengraph.githubassets.com/ac165c1595925eaab70f4e01d7083e7e935e7e3b166dd78aba377cdd408b81ab/ncruces/go-sqlite3"
+        },
+        {
+          "id": "https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/",
+          "publishedOn": "2025-04-18T17:09:53.000Z",
+          "wordCount": 876,
+          "title": "Ink and Switch Constraint System (2023)",
+          "imageUrl": "https://www.inkandswitch.com/static/favicons/196x196.png"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/dot/jobs/XSmklFa-customer-success-sales-engineer-remote",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/dot/jobs/XSmklFa-customer-success-sales-engineer-remote",
+          "publishedOn": "2025-04-18T17:00:27.000Z",
+          "wordCount": 1424,
+          "title": "Dot (YC S21) is hiring a sales engineer to automate analytics (fully remote)",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://github.com/Kuberwastaken/backdooms",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Kuberwastaken/backdooms",
+          "publishedOn": "2025-04-18T16:40:25.000Z",
+          "wordCount": 4348,
+          "title": "Show HN: I made a Doom-like game fit inside a QR code",
+          "imageUrl": "https://opengraph.githubassets.com/3b6372bb7c792865519e236c36ddb1370654722781cec6c42752cff30c4600e6/Kuberwastaken/backdooms"
+        },
+        {
+          "id": "https://github.com/attunehq/attune",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/attunehq/attune",
+          "publishedOn": "2025-04-18T16:14:18.000Z",
+          "wordCount": 2121,
+          "title": "Show HN: Attune - Build and publish APT repositories in seconds",
+          "imageUrl": "https://opengraph.githubassets.com/5834c75fa391522b5cb1c5ad002164195ffc32d5481756094ad0c4ac2d248d1a/attunehq/attune"
+        },
+        {
+          "id": "https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/",
+          "publishedOn": "2025-04-18T14:11:40.000Z",
+          "wordCount": 1765,
+          "title": "A New ASN.1 API for Python",
+          "imageUrl": "https://blog.trailofbits.com/img/encoding-rules.png"
+        },
+        {
+          "id": "https://defold.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://defold.com/",
+          "publishedOn": "2025-04-18T08:15:20.000Z",
+          "wordCount": 769,
+          "title": "Defold: cross-platform game engine",
+          "imageUrl": "https://www.defold.com/images/social/facebook-share.jpg"
+        },
         {
           "id": "https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/",
           "author": null,
@@ -626,6 +851,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.sfchronicle.com/projects/2025/hospitals-surgical-objects-patients/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sfchronicle.com/projects/2025/hospitals-surgical-objects-patients/",
+          "publishedOn": "2025-04-16T22:20:41.000Z",
+          "wordCount": null,
+          "title": "Sponges, drill bits and wires: Surgeons mistakenly left objects inside thousands",
+          "imageUrl": null
+        },
+        {
           "id": "https://jsomers.net/vivarium/",
           "author": null,
           "description": "Comments",
@@ -696,6 +931,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://edgebit.io/blog/automated-dependency-updates-with-ai/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://edgebit.io/blog/automated-dependency-updates-with-ai/",
+          "publishedOn": "2025-04-16T16:30:53.000Z",
+          "wordCount": 2772,
+          "title": "Principles for Building One-Shot AI Agents",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/harishsg993010/damn-vulnerable-MCP-server",
           "author": null,
           "description": "Comments",
@@ -704,6 +949,16 @@
           "wordCount": 3837,
           "title": "Damn Vulnerable MCP Server",
           "imageUrl": "https://opengraph.githubassets.com/7640c24044372e72e067151df62c4300a84e8449faafc448ef68d0b210db9bd9/harishsg993010/damn-vulnerable-MCP-server"
+        },
+        {
+          "id": "https://www.sciencedaily.com/releases/2025/04/250415183433.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sciencedaily.com/releases/2025/04/250415183433.htm",
+          "publishedOn": "2025-04-16T14:46:47.000Z",
+          "wordCount": null,
+          "title": "Jupiter, it's mushballs all the way down",
+          "imageUrl": null
         },
         {
           "id": "https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species",
@@ -886,6 +1141,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.onemetre.net/Design/Design.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.onemetre.net/Design/Design.htm",
+          "publishedOn": "2025-04-15T21:19:33.000Z",
+          "wordCount": 419,
+          "title": "How a yacht works: sailboat physics and design",
+          "imageUrl": null
+        },
+        {
+          "id": "https://culture.pl/en/article/cyberpunk-1958-the-early-days-of-the-polish-it-industry",
+          "author": null,
+          "description": "Comments",
+          "link": "https://culture.pl/en/article/cyberpunk-1958-the-early-days-of-the-polish-it-industry",
+          "publishedOn": "2025-04-15T21:01:02.000Z",
+          "wordCount": null,
+          "title": "Cyberpunk 1958: The Early Days of the Polish IT Industry",
+          "imageUrl": null
+        },
+        {
           "id": "https://foundationvision.github.io/Liquid/",
           "author": null,
           "description": "Comments",
@@ -996,6 +1271,16 @@
           "imageUrl": "https://pgdog.dev/assets/images/logo-wide.png"
         },
         {
+          "id": "https://www.whoi.edu/know-your-ocean/ocean-topics/climate-weather/ocean-based-climate-solutions/iron-fertilization/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.whoi.edu/know-your-ocean/ocean-topics/climate-weather/ocean-based-climate-solutions/iron-fertilization/",
+          "publishedOn": "2025-04-15T14:05:42.000Z",
+          "wordCount": 3798,
+          "title": "Ocean Iron Fertilization",
+          "imageUrl": "https://www.whoi.edu/wp-content/uploads/2022/04/Iron_fertilization.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43692476",
           "author": null,
           "description": "Comments",
@@ -1056,6 +1341,16 @@
           "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2025+0+0/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F9a%2F7e9500df48c4b4523a0001c3be41%2Fdoge-main.png"
         },
         {
+          "id": "https://pikuma.com/blog/origins-of-vim-text-editor",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pikuma.com/blog/origins-of-vim-text-editor",
+          "publishedOn": "2025-04-15T10:33:02.000Z",
+          "wordCount": 2976,
+          "title": "Understanding the Origins and the Evolution of Vi and Vim",
+          "imageUrl": "https://pikuma.com/images/blog/origins-of-vim-text-editor/thumbnail-1200x675.jpg"
+        },
+        {
           "id": "https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html",
           "author": null,
           "description": "Comments",
@@ -1104,6 +1399,16 @@
           "wordCount": 659,
           "title": "The problem with \"vibe coding\"",
           "imageUrl": "https://dylanbeattie.net/images/opengraph/dylanbeattie-summary.jpg"
+        },
+        {
+          "id": "https://www.howequipmentworks.com/apollo_13/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.howequipmentworks.com/apollo_13/",
+          "publishedOn": "2025-04-14T23:56:34.000Z",
+          "wordCount": 6842,
+          "title": "The most famous carbon dioxide absorber",
+          "imageUrl": "https://www.howequipmentworks.com/wp-content/uploads/2015/01/apollo_header.jpg"
         },
         {
           "id": "https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260",
@@ -8584,336 +8889,6 @@
           "wordCount": 10730,
           "title": "Spaghetti science: What pasta reveals about the universe",
           "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0kz3yg3.jpg"
-        },
-        {
-          "id": "https://daid.github.io/EmptyEpsilon/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://daid.github.io/EmptyEpsilon/",
-          "publishedOn": "2025-03-20T15:55:51.000Z",
-          "wordCount": 8258,
-          "title": "EmptyEpsilon open source spaceship bridge simulator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://acarsdrama.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://acarsdrama.com/",
-          "publishedOn": "2025-03-20T14:33:28.000Z",
-          "wordCount": 1560,
-          "title": "ACARS Drama",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.galois.com/articles/introducing-grease",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.galois.com/articles/introducing-grease",
-          "publishedOn": "2025-03-20T13:57:30.000Z",
-          "wordCount": 3921,
-          "title": "Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mexicocitywater.longlead.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mexicocitywater.longlead.com/",
-          "publishedOn": "2025-03-20T13:28:44.000Z",
-          "wordCount": 10786,
-          "title": "The Last Drops of Mexico City",
-          "imageUrl": "http://photo.longlead-cms.decimalstudios.com/wp-content/uploads/sites/5/2025/03/250307_MCW_socialcard1.jpg"
-        },
-        {
-          "id": "https://www.eso.org/public/news/eso2507/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.eso.org/public/news/eso2507/",
-          "publishedOn": "2025-03-20T13:21:34.000Z",
-          "wordCount": 4009,
-          "title": "Oxygen discovered in most distant known galaxy",
-          "imageUrl": "https://cdn.eso.org/images/screen/eso2507a.jpg"
-        },
-        {
-          "id": "https://polotek.net/posts/the-frontend-treadmill/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://polotek.net/posts/the-frontend-treadmill/",
-          "publishedOn": "2025-03-20T12:25:31.000Z",
-          "wordCount": 970,
-          "title": "The Frontend Treadmill",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.construction-physics.com/p/understanding-solar-energy",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.construction-physics.com/p/understanding-solar-energy",
-          "publishedOn": "2025-03-20T12:09:32.000Z",
-          "wordCount": 10548,
-          "title": "Understanding Solar Energy",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89e6a2a1-18ec-4fbc-9ae4-93792e5a208f_1200x556.png"
-        },
-        {
-          "id": "https://oeis.org/A068994",
-          "author": null,
-          "description": "Comments",
-          "link": "https://oeis.org/A068994",
-          "publishedOn": "2025-03-20T11:55:13.000Z",
-          "wordCount": null,
-          "title": "Powers of 2 with all even digits",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/",
-          "publishedOn": "2025-03-20T08:00:54.000Z",
-          "wordCount": 2441,
-          "title": "Minding the gaps: A new way to draw separators in CSS",
-          "imageUrl": "https://pub-d00f534024b04d0e8036586fc78a41fa.r2.dev/sites/33/2020/09/Edge-Hero-scaled.jpg"
-        },
-        {
-          "id": "https://iopscience.iop.org/article/10.3847/2041-8213/adb433",
-          "author": null,
-          "description": "Comments",
-          "link": "https://iopscience.iop.org/article/10.3847/2041-8213/adb433",
-          "publishedOn": "2025-03-20T05:46:44.000Z",
-          "wordCount": 224,
-          "title": "Andromeda XXXV: The Faintest Dwarf Satellite of the Andromeda Galaxy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/jae-jae/fetch-mcp",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/jae-jae/fetch-mcp",
-          "publishedOn": "2025-03-20T03:40:41.000Z",
-          "wordCount": 2453,
-          "title": "Fetch-MCP: Playwright-Based MCP Server with Batch URL Fetching Support",
-          "imageUrl": "https://opengraph.githubassets.com/7cf179c4108659c18d2930b8f9e37c41989c7053c876b3fa3ffabd7978f6733a/jae-jae/fetch-mcp"
-        },
-        {
-          "id": "https://www.feldera.com/blog/the-pain-that-is-github-actions",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.feldera.com/blog/the-pain-that-is-github-actions",
-          "publishedOn": "2025-03-20T03:37:31.000Z",
-          "wordCount": 3854,
-          "title": "The Pain That Is GitHub Actions",
-          "imageUrl": "https://cdn.sanity.io/images/nlte859i/production/a2fc38527ee4b136b7c92e4e1a1b4773e5681c69-1792x1024.webp"
-        },
-        {
-          "id": "https://www.allaboutcircuits.com/news/silicon-labs-shrinks-wireless-socs-to-extend-ble-to-miniature-devices/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.allaboutcircuits.com/news/silicon-labs-shrinks-wireless-socs-to-extend-ble-to-miniature-devices/",
-          "publishedOn": "2025-03-20T02:58:48.000Z",
-          "wordCount": null,
-          "title": "Silicon Labs Shrinks Wireless SoCs to Extend BLE to Miniature Devices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sre.google/stpa/teaching/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sre.google/stpa/teaching/",
-          "publishedOn": "2025-03-20T02:36:16.000Z",
-          "wordCount": 3396,
-          "title": "Teaching a new way to prevent outages at Google",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.gammon.com.au/forum/?id=11203",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gammon.com.au/forum/?id=11203",
-          "publishedOn": "2025-03-20T02:25:18.000Z",
-          "wordCount": 3533,
-          "title": "GPascal – A Blast from the Past (2011)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://group.softbank/en/news/press/20250320",
-          "author": null,
-          "description": "Comments",
-          "link": "https://group.softbank/en/news/press/20250320",
-          "publishedOn": "2025-03-20T01:58:47.000Z",
-          "wordCount": 3155,
-          "title": "SoftBank Group to Acquire Ampere Computing for 6.5B",
-          "imageUrl": "https://group.softbank/sites/default/files/assets/img/logo-group.png"
-        },
-        {
-          "id": "https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33",
-          "publishedOn": "2025-03-20T01:58:29.000Z",
-          "wordCount": 6134,
-          "title": "Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1s on a 4090",
-          "imageUrl": "https://opengraph.githubassets.com/cf516d00d7ac4fe2a6d391d217266612155ccd1f3c24495ef4edbaa574dbad91/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33"
-        },
-        {
-          "id": "https://packagephobia.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://packagephobia.com/",
-          "publishedOn": "2025-03-20T01:47:31.000Z",
-          "wordCount": null,
-          "title": "PackagePhobia – Find the cost of adding a new dev dependency to your project",
-          "imageUrl": null
-        },
-        {
-          "id": "https://science.nasa.gov/missions/hubble/hubble-captures-vivid-auroras-in-jupiters-atmosphere/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://science.nasa.gov/missions/hubble/hubble-captures-vivid-auroras-in-jupiters-atmosphere/",
-          "publishedOn": "2025-03-19T23:29:28.000Z",
-          "wordCount": 2452,
-          "title": "Hubble Captures Vivid Auroras in Jupiter's Atmosphere (2016)",
-          "imageUrl": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2016/06/STScI-01EVVGT8EHJ3MJJR8BA2CD2CMZ.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
-        },
-        {
-          "id": "https://deeplearning.cs.cmu.edu/S25/index.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://deeplearning.cs.cmu.edu/S25/index.html",
-          "publishedOn": "2025-03-19T23:12:45.000Z",
-          "wordCount": 3641,
-          "title": "Introduction to Deep Learning (CMU)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/",
-          "publishedOn": "2025-03-19T23:08:08.000Z",
-          "wordCount": 2402,
-          "title": "DESI Opens Access to the Largest 3D Map of the Universe Yet",
-          "imageUrl": "https://newscenter.lbl.gov/wp-content/uploads/2025/03/Newscenter_Featured_1190px_IMG_7553-CC.jpg"
-        },
-        {
-          "id": "https://szymanowiczs.github.io/bolt3d",
-          "author": null,
-          "description": "Comments",
-          "link": "https://szymanowiczs.github.io/bolt3d",
-          "publishedOn": "2025-03-19T22:30:56.000Z",
-          "wordCount": 579,
-          "title": "Bolt3D: Generating 3D Scenes in Seconds",
-          "imageUrl": "https://szymanowiczs.github.io/bolt3d/img/rep_img.png"
-        },
-        {
-          "id": "https://canopylabs.ai/model-releases",
-          "author": null,
-          "description": "Comments",
-          "link": "https://canopylabs.ai/model-releases",
-          "publishedOn": "2025-03-19T22:26:39.000Z",
-          "wordCount": 10,
-          "title": "Orpheus-3B – Emotive TTS by Canopy Labs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial",
-          "author": null,
-          "description": "Comments",
-          "link": "https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial",
-          "publishedOn": "2025-03-19T21:29:13.000Z",
-          "wordCount": null,
-          "title": "LLM Agents Are Simply Graph – Tutorial for Dummies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://publicdomainreview.org/collection/michalina-janoszanka/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://publicdomainreview.org/collection/michalina-janoszanka/",
-          "publishedOn": "2025-03-19T21:15:39.000Z",
-          "wordCount": 9974,
-          "title": "Through a Glass Lushly: Michalina Janoszanka's Reverse Paintings (Ca. 1920s)",
-          "imageUrl": "https://the-public-domain-review.imgix.net/collections/michalina-janoszanka/Spring-thumb.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c20dd6yk55yo",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.co.uk/news/articles/c20dd6yk55yo",
-          "publishedOn": "2025-03-19T20:37:58.000Z",
-          "wordCount": 6975,
-          "title": "300-year-old Polish beech voted Tree of the Year",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/12e6/live/9ac80080-0570-11f0-97d3-37df2b293ed1.jpg"
-        },
-        {
-          "id": "https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture",
-          "author": null,
-          "description": "Comments",
-          "link": "https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture",
-          "publishedOn": "2025-03-19T20:31:13.000Z",
-          "wordCount": 6436,
-          "title": "Looking Ahead at Intel's Xe3 GPU Architecture",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12874222-8008-4367-9262-7a02626cb3b6_810x576.jpeg"
-        },
-        {
-          "id": "https://fenrisk.com/pagure",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fenrisk.com/pagure",
-          "publishedOn": "2025-03-19T19:58:37.000Z",
-          "wordCount": 2227,
-          "title": "Supply Chain Attacks on Linux Distributions – Fedora Pagure",
-          "imageUrl": "https://fenrisk.com/assets/images/art/fedora.png"
-        },
-        {
-          "id": "https://crates.io/crates/crabtime",
-          "author": null,
-          "description": "Comments",
-          "link": "https://crates.io/crates/crabtime",
-          "publishedOn": "2025-03-19T18:44:11.000Z",
-          "wordCount": null,
-          "title": "Crabtime: Zig’s Comptime in Rust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus-a-game-changing-sci-fi-larp/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus-a-game-changing-sci-fi-larp/",
-          "publishedOn": "2025-03-19T17:34:43.000Z",
-          "wordCount": 9652,
-          "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
-          "imageUrl": "https://mssv.net/wp-content/uploads/2025/03/ops-2-tuomas-puikkonen-2.jpg?w=1200"
-        },
-        {
-          "id": "https://markprompt.com/jobs",
-          "author": null,
-          "description": "Comments",
-          "link": "https://markprompt.com/jobs",
-          "publishedOn": "2025-03-19T17:00:13.000Z",
-          "wordCount": 783,
-          "title": "Markprompt (YC W24) – Stripe for customer support – is hiring founding eng in SF",
-          "imageUrl": "https://www.markprompt.com/og/website//jobs.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43414405",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=43414405",
-          "publishedOn": "2025-03-19T16:50:05.000Z",
-          "wordCount": 5307,
-          "title": "Launch HN: Modernbanc (YC W20) – Modern and fast accounting software",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ezyang.github.io/ai-blindspots/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ezyang.github.io/ai-blindspots/",
-          "publishedOn": "2025-03-19T16:48:32.000Z",
-          "wordCount": 88,
-          "title": "AI Blindspots – Blindspots in LLMs I've noticed while AI coding",
-          "imageUrl": null
         }
       ]
     },
@@ -8979,6 +8954,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/rss/test",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/physical-world/2025/ghost-rivers-hidden-lakes-history-of-search-water-on-mars",
+          "author": "Nicola Jones",
+          "description": "Martian lake beds and deltas reveal the Red Planet’s watery past. But many puzzles remain, scientist Bruce Jakosky says.",
+          "link": "https://knowablemagazine.org/content/article/physical-world/2025/ghost-rivers-hidden-lakes-history-of-search-water-on-mars",
+          "publishedOn": "2025-04-19T04:37:13.050Z",
+          "wordCount": 6433,
+          "title": "Ghost rivers, hidden lakes: The long search for water on Mars",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/water-on-mars-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/water-on-mars-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/food-environment/2025/ghost-forests-are-growing-sea-levels-rise-climate-change",
           "author": "Jude Coleman",
@@ -9405,18 +9395,7 @@
       "title": "The Dan MacKinlay stable of variably-well-consider’d enterprises",
       "feedUrl": "http://livingthing.danmackinlay.name/feeds/all.atom.xml",
       "siteUrl": "https://danmackinlay.name/",
-      "articles": [
-        {
-          "id": "https://danmackinlay.name/notebook/stroppy.html",
-          "author": null,
-          "description": "Content warning:\nLinks to and discussion of edgy people with perverse opinions on hot-button topics too diverse to mention but which surely include gender, eugenics, speech and religion\nNotes on eccentrics, mavericks, outsider geniuses and fools. What my family called stroppy people.\nLacking an identifiable label so you show up in diversity metrics? Not sure whether you are rebelling against society or conforming to a subgroup? How do you get by as a mad outsider? Will you be right twice a day?\nDo you want to find a rationale for people like you? How about the justification that you are useful for innovation? Or be an outlier without a cause?\n\n\n\nFigure 1\n\n\n\n\n1 Crazy ideas are mostly wrong\nCase studies?\nLonely Dissent\nAgainst Free Thinkers\n2 Eccentricity and group context\nFor an interesting…",
-          "link": "https://danmackinlay.name/notebook/stroppy.html",
-          "publishedOn": "2025-03-19T22:21:23.000Z",
-          "wordCount": 2309,
-          "title": "Being stroppy",
-          "imageUrl": "https://danmackinlay.name/images/monkey_dab.thumbnail.avif"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "\"Google NZ blog\" - Google News",
@@ -9451,16 +9430,6 @@
           "publishedOn": "2025-03-25T22:07:30.000Z",
           "wordCount": 12491,
           "title": "20 Trending Products and Things To Sell Online (2025) - Shopify",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiygFBVV95cUxPVDhSbGlvX2FRaU5La1pudGR1eGJrdlRsOXB6Z0lKUmJBUG1iRzRPTEt4d2V3MVQtWG5sODBEalpXaDdlNzc3THN3Q3JrOWoyQ1g2cW5xbll5WFprVnFGY3Fkc3Z1X2lCenRuVTRfb25PbVYzX0FUUV9obXJyLWFrVWhCR1R5Nm4xVDdIRFc3TC05b2Zad0YxWjcxZ3FGSG5KdjV1al95S3JVZWIxbjEyaUZRQ1dGOWluWV9zVWxFRklualVCMm1zMm9B",
-          "author": null,
-          "description": "Meet Pixel 9a: The latest great value A-series phone with Gemini built in  Google Blog",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVDhSbGlvX2FRaU5La1pudGR1eGJrdlRsOXB6Z0lKUmJBUG1iRzRPTEt4d2V3MVQtWG5sODBEalpXaDdlNzc3THN3Q3JrOWoyQ1g2cW5xbll5WFprVnFGY3Fkc3Z1X2lCenRuVTRfb25PbVYzX0FUUV9obXJyLWFrVWhCR1R5Nm4xVDdIRFc3TC05b2Zad0YxWjcxZ3FGSG5KdjV1al95S3JVZWIxbjEyaUZRQ1dGOWluWV9zVWxFRklualVCMm1zMm9B?oc=5",
-          "publishedOn": "2025-03-20T07:00:00.000Z",
-          "wordCount": 12571,
-          "title": "Meet Pixel 9a: The latest great value A-series phone with Gemini built in - Google Blog",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
