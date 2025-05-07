@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386482",
+          "author": "Ryan Trimble",
+          "description": "Along with the version 3.13 release, GSAP, and all its awesome plugins, are now freely available to everyone.\nGSAP is Now Completely Free, Even for Commercial Use! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/gsap-is-now-completely-free-even-for-commercial-use/",
+          "publishedOn": "2025-05-06T14:14:41.000Z",
+          "wordCount": 1849,
+          "title": "GSAP is Now Completely Free, Even for Commercial Use!",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-05-at-3.27.23%E2%80%AFPM-scaled.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385733",
           "author": "Kevin Hamer",
           "description": "Using scroll shadows, especially for mobile devices, is a subtle bit of UX that Chris has covered before. Geoff covered a newer approach that uses the animation-timeline property. Here’s yet another way.\nModern Scroll Shadows Using Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -160,16 +170,6 @@
           "wordCount": 3001,
           "title": "CSS Carousels",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/carousel-slides.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385271",
-          "author": "Lee Meyer",
-          "description": "Deploying like an idiot comes down to a mismatch between the tools you use to deploy and the reward in complexity reduced versus complexity added.\nFeeling Like I Have No Release: A Journey Towards Sane Deployments originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/feeling-like-i-have-no-release-a-journey-towards-sane-deployments/",
-          "publishedOn": "2025-04-07T14:41:53.000Z",
-          "wordCount": 4780,
-          "title": "Feeling Like I Have No Release: A Journey Towards Sane Deployments",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/database-server.jpg"
         }
       ]
     },
@@ -178,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
+          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
+          "description": "There were duelling proposals floating around for adding support for masonry-style layouts in CSS. In one corner is a proposal that extends the existing CSS Grid specification. In the other corner is a second proposal that sets up masonry as a standalone module. Well, not until recently. Now, there are three proposals with Apple WebKit’s “Item Flow” as the third option. The first two sides make strong points, and the third one merges them into one, all of which you will learn about in this article.",
+          "link": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
+          "publishedOn": "2025-05-06T13:00:00.000Z",
+          "wordCount": 4919,
+          "title": "Masonry In CSS: Should Grid Evolve Or Stand Aside For A New Module?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -381,6 +396,266 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html",
+          "publishedOn": "2025-05-07T01:11:10.000Z",
+          "wordCount": null,
+          "title": "EPA Plans to Shut Down the Energy Star Program",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/",
+          "publishedOn": "2025-05-07T00:54:19.000Z",
+          "wordCount": 2104,
+          "title": "Jury orders NSO to pay $167M for hacking WhatsApp users",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg"
+        },
+        {
+          "id": "https://vale.rocks/posts/creativity-came-to-pass",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vale.rocks/posts/creativity-came-to-pass",
+          "publishedOn": "2025-05-07T00:28:46.000Z",
+          "wordCount": 1937,
+          "title": "Creativity came to pass",
+          "imageUrl": "https://vale.rocks/assets/og.webp"
+        },
+        {
+          "id": "https://spectrum.ieee.org/lean-software-development",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/lean-software-development",
+          "publishedOn": "2025-05-06T23:33:54.000Z",
+          "wordCount": 12992,
+          "title": "Bloat is still software's biggest vulnerability (2024)",
+          "imageUrl": "https://spectrum.ieee.org/media-library/image.jpg?id=51411262&width=1200&height=600&coordinates=0%2C100%2C0%2C100"
+        },
+        {
+          "id": "https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals",
+          "publishedOn": "2025-05-06T23:22:49.000Z",
+          "wordCount": 2310,
+          "title": "Alignment is not free: How model upgrades can silence your confidence signals",
+          "imageUrl": "https://cdn.prod.website-files.com/67ad3648c8025e1491009050/68112431c3be04cc209f8935_Patterns-sm.png"
+        },
+        {
+          "id": "https://github.com/TerryCavanagh/VVVVVV",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/TerryCavanagh/VVVVVV",
+          "publishedOn": "2025-05-06T23:22:08.000Z",
+          "wordCount": 1126,
+          "title": "VVVVVV Source Code",
+          "imageUrl": "https://opengraph.githubassets.com/7bb907ffec5bccc2903382857562e016f6c80f48dccfe4d0da662c41ba7c3906/TerryCavanagh/VVVVVV"
+        },
+        {
+          "id": "https://whippyterm.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://whippyterm.com/",
+          "publishedOn": "2025-05-06T23:02:46.000Z",
+          "wordCount": 211,
+          "title": "Show HN: Whippy Term - GUI terminal for embedded development (Linux and Windows)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ivanbelenky/RL",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ivanbelenky/RL",
+          "publishedOn": "2025-05-06T22:43:06.000Z",
+          "wordCount": 2894,
+          "title": "Sutton and Barto book implementation",
+          "imageUrl": "https://opengraph.githubassets.com/6807c8e9bb6329e627e67206cba02bdcc5abc6575a6851e07de0efcbbca48a1c/ivanbelenky/RL"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer",
+          "publishedOn": "2025-05-06T21:01:57.000Z",
+          "wordCount": 915,
+          "title": "Continue (YC S23) is hiring software engineers in San Francisco",
+          "imageUrl": "https://yc-workatastartup-production.s3.amazonaws.com/jobs_company_jobs/images/62784/486ce26cd07847905dd8cda6e83084596bf8368a.png?1718314240"
+        },
+        {
+          "id": "https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books",
+          "publishedOn": "2025-05-06T20:41:51.000Z",
+          "wordCount": 7382,
+          "title": "iOS Kindle app now has a ‘get book’ button after changes to App Store rules",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/kindleios.jpg?quality=90&strip=all&crop=0%2C10.7460602225%2C100%2C78.507879555&w=1200"
+        },
+        {
+          "id": "https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/",
+          "publishedOn": "2025-05-06T20:41:47.000Z",
+          "wordCount": null,
+          "title": "India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt",
+          "publishedOn": "2025-05-06T20:39:35.000Z",
+          "wordCount": 16394,
+          "title": "Claude's system prompt is over 24k tokens with tools",
+          "imageUrl": "https://opengraph.githubassets.com/bdee9f77425488cbf6d3dfb7378ba6fce1e0421243d77ead99dd0a386724fde5/asgeirtj/system_prompts_leaks"
+        },
+        {
+          "id": "https://github.com/ace-step/ACE-Step",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ace-step/ACE-Step",
+          "publishedOn": "2025-05-06T20:38:00.000Z",
+          "wordCount": 11056,
+          "title": "ACE-Step: A step towards music generation foundation model",
+          "imageUrl": "https://opengraph.githubassets.com/f42a46486d5bd6c2b87ea86c43cc882f4dbd09618a9e448c5c287525129d78ef/ace-step/ACE-Step"
+        },
+        {
+          "id": "https://github.com/reubeno/brush",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/reubeno/brush",
+          "publishedOn": "2025-05-06T18:47:49.000Z",
+          "wordCount": 3077,
+          "title": "Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust",
+          "imageUrl": "https://opengraph.githubassets.com/0038a78fa041f5a6023282381249eeb608bc44c76baae9f5c3f053826b982a77/reubeno/brush"
+        },
+        {
+          "id": "https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/",
+          "publishedOn": "2025-05-06T17:51:03.000Z",
+          "wordCount": 2475,
+          "title": "Matt Godbolt sold me on Rust by showing me C++",
+          "imageUrl": "https://www.collabora.com/assets/images/blog/Collabora-RustSold.png"
+        },
+        {
+          "id": "https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/",
+          "publishedOn": "2025-05-06T17:29:31.000Z",
+          "wordCount": 8287,
+          "title": "Is Planet Nine Alone in the Outer System?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43906841",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=43906841",
+          "publishedOn": "2025-05-06T16:18:42.000Z",
+          "wordCount": 6917,
+          "title": "Launch HN: Exa (YC S21) – The web as a database",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43906442",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=43906442",
+          "publishedOn": "2025-05-06T15:47:21.000Z",
+          "wordCount": 2057,
+          "title": "Show HN: Sheet Music in Smart Glasses",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/plexe-ai/plexe",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/plexe-ai/plexe",
+          "publishedOn": "2025-05-06T15:38:04.000Z",
+          "wordCount": 4783,
+          "title": "Show HN: Plexe – ML Models from a Prompt",
+          "imageUrl": "https://opengraph.githubassets.com/b8fd43d6395622068f895cf686c257388bb8c198927f4e817b0bd93cfca8202e/plexe-ai/plexe"
+        },
+        {
+          "id": "https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/",
+          "publishedOn": "2025-05-06T15:10:00.000Z",
+          "wordCount": 1213,
+          "title": "Gemini 2.5 Pro Preview",
+          "imageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini_2-5_pro_claybrook__dev_her.2e16d0ba.fill-1200x600.jpg"
+        },
+        {
+          "id": "https://felixrieseberg.github.io/clippy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://felixrieseberg.github.io/clippy/",
+          "publishedOn": "2025-05-06T15:02:22.000Z",
+          "wordCount": 425,
+          "title": "Show HN: Clippy – 90s UI for local LLMs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://accent-strength.boldvoice.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://accent-strength.boldvoice.com/",
+          "publishedOn": "2025-05-06T14:07:57.000Z",
+          "wordCount": 1512,
+          "title": "Accents in latent spaces: How AI hears accent strength in English",
+          "imageUrl": "https://accent-strength.boldvoice.com/share_image_v2.jpg"
+        },
+        {
+          "id": "https://github.com/al13n321/nnd",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/al13n321/nnd",
+          "publishedOn": "2025-05-06T13:58:03.000Z",
+          "wordCount": 1391,
+          "title": "Nnd – a TUI debugger alternative to GDB, LLDB",
+          "imageUrl": "https://opengraph.githubassets.com/0579158a97bed258cb539610b00721bad4014a46be8f03655449d56d80dfde30/al13n321/nnd"
+        },
+        {
+          "id": "https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/",
+          "publishedOn": "2025-05-06T11:38:44.000Z",
+          "wordCount": 1434,
+          "title": "New studies offer insight into Lyme disease’s treatment, lingering symptoms",
+          "imageUrl": "https://news.northwestern.edu/assets/Stories/2025/04/lyme1940__FocusFillWzEyMDAsNjMwLCJ5Iiw4N10.jpg"
+        },
+        {
+          "id": "https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025",
+          "publishedOn": "2025-05-06T10:10:52.000Z",
+          "wordCount": null,
+          "title": "FTC rule on unfair or deceptive fees to take effect on May 12",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html",
+          "publishedOn": "2025-05-06T06:27:04.000Z",
+          "wordCount": 27343,
+          "title": "DoorDash to acquire Deliveroo",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/106950040-1633001289731-gettyimages-1310118183-0g1a6797_2021033143840095.jpeg?v=1746512351&w=1920&h=1080"
+        },
+        {
           "id": "https://spoon-tamago.com/bread-wrapping-paper/",
           "author": null,
           "description": "Comments",
@@ -419,6 +694,26 @@
           "wordCount": 11390,
           "title": "Google has most of my email because it has all of yours (2014)",
           "imageUrl": "https://mako.cc/copyrighteous/wp-content/uploads/2014/05/emails_gmail_prop_over_time.png"
+        },
+        {
+          "id": "https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html",
+          "publishedOn": "2025-05-06T01:51:22.000Z",
+          "wordCount": 2115,
+          "title": "Scientists have found a way to 'tattoo' tardigrades",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/2025/scientists-have-found.jpg"
+        },
+        {
+          "id": "https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion",
+          "publishedOn": "2025-05-06T00:57:48.000Z",
+          "wordCount": null,
+          "title": "OpenAI reaches agreement to buy Windsurf for $3B",
+          "imageUrl": null
         },
         {
           "id": "https://arxiv.org/abs/2503.20481",
@@ -771,6 +1066,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://duobook.co/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://duobook.co/",
+          "publishedOn": "2025-05-04T12:40:32.000Z",
+          "wordCount": 10,
+          "title": "DuoBook: Generate bilingual stories to learn any language",
+          "imageUrl": null
+        },
+        {
           "id": "https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing",
           "author": null,
           "description": "Comments",
@@ -799,6 +1104,16 @@
           "wordCount": 7698,
           "title": "I decided to pay off a school’s lunch debt",
           "imageUrl": "https://img.huffingtonpost.com/asset/6812680f1500002400c3cad3.jpeg?cache=VwY8akkeKM&ops=1200_630"
+        },
+        {
+          "id": "https://github.com/dse/old-timey-mono-font",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/dse/old-timey-mono-font",
+          "publishedOn": "2025-05-04T04:10:09.000Z",
+          "wordCount": 3919,
+          "title": "Old Timey Code and Old Timey Mono Fonts",
+          "imageUrl": "https://opengraph.githubassets.com/3219fc587e65c614edae86629f27832bec8d28d2e9fbced5ba8e70e303f0eacc/dse/old-timey-mono-font"
         },
         {
           "id": "https://arxiv.org/abs/2504.16736",
@@ -8709,266 +9024,6 @@
           "wordCount": 4005,
           "title": "Gemini Live with camera and screen sharing capabilities",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blogpost_Header_Option_2_v02.width-1300.png"
-        },
-        {
-          "id": "https://blog.gitbutler.com/20-years-of-git/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.gitbutler.com/20-years-of-git/",
-          "publishedOn": "2025-04-07T16:37:57.000Z",
-          "wordCount": 3201,
-          "title": "20 years of Git",
-          "imageUrl": "https://blog.gitbutler.com/content/images/size/w1200/2025/04/20-yaers-of-git.webp"
-        },
-        {
-          "id": "https://browsermcp.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://browsermcp.io/",
-          "publishedOn": "2025-04-07T16:25:45.000Z",
-          "wordCount": 1503,
-          "title": "Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.newscientist.com/article/2474993-bonobos-use-a-kind-of-syntax-once-thought-to-be-unique-to-humans/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newscientist.com/article/2474993-bonobos-use-a-kind-of-syntax-once-thought-to-be-unique-to-humans/",
-          "publishedOn": "2025-04-07T15:51:21.000Z",
-          "wordCount": 11398,
-          "title": "Bonobos use a kind of syntax once thought to be unique to humans",
-          "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/04/03135604/SEI_245836580.jpg"
-        },
-        {
-          "id": "https://www.botanica.software/post/decoding-the-90s",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.botanica.software/post/decoding-the-90s",
-          "publishedOn": "2025-04-07T14:43:17.000Z",
-          "wordCount": 13247,
-          "title": "Decoding the 90s: Cryptography in Early Software Development (2023)",
-          "imageUrl": "https://static.wixstatic.com/media/fab603_66b3724efe074fc6ae9c2576665d13fc~mv2.gif/v1/fill/w_640,h_400,al_c/fab603_66b3724efe074fc6ae9c2576665d13fc~mv2.gif"
-        },
-        {
-          "id": "https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a",
-          "publishedOn": "2025-04-07T08:42:43.000Z",
-          "wordCount": null,
-          "title": "A startup doesn't need to be a unicorn",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.piercemfg.com/pierce/blog/difference-between-municipal-and-airport-fire-trucks",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.piercemfg.com/pierce/blog/difference-between-municipal-and-airport-fire-trucks",
-          "publishedOn": "2025-04-07T06:27:03.000Z",
-          "wordCount": 3335,
-          "title": "The Difference Between Municipal Fire Trucks and Airport Fire Trucks",
-          "imageUrl": "https://www.piercemfg.com/hubfs/Blog/Blog%20-%20The%20Difference%20Between%20Municipal%20Fire%20Trucks%20and%20Airport%20Fire%20Trucks/munipcal-fire-truck-and-airport-fire-truck-featured.jpg"
-        },
-        {
-          "id": "https://garymarcus.substack.com/p/breaking-bill-that-would-have-blocked",
-          "author": null,
-          "description": "Comments",
-          "link": "https://garymarcus.substack.com/p/breaking-bill-that-would-have-blocked",
-          "publishedOn": "2025-04-07T03:56:19.000Z",
-          "wordCount": null,
-          "title": "Bill to block OpenAI's for-profit conversion gets mysteriously gutted",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bernsteinbear.com/blog/nix-by-hand/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bernsteinbear.com/blog/nix-by-hand/",
-          "publishedOn": "2025-04-07T03:25:13.000Z",
-          "wordCount": 1546,
-          "title": "Nix Derivations, Without Guessing",
-          "imageUrl": "https://bernsteinbear.com/favicon.ico"
-        },
-        {
-          "id": "https://www.fortressofdoors.com/dark-mirror-ideologies/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.fortressofdoors.com/dark-mirror-ideologies/",
-          "publishedOn": "2025-04-07T03:24:33.000Z",
-          "wordCount": 2723,
-          "title": "Dark Mirror Ideologies",
-          "imageUrl": "https://www.fortressofdoors.com/content/images/2025/03/image-16-1.png"
-        },
-        {
-          "id": "https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-07-25/card/circuit-breaker-triggered-in-japan-for-stock-futures-trading-Q5iMfZyfPGBEslrIObgB",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-07-25/card/circuit-breaker-triggered-in-japan-for-stock-futures-trading-Q5iMfZyfPGBEslrIObgB",
-          "publishedOn": "2025-04-07T01:50:02.000Z",
-          "wordCount": null,
-          "title": "Circuit Breaker Triggered in Japan for Stock Futures Trading",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work",
-          "publishedOn": "2025-04-07T00:42:13.000Z",
-          "wordCount": null,
-          "title": "After 'coding error' triggers firings, top NIH scientists called back to work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://petapixel.com/2025/04/01/astrophotographers-help-scientists-solve-mystery-of-sprite-fireworks/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://petapixel.com/2025/04/01/astrophotographers-help-scientists-solve-mystery-of-sprite-fireworks/",
-          "publishedOn": "2025-04-07T00:02:54.000Z",
-          "wordCount": 2295,
-          "title": "Astrophotographers Help Scientists Solve Mystery of 'Sprite Fireworks'",
-          "imageUrl": "https://petapixel.com/assets/uploads/2025/03/lightning-sprite-mystery-.jpg"
-        },
-        {
-          "id": "http://www.moohar.com/blog/why_domino",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.moohar.com/blog/why_domino",
-          "publishedOn": "2025-04-06T23:54:02.000Z",
-          "wordCount": 6667,
-          "title": "Why Lotus Domino? (2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gtoolkit.com//",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gtoolkit.com//",
-          "publishedOn": "2025-04-06T23:47:21.000Z",
-          "wordCount": 745,
-          "title": "Glamorous Toolkit",
-          "imageUrl": "https://gtoolkit.com//assets/pictures/glamoroustoolkit-icon.png"
-        },
-        {
-          "id": "https://sciop.net/uploads/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sciop.net/uploads/",
-          "publishedOn": "2025-04-06T23:09:15.000Z",
-          "wordCount": 45,
-          "title": "SciOp torrents: download, seed erased US Gov sites and datasets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html",
-          "publishedOn": "2025-04-06T23:06:26.000Z",
-          "wordCount": 5227,
-          "title": "Baby Steps into Genetic Programming",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gerrymcgovern.com/data-centers-contain-90-crap-data/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gerrymcgovern.com/data-centers-contain-90-crap-data/",
-          "publishedOn": "2025-04-06T22:58:40.000Z",
-          "wordCount": 1914,
-          "title": "Data centers contain 90% crap data",
-          "imageUrl": "http://gerrymcgovern.com/wp-content/uploads/2015/12/Gerry-5.jpg"
-        },
-        {
-          "id": "https://old.reddit.com/r/RTLSDR/comments/1jsr9jv/eavesdropping_on_smartphone_1356mhz_nfc_polling/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://old.reddit.com/r/RTLSDR/comments/1jsr9jv/eavesdropping_on_smartphone_1356mhz_nfc_polling/",
-          "publishedOn": "2025-04-06T22:39:30.000Z",
-          "wordCount": null,
-          "title": "Eavesdropping on smartphone 13.56MHz NFC polling during screen wake-up/unlock",
-          "imageUrl": null
-        },
-        {
-          "id": "https://technicshistory.com/2025/04/06/microcomputers-the-first-wave-responding-to-altair/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://technicshistory.com/2025/04/06/microcomputers-the-first-wave-responding-to-altair/",
-          "publishedOn": "2025-04-06T21:30:33.000Z",
-          "wordCount": 8094,
-          "title": "Microcomputers – The First Wave: Responding to Altair",
-          "imageUrl": "https://technicshistory.com/wp-content/uploads/2025/04/processor_technology_sol_20_computer.jpg?w=1200"
-        },
-        {
-          "id": "https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/",
-          "publishedOn": "2025-04-06T21:14:09.000Z",
-          "wordCount": 4779,
-          "title": "Rsync replaced with openrsync on macOS Sequoia",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://mixpeek.com/blog/turning-frames-into-dataframes",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mixpeek.com/blog/turning-frames-into-dataframes",
-          "publishedOn": "2025-04-06T21:00:14.000Z",
-          "wordCount": 110,
-          "title": "Applying Pandas' Group_by on Videos",
-          "imageUrl": "https://mixpeek.com/brand/preview.png"
-        },
-        {
-          "id": "https://www.capitoltrades.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.capitoltrades.com/",
-          "publishedOn": "2025-04-06T19:06:58.000Z",
-          "wordCount": 9629,
-          "title": "Capital Trades: Tracking Stock Market Transactions of Politicians",
-          "imageUrl": "https://www.capitoltrades.com/assets/ct-meta-image.jpg"
-        },
-        {
-          "id": "http://beyondloom.com/blog/images.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://beyondloom.com/blog/images.html",
-          "publishedOn": "2025-04-06T19:02:58.000Z",
-          "wordCount": 1568,
-          "title": "The Treachery of Image Files (2020)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit",
-          "publishedOn": "2025-04-06T18:01:59.000Z",
-          "wordCount": null,
-          "title": "Recent AI model progress feels mostly like bullshit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/",
-          "publishedOn": "2025-04-06T17:21:54.000Z",
-          "wordCount": 2630,
-          "title": "Max severity RCE flaw discovered in widely used Apache Parquet",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/19/apache-header-image.jpg"
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents",
-          "publishedOn": "2025-04-06T17:01:00.000Z",
-          "wordCount": 1449,
-          "title": "Foundry (YC F24) Is Hiring",
-          "imageUrl": "/images/original/missing.png"
         }
       ]
     },
@@ -9034,6 +9089,36 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/food-environment/2025/why-sizzling-cities-mapping-hot-spots-street-by-street",
+          "author": "Ula Chrobak",
+          "description": "In metros like Reno, Nevada, citizen scientists hit the road to collect detailed temperature data — key to taming urban heat, saving lives and designing for a warmer future",
+          "link": "https://knowablemagazine.org/content/article/food-environment/2025/why-sizzling-cities-mapping-hot-spots-street-by-street",
+          "publishedOn": "2025-05-07T04:38:21.335Z",
+          "wordCount": 5269,
+          "title": "Why sizzling cities are mapping hot spots street by street",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/urban-heat-solutions-reno-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/urban-heat-solutions-reno-500x288.jpg"
+        },
+        {
+          "id": "https://knowablemagazine.org/content/article/food-environment/2025/conflicts-between-people-and-grizzly-bears",
+          "author": "Lesley Evans Ogden",
+          "description": "In rural Alaskan and Canadian communities, reducing conflict between people and their wild neighbors means both species must change their behavior",
+          "link": "https://knowablemagazine.org/content/article/food-environment/2025/conflicts-between-people-and-grizzly-bears",
+          "publishedOn": "2025-05-07T04:38:21.326Z",
+          "wordCount": 5363,
+          "title": "Getting along with grizzly bears",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/grizzly-social-science-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/grizzly-social-science-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/mind/2025/memory-formation-long-term-potentiation",
           "author": "Tim Vernimmen",
