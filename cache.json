@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386463",
+          "author": "Sunkanmi Fafowora",
+          "description": "Okay, nobody is an exaggeration, but have you seen the stats for hwb()? They show a steep decline, and after working a lot on color in the CSS-Tricks almanac, I’ve just been wondering why that is.\nWhy is Nobody Using the hwb() Color Function? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/why-is-nobody-using-the-hwb-color-function/",
+          "publishedOn": "2025-05-07T12:25:19.000Z",
+          "wordCount": 2541,
+          "title": "Why is Nobody Using the hwb() Color Function?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/stripe-accessible-colors.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=386482",
           "author": "Ryan Trimble",
           "description": "Along with the version 3.13 release, GSAP, and all its awesome plugins, are now freely available to everyone.\nGSAP is Now Completely Free, Even for Commercial Use! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -178,6 +188,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "Have you ever thought about how the limitations of early cartoon animations might relate to web design today? From looping backgrounds to minimal frame changes, these retro animation techniques have surprising parallels to modern CSS. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows how he applied these principles to Emmy-winning composer Mike Worth’s new website, using CSS to craft engaging and fun animations that bring his world to life.",
+          "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/",
+          "publishedOn": "2025-05-07T08:00:00.000Z",
+          "wordCount": 5510,
+          "title": "Smashing Animations Part 1: How Classic Cartoons Inspire Modern CSS",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-1-classic-cartoons-inspire-css/smashing-animations-part-1-classic-cartoons-inspire-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-1-classic-cartoons-inspire-css/smashing-animations-part-1-classic-cartoons-inspire-css.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
           "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
@@ -372,21 +397,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "Animation makes things clearer, especially for designers and front-end developers working on UI, prototypes, or interactive visuals. Manim is a tool that lets you create smooth and dynamic animations, not just for the design field but also in math, coding, and beyond, to explain complex ideas or simply make everything a little bit more interactive.",
-          "link": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
-          "publishedOn": "2025-04-08T15:00:00.000Z",
-          "wordCount": 4856,
-          "title": "Using Manim For Making UI Animations",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg"
         }
       ]
     },
@@ -395,6 +405,216 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://baharmon.github.io/basics",
+          "author": null,
+          "description": "Comments",
+          "link": "https://baharmon.github.io/basics",
+          "publishedOn": "2025-05-07T23:57:12.000Z",
+          "wordCount": 1273,
+          "title": "Parametric Modeling with Grasshopper",
+          "imageUrl": "https://baharmon.github.io"
+        },
+        {
+          "id": "https://github.com/ivanbelenky/us-routing",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ivanbelenky/us-routing",
+          "publishedOn": "2025-05-07T23:51:32.000Z",
+          "wordCount": 2735,
+          "title": "Show HN: US Routing – Python library for fast local routing in the United States",
+          "imageUrl": "https://opengraph.githubassets.com/6a0e2acd962088c44c40521c868d8e4dee20645de96a4ed392682485ba114529/ivanbelenky/us-routing"
+        },
+        {
+          "id": "https://yggdrasil-network.github.io/about.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://yggdrasil-network.github.io/about.html",
+          "publishedOn": "2025-05-07T23:45:10.000Z",
+          "wordCount": 950,
+          "title": "Yggdrasil is an experimental compact routing scheme that is fully decentralised",
+          "imageUrl": null
+        },
+        {
+          "id": "https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html",
+          "publishedOn": "2025-05-07T21:48:08.000Z",
+          "wordCount": 418,
+          "title": "Foundation DB Record Layer SQL API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/",
+          "publishedOn": "2025-05-07T21:34:06.000Z",
+          "wordCount": 6202,
+          "title": "June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/Huh_1200_Social.jpg"
+        },
+        {
+          "id": "https://openai.com/global-affairs/openai-for-countries/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openai.com/global-affairs/openai-for-countries/",
+          "publishedOn": "2025-05-07T21:05:36.000Z",
+          "wordCount": null,
+          "title": "OpenAI for Countries",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term",
+          "publishedOn": "2025-05-07T21:00:28.000Z",
+          "wordCount": 747,
+          "title": "GovEagle (YC W23) Is Hiring",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://www.anthropic.com/news/web-search-api",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anthropic.com/news/web-search-api",
+          "publishedOn": "2025-05-07T20:18:47.000Z",
+          "wordCount": 8068,
+          "title": "Web search on the Anthropic API",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/e5558e9175b62d4cc021d682e43c418aa7b30eea-2401x1261.png"
+        },
+        {
+          "id": "https://storytotell.org/how-to-average-in-prolog",
+          "author": null,
+          "description": "Comments",
+          "link": "https://storytotell.org/how-to-average-in-prolog",
+          "publishedOn": "2025-05-07T19:54:08.000Z",
+          "wordCount": 713,
+          "title": "How to Average in Prolog (2017)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://damien.zone/introducing-mac-themes-garden/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://damien.zone/introducing-mac-themes-garden/",
+          "publishedOn": "2025-05-07T19:44:51.000Z",
+          "wordCount": 3398,
+          "title": "Mac Themes Garden",
+          "imageUrl": "/img/projects/macthemes-garden.webp?v=9d6b8774b4bb"
+        },
+        {
+          "id": "https://github.com/rybbit-io/rybbit",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/rybbit-io/rybbit",
+          "publishedOn": "2025-05-07T17:45:33.000Z",
+          "wordCount": 2526,
+          "title": "Open source Google Analytics replacement",
+          "imageUrl": "https://opengraph.githubassets.com/7ffce87796710048bc44231907ca15a837918caf8b8ec987b1b2c60adb6648a3/rybbit-io/rybbit"
+        },
+        {
+          "id": "https://github.com/astral-sh/ty",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/astral-sh/ty",
+          "publishedOn": "2025-05-07T17:32:26.000Z",
+          "wordCount": 1396,
+          "title": "Ty: A fast Python type checker and language server",
+          "imageUrl": "https://opengraph.githubassets.com/c3ade6fc09381a7bdafc1d62859d86844c8699beb47a5de6f7956a2e3dfea892/astral-sh/ty"
+        },
+        {
+          "id": "https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html",
+          "publishedOn": "2025-05-07T17:28:25.000Z",
+          "wordCount": 1726,
+          "title": "Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/LmqMnLhXvLavKaUhFzYrkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTY-/https://s.yimg.com/os/creatr-uploaded-images/2025-05/194707d0-2b32-11f0-a7ff-b05a9b641b6a"
+        },
+        {
+          "id": "https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/",
+          "publishedOn": "2025-05-07T16:06:44.000Z",
+          "wordCount": 803,
+          "title": "Create and edit images with Gemini 2.0 in preview",
+          "imageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/native-image-generation-Gemini-2-.2e16d0ba.fill-1200x600_8NxZNtP.png"
+        },
+        {
+          "id": "https://www.sfgate.com/bayarea/article/ghost-students-creating-problem-calif-colleges-20311708.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sfgate.com/bayarea/article/ghost-students-creating-problem-calif-colleges-20311708.php",
+          "publishedOn": "2025-05-07T16:05:34.000Z",
+          "wordCount": null,
+          "title": "Ghost students are creating problems for California colleges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ciromattia/kcc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ciromattia/kcc",
+          "publishedOn": "2025-05-07T15:26:43.000Z",
+          "wordCount": 7601,
+          "title": "Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)",
+          "imageUrl": "https://opengraph.githubassets.com/7ef5d4e6646d32204df674584e63ba71ed770adf8fbfe711d940af8d876b8a90/ciromattia/kcc"
+        },
+        {
+          "id": "https://pganalyze.com/blog/postgres-18-async-io",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pganalyze.com/blog/postgres-18-async-io",
+          "publishedOn": "2025-05-07T14:57:03.000Z",
+          "wordCount": 6147,
+          "title": "Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O",
+          "imageUrl": "https://pganalyze.com/static/cecf97606570e2c137b900ebdf0b3faf/b5380/pganalyze_blog_OG_image_postgres-async-io.png"
+        },
+        {
+          "id": "https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac",
+          "publishedOn": "2025-05-07T14:44:38.000Z",
+          "wordCount": null,
+          "title": "WeightWatchers files bankruptcy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mistral.ai/news/le-chat-enterprise",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mistral.ai/news/le-chat-enterprise",
+          "publishedOn": "2025-05-07T14:24:09.000Z",
+          "wordCount": 2540,
+          "title": "Mistral ships le chat – enterprise AI assistant that can run on prem",
+          "imageUrl": "https://mistral.ai/img/mistral-cover.png"
+        },
+        {
+          "id": "https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/",
+          "publishedOn": "2025-05-07T11:06:17.000Z",
+          "wordCount": 2038,
+          "title": "My quest to make motorcycle riding that tad bit safer",
+          "imageUrl": "https://gill.net.in/images/bike-snow.jpg"
+        },
+        {
+          "id": "https://dynomight.net/blood/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dynomight.net/blood/",
+          "publishedOn": "2025-05-07T09:41:13.000Z",
+          "wordCount": 3053,
+          "title": "So Much Blood",
+          "imageUrl": "https://dynomight.net/img/blood/redmoon.jpg"
+        },
         {
           "id": "https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html",
           "author": null,
@@ -566,6 +786,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.psu.edu/news/research/story/future-brain-activity-monitoring-may-look-strand-hair",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.psu.edu/news/research/story/future-brain-activity-monitoring-may-look-strand-hair",
+          "publishedOn": "2025-05-06T15:53:30.000Z",
+          "wordCount": 3080,
+          "title": "A new hairlike electrode for long-term, high-quality EEG monitoring",
+          "imageUrl": "https://sc-cms.psu.edu/s3/files/styles/16_9_1000w/public/2025/05/zhou-eeg-electrode.png?h=83962afb&itok=RGRqZYpH"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43906442",
           "author": null,
           "description": "Comments",
@@ -634,6 +864,26 @@
           "wordCount": 1434,
           "title": "New studies offer insight into Lyme disease’s treatment, lingering symptoms",
           "imageUrl": "https://news.northwestern.edu/assets/Stories/2025/04/lyme1940__FocusFillWzEyMDAsNjMwLCJ5Iiw4N10.jpg"
+        },
+        {
+          "id": "https://catern.com/inheritance.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://catern.com/inheritance.html",
+          "publishedOn": "2025-05-06T10:59:18.000Z",
+          "wordCount": 1053,
+          "title": "Inheritance was invented as a performance hack (2021)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nbcnews.com/tech/tech-news/nsa-spied-through-angry-birds-other-apps-report-flna2d12006530",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nbcnews.com/tech/tech-news/nsa-spied-through-angry-birds-other-apps-report-flna2d12006530",
+          "publishedOn": "2025-05-06T10:34:58.000Z",
+          "wordCount": 8175,
+          "title": "NSA spied through Angry Birds, other apps: report (2014)",
+          "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/streams/2014/January/140128/2D11447211-140127-angry-birds-jms-2055.jpg"
         },
         {
           "id": "https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025",
@@ -906,6 +1156,36 @@
           "imageUrl": "https://bjango.com/images/site-icons/bjango-cover.png"
         },
         {
+          "id": "https://deborahwrites.com/blog/docs-like-code-basic-intro/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://deborahwrites.com/blog/docs-like-code-basic-intro/",
+          "publishedOn": "2025-05-05T10:22:01.000Z",
+          "wordCount": 3569,
+          "title": "Docs like code in basic terms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ductape.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ductape.app/",
+          "publishedOn": "2025-05-05T08:04:23.000Z",
+          "wordCount": 308,
+          "title": "Show HN: Ductape – Build back end integrations once, reuse them anywhere",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/jart/sectorlisp",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/jart/sectorlisp",
+          "publishedOn": "2025-05-05T07:52:26.000Z",
+          "wordCount": 1793,
+          "title": "Bootstrapping Lisp in a Boot Sector",
+          "imageUrl": "https://opengraph.githubassets.com/aa6a982ee5fe8ee129f6f442a44e12fe0d995cfff225c7f69a38db79e1812597/jart/sectorlisp"
+        },
+        {
           "id": "https://ai.jakegaylor.com/",
           "author": null,
           "description": "Comments",
@@ -934,6 +1214,16 @@
           "wordCount": 1318,
           "title": "On Not Carrying a Camera – Cultivating memories instead of snapshots",
           "imageUrl": "https://s3.amazonaws.com/hedgehogreview-prod/images/efe56474ac1099e32daa2396114613f7.1500.jpg"
+        },
+        {
+          "id": "http://www.scitechantiques.com/belldiscovery/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.scitechantiques.com/belldiscovery/",
+          "publishedOn": "2025-05-04T22:24:56.000Z",
+          "wordCount": 1221,
+          "title": "Bell's 1881 Metal detector",
+          "imageUrl": null
         },
         {
           "id": "https://owentrueblood.com/blog/2025/05/04/helmdar/",
@@ -1016,6 +1306,16 @@
           "imageUrl": "https://blog.rahix.de/processed_images/title.442c0e34c5b36f29.jpg"
         },
         {
+          "id": "https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img",
+          "author": null,
+          "description": "Comments",
+          "link": "https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img",
+          "publishedOn": "2025-05-04T17:19:14.000Z",
+          "wordCount": 517,
+          "title": "A cycle-accurate IBM PC emulator in your web browser",
+          "imageUrl": "https://martypc.net/assets/marty_logo_about_twitter.png"
+        },
+        {
           "id": "https://alhassy.com/TypedLisp.html",
           "author": null,
           "description": "Comments",
@@ -1044,6 +1344,16 @@
           "wordCount": 11434,
           "title": "Dummy's Guide to Modern LLM Sampling",
           "imageUrl": "https://rentry.co/static/icons/512.png"
+        },
+        {
+          "id": "https://blog.zactownsend.com/know-your-enemy-how-three-years-at-mckinsey-shaped-my-second-startup",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.zactownsend.com/know-your-enemy-how-three-years-at-mckinsey-shaped-my-second-startup",
+          "publishedOn": "2025-05-04T13:30:22.000Z",
+          "wordCount": 1516,
+          "title": "How three years at McKinsey shaped my second startup",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/Foreseerr/TScale",
@@ -8684,346 +8994,6 @@
           "wordCount": 3730,
           "title": "Show HN: Coroot – eBPF-based, open source observability with actionable insights",
           "imageUrl": "https://opengraph.githubassets.com/4c51edd9148a883f00d63d741ec570df0f0504279e220e2c849dae922fffa258/coroot/coroot"
-        },
-        {
-          "id": "https://github.com/dicroce/hnsw",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/dicroce/hnsw",
-          "publishedOn": "2025-04-08T15:43:14.000Z",
-          "wordCount": 1938,
-          "title": "Show HN: HNSW index for vector embeddings in approx 500 LOC",
-          "imageUrl": "https://opengraph.githubassets.com/9eb1f972ffd086b8d054e5b10cb25a9894a21f05f9eb7dccbb8f9c146a9374c8/dicroce/hnsw"
-        },
-        {
-          "id": "https://www.theatlantic.com/games/bracket-city/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theatlantic.com/games/bracket-city/",
-          "publishedOn": "2025-04-08T15:11:26.000Z",
-          "wordCount": 78,
-          "title": "Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic",
-          "imageUrl": "https://cdn.theatlantic.com/media/files/2025/bracket-city/bracket_city_postcard_.jpg"
-        },
-        {
-          "id": "https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/",
-          "publishedOn": "2025-04-08T15:10:29.000Z",
-          "wordCount": 3924,
-          "title": "Better typography with text-wrap pretty",
-          "imageUrl": "https://webkit.org/wp-content/uploads/bad-typography-SM-light.png"
-        },
-        {
-          "id": "http://www.zigsam.at/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.zigsam.at/",
-          "publishedOn": "2025-04-08T14:11:40.000Z",
-          "wordCount": 8,
-          "title": "The Austrian Cigarette Collection",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/",
-          "publishedOn": "2025-04-08T13:08:49.000Z",
-          "wordCount": 2225,
-          "title": "A 32-bit processor made with an atomically thin semiconductor",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Screenshot-2025-04-02-at-9.57.05 AM-1152x606.png"
-        },
-        {
-          "id": "https://petapixel.com/2025/03/25/levitating-bugs-with-sound-could-transform-scientific-photography/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://petapixel.com/2025/03/25/levitating-bugs-with-sound-could-transform-scientific-photography/",
-          "publishedOn": "2025-04-08T12:38:34.000Z",
-          "wordCount": 2641,
-          "title": "Levitating Bugs with Sound Could Transform Scientific Photography",
-          "imageUrl": "https://petapixel.com/assets/uploads/2025/03/acousic-levitation-1.jpg"
-        },
-        {
-          "id": "https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant",
-          "publishedOn": "2025-04-08T10:59:26.000Z",
-          "wordCount": 4510,
-          "title": "Brazil's government-run payments system has become dominant",
-          "imageUrl": "https://www.economist.com/content-assets/images/20250405_AMD001.jpg"
-        },
-        {
-          "id": "https://tailscale.com/blog/series-c",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tailscale.com/blog/series-c",
-          "publishedOn": "2025-04-08T10:36:07.000Z",
-          "wordCount": 1754,
-          "title": "Tailscale has raised $160M",
-          "imageUrl": "https://cdn.sanity.io/images/w77i7m8x/production/fdd6359e91c0512eaf6fdd10dbf251870317494c-906x468.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43619768",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=43619768",
-          "publishedOn": "2025-04-08T09:23:18.000Z",
-          "wordCount": 29393,
-          "title": "Ask HN: Do you still use search engines?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney",
-          "author": null,
-          "description": "Comments",
-          "link": "https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney",
-          "publishedOn": "2025-04-08T09:22:23.000Z",
-          "wordCount": 16056,
-          "title": "An Overwhelmingly Negative and Demoralizing Force",
-          "imageUrl": "https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/04/robotboss.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/",
-          "publishedOn": "2025-04-08T08:36:23.000Z",
-          "wordCount": 3463,
-          "title": "Intelligence Evolved at Least Twice in Vertebrate Animals",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/NeuralIntelligence-crSamanthaMash-Social.jpg"
-        },
-        {
-          "id": "https://www.neelnanda.io/blog/43-making-friends",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.neelnanda.io/blog/43-making-friends",
-          "publishedOn": "2025-04-08T06:54:36.000Z",
-          "wordCount": 5597,
-          "title": "Intentionally Making Close Friends (2021)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1508181/full",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1508181/full",
-          "publishedOn": "2025-04-08T03:36:21.000Z",
-          "wordCount": 35614,
-          "title": "Listening habits&subjective effects of background music in young adults ± ADHD",
-          "imageUrl": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/0F39389F-DE2D-4BF1-AFE71BA9B6F25024/918D96DB-F484-4EC1-8FBF9AB5F74B20F4/WebsiteWebP_XL-FPSYG_Main Visual_Green_Website.webp"
-        },
-        {
-          "id": "https://www.dropbox.com/scl/fi/gmwhx7jfi2nvm8pudn5it/lecture_diffusion_models.pdf?dl=0&e=2&noscript=1&rlkey=8w5rey4dubtnbdqitper0ab4l",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.dropbox.com/scl/fi/gmwhx7jfi2nvm8pudn5it/lecture_diffusion_models.pdf?dl=0&e=2&noscript=1&rlkey=8w5rey4dubtnbdqitper0ab4l",
-          "publishedOn": "2025-04-08T01:56:57.000Z",
-          "wordCount": 1970,
-          "title": "Lecture_diffusion_models.pdf",
-          "imageUrl": "https://www.dropbox.com/temp_thumb_from_token/c/gmwhx7jfi2nvm8pudn5it?preserve_transparency=False&rlkey=8w5rey4dubtnbdqitper0ab4l&secure_hash=&size=1200x1200&size_mode=4"
-        },
-        {
-          "id": "https://www.e-basteln.de/computing/lgp30/lgp30/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.e-basteln.de/computing/lgp30/lgp30/",
-          "publishedOn": "2025-04-08T01:49:46.000Z",
-          "wordCount": 1270,
-          "title": "An FPGA-based LGP-30 Replica",
-          "imageUrl": null
-        },
-        {
-          "id": "https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/",
-          "publishedOn": "2025-04-08T01:20:10.000Z",
-          "wordCount": 395,
-          "title": "Any program can be a GitHub Actions shell",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.yahoo.com/news/thousands-north-korean-workers-infiltrated-110000417.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.yahoo.com/news/thousands-north-korean-workers-infiltrated-110000417.html",
-          "publishedOn": "2025-04-08T00:47:23.000Z",
-          "wordCount": 9836,
-          "title": "North Korean IT workers have infiltrated the Fortune 500",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/8YzFRdOPCRTHHn4zGEyGKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/026f20fc9ef12c7847fa6a0842c33479"
-        },
-        {
-          "id": "https://jpfennell.com/posts/enum-type-size/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jpfennell.com/posts/enum-type-size/",
-          "publishedOn": "2025-04-07T22:30:45.000Z",
-          "wordCount": 1205,
-          "title": "A surprising enum size optimization in the Rust compiler",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zachseward.com/what-was-quartz/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.zachseward.com/what-was-quartz/",
-          "publishedOn": "2025-04-07T22:24:16.000Z",
-          "wordCount": 3056,
-          "title": "What Was Quartz?",
-          "imageUrl": "https://www.zachseward.com/content/images/size/w1200/2025/04/tumblr_ofd5rbeAOZ1sj980eo4_1280.jpg"
-        },
-        {
-          "id": "https://arxiv.org/abs/2504.01157",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2504.01157",
-          "publishedOn": "2025-04-07T21:39:33.000Z",
-          "wordCount": 695,
-          "title": "Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://blog.julik.nl/2025/03/a-little-adventure-in-modern-frontend",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.julik.nl/2025/03/a-little-adventure-in-modern-frontend",
-          "publishedOn": "2025-04-07T21:10:32.000Z",
-          "wordCount": 4561,
-          "title": "A Supermarket Bag and a Truckload of FOMO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/",
-          "publishedOn": "2025-04-07T21:04:03.000Z",
-          "wordCount": 2486,
-          "title": "Ancient Dagger Up to 2.5k Years Old W Stars/Moons/Geometric Patterns Unearthed",
-          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/Ill3q6g1Wf8_8BOkGN6D9RwWu94=/fit-in/1200x0/filters:focal(957x720:958x721)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Fee%2F10%2Fee107e2b-6339-4609-8534-81da403775f4%2F487739306_1125912419338231_3545667744044372581_n.jpeg"
-        },
-        {
-          "id": "https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/",
-          "publishedOn": "2025-04-07T21:03:16.000Z",
-          "wordCount": 2131,
-          "title": "Middle-aged man trading cards go viral in rural Japan town",
-          "imageUrl": "https://www.tokyoweekender.com/wp-content/uploads/2025/03/ojisan-cards.jpg"
-        },
-        {
-          "id": "https://movieweb.com/eno-documentary-movie-different-every-time/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://movieweb.com/eno-documentary-movie-different-every-time/",
-          "publishedOn": "2025-04-07T20:55:27.000Z",
-          "wordCount": 25995,
-          "title": "The movie that's different every time you watch it",
-          "imageUrl": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2025/04/the-movie-that-s-different-every-time-you-watch-it-literally.jpg"
-        },
-        {
-          "id": "https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet",
-          "publishedOn": "2025-04-07T20:51:02.000Z",
-          "wordCount": 9570,
-          "title": "Uncovering a 0-Click RCE in the SuperNote Nomad E-Ink Tablet",
-          "imageUrl": "https://static.wixstatic.com/media/82b748_624e8f67c9d947258767a24d625667cf~mv2.avif/v1/fill/w_980,h_551,al_c,q_85/82b748_624e8f67c9d947258767a24d625667cf~mv2.avif"
-        },
-        {
-          "id": "https://idiallo.com/blog/companies-dont-fix-bugs",
-          "author": null,
-          "description": "Comments",
-          "link": "https://idiallo.com/blog/companies-dont-fix-bugs",
-          "publishedOn": "2025-04-07T20:03:08.000Z",
-          "wordCount": 3677,
-          "title": "Why Companies Don't Fix Bugs",
-          "imageUrl": "https://cdn.idiallo.com/images/assets/thumb/default-thumb.jpg"
-        },
-        {
-          "id": "https://blog.littlepolygon.com/posts/scaffold/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.littlepolygon.com/posts/scaffold/",
-          "publishedOn": "2025-04-07T20:00:58.000Z",
-          "wordCount": 2647,
-          "title": "Scaffold Level Editor",
-          "imageUrl": "https://blog.littlepolygon.com/images/avatar.jpg"
-        },
-        {
-          "id": "https://github.com/TuanKiri/weather-mcp-server",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/TuanKiri/weather-mcp-server",
-          "publishedOn": "2025-04-07T18:44:17.000Z",
-          "wordCount": 2050,
-          "title": "Show HN: Minimal MCP server in Go showcasing project architecture",
-          "imageUrl": "https://opengraph.githubassets.com/596a6c9051154c9675df634260af92ccde6f7bfde991a90376f92576f6354022/TuanKiri/weather-mcp-server"
-        },
-        {
-          "id": "https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html",
-          "publishedOn": "2025-04-07T18:13:23.000Z",
-          "wordCount": 954,
-          "title": "Show HN: Lux – A luxurious package manager for Lua",
-          "imageUrl": null
-        },
-        {
-          "id": "https://queue.acm.org/detail.cfm?id=3722542",
-          "author": null,
-          "description": "Comments",
-          "link": "https://queue.acm.org/detail.cfm?id=3722542",
-          "publishedOn": "2025-04-07T18:04:22.000Z",
-          "wordCount": 6544,
-          "title": "Fifty Years of Open Source Software Supply Chain Security",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/",
-          "publishedOn": "2025-04-07T17:52:53.000Z",
-          "wordCount": 6862,
-          "title": "The Troll Hole Adventure",
-          "imageUrl": "https://bluerenga.blog/wp-content/uploads/2025/04/dchector_hr9kkuhg8a.png"
-        },
-        {
-          "id": "https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf",
-          "publishedOn": "2025-04-07T17:42:02.000Z",
-          "wordCount": 6485,
-          "title": "Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.noisefill.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.noisefill.com/",
-          "publishedOn": "2025-04-07T17:26:51.000Z",
-          "wordCount": 17,
-          "title": "Show HN: Soundscapes and Lofi Player",
-          "imageUrl": "https://utfs.io/f/VU8He2t54NdYyY4GnO7eixc0bYFSlj7W91RA8IgPJfUkONa5"
-        },
-        {
-          "id": "https://blog.google/products/gemini/gemini-live-android-tips/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.google/products/gemini/gemini-live-android-tips/",
-          "publishedOn": "2025-04-07T16:53:08.000Z",
-          "wordCount": 4005,
-          "title": "Gemini Live with camera and screen sharing capabilities",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blogpost_Header_Option_2_v02.width-1300.png"
         }
       ]
     },
@@ -9448,21 +9418,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/condor-reintroduction-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/health-disease/2025/how-stress-affects-cancer",
-          "author": "Diana Kwon",
-          "description": "Studies show psychological strain can accelerate tumors — could beta blockers slow them down?",
-          "link": "https://knowablemagazine.org/content/article/health-disease/2025/how-stress-affects-cancer",
-          "publishedOn": "2025-04-08T04:37:47.914Z",
-          "wordCount": 4591,
-          "title": "How stress shapes cancer’s course",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/psychoimmunology-cancer-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/psychoimmunology-cancer-500x288.jpg"
         }
       ]
     },
