@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386724",
+          "author": "Geoff Graham",
+          "description": "Clever, clever that Andy Bell. He shares a technique for displaying image alt text when the image fails to load. Well, more precisely, it's a technique to apply styles to the alt when the image doesn't load, offering a nice UI fallback for what would otherwise be a busted-looking error.\nYou can style alt text like any other text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/you-can-style-alt-text-like-any-other-text/",
+          "publishedOn": "2025-05-22T14:43:09.000Z",
+          "wordCount": 1900,
+          "title": "You can style alt text like any other text",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/08/puzzle-pieces-scatter.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=386716",
           "author": "Geoff Graham",
           "description": "Shape master Temani Afif has what might be the largest collection of CSS shapes on the planet with all the tools to generate them on the fly. There’s a mix of clever techniques he’s typically used to make those shapes, …\nSVG to CSS Shape Converter originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -422,21 +432,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
-          "description": "Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.",
-          "link": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-          "publishedOn": "2025-04-23T10:00:00.000Z",
-          "wordCount": 4446,
-          "title": "Building An Offline-Friendly Image Upload System",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg"
         }
       ]
     },
@@ -445,6 +440,256 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://getcreatr.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://getcreatr.com/",
+          "publishedOn": "2025-05-23T03:15:30.000Z",
+          "wordCount": 296,
+          "title": "Like Lovable but can make apps with gen-AI powered back ends",
+          "imageUrl": "https://getcreatr.com/images/OGF.png"
+        },
+        {
+          "id": "https://jhellerstein.github.io/blog/crdt-turtles/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jhellerstein.github.io/blog/crdt-turtles/",
+          "publishedOn": "2025-05-23T02:29:28.000Z",
+          "wordCount": 2857,
+          "title": "CRDTs #2: Turtles All the Way Down",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chrispenner.ca/posts/interview",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chrispenner.ca/posts/interview",
+          "publishedOn": "2025-05-23T02:27:27.000Z",
+          "wordCount": 2906,
+          "title": "Silly job interview questions in Haskell",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lwn.net/Articles/1020571/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/Articles/1020571/",
+          "publishedOn": "2025-05-22T23:51:20.000Z",
+          "wordCount": 9800,
+          "title": "The Future of Flatpak",
+          "imageUrl": null
+        },
+        {
+          "id": "http://funcall.blogspot.com/2025/05/management-bullshit.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://funcall.blogspot.com/2025/05/management-bullshit.html",
+          "publishedOn": "2025-05-22T23:20:48.000Z",
+          "wordCount": 3793,
+          "title": "Management = Bullshit (LLM Edition)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.inkandswitch.com/ink/notes/sketchy-calendar/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.inkandswitch.com/ink/notes/sketchy-calendar/",
+          "publishedOn": "2025-05-22T23:19:36.000Z",
+          "wordCount": 793,
+          "title": "Sketchy Calendar",
+          "imageUrl": "https://www.inkandswitch.com/static/favicons/196x196.png"
+        },
+        {
+          "id": "https://spectrum.ieee.org/bellmac-32-ieee-milestone",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/bellmac-32-ieee-milestone",
+          "publishedOn": "2025-05-22T23:18:22.000Z",
+          "wordCount": 11092,
+          "title": "32 bits that changed microprocessor design",
+          "imageUrl": "https://spectrum.ieee.org/media-library/image.jpg?id=60303734&width=1200&height=600&coordinates=0%2C1125%2C0%2C1125"
+        },
+        {
+          "id": "https://modernagejournal.com/secret-mall-apartment-a-protest-for-place/251023/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://modernagejournal.com/secret-mall-apartment-a-protest-for-place/251023/",
+          "publishedOn": "2025-05-22T22:20:00.000Z",
+          "wordCount": 8186,
+          "title": "“Secret Mall Apartment,” a Protest for Place",
+          "imageUrl": "https://modernagejournal.com/wp-content/uploads/2025/05/mall-1-e1747882270256.png"
+        },
+        {
+          "id": "https://github.com/kepano/defuddle",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/kepano/defuddle",
+          "publishedOn": "2025-05-22T21:40:54.000Z",
+          "wordCount": 4327,
+          "title": "Show HN: Defuddle, an HTML-to-Markdown alternative to Readability",
+          "imageUrl": "https://opengraph.githubassets.com/6dd04a3393b8948f8e8c6007b95ae8b7162f8c6880d5c04ff8eec0424799fde0/kepano/defuddle"
+        },
+        {
+          "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1430463",
+          "author": null,
+          "description": "Comments",
+          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1430463",
+          "publishedOn": "2025-05-22T20:41:14.000Z",
+          "wordCount": 1990,
+          "title": "Trade Secrecy in Willy Wonka's Chocolate Factory (2009)",
+          "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
+        },
+        {
+          "id": "https://muldoon.cloud/2025/05/22/alignment.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://muldoon.cloud/2025/05/22/alignment.html",
+          "publishedOn": "2025-05-22T19:25:10.000Z",
+          "wordCount": 633,
+          "title": "Problems in AI alignment: A scale model",
+          "imageUrl": null
+        },
+        {
+          "id": "https://saile.it/1145-pull-requests-per-day/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://saile.it/1145-pull-requests-per-day/",
+          "publishedOn": "2025-05-22T19:16:30.000Z",
+          "wordCount": 883,
+          "title": "1,145 pull requests per day",
+          "imageUrl": null
+        },
+        {
+          "id": "http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides",
+          "author": null,
+          "description": "Comments",
+          "link": "http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides",
+          "publishedOn": "2025-05-22T18:58:25.000Z",
+          "wordCount": null,
+          "title": "Does Earth have two high-tide bulges on opposite sides? (2014)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html",
+          "publishedOn": "2025-05-22T18:25:07.000Z",
+          "wordCount": 2491,
+          "title": "How to cheat at settlers by loading the dice (2017)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pythonspeed.com/articles/pydantic-json-memory/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pythonspeed.com/articles/pydantic-json-memory/",
+          "publishedOn": "2025-05-22T18:06:37.000Z",
+          "wordCount": 1178,
+          "title": "Loading Pydantic models from JSON without running out of memory",
+          "imageUrl": "https://pythonspeed.com/assets/titles/pydantic-json-memory.png"
+        },
+        {
+          "id": "https://blog.glitch.com/post/changes-are-coming-to-glitch/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.glitch.com/post/changes-are-coming-to-glitch/",
+          "publishedOn": "2025-05-22T17:16:25.000Z",
+          "wordCount": 2553,
+          "title": "We’ll be ending web hosting for your apps on Glitch",
+          "imageUrl": "https://blog.glitch.com/img/H_hvu9fUH2-1200.jpeg"
+        },
+        {
+          "id": "https://www.anthropic.com/news/claude-4",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anthropic.com/news/claude-4",
+          "publishedOn": "2025-05-22T16:34:42.000Z",
+          "wordCount": 6561,
+          "title": "Claude 4",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/c17d44d1f2095a3e3215c5446b4ed40340776830-2400x1260.jpg"
+        },
+        {
+          "id": "https://support.mozilla.org/en-US/kb/future-of-pocket",
+          "author": null,
+          "description": "Comments",
+          "link": "https://support.mozilla.org/en-US/kb/future-of-pocket",
+          "publishedOn": "2025-05-22T16:30:18.000Z",
+          "wordCount": 1697,
+          "title": "Mozilla to shut down Pocket and Fakespot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chriskw.xyz/2025/05/21/Fractal/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chriskw.xyz/2025/05/21/Fractal/",
+          "publishedOn": "2025-05-22T15:50:16.000Z",
+          "wordCount": 5587,
+          "title": "That fractal that's been up on my wall for years",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=44063000",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=44063000",
+          "publishedOn": "2025-05-22T15:23:40.000Z",
+          "wordCount": 4053,
+          "title": "Launch HN: WorkDone (YC X25) – AI Audit of Medical Charts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/",
+          "publishedOn": "2025-05-22T14:09:25.000Z",
+          "wordCount": 2934,
+          "title": "I Built My Own Audio Player",
+          "imageUrl": null
+        },
+        {
+          "id": "https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/",
+          "publishedOn": "2025-05-22T14:01:55.000Z",
+          "wordCount": 2710,
+          "title": "Fast Allocations in Ruby 3.5",
+          "imageUrl": "https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/946998ebf6125f3032e47d9c53dacc3edb557248.png"
+        },
+        {
+          "id": "https://github.com/sqliteai/sqlite-js",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/sqliteai/sqlite-js",
+          "publishedOn": "2025-05-22T13:25:33.000Z",
+          "wordCount": 7986,
+          "title": "Show HN: SQLite JavaScript - extend your database with JavaScript",
+          "imageUrl": "https://opengraph.githubassets.com/430120ba44f296c85d72dee635b7535aa91059411f1e56171249340b7a0523c4/sqliteai/sqlite-js"
+        },
+        {
+          "id": "https://ohadravid.github.io/posts/2025-05-rav1d-faster/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ohadravid.github.io/posts/2025-05-rav1d-faster/",
+          "publishedOn": "2025-05-22T11:59:03.000Z",
+          "wordCount": 2931,
+          "title": "Improving performance of rav1d video decoder",
+          "imageUrl": "https://ohadravid.github.io/2025-05-rav1d-faster/baseline_prof.png"
+        },
+        {
+          "id": "https://www.ianvisits.co.uk/articles/ancient-law-requires-a-bale-of-hay-to-hang-from-charing-cross-rail-bridge-81318/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ianvisits.co.uk/articles/ancient-law-requires-a-bale-of-hay-to-hang-from-charing-cross-rail-bridge-81318/",
+          "publishedOn": "2025-05-22T08:52:17.000Z",
+          "wordCount": 2249,
+          "title": "Ancient law requires a bale of straw to hang from Charing Cross rail bridge",
+          "imageUrl": "https://www.ianvisits.co.uk/articles/wp-content/uploads/sites/2/2025/05/hungerford-bridge-charing-cross-bale-hay-01.jpg"
+        },
         {
           "id": "https://github.com/Kotlin/kotlin-lsp",
           "author": null,
@@ -684,6 +929,16 @@
           "wordCount": 2395,
           "title": "Devstral",
           "imageUrl": "https://mistral.ai/img/mistral-cover.png"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2025/may/21/without-time-there-is-no-flavour-a-south-korean-grand-master-on-the-art-of-the-perfect-soy-sauce",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/world/2025/may/21/without-time-there-is-no-flavour-a-south-korean-grand-master-on-the-art-of-the-perfect-soy-sauce",
+          "publishedOn": "2025-05-21T11:19:59.000Z",
+          "wordCount": 5095,
+          "title": "A South Korean grand master on the art of the perfect soy sauce",
+          "imageUrl": "https://i.guim.co.uk/img/media/3062812905cfc8894795be6a9f75dd5bec5f3feb/0_0_3059_2448/master/3059.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc21fd639ae2446c84584cc1d21f1c7d"
         },
         {
           "id": "https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met",
@@ -1056,6 +1311,16 @@
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1844724927-1152x648.jpg"
         },
         {
+          "id": "https://www.nytimes.com/2025/05/19/science/richard-garwin-hydrogen-bomb.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2025/05/19/science/richard-garwin-hydrogen-bomb.html",
+          "publishedOn": "2025-05-19T19:09:29.000Z",
+          "wordCount": null,
+          "title": "Richard Garwin’s role in designing the hydrogen bomb was obscured",
+          "imageUrl": null
+        },
+        {
           "id": "http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html",
           "author": null,
           "description": "Comments",
@@ -1186,6 +1451,16 @@
           "imageUrl": "https://opengraph.githubassets.com/1696a64712a406fbe75414e7d22b82e6b32b2a91f6bbf40c8ded3e912df61b0a/clawsoftware/clawPDF"
         },
         {
+          "id": "https://airport.query.farm/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://airport.query.farm/",
+          "publishedOn": "2025-05-19T11:25:32.000Z",
+          "wordCount": 2255,
+          "title": "Airport for DuckDB",
+          "imageUrl": "https://airport.query.farm/airport-duck-2.jpg"
+        },
+        {
           "id": "https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html",
           "author": null,
           "description": "Comments",
@@ -1206,6 +1481,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/KtMDsh7OHAjQSX41Vue_U-0an1iq5D-l6RTToahK7Eaqa7K5DYb93gxK2VQkvMIpEf-22CFcW7_cV7lSzOdMjqRWViAKsEka456NlEbL1W_ALF58Jw"
         },
         {
+          "id": "https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/",
+          "publishedOn": "2025-05-19T07:17:50.000Z",
+          "wordCount": 14626,
+          "title": "When good pseudorandom numbers go bad",
+          "imageUrl": "https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/unravel_17_1769.jpg"
+        },
+        {
           "id": "https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/",
           "author": null,
           "description": "Comments",
@@ -1224,6 +1509,16 @@
           "wordCount": 2721,
           "title": "Magic of software; what makes a good engineer also makes a good engineering org",
           "imageUrl": "https://moxie.org/blog/images/falls-colorcycling.gif"
+        },
+        {
+          "id": "https://blog.alexewerlof.com/p/when-a-team-is-too-big",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.alexewerlof.com/p/when-a-team-is-too-big",
+          "publishedOn": "2025-05-19T04:31:39.000Z",
+          "wordCount": 6797,
+          "title": "When a team is too big",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91c4a47b-1d8d-4a07-8d3a-ca263ff70644_1085x584.png"
         },
         {
           "id": "https://www.wsj.com/us-news/education/college-towns-economy-macomb-illinois-aae84dcc",
@@ -8894,276 +9189,6 @@
           "wordCount": 188,
           "title": "Tarpit ideas: What are tarpit ideas and how to avoid them (2023) [video]",
           "imageUrl": "https://img.youtube.com/vi/GMIawSAygO4/maxresdefault.jpg"
-        },
-        {
-          "id": "https://koomen.dev/essays/horseless-carriages/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://koomen.dev/essays/horseless-carriages/",
-          "publishedOn": "2025-04-23T16:19:56.000Z",
-          "wordCount": 7,
-          "title": "AI Horseless Carriages",
-          "imageUrl": "/images/steam-carriage.png"
-        },
-        {
-          "id": "https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine",
-          "publishedOn": "2025-04-23T16:17:04.000Z",
-          "wordCount": 2503,
-          "title": "MCP on AWS Lambda with MCPEngine",
-          "imageUrl": "https://cdn.prod.website-files.com/60cce6512b4ab924a0427124/6808fd9902deb339ae017dc9_ChatGPT%20Image%20Apr%2023%2C%202025%2C%2007_47_47%20AM.png"
-        },
-        {
-          "id": "https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html",
-          "publishedOn": "2025-04-23T16:13:40.000Z",
-          "wordCount": null,
-          "title": "More Everything Forever",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/lmnr-ai/index",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/lmnr-ai/index",
-          "publishedOn": "2025-04-23T16:11:11.000Z",
-          "wordCount": 4489,
-          "title": "Show HN: Index – New Open Source browser agent",
-          "imageUrl": "https://opengraph.githubassets.com/6f8fec364211e03ed7ce51cfb7476ba12bd2ad47ac9af084d515a9cf897791f3/lmnr-ai/index"
-        },
-        {
-          "id": "https://github.com/trycua/cua",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/trycua/cua",
-          "publishedOn": "2025-04-23T15:55:05.000Z",
-          "wordCount": 4857,
-          "title": "Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents",
-          "imageUrl": "https://opengraph.githubassets.com/79057f5f986e9452be0ca27ac4e11c75d3a6289b0819d2b777eb9ff73c7ff607/trycua/cua"
-        },
-        {
-          "id": "https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/",
-          "publishedOn": "2025-04-23T14:00:11.000Z",
-          "wordCount": 3839,
-          "title": "How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2",
-          "imageUrl": "https://cookieplmonster.github.io/assets/img/posts/sa-win11-24h2-bug/gta_sa_Bg0aamH1rZ.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43771365",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=43771365",
-          "publishedOn": "2025-04-23T12:35:49.000Z",
-          "wordCount": 3232,
-          "title": "Show HN: Node.js video tutorials where you can edit and run the code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html",
-          "publishedOn": "2025-04-23T10:01:04.000Z",
-          "wordCount": 33512,
-          "title": "Apple and Meta fined millions for breaching EU law",
-          "imageUrl": "https://media.zenfs.com/en/reuters.ca/bd75faa16bace33a8b6d11ce684d49cd"
-        },
-        {
-          "id": "https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/",
-          "publishedOn": "2025-04-23T06:42:31.000Z",
-          "wordCount": 4234,
-          "title": "Beer on Board in the Age of Sail (2017)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/godotengine/godot/pull/105628",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/godotengine/godot/pull/105628",
-          "publishedOn": "2025-04-23T03:37:05.000Z",
-          "wordCount": 5389,
-          "title": "Native visionOS platform support",
-          "imageUrl": "https://opengraph.githubassets.com/c2f43290128711880ea96fdb8dcae8f3a25bf29046546ca30fc179162cda85a2/godotengine/godot/pull/105628"
-        },
-        {
-          "id": "https://cacm.acm.org/news/the-outlook-for-programmers/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cacm.acm.org/news/the-outlook-for-programmers/",
-          "publishedOn": "2025-04-23T02:13:40.000Z",
-          "wordCount": 3241,
-          "title": "The Outlook for Programmers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jonathanalland.com/old-osx-projects.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jonathanalland.com/old-osx-projects.html",
-          "publishedOn": "2025-04-23T01:42:28.000Z",
-          "wordCount": 1066,
-          "title": "Projects for Old OS X",
-          "imageUrl": null
-        },
-        {
-          "id": "https://meaning-machine.streamlit.app/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://meaning-machine.streamlit.app/",
-          "publishedOn": "2025-04-22T22:55:09.000Z",
-          "wordCount": null,
-          "title": "Meaning Machine – Visualize how LLMs break down and simulate meaning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/autokitteh/autokitteh",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/autokitteh/autokitteh",
-          "publishedOn": "2025-04-22T22:41:08.000Z",
-          "wordCount": 2549,
-          "title": "Show HN: Durable Python Workflows",
-          "imageUrl": "https://opengraph.githubassets.com/48a22fbbb7bfe1433c1361c4c5138347620c83438fa0820f4cba8db9996b2dfd/autokitteh/autokitteh"
-        },
-        {
-          "id": "https://eb43.github.io/articles/fast-charging-technologies-in-detail.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eb43.github.io/articles/fast-charging-technologies-in-detail.html",
-          "publishedOn": "2025-04-22T22:00:36.000Z",
-          "wordCount": 3331,
-          "title": "How to quickly charge your smartphone: fast charging technologies in detail",
-          "imageUrl": null
-        },
-        {
-          "id": "https://csshell.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://csshell.com/",
-          "publishedOn": "2025-04-22T21:58:50.000Z",
-          "wordCount": 23,
-          "title": "CSS Hell",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer",
-          "publishedOn": "2025-04-22T21:00:48.000Z",
-          "wordCount": 1127,
-          "title": "Onyx (YC W24) Is Hiring for ML Engineer",
-          "imageUrl": "/images/original/missing.png"
-        },
-        {
-          "id": "https://blog.atuin.sh/atuin-desktop-runbooks-that-run/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.atuin.sh/atuin-desktop-runbooks-that-run/",
-          "publishedOn": "2025-04-22T20:54:52.000Z",
-          "wordCount": 1084,
-          "title": "Atuin Desktop: Runbooks That Run",
-          "imageUrl": "https://blog.atuin.sh/content/images/size/w1200/2025/04/Screenshot-from-Photopea-1.png"
-        },
-        {
-          "id": "https://obsolescence.dev/index.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://obsolescence.dev/index.html",
-          "publishedOn": "2025-04-22T20:16:04.000Z",
-          "wordCount": 1014,
-          "title": "Classic Computer Replicas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lanl.gov/media/publications/1663/1269-earl-lawrence-ai",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.lanl.gov/media/publications/1663/1269-earl-lawrence-ai",
-          "publishedOn": "2025-04-22T19:02:04.000Z",
-          "wordCount": null,
-          "title": "Can a single AI model advance any field of science?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/",
-          "publishedOn": "2025-04-22T18:47:05.000Z",
-          "wordCount": 1484,
-          "title": "How long does it take to create a new habit? (2015)",
-          "imageUrl": "https://thelogicaloptimist.com/wp-content/uploads/2015/10/myth.jpg"
-        },
-        {
-          "id": "https://github.com/alexykn/sapphire",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/alexykn/sapphire",
-          "publishedOn": "2025-04-22T18:39:20.000Z",
-          "wordCount": 2289,
-          "title": "Sapphire: Rust based package manager for macOS (Homebrew replacement)",
-          "imageUrl": "https://opengraph.githubassets.com/2e6928c5465c864208fb28573861dae548b089cb69c0d42f97e28755273b7eb5/alexykn/sapphire"
-        },
-        {
-          "id": "https://www.biographic.com/ping-youve-got-whale/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.biographic.com/ping-youve-got-whale/",
-          "publishedOn": "2025-04-22T18:28:20.000Z",
-          "wordCount": 2429,
-          "title": "Ping, You've Got Whale: AI detection system alerts ships of whales in their path",
-          "imageUrl": "https://www.biographic.com/wp-content/uploads/2025/03/header-whale-strike-prevention.jpg"
-        },
-        {
-          "id": "https://phys.org/news/2025-04-complex-story-domestic-cats-tunisia.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2025-04-complex-story-domestic-cats-tunisia.html",
-          "publishedOn": "2025-04-22T18:07:32.000Z",
-          "wordCount": 2374,
-          "title": "The complex origin story of domestic cats",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2025/domestic-cat.jpg"
-        },
-        {
-          "id": "https://pi.website/blog/pi05",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pi.website/blog/pi05",
-          "publishedOn": "2025-04-22T17:29:31.000Z",
-          "wordCount": 9502,
-          "title": "π0.5: A VLA with open-world generalization",
-          "imageUrl": "https://physicalintelligence.company/images/pi05/og.png"
-        },
-        {
-          "id": "https://alexshtf.github.io/2024/01/21/Bernstein.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://alexshtf.github.io/2024/01/21/Bernstein.html",
-          "publishedOn": "2025-04-22T16:49:55.000Z",
-          "wordCount": 2684,
-          "title": "Are polynomial features the root of all evil? (2024)",
-          "imageUrl": "https://alexshtf.github.io/assets/polyfit_bern_100_reg5em4.png"
-        },
-        {
-          "id": "https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too",
-          "publishedOn": "2025-04-22T16:46:19.000Z",
-          "wordCount": null,
-          "title": "I should have loved biology too",
-          "imageUrl": null
         }
       ]
     },
@@ -9229,6 +9254,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/living-world/2025/seed-banking-to-preserve-rare-plants",
+          "author": "Katarina Zimmer",
+          "description": "To safeguard threatened plants, science must unravel the hidden biology of often-persnickety seeds as they age, sleep and awaken",
+          "link": "https://knowablemagazine.org/content/article/living-world/2025/seed-banking-to-preserve-rare-plants",
+          "publishedOn": "2025-05-23T04:38:36.936Z",
+          "wordCount": 7530,
+          "title": "The surprisingly tricky art of seed banking",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/wild-seed-germination-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/wild-seed-germination-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/food-environment/2025/how-farmers-can-help-save-migrating-water-loving-birds",
           "author": "Lela Nargi",
@@ -9528,36 +9568,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/eye-disorders-heat-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/society/2025/increasing-access-to-shared-transportation",
-          "author": "Kaja Šeruga",
-          "description": "Carshares, bikeshares and the like are a positive for the environment, though access to them isn’t equal. What can be done to give everyone more transportation options?",
-          "link": "https://knowablemagazine.org/content/article/society/2025/increasing-access-to-shared-transportation",
-          "publishedOn": "2025-04-23T04:38:11.275Z",
-          "wordCount": 4023,
-          "title": "Shared mobility: Making travel easier for all",
-          "enclosure": {
-            "type": "image/png",
-            "url": "https://knowablemagazine.org/docserver/fulltext/shared-mobility-500x288.png",
-            "length": "121023"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/shared-mobility-500x288.png"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/living-world/2025/meet-the-capuchin-monkey",
-          "author": "Tim Vernimmen",
-          "description": "UCLA’s Susan Perry has devoted decades to studying the fast-motion life of these New World primates and learning how the young acquire the skills they need to thrive",
-          "link": "https://knowablemagazine.org/content/article/living-world/2025/meet-the-capuchin-monkey",
-          "publishedOn": "2025-04-23T04:38:11.239Z",
-          "wordCount": 5898,
-          "title": "Meet the capuchin monkey: Curious, creative and vengeful",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/capuchin-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/capuchin-500x288.jpg"
         }
       ]
     },
@@ -9681,16 +9691,6 @@
           "publishedOn": "2025-05-04T07:00:00.000Z",
           "wordCount": 12609,
           "title": "The Ultimate Google Shopping Guide for 2025: How It Works - Shopify",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ0FVX3lxTE94N19LS1lJMXYyOE5LdDF6VFZEcWVwU3dWR2dOMWZYYUxoeFNISGt5bFgzWklwTGROa3l3TjMxWVhkMG12TVUyVVNnWnUwaWF6b0tjeEVtbTBXMk04TjVnRFJwaVJobzQ",
-          "author": null,
-          "description": "Internet Traffic from Mobile Devices (Feb 2025)  Exploding Topics",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94N19LS1lJMXYyOE5LdDF6VFZEcWVwU3dWR2dOMWZYYUxoeFNISGt5bFgzWklwTGROa3l3TjMxWVhkMG12TVUyVVNnWnUwaWF6b0tjeEVtbTBXMk04TjVnRFJwaVJobzQ?oc=5",
-          "publishedOn": "2025-04-23T07:00:00.000Z",
-          "wordCount": 12556,
-          "title": "Internet Traffic from Mobile Devices (Feb 2025) - Exploding Topics",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
