@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386750",
+          "author": "Andy Clarke",
+          "description": "So, how can you take dialogue box design beyond the generic look of frameworks and templates? How can you style them to reflect a brand’s visual identity and help to tell its stories? Here’s how I do it in CSS using ::backdrop, backdrop-filter, and animations.\nGetting Creative With HTML Dialog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-html-dialog/",
+          "publishedOn": "2025-06-03T14:39:04.000Z",
+          "wordCount": 2980,
+          "title": "Getting Creative With HTML Dialog",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/s_EE59C5A105545DD153C51E60D867441DC316D04D9E44A41B5CC2A0033D85A746_1747693352461_2025-05-17-3.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=386673",
           "author": "Temani Afif",
           "description": "This is the second part of a series that dives deep into the CSS shape() command, continuing with a more detailed look at the arc command.\nBetter CSS Shapes Using shape() — Part 2: More on Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -145,16 +155,6 @@
           "wordCount": 1849,
           "title": "GSAP is Now Completely Free, Even for Commercial Use!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-05-at-3.27.23%E2%80%AFPM-scaled.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385733",
-          "author": "Kevin Hamer",
-          "description": "Using scroll shadows, especially for mobile devices, is a subtle bit of UX that Chris has covered before. Geoff covered a newer approach that uses the animation-timeline property. Here’s yet another way.\nModern Scroll Shadows Using Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/modern-scroll-shadows-using-scroll-driven-animations/",
-          "publishedOn": "2025-05-05T13:01:43.000Z",
-          "wordCount": 2235,
-          "title": "Modern Scroll Shadows Using Scroll-Driven Animations",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/scroll-shadows-table.jpg"
         }
       ]
     },
@@ -163,6 +163,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
+          "author": "hello@smashingmagazine.com (Nikita Samutin)",
+          "description": "Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.",
+          "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
+          "publishedOn": "2025-06-03T14:00:00.000Z",
+          "wordCount": 4957,
+          "title": "Why Designers Get Stuck In The Details And How To Stop",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/06/designing-for-neurodiversity/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -372,21 +387,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "When was the last time your project wrapped up smoothly — no delays, no surprises, no last-minute compromises? In reality, most UX projects drift as timelines slip, budgets stretch, and features morph. How do we get better at navigating the chaos? An upcoming part of How To Measure UX and Design Impact by yours truly.",
-          "link": "https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/",
-          "publishedOn": "2025-05-05T10:00:00.000Z",
-          "wordCount": 4410,
-          "title": "How To Launch Big Complex Projects",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-launch-big-complex-projects/how-launch-big-complex-projects.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-launch-big-complex-projects/how-launch-big-complex-projects.jpg"
         }
       ]
     },
@@ -395,6 +395,276 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://merlin.allaboutbirds.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://merlin.allaboutbirds.org/",
+          "publishedOn": "2025-06-04T02:58:40.000Z",
+          "wordCount": 1393,
+          "title": "Merlin Bird ID",
+          "imageUrl": "https://merlin.allaboutbirds.org/wp-content/uploads/2020/03/Frame-12.png"
+        },
+        {
+          "id": "https://wordle.chengeric.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wordle.chengeric.com/",
+          "publishedOn": "2025-06-04T02:57:11.000Z",
+          "wordCount": 50,
+          "title": "Binary Wordle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://diffx.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://diffx.org/",
+          "publishedOn": "2025-06-04T02:38:46.000Z",
+          "wordCount": 1430,
+          "title": "DiffX – Next-Generation Extensible Diff Format",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=19ae5Mq2lJE",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=19ae5Mq2lJE",
+          "publishedOn": "2025-06-04T02:36:34.000Z",
+          "wordCount": null,
+          "title": "Why is PS3 emulation so fast: RPCS3 optimizations explained [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://barrelfish.org/publications/TN-000-Overview.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://barrelfish.org/publications/TN-000-Overview.pdf",
+          "publishedOn": "2025-06-04T02:16:21.000Z",
+          "wordCount": 7438,
+          "title": "Barrelfish OS Architecture Overview (2013) [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=44176514",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=44176514",
+          "publishedOn": "2025-06-04T01:47:26.000Z",
+          "wordCount": 385,
+          "title": "Ask HN: Has anybody built search on top of Anna's Archive?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://staysaasy.com/management/2025/06/02/your-manager-is-not-your-best-friend.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://staysaasy.com/management/2025/06/02/your-manager-is-not-your-best-friend.html",
+          "publishedOn": "2025-06-04T01:29:59.000Z",
+          "wordCount": 1455,
+          "title": "Your Manager Is Not Your Best Friend",
+          "imageUrl": "https://staysaasy.com/assets/template/stay-saasy-black-ogimage.jpeg"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer",
+          "publishedOn": "2025-06-04T01:00:27.000Z",
+          "wordCount": 705,
+          "title": "Patched (YC S24) Is Hiring SWEs in Singapore",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/",
+          "publishedOn": "2025-06-03T23:42:38.000Z",
+          "wordCount": 2142,
+          "title": "Meta pauses mobile port tracking tech on Android after researchers cry foul",
+          "imageUrl": "https://regmedia.co.uk/2019/04/30/zuck-private.jpg"
+        },
+        {
+          "id": "https://www.pnas.org/doi/10.1073/pnas.2416433122",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pnas.org/doi/10.1073/pnas.2416433122",
+          "publishedOn": "2025-06-03T23:37:04.000Z",
+          "wordCount": null,
+          "title": "Brain aging shows nonlinear transitions, suggesting a midlife \"critical window\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.preciousplastic.com//news/problems-in-precious-plastic",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.preciousplastic.com//news/problems-in-precious-plastic",
+          "publishedOn": "2025-06-03T23:11:25.000Z",
+          "wordCount": 3239,
+          "title": "Precious Plastic is in trouble",
+          "imageUrl": "https://cdn.prod.website-files.com/5e004b03e5da773c54823bfb/673fa8bb671bebd39224838b_next%20options1.jpg"
+        },
+        {
+          "id": "https://www.durham.ac.uk/departments/academic/physics/news/new-study-casts-doubt-on-the-likelihood-of-milky-way-collision-with-andromeda/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.durham.ac.uk/departments/academic/physics/news/new-study-casts-doubt-on-the-likelihood-of-milky-way-collision-with-andromeda/",
+          "publishedOn": "2025-06-03T22:45:11.000Z",
+          "wordCount": 1277,
+          "title": "New study casts doubt on the likelihood of Milky Way collision with Andromeda",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/unvalley/ephe",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/unvalley/ephe",
+          "publishedOn": "2025-06-03T22:41:33.000Z",
+          "wordCount": 753,
+          "title": "Show HN: Ephe – A minimalist open-source Markdown paper for today",
+          "imageUrl": "https://repository-images.githubusercontent.com/948841811/1fb1b811-8997-4a7b-b4d1-c36fe32ac4c2"
+        },
+        {
+          "id": "https://austinhenley.com/blog/coord2state.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://austinhenley.com/blog/coord2state.html",
+          "publishedOn": "2025-06-03T22:13:01.000Z",
+          "wordCount": 1455,
+          "title": "Mapping latitude and longitude to country, state, or city",
+          "imageUrl": "https://austinhenley.com/blog/images/stateborders.png"
+        },
+        {
+          "id": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html",
+          "publishedOn": "2025-06-03T21:31:56.000Z",
+          "wordCount": 2625,
+          "title": "Deep learning gets the glory, deep fact checking gets ignored",
+          "imageUrl": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/tsac-ycio.jpeg"
+        },
+        {
+          "id": "https://richardcsuwandi.github.io/blog/2025/dgm/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://richardcsuwandi.github.io/blog/2025/dgm/",
+          "publishedOn": "2025-06-03T21:19:32.000Z",
+          "wordCount": 2569,
+          "title": "A deep dive into self-improving AI and the Darwin-Gödel Machine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/neon443/AirAP",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/neon443/AirAP",
+          "publishedOn": "2025-06-03T20:12:33.000Z",
+          "wordCount": 1406,
+          "title": "Show HN: AirAP AirPlay server - AirPlay to an iOS Device",
+          "imageUrl": "https://opengraph.githubassets.com/210322da619be2de9d36121e1355ea2c811bbf24ccf14fc6c33be3d772ff2479/neon443/AirAP"
+        },
+        {
+          "id": "https://clarkesworldmagazine.com/liptak_06_25/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://clarkesworldmagazine.com/liptak_06_25/",
+          "publishedOn": "2025-06-03T19:43:30.000Z",
+          "wordCount": 3406,
+          "title": "Destination: Jupiter",
+          "imageUrl": "https://clarkesworldmagazine.com/covers/cw_225_800.jpg?3"
+        },
+        {
+          "id": "https://github.com/dineshgowda24/alfred-gcp-workflow",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/dineshgowda24/alfred-gcp-workflow",
+          "publishedOn": "2025-06-03T19:25:57.000Z",
+          "wordCount": 3780,
+          "title": "Show HN: An Alfred workflow to open GCP services and browse resources within",
+          "imageUrl": "https://opengraph.githubassets.com/9a348d72d823cc090bae3dab203705832e011c5d64f8603940ad4b5e24037766/dineshgowda24/alfred-gcp-workflow"
+        },
+        {
+          "id": "https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa",
+          "publishedOn": "2025-06-03T18:56:55.000Z",
+          "wordCount": 16054,
+          "title": "When the sun dies, could life survive on the Jupiter ocean moon Europa?",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/ZBXGYsoAPcsEup6kd2TecX.jpg"
+        },
+        {
+          "id": "https://seclists.org/fulldisclosure/2025/Jun/2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://seclists.org/fulldisclosure/2025/Jun/2",
+          "publishedOn": "2025-06-03T18:39:29.000Z",
+          "wordCount": 240,
+          "title": "CVE-2024-47081: Netrc credential leak in PSF requests library",
+          "imageUrl": "https://seclists.org/images/fulldisclosure-img.png"
+        },
+        {
+          "id": "https://jacobian.org/2025/jun/3/changing-directions/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jacobian.org/2025/jun/3/changing-directions/",
+          "publishedOn": "2025-06-03T17:49:25.000Z",
+          "wordCount": 1032,
+          "title": "Changing Directions",
+          "imageUrl": "https://jacobian.org/cards/changing-directions.png"
+        },
+        {
+          "id": "https://github.com/lingodotdev/lingo.dev",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/lingodotdev/lingo.dev",
+          "publishedOn": "2025-06-03T17:27:32.000Z",
+          "wordCount": 1894,
+          "title": "Show HN: Localize React apps without rewriting code",
+          "imageUrl": "https://opengraph.githubassets.com/ff548b1ba5fe02bf2abc673fb0e7b102e0b1354498d0d68bc3e1ca2c6215979f/lingodotdev/lingo.dev"
+        },
+        {
+          "id": "https://go.dev/blog/error-syntax",
+          "author": null,
+          "description": "Comments",
+          "link": "https://go.dev/blog/error-syntax",
+          "publishedOn": "2025-06-03T16:18:45.000Z",
+          "wordCount": 2968,
+          "title": "(On | No) Syntactic Support for Error Handling",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.inotherwords.app/linguabase/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.inotherwords.app/linguabase/",
+          "publishedOn": "2025-06-03T15:14:52.000Z",
+          "wordCount": 7778,
+          "title": "The Small World of English",
+          "imageUrl": null
+        },
+        {
+          "id": "https://localmess.github.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://localmess.github.io/",
+          "publishedOn": "2025-06-03T12:12:28.000Z",
+          "wordCount": 4120,
+          "title": "Covert Web-to-App Tracking via Localhost on Android",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/iamgio/quarkdown",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/iamgio/quarkdown",
+          "publishedOn": "2025-06-03T08:06:28.000Z",
+          "wordCount": 5027,
+          "title": "Quarkdown: A modern Markdown-based typesetting system",
+          "imageUrl": "https://repository-images.githubusercontent.com/750550657/039ae946-fcb4-49f9-9190-1859ac4aafc2"
+        },
         {
           "id": "https://resobscura.substack.com/p/ai-makes-the-humanities-more-important",
           "author": null,
@@ -1034,6 +1304,36 @@
           "wordCount": 872,
           "title": "My five-year experiment with UTC",
           "imageUrl": "https://timestripe.com/magazine/images/covers/timezone_cover.jpg"
+        },
+        {
+          "id": "https://www.millersbookreview.com/p/reading-as-help-for-living",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.millersbookreview.com/p/reading-as-help-for-living",
+          "publishedOn": "2025-05-31T12:49:59.000Z",
+          "wordCount": 6274,
+          "title": "Bookish Diversions: Reading as Help for Living",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f0da0ae-238c-4566-bdf2-f44f1c334a97_1080x771.jpeg"
+        },
+        {
+          "id": "https://standardcompletions.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://standardcompletions.org/",
+          "publishedOn": "2025-05-31T12:00:40.000Z",
+          "wordCount": 437,
+          "title": "Standard Completions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/",
+          "publishedOn": "2025-05-31T10:06:16.000Z",
+          "wordCount": 3084,
+          "title": "Consider Knitting",
+          "imageUrl": null
         },
         {
           "id": "https://lambdacreate.com/posts/68",
@@ -8754,276 +9054,6 @@
           "wordCount": 491,
           "title": "Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL",
           "imageUrl": "/images/og_image.jpg"
-        },
-        {
-          "id": "https://github.com/Klavis-AI/klavis",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Klavis-AI/klavis",
-          "publishedOn": "2025-05-05T15:52:37.000Z",
-          "wordCount": 2691,
-          "title": "Show HN: Klavis AI – Open-source MCP integration for AI applications",
-          "imageUrl": "https://opengraph.githubassets.com/f034e18b7263f318f8c611d08e99dc447581077c4e36c62d4c8976320810e371/Klavis-AI/klavis"
-        },
-        {
-          "id": "https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/",
-          "publishedOn": "2025-05-05T15:34:56.000Z",
-          "wordCount": 3739,
-          "title": "Dimension 126 Contains Twisted Shapes, Mathematicians Prove",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/KervaireConjecture-crKristinaArmitage-Social.jpg"
-        },
-        {
-          "id": "https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html",
-          "publishedOn": "2025-05-05T15:33:57.000Z",
-          "wordCount": 566,
-          "title": "How are cyber criminals rolling in 2025?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://vectorvfs.readthedocs.io/en/latest/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://vectorvfs.readthedocs.io/en/latest/",
-          "publishedOn": "2025-05-05T15:17:33.000Z",
-          "wordCount": 304,
-          "title": "Show HN: VectorVFS, your filesystem as a vector database",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.afterbabel.com/p/on-the-death-of-daydreaming",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.afterbabel.com/p/on-the-death-of-daydreaming",
-          "publishedOn": "2025-05-05T12:22:10.000Z",
-          "wordCount": 8725,
-          "title": "The Death of Daydreaming",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc045dcff-c182-4cc1-b063-23afb0578a5a_3840x2160.jpeg"
-        },
-        {
-          "id": "https://den.dev/blog/pihole/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://den.dev/blog/pihole/",
-          "publishedOn": "2025-05-05T12:06:11.000Z",
-          "wordCount": 1797,
-          "title": "The Beauty of Having a Pi-Hole (2024)",
-          "imageUrl": "https://assets.den.dev/images/postmedia/pihole/header.jpg"
-        },
-        {
-          "id": "https://longform.asmartbear.com/purgatory/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://longform.asmartbear.com/purgatory/",
-          "publishedOn": "2025-05-05T11:23:59.000Z",
-          "wordCount": 3315,
-          "title": "Product Purgatory: When they love it but still don't buy",
-          "imageUrl": "https://longform.asmartbear.com/purgatory/thumbnail-1200w.jpg"
-        },
-        {
-          "id": "https://bjango.com/articles/daftpunkvocaleffects/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bjango.com/articles/daftpunkvocaleffects/",
-          "publishedOn": "2025-05-05T10:48:21.000Z",
-          "wordCount": 4104,
-          "title": "The vocal effects of Daft Punk",
-          "imageUrl": "https://bjango.com/images/site-icons/bjango-cover.png"
-        },
-        {
-          "id": "https://bou.ke/blog/chromium-bug/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bou.ke/blog/chromium-bug/",
-          "publishedOn": "2025-05-05T10:44:51.000Z",
-          "wordCount": 719,
-          "title": "Finding a Bug in Chromium",
-          "imageUrl": null
-        },
-        {
-          "id": "https://deborahwrites.com/blog/docs-like-code-basic-intro/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://deborahwrites.com/blog/docs-like-code-basic-intro/",
-          "publishedOn": "2025-05-05T10:22:01.000Z",
-          "wordCount": 3569,
-          "title": "Docs like code in basic terms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cip.ifi.lmu.de/~grinberg/t/20f/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cip.ifi.lmu.de/~grinberg/t/20f/",
-          "publishedOn": "2025-05-05T08:05:35.000Z",
-          "wordCount": 1068,
-          "title": "Mathematical Problem Solving",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ductape.app/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ductape.app/",
-          "publishedOn": "2025-05-05T08:04:23.000Z",
-          "wordCount": 308,
-          "title": "Show HN: Ductape – Build back end integrations once, reuse them anywhere",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/jart/sectorlisp",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/jart/sectorlisp",
-          "publishedOn": "2025-05-05T07:52:26.000Z",
-          "wordCount": 1793,
-          "title": "Bootstrapping Lisp in a Boot Sector",
-          "imageUrl": "https://opengraph.githubassets.com/aa6a982ee5fe8ee129f6f442a44e12fe0d995cfff225c7f69a38db79e1812597/jart/sectorlisp"
-        },
-        {
-          "id": "https://ai.jakegaylor.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ai.jakegaylor.com/",
-          "publishedOn": "2025-05-05T01:44:09.000Z",
-          "wordCount": 11376,
-          "title": "Show HN: My AI Native Resume",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arxiv.org/abs/2503.23817",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2503.23817",
-          "publishedOn": "2025-05-04T23:35:30.000Z",
-          "wordCount": 792,
-          "title": "Matrix-vector multiplication implemented in off-the-shelf DRAM for Low-Bit LLMs",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera",
-          "publishedOn": "2025-05-04T23:32:21.000Z",
-          "wordCount": 1318,
-          "title": "On Not Carrying a Camera – Cultivating memories instead of snapshots",
-          "imageUrl": "https://s3.amazonaws.com/hedgehogreview-prod/images/efe56474ac1099e32daa2396114613f7.1500.jpg"
-        },
-        {
-          "id": "http://www.scitechantiques.com/belldiscovery/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.scitechantiques.com/belldiscovery/",
-          "publishedOn": "2025-05-04T22:24:56.000Z",
-          "wordCount": 1221,
-          "title": "Bell's 1881 Metal detector",
-          "imageUrl": null
-        },
-        {
-          "id": "https://owentrueblood.com/blog/2025/05/04/helmdar/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://owentrueblood.com/blog/2025/05/04/helmdar/",
-          "publishedOn": "2025-05-04T21:49:40.000Z",
-          "wordCount": 2838,
-          "title": "Helmdar: 3D Scanning Brooklyn on Rollerblades",
-          "imageUrl": null
-        },
-        {
-          "id": "https://victoriametrics.com/blog/go-graceful-shutdown/index.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://victoriametrics.com/blog/go-graceful-shutdown/index.html",
-          "publishedOn": "2025-05-04T21:09:16.000Z",
-          "wordCount": 3015,
-          "title": "Graceful Shutdown in Go: Practical Patterns",
-          "imageUrl": "https://victoriametrics.com/blog/go-graceful-shutdown/preview.webp"
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering",
-          "publishedOn": "2025-05-04T21:01:11.000Z",
-          "wordCount": 1167,
-          "title": "KaiPod Learning (YC S21) Is Hiring VP of Engineering",
-          "imageUrl": "/images/original/missing.png"
-        },
-        {
-          "id": "https://claytonwramsey.com/blog/prompt/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://claytonwramsey.com/blog/prompt/",
-          "publishedOn": "2025-05-04T19:17:28.000Z",
-          "wordCount": 2020,
-          "title": "I'd rather read the prompt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theballotboy.com/electing-the-doge",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theballotboy.com/electing-the-doge",
-          "publishedOn": "2025-05-04T19:14:44.000Z",
-          "wordCount": 699,
-          "title": "The complicated business of electing a Doge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/",
-          "publishedOn": "2025-05-04T17:55:27.000Z",
-          "wordCount": 6172,
-          "title": "Orders of Infinity",
-          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1746419710"
-        },
-        {
-          "id": "https://printserver.ink/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://printserver.ink/",
-          "publishedOn": "2025-05-04T17:43:00.000Z",
-          "wordCount": 1424,
-          "title": "Show HN: Driverless print server for legacy printers, profit goes to open-source",
-          "imageUrl": "https://printserver.ink/pics/og-pic-fs8.png"
-        },
-        {
-          "id": "https://blog.rahix.de/design-for-3d-printing/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.rahix.de/design-for-3d-printing/",
-          "publishedOn": "2025-05-04T17:38:13.000Z",
-          "wordCount": 13868,
-          "title": "Design for 3D-Printing",
-          "imageUrl": "https://blog.rahix.de/processed_images/title.442c0e34c5b36f29.jpg"
-        },
-        {
-          "id": "https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img",
-          "author": null,
-          "description": "Comments",
-          "link": "https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img",
-          "publishedOn": "2025-05-04T17:19:14.000Z",
-          "wordCount": 517,
-          "title": "A cycle-accurate IBM PC emulator in your web browser",
-          "imageUrl": "https://martypc.net/assets/marty_logo_about_twitter.png"
-        },
-        {
-          "id": "https://alhassy.com/TypedLisp.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://alhassy.com/TypedLisp.html",
-          "publishedOn": "2025-05-04T17:17:35.000Z",
-          "wordCount": 9386,
-          "title": "Typed Lisp, a Primer",
-          "imageUrl": null
         }
       ]
     },
@@ -9373,51 +9403,6 @@
             "length": "770099"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/history-electron-500x288.gif"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/mind/2025/interjections-important-for-conversation-flow",
-          "author": "Bob Holmes",
-          "description": "Utterances like um, wow and mm-hmm aren’t garbage — they keep conversations flowing",
-          "link": "https://knowablemagazine.org/content/article/mind/2025/interjections-important-for-conversation-flow",
-          "publishedOn": "2025-05-05T04:38:43.800Z",
-          "wordCount": 4013,
-          "title": "Huh? The valuable role of interjections",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/interjections-linguistics-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/interjections-linguistics-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/health-disease/2025/pig-organs-in-people-the-future-of-cross-species-transplants",
-          "author": "Amber Dance",
-          "description": "Can genetically modified animals help ease the shortage of organs? After years of research into xenotransplantation, the field is at a turning point — yet risks and ethical issues remain.",
-          "link": "https://knowablemagazine.org/content/article/health-disease/2025/pig-organs-in-people-the-future-of-cross-species-transplants",
-          "publishedOn": "2025-05-05T04:38:42.361Z",
-          "wordCount": 4073,
-          "title": "Pig organs in people: The future of cross-species transplants",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/xenotransplantation-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/xenotransplantation-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/mind/2025/importance-of-interjections-in-speech-podcast",
-          "author": "Adam Levy",
-          "description": "PODCAST: Turns out, the best listener isn't quiet, as our host learns in a chat with two linguists. All those ums, ohs and mm-hmms have unexpected value.",
-          "link": "https://knowablemagazine.org/content/article/mind/2025/importance-of-interjections-in-speech-podcast",
-          "publishedOn": "2025-05-05T04:38:42.346Z",
-          "wordCount": 5516,
-          "title": "Speech interjections aren’t throwaway lines",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/interjections-linguistics-pod2-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/interjections-linguistics-pod2-500x288.jpg"
         }
       ]
     },
@@ -9426,6 +9411,16 @@
       "feedUrl": "http://livingthing.danmackinlay.name/feeds/all.atom.xml",
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
+        {
+          "id": "https://danmackinlay.name/notebook/nn_fractal.html",
+          "author": null,
+          "description": "Figure 1\n\n\n\nThe LLC of singular learning theory is closely connected to the fractal dimension (!); See Watanabe (2022) and upcoming work from Zach Furman.\nThey are not the only ones to have noticed fractal-like-behaviour in loss surfaces, although I suspect that not all the senses in which fractal-like-behaviour is used are the same; Figure 2 finds fractals in a transformer residual stream for example.\n\n\n\nFigure 2: From Adam Shai and Paul Riechers (see the presentation) (Shai et al. 2025)\n\n\n\nTolga Birdal: Topological Complexity Measures as Proxies for Generalization in Neural Networks\nMore loss landscape management here (Andreeva et al. 2024; Hennick and Baerdemacker 2025; Ly and Gong 2025; Şimşekli et al. 2021).\nEstimation theory for fractal qualities from empirical samples is notoriously…",
+          "link": "https://danmackinlay.name/notebook/nn_fractal.html",
+          "publishedOn": "2025-06-03T07:00:54.000Z",
+          "wordCount": 2109,
+          "title": "Fractal dimension of loss landscapes and self similar behaviour in neural networks",
+          "imageUrl": "https://danmackinlay.name/images/thornly_tree_RP-P-1898-A-19832.thumbnail.avif"
+        },
         {
           "id": "https://danmackinlay.name/notebook/nn_bridge_processes.html",
           "author": null,
@@ -9445,16 +9440,6 @@
           "wordCount": 2158,
           "title": "Commitment, contracts, cooperation",
           "imageUrl": "https://danmackinlay.name/images/flame_smite_RP-P-OB-45.823.thumbnail.avif"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/bayesian_epistemics.html",
-          "author": null,
-          "description": "Figure 1\n\n\n\nAn interesting inverse design question: how should I design a system to optimise for truthfulness? Brief summary here.\n@Frongillo2024Recent:\nThis note provides a survey for the Economics and Computation community of some recent trends in the field of information elicitation. At its core, the field concerns the design of incentives for strategic agents to provide accurate and truthful information. Such incentives are formalized as proper scoring rules, and turn out to be the same object as loss functions in machine-learning settings, providing many connections. More broadly, the field concerns the design of mechanisms to obtain information from groups of agents and aggregate it or use it for decision making. Recently, work on information elicitation has expanded and been connected to online no-regret learning, mechanism design, fair division, and more.\nOne of many topics on which I am not an expert but find it useful to track. This one is more useful than many to track because the scientific literature on this area is opaque and the popular stuff is of highly variable quality, e.g. the rationalists like to talk off-handedly about prediction markets but every time I try to chase that concept down I find myself deep in a lesswrong.org rabbit hole and become discouraged.\nI am currently reading, and strongly recommend, Chapter 2 of @Neyman2024Algorithmic which is a well-written introduction to many of the concepts in this area. In particular, it explains beautifully the connection between Bregman divergences and proper scoring rules, and incentive mechanisms for truthfulness. Potential applications to epistemic communities, prediction markets etc are immediate.",
-          "link": "https://danmackinlay.name/notebook/bayesian_epistemics.html",
-          "publishedOn": "2025-05-05T06:46:44.000Z",
-          "wordCount": 1971,
-          "title": "Bayesian epistemics",
-          "imageUrl": "https://danmackinlay.name/images/arguing_astrologers.thumbnail.avif"
         }
       ]
     },
