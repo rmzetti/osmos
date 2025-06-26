@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387215",
+          "author": "Daniel Schwarz",
+          "description": "The CSS if() function enables us to use values conditionally, which we can already do with queries and other functions, so I’m sure you’re wondering: What exactly does if() do? Let's look at a possible real-world use case.\nPoking at the CSS if() Function a Little More: Conditional Color Theming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/poking-at-the-css-if-function-a-little-more-conditional-color-theming/",
+          "publishedOn": "2025-06-25T14:33:45.000Z",
+          "wordCount": 2961,
+          "title": "Poking at the CSS if() Function a Little More: Conditional Color Theming",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/if-conditional-thumbnail.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=387422",
           "author": "Sunkanmi Fafowora",
           "description": "The CSS if() function was recently implemented in Chrome 137, making it the first instance where we have it supported by a mainstream browser. Let's poke at it a bit at a very high level.\nLightly Poking at the CSS if() Function in Chrome 137 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -140,16 +150,6 @@
           "wordCount": 3821,
           "title": "Better CSS Shapes Using shape() — Part 2: More on Arcs",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/shape-fuinction-featured.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386654",
-          "author": "Daniel Schwarz",
-          "description": "The reading-flow and reading-order proposed CSS properties are designed to specify the source order of HTML elements in the DOM tree, or in simpler terms, how accessibility tools deduce the order of elements. You’d use them to make the focus order of focusable elements match the visual order, as outlined in the Web Content Accessibility Guidelines (WCAG 2.2).\nWhat We Know (So Far) About CSS Reading Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/what-we-know-so-far-about-css-reading-order/",
-          "publishedOn": "2025-05-27T13:02:32.000Z",
-          "wordCount": 2997,
-          "title": "What We Know (So Far) About CSS Reading Order",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/books-code.png"
         }
       ]
     },
@@ -158,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "description": "As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.",
+          "link": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
+          "publishedOn": "2025-06-25T12:00:00.000Z",
+          "wordCount": 4787,
+          "title": "Can Good UX Protect Older Users From Digital Scams?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
           "author": "hello@smashingmagazine.com (Myriam Frisano)",
@@ -337,21 +352,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/reliably-detecting-third-party-cookie-blocking-2025/reliably-detecting-third-party-cookie-blocking-2025.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/data-vs-findings-vs-insights-ux/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "What’s the difference between data, findings, and UX insights? And how do you argue for statistical significance in your UX research? Let’s unpack it.",
-          "link": "https://smashingmagazine.com/2025/05/data-vs-findings-vs-insights-ux/",
-          "publishedOn": "2025-05-27T13:00:00.000Z",
-          "wordCount": 3771,
-          "title": "Data Vs. Findings Vs. Insights In UX",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/data-vs-findings-vs-insights-ux/data-vs-findings-vs-insights-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/data-vs-findings-vs-insights-ux/data-vs-findings-vs-insights-ux.jpg"
         }
       ]
     },
@@ -360,6 +360,246 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://spectrum.ieee.org/puerto-rico-solar-microgrids",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/puerto-rico-solar-microgrids",
+          "publishedOn": "2025-06-25T23:41:16.000Z",
+          "wordCount": 10759,
+          "title": "Puerto Rico's Solar Microgrids Beat Blackout",
+          "imageUrl": "https://spectrum.ieee.org/media-library/image.jpg?id=60352965&width=1200&height=600&coordinates=0%2C184%2C0%2C308"
+        },
+        {
+          "id": "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048",
+          "publishedOn": "2025-06-25T23:26:55.000Z",
+          "wordCount": 2359,
+          "title": "Define policy forbidding use of AI code generators",
+          "imageUrl": "https://opengraph.githubassets.com/3e42b624d7d1bc246b824f1cc500ec5c7f586cdf00a5dfead96c5de3e988f6c8/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048"
+        },
+        {
+          "id": "https://www.alexkesin.com/p/the-hollow-men-of-hims",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.alexkesin.com/p/the-hollow-men-of-hims",
+          "publishedOn": "2025-06-25T22:59:23.000Z",
+          "wordCount": 8573,
+          "title": "The Hollow Men of Hims",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!iLoB!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23a83298-b69c-4e8c-a12f-ddee32fbfbd4_934x444.png"
+        },
+        {
+          "id": "https://karimsayedre.github.io/RTIOW.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://karimsayedre.github.io/RTIOW.html",
+          "publishedOn": "2025-06-25T21:42:38.000Z",
+          "wordCount": 9736,
+          "title": "CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey",
+          "imageUrl": "https://karimsayedre.github.io/images/RTIOW/2560x1440_50depth_3000samples_3400ms.png"
+        },
+        {
+          "id": "https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks",
+          "publishedOn": "2025-06-25T20:08:26.000Z",
+          "wordCount": 7866,
+          "title": "Microsoft Dependency Has Risks",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!kK2x!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85b0f172-b392-446a-bbee-7263f7a36835_1080x810.jpeg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/",
+          "publishedOn": "2025-06-25T20:01:07.000Z",
+          "wordCount": 3343,
+          "title": "A new pyramid-like shape always lands the same side up",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Tetrafun_cr-Gabor-Domokos-Social.jpg"
+        },
+        {
+          "id": "https://www.folklore.org/Negative_2000_Lines_Of_Code.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.folklore.org/Negative_2000_Lines_Of_Code.html",
+          "publishedOn": "2025-06-25T19:53:13.000Z",
+          "wordCount": 586,
+          "title": "-2000 Lines of code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theoffline-club.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theoffline-club.com/",
+          "publishedOn": "2025-06-25T19:42:57.000Z",
+          "wordCount": 1379,
+          "title": "The Offline Club",
+          "imageUrl": "https://cdn.prod.website-files.com/673360c2c63fcd2ba7e1da38/6739bd30ebf91b07fc513db9_opengraph_toc_2.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/gaming/2025/06/games-run-faster-on-steamos-than-windows-11-ars-testing-finds/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/gaming/2025/06/games-run-faster-on-steamos-than-windows-11-ars-testing-finds/",
+          "publishedOn": "2025-06-25T19:40:10.000Z",
+          "wordCount": 2693,
+          "title": "Games run faster on SteamOS than Windows 11, Ars testing finds",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/steamos-vs-windows11-1152x648.jpg"
+        },
+        {
+          "id": "https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/",
+          "publishedOn": "2025-06-25T19:36:55.000Z",
+          "wordCount": 4862,
+          "title": "Libxml2's \"no security embargoes\" policy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/",
+          "publishedOn": "2025-06-25T18:07:02.000Z",
+          "wordCount": 3158,
+          "title": "Better Auth, by a self-taught Ethiopian dev, raises $5M from Peak XV, YC",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/06/77ec5a23-4831-435d-959d-9c37180896e5.jpeg?resize=1200,811"
+        },
+        {
+          "id": "https://lmstudio.ai/blog/lmstudio-v0.3.17",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lmstudio.ai/blog/lmstudio-v0.3.17",
+          "publishedOn": "2025-06-25T17:27:35.000Z",
+          "wordCount": 3533,
+          "title": "LM Studio is now an MCP Host",
+          "imageUrl": "https://files.lmstudio.ai/mcp-og-card.png"
+        },
+        {
+          "id": "https://www.anthropic.com/news/claude-powered-artifacts",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anthropic.com/news/claude-powered-artifacts",
+          "publishedOn": "2025-06-25T17:14:35.000Z",
+          "wordCount": 4321,
+          "title": "Build and Host AI-Powered Apps with Claude – No Deployment Needed",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/a2e48ddcf10b6ae10651463cc59e60855d37525a-2400x1260.png"
+        },
+        {
+          "id": "https://www.theatlantic.com/ideas/archive/2025/06/prisoner-populations-are-plummeting/683310/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theatlantic.com/ideas/archive/2025/06/prisoner-populations-are-plummeting/683310/",
+          "publishedOn": "2025-06-25T17:14:29.000Z",
+          "wordCount": 3708,
+          "title": "America’s incarceration rate is in decline",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/95nWsO0KC5sviJUou43lCExrYrc=/193x629:4865x3062/1200x625/media/img/mt/2025/06/06_25_2025_Prison_Population_2/original.jpg"
+        },
+        {
+          "id": "http://genius.cat-v.org/richard-feynman/writtings/letters/problems",
+          "author": null,
+          "description": "Comments",
+          "link": "http://genius.cat-v.org/richard-feynman/writtings/letters/problems",
+          "publishedOn": "2025-06-25T17:08:44.000Z",
+          "wordCount": 762,
+          "title": "What Problems to Solve (1966)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/furtherai/jobs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/furtherai/jobs",
+          "publishedOn": "2025-06-25T17:00:41.000Z",
+          "wordCount": 470,
+          "title": "FurtherAI (YC W24) Is Hiring for Software and AI Roles",
+          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/12b70c29e98b1b7604e2cf44b2070604ba152abb.png?1747151875"
+        },
+        {
+          "id": "https://www.centauri-dreams.org/2025/06/25/interstellar-flight-perspectives-and-patience/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.centauri-dreams.org/2025/06/25/interstellar-flight-perspectives-and-patience/",
+          "publishedOn": "2025-06-25T16:35:56.000Z",
+          "wordCount": 7682,
+          "title": "Interstellar Flight: Perspectives and Patience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/n0-computer/iroh",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/n0-computer/iroh",
+          "publishedOn": "2025-06-25T16:34:51.000Z",
+          "wordCount": 3696,
+          "title": "Iroh: A library to establish direct connection between peers",
+          "imageUrl": "https://opengraph.githubassets.com/364ed90bca6fbec9c71cd609a8a807d81dd52bcfb0d75f795495c85b2cc58817/n0-computer/iroh"
+        },
+        {
+          "id": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
+          "author": null,
+          "description": "Comments",
+          "link": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
+          "publishedOn": "2025-06-25T16:21:45.000Z",
+          "wordCount": 2644,
+          "title": "Getting ready to issue IP address certificates",
+          "imageUrl": "https://global.discourse-cdn.com/letsencrypt/original/3X/4/c/4c5760509a18adfc3bc657ba8bd49b301faaa66b.png"
+        },
+        {
+          "id": "https://turtleware.eu/static/paste/wecl-test-gl/main.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://turtleware.eu/static/paste/wecl-test-gl/main.html",
+          "publishedOn": "2025-06-25T15:33:20.000Z",
+          "wordCount": 6,
+          "title": "Web Embeddable Common Lisp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://research.roundtable.ai/proof-of-human/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://research.roundtable.ai/proof-of-human/",
+          "publishedOn": "2025-06-25T15:00:00.000Z",
+          "wordCount": 6509,
+          "title": "Bot or human? Creating an invisible Turing test for the internet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut",
+          "author": null,
+          "description": "Comments",
+          "link": "https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut",
+          "publishedOn": "2025-06-25T14:05:13.000Z",
+          "wordCount": null,
+          "title": "Is Lovable getting monetization wrong?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
+          "publishedOn": "2025-06-25T13:17:25.000Z",
+          "wordCount": 2187,
+          "title": "OpenAI charges by the minute, so speed up your audio",
+          "imageUrl": "https://georgemandis.s3-us-west-1.amazonaws.com/preview.png"
+        },
+        {
+          "id": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
+          "publishedOn": "2025-06-25T13:10:46.000Z",
+          "wordCount": 4674,
+          "title": "Gemini CLI",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_CLI_Hero_Final.width-1300.png"
+        },
         {
           "id": "https://www.theclimatebrink.com/p/how-renewables-are-saving-texans",
           "author": null,
@@ -581,6 +821,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.programmax.net/articles/png-is-back/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.programmax.net/articles/png-is-back/",
+          "publishedOn": "2025-06-24T13:01:17.000Z",
+          "wordCount": 885,
+          "title": "A new PNG spec",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/useautumn/autumn",
           "author": null,
           "description": "Comments",
@@ -701,6 +951,16 @@
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2185905668-1152x648.jpg"
         },
         {
+          "id": "https://ambient.garden/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ambient.garden/",
+          "publishedOn": "2025-06-23T17:38:08.000Z",
+          "wordCount": 31,
+          "title": "Ambient Garden",
+          "imageUrl": "https://ambient.garden/vF/img/sharecard-main.png"
+        },
+        {
           "id": "https://github.com/astral-sh/uv",
           "author": null,
           "description": "Comments",
@@ -779,6 +1039,16 @@
           "wordCount": null,
           "title": "Backyard Coffee and Jazz in Kyoto",
           "imageUrl": null
+        },
+        {
+          "id": "https://go-monk.beehiiv.com/p/error-handling",
+          "author": null,
+          "description": "Comments",
+          "link": "https://go-monk.beehiiv.com/p/error-handling",
+          "publishedOn": "2025-06-23T12:16:30.000Z",
+          "wordCount": 10167,
+          "title": "Introduction to error handling strategies in Go",
+          "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0f5eaf86-c137-4850-90b8-4e61313ccc90/1_CfkM7Oynjih8c8PTLRd5hA.png?t=1750673391"
         },
         {
           "id": "https://techcrunch.com/2025/06/22/tesla-launches-robotaxi-rides-in-austin-with-big-promises-and-unanswered-questions/",
@@ -879,6 +1149,16 @@
           "wordCount": 608,
           "title": "Hawaii Highways",
           "imageUrl": null
+        },
+        {
+          "id": "https://origamiusa.org/thefold/article/art-hanakami-or-flower-petal-folding",
+          "author": null,
+          "description": "Comments",
+          "link": "https://origamiusa.org/thefold/article/art-hanakami-or-flower-petal-folding",
+          "publishedOn": "2025-06-22T22:00:00.000Z",
+          "wordCount": 3677,
+          "title": "The Art of Hanakami, or Flower-Petal Folding",
+          "imageUrl": "https://origamiusa.org/files/thefold/thefold088_butterfly_gingko_lai_thumb.jpg"
         },
         {
           "id": "https://radio.garden/?2025",
@@ -1001,6 +1281,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/interactive/2025/06/19/science/rubin-observatory-camera.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/interactive/2025/06/19/science/rubin-observatory-camera.html",
+          "publishedOn": "2025-06-22T14:53:59.000Z",
+          "wordCount": 13038,
+          "title": "Earths largest camera:3B pixel images",
+          "imageUrl": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-19-rubin-observatory-index/2025-06-19-rubin-observatory-index-facebookJumbo.jpg"
+        },
+        {
           "id": "https://jacobfilipp.com/boat/",
           "author": null,
           "description": "Comments",
@@ -1009,6 +1299,16 @@
           "wordCount": 3337,
           "title": "Canal Boat Simulator",
           "imageUrl": null
+        },
+        {
+          "id": "https://crescentro.se/posts/writing-drivers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://crescentro.se/posts/writing-drivers/",
+          "publishedOn": "2025-06-22T10:29:42.000Z",
+          "wordCount": 3290,
+          "title": "Writing a basic Linux device driver when you know nothing about Linux drivers",
+          "imageUrl": "https://crescentro.se/posts/writing-drivers/preview.png"
         },
         {
           "id": "https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/",
@@ -8469,346 +8769,6 @@
           "wordCount": 8147,
           "title": "Car Physics for Games (2003)",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44108206",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=44108206",
-          "publishedOn": "2025-05-27T15:59:20.000Z",
-          "wordCount": 3343,
-          "title": "Launch HN: Relace (YC W23) – Models for fast and reliable codegen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ironicsans.ghost.io/why-is-everybody-knitting-chickens/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ironicsans.ghost.io/why-is-everybody-knitting-chickens/",
-          "publishedOn": "2025-05-27T15:52:49.000Z",
-          "wordCount": 1261,
-          "title": "Why Is Everybody Knitting Chickens?",
-          "imageUrl": "https://ironicsans.ghost.io/content/images/size/w1200/2025/05/ive-made-a-flock-of-emotional-support-chickens-v0-binec3qlzsyc1.jpg"
-        },
-        {
-          "id": "https://aaronson.org/blog/square-theory",
-          "author": null,
-          "description": "Comments",
-          "link": "https://aaronson.org/blog/square-theory",
-          "publishedOn": "2025-05-27T15:33:55.000Z",
-          "wordCount": 2686,
-          "title": "Square Theory",
-          "imageUrl": "https://aaronson.org/assets/images/square-theory.png"
-        },
-        {
-          "id": "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/",
-          "publishedOn": "2025-05-27T15:01:55.000Z",
-          "wordCount": 3814,
-          "title": "Pyrefly vs. Ty: Comparing Python's two new Rust-based type checkers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst",
-          "author": null,
-          "description": "Comments",
-          "link": "https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst",
-          "publishedOn": "2025-05-27T11:52:13.000Z",
-          "wordCount": null,
-          "title": "Dr John C. Clark, a scientist who disarmed atomic bombs twice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting",
-          "publishedOn": "2025-05-27T11:46:30.000Z",
-          "wordCount": 4367,
-          "title": "How a hawk learned to use traffic signals to hunt more successfully",
-          "imageUrl": "https://images.ctfassets.net/mrbo2ykgx5lt/2BngtKIXLF0Ua93HkvlZo0/100e0cb34aa7a8d3085eb572d82ea38b/Screenshot_2025-05-08_092315.png?&w=1200&h=630&fm=jpg&f=center"
-        },
-        {
-          "id": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident",
-          "publishedOn": "2025-05-27T11:15:15.000Z",
-          "wordCount": 1027,
-          "title": "BGP handling bug causes widespread internet routing instability",
-          "imageUrl": "https://blog.benjojo.co.uk/asset/gAEiHjtyBa"
-        },
-        {
-          "id": "https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each",
-          "author": null,
-          "description": "Comments",
-          "link": "https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each",
-          "publishedOn": "2025-05-27T11:06:10.000Z",
-          "wordCount": null,
-          "title": "Making C and Python Talk to Each Other",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lumosql.org/src/lumosql/doc/trunk/README.md",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lumosql.org/src/lumosql/doc/trunk/README.md",
-          "publishedOn": "2025-05-27T10:39:30.000Z",
-          "wordCount": 4925,
-          "title": "LumoSQL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bombe.virtualcolossus.co.uk/bombe/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bombe.virtualcolossus.co.uk/bombe/",
-          "publishedOn": "2025-05-27T06:26:46.000Z",
-          "wordCount": null,
-          "title": "3D Simulation of the Bombe Machine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kaurpalang.com/posts/invading-the-sauna/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kaurpalang.com/posts/invading-the-sauna/",
-          "publishedOn": "2025-05-27T04:18:18.000Z",
-          "wordCount": 5091,
-          "title": "Invading the Huum Uku WiFi Controller",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lazytetris.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lazytetris.com/",
-          "publishedOn": "2025-05-27T03:58:07.000Z",
-          "wordCount": 37,
-          "title": "Show HN: Lazy Tetris",
-          "imageUrl": "/favicon.ico"
-        },
-        {
-          "id": "https://www.news.com.au/national/south-australia/noisy-ugly-planetdestroying-temple-adelaide-locals-revolt-over-tesla-plan/news-story/87a1a6f5092cdde39c40fe26a231f830",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.news.com.au/national/south-australia/noisy-ugly-planetdestroying-temple-adelaide-locals-revolt-over-tesla-plan/news-story/87a1a6f5092cdde39c40fe26a231f830",
-          "publishedOn": "2025-05-27T03:31:03.000Z",
-          "wordCount": 2728,
-          "title": "'Noisy, ugly, planet-destroying temple': Australian locals on Tesla factory",
-          "imageUrl": "https://content.api.news/v3/images/bin/f146e239203ea676107cef9ffbbf2efb"
-        },
-        {
-          "id": "https://arxiv.org/abs/2505.20047",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2505.20047",
-          "publishedOn": "2025-05-27T02:27:19.000Z",
-          "wordCount": 746,
-          "title": "Grammars of Formal Uncertainty",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://www.runandgrow.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.runandgrow.com/",
-          "publishedOn": "2025-05-27T02:25:38.000Z",
-          "wordCount": 336,
-          "title": "Show HN: I made a running app that turns your runs to a virtual garden",
-          "imageUrl": "https://runandgrow-waitlist.vercel.app/preview.webp"
-        },
-        {
-          "id": "https://github.com/jedisct1/yes-rs",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/jedisct1/yes-rs",
-          "publishedOn": "2025-05-27T01:20:29.000Z",
-          "wordCount": 2164,
-          "title": "Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command",
-          "imageUrl": "https://opengraph.githubassets.com/fedc3916781adf6fb682338aa4270064185c139a63b5e97cf6408476f1ce4106/jedisct1/yes-rs"
-        },
-        {
-          "id": "https://stalw.art/blog/collaboration/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://stalw.art/blog/collaboration/",
-          "publishedOn": "2025-05-27T01:11:04.000Z",
-          "wordCount": 749,
-          "title": "Calendars, Contacts and Files in Stalwart",
-          "imageUrl": "https://stalw.art/img/stalwart-social-card.jpg"
-        },
-        {
-          "id": "https://www.forester-notes.org/index/index.xml",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.forester-notes.org/index/index.xml",
-          "publishedOn": "2025-05-27T01:00:57.000Z",
-          "wordCount": null,
-          "title": "Forester, a tool for scientific and mathematical hypertexts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/",
-          "publishedOn": "2025-05-27T00:52:43.000Z",
-          "wordCount": 3783,
-          "title": "FromSoft's singular mech game Chromehounds is back online",
-          "imageUrl": "https://www.readonlymemo.com/content/images/2025/05/chromehounds-cover.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/how-did-geometry-create-modern-physics-20250515/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/how-did-geometry-create-modern-physics-20250515/",
-          "publishedOn": "2025-05-27T00:33:44.000Z",
-          "wordCount": 9616,
-          "title": "How did geometry create modern physics?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/JOW-S3E5-AI-language-Social-LOGO.jpg"
-        },
-        {
-          "id": "https://invariantlabs.ai/blog/mcp-github-vulnerability",
-          "author": null,
-          "description": "Comments",
-          "link": "https://invariantlabs.ai/blog/mcp-github-vulnerability",
-          "publishedOn": "2025-05-26T22:53:51.000Z",
-          "wordCount": 1637,
-          "title": "Accessing private GitHub repositories via MCP",
-          "imageUrl": "https://invariantlabs.ai/blog/mcp-github-vulnerability.png"
-        },
-        {
-          "id": "https://www.gwintrob.com/power-failure-review/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gwintrob.com/power-failure-review/",
-          "publishedOn": "2025-05-26T21:54:01.000Z",
-          "wordCount": 1501,
-          "title": "Power Failure",
-          "imageUrl": "https://www.gwintrob.com/content/images/size/w1200/2025/05/edison.png"
-        },
-        {
-          "id": "https://byroot.github.io/ruby/performance/2025/05/24/unlocking-ractors-class-variables.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://byroot.github.io/ruby/performance/2025/05/24/unlocking-ractors-class-variables.html",
-          "publishedOn": "2025-05-26T21:49:48.000Z",
-          "wordCount": 4272,
-          "title": "Unlocking Ractors: class instance variables in Ruby",
-          "imageUrl": null
-        },
-        {
-          "id": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
-          "publishedOn": "2025-05-26T21:25:56.000Z",
-          "wordCount": 5795,
-          "title": "Highlights from the Claude 4 system prompt",
-          "imageUrl": "https://static.simonwillison.net/static/2025/opus-sonnet-diff.jpg"
-        },
-        {
-          "id": "https://github.com/FlyGoat/csmwrap",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/FlyGoat/csmwrap",
-          "publishedOn": "2025-05-26T21:25:09.000Z",
-          "wordCount": 2371,
-          "title": "Get PC BIOS back on UEFI only system",
-          "imageUrl": "https://opengraph.githubassets.com/396037ee769ac7761e54c0430d9842dd18603715cd513c69b99f1d4bf36d446a/FlyGoat/csmwrap"
-        },
-        {
-          "id": "http://www.iron-spring.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.iron-spring.com/",
-          "publishedOn": "2025-05-26T21:19:18.000Z",
-          "wordCount": 129,
-          "title": "Iron Spring PL/I Compiler",
-          "imageUrl": null
-        },
-        {
-          "id": "https://owlsintowels.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://owlsintowels.org/",
-          "publishedOn": "2025-05-26T20:27:59.000Z",
-          "wordCount": 1493,
-          "title": "Owls in Towels",
-          "imageUrl": null
-        },
-        {
-          "id": "https://velzie.rip/blog/celeste-wasm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://velzie.rip/blog/celeste-wasm",
-          "publishedOn": "2025-05-26T20:06:25.000Z",
-          "wordCount": 4342,
-          "title": "Porting Terraria and Celeste to the Browser with WebAssembly",
-          "imageUrl": null
-        },
-        {
-          "id": "https://danq.me/2025/05/26/downloading-vs-streaming/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://danq.me/2025/05/26/downloading-vs-streaming/",
-          "publishedOn": "2025-05-26T19:56:02.000Z",
-          "wordCount": 3367,
-          "title": "The Difference Between Downloading and Streaming",
-          "imageUrl": "https://danq.me/_q23-og/26049/0.png"
-        },
-        {
-          "id": "https://www.solarshades.club/p/dispatch-from-the-trenches-of-the",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.solarshades.club/p/dispatch-from-the-trenches-of-the",
-          "publishedOn": "2025-05-26T19:20:19.000Z",
-          "wordCount": 7878,
-          "title": "Trying to teach in the age of the AI homework machine",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde63320e-16b0-4351-a920-afbca4650558_3213x3024.jpeg"
-        },
-        {
-          "id": "https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md",
-          "publishedOn": "2025-05-26T18:32:02.000Z",
-          "wordCount": 3276,
-          "title": "Lossless video compression using Bloom filters",
-          "imageUrl": "https://opengraph.githubassets.com/68779ed3af217de943d3cdd028d0a0029aba68c9726757fa8e4ef9b051bbc7eb/ross39/new_bloom_filter_repo"
-        },
-        {
-          "id": "https://benjaminaster.com/css-minecraft/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://benjaminaster.com/css-minecraft/",
-          "publishedOn": "2025-05-26T18:28:43.000Z",
-          "wordCount": 85,
-          "title": "CSS Minecraft",
-          "imageUrl": "https://benjaminaster.com/css-minecraft/assets/screenshot.png"
-        },
-        {
-          "id": "https://spectrum.ieee.org/microled-optical-chiplet",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spectrum.ieee.org/microled-optical-chiplet",
-          "publishedOn": "2025-05-26T17:15:19.000Z",
-          "wordCount": 10433,
-          "title": "TSMC bets on unorthodox optical tech",
-          "imageUrl": "https://spectrum.ieee.org/media-library/image.jpg?id=60308063&width=1200&height=600&coordinates=0%2C390%2C0%2C1110"
-        },
-        {
-          "id": "https://github.com/pgdogdev/pgdog",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/pgdogdev/pgdog",
-          "publishedOn": "2025-05-26T16:55:49.000Z",
-          "wordCount": 5204,
-          "title": "Show HN: PgDog – Shard Postgres without extensions",
-          "imageUrl": "https://opengraph.githubassets.com/99c9e41455984d388a1a73f19cfe73b0cec402ac29401b7ef195d4fc687c5078/pgdogdev/pgdog"
         }
       ]
     },
@@ -9315,6 +9275,16 @@
       "feedUrl": "https://errantscience.com/feed/",
       "siteUrl": "https://errantscience.com",
       "articles": [
+        {
+          "id": "https://errantscience.com/?p=20693",
+          "author": "Matthew (@MCeeP)",
+          "description": "Lab H&S woes got you down? Meet wishcycling and wishassessing. Wishcycling or hoping non-recyclables magically become recyclable, and wishassessing or downplaying the risk and hoping for the best. Dive into our latest blog post to explore these concepts and their lab H&S implications.",
+          "link": "https://errantscience.com/blog/2025/06/25/wishassessing-the-new-trend-is-lab-hs/",
+          "publishedOn": "2025-06-25T11:00:00.000Z",
+          "wordCount": 11848,
+          "title": "Wishassessing: The new trend is lab H&S",
+          "imageUrl": "https://errantscience.com/wp-content/uploads/20250121_-_Wishassesing.png"
+        },
         {
           "id": "https://errantscience.com/?p=20765",
           "author": "Matthew (@MCeeP)",
