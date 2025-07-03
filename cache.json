@@ -170,16 +170,6 @@
           "wordCount": 1880,
           "title": "The State of CSS 2025 Survey is out!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/state_of_css_2025.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386750",
-          "author": "Andy Clarke",
-          "description": "So, how can you take dialogue box design beyond the generic look of frameworks and templates? How can you style them to reflect a brand’s visual identity and help to tell its stories? Here’s how I do it in CSS using ::backdrop, backdrop-filter, and animations.\nGetting Creative With HTML Dialog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-creative-with-html-dialog/",
-          "publishedOn": "2025-06-03T14:39:04.000Z",
-          "wordCount": 2980,
-          "title": "Getting Creative With HTML Dialog",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/s_EE59C5A105545DD153C51E60D867441DC316D04D9E44A41B5CC2A0033D85A746_1747693352461_2025-05-17-3.webp"
         }
       ]
     },
@@ -188,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
+          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
+          "description": "CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.",
+          "link": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
+          "publishedOn": "2025-07-02T13:00:00.000Z",
+          "wordCount": 5887,
+          "title": "CSS Intelligence: Speculating On The Future Of A Smarter Language",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-intelligence-speculating-future-smarter-language/css-intelligence-speculating-future-smarter-language.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-intelligence-speculating-future-smarter-language/css-intelligence-speculating-future-smarter-language.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/07/turning-user-research-into-organizational-change/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
@@ -352,21 +357,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
-          "author": "hello@smashingmagazine.com (Nikita Samutin)",
-          "description": "Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.",
-          "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
-          "publishedOn": "2025-06-03T14:00:00.000Z",
-          "wordCount": 4957,
-          "title": "Why Designers Get Stuck In The Details And How To Stop",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg"
         }
       ]
     },
@@ -375,6 +365,206 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/",
+          "publishedOn": "2025-07-03T01:45:27.000Z",
+          "wordCount": 1020,
+          "title": "The Uncertain Future of Coding Careers and Why I'm Still Hopeful",
+          "imageUrl": "https://jonmagic.com/images/avatars/jonmagic-2023-01-18.webp"
+        },
+        {
+          "id": "https://www.jamesbayroad.com/ttr/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jamesbayroad.com/ttr/index.html",
+          "publishedOn": "2025-07-03T01:07:04.000Z",
+          "wordCount": 768,
+          "title": "Trans-Taiga Road:The farthest you can get from a town on a road in North America",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/s41586-025-09195-5",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41586-025-09195-5",
+          "publishedOn": "2025-07-03T00:24:46.000Z",
+          "wordCount": 15413,
+          "title": "Whole-genome ancestry of an Old Kingdom Egyptian",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09195-5/MediaObjects/41586_2025_9195_Fig1_HTML.png"
+        },
+        {
+          "id": "https://github.com/c4pt0r/gmailtail",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/c4pt0r/gmailtail",
+          "publishedOn": "2025-07-03T00:06:16.000Z",
+          "wordCount": 7549,
+          "title": "Gmailtail – Command-line tool to monitor Gmail messages and output them as JSON",
+          "imageUrl": "https://opengraph.githubassets.com/24397059dbfd3e983d222e26992d7135bfd60b3bfc66b8de939c94fb9ca8dea6/c4pt0r/gmailtail"
+        },
+        {
+          "id": "https://decodingml.substack.com/p/stop-building-ai-agents",
+          "author": null,
+          "description": "Comments",
+          "link": "https://decodingml.substack.com/p/stop-building-ai-agents",
+          "publishedOn": "2025-07-03T00:02:43.000Z",
+          "wordCount": null,
+          "title": "What to build instead of AI agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702/",
+          "publishedOn": "2025-07-02T21:18:32.000Z",
+          "wordCount": 3621,
+          "title": "Physicists Start to Pin Down How Stars Forge Heavy Atoms",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/HeavyElementNucleosynthesis-crMarkBelan-Social.jpg"
+        },
+        {
+          "id": "https://apnews.com/article/climate-change-national-assessment-nasa-white-house-057cec699caef90832d8b10f21a6ffe8",
+          "author": null,
+          "description": "Comments",
+          "link": "https://apnews.com/article/climate-change-national-assessment-nasa-white-house-057cec699caef90832d8b10f21a6ffe8",
+          "publishedOn": "2025-07-02T21:10:13.000Z",
+          "wordCount": null,
+          "title": "Websites hosting major US climate reports taken down",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.jidonline.org/article/S0022-202X(25)00416-6/fulltext",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jidonline.org/article/S0022-202X(25)00416-6/fulltext",
+          "publishedOn": "2025-07-02T20:28:39.000Z",
+          "wordCount": null,
+          "title": "Vitamin C Boosts Epidermal Growth via DNA Demethylation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/",
+          "publishedOn": "2025-07-02T18:34:42.000Z",
+          "wordCount": 3108,
+          "title": "A Higgs-Bugson in the Linux Kernel",
+          "imageUrl": "https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/prod_vs_test.apng"
+        },
+        {
+          "id": "https://couchers.org/blog/2025/07/01/releasing-couchers-v1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://couchers.org/blog/2025/07/01/releasing-couchers-v1",
+          "publishedOn": "2025-07-02T18:05:20.000Z",
+          "wordCount": 8136,
+          "title": "Couchers is officially out of beta",
+          "imageUrl": "https://couchers.org/img/share.jpg"
+        },
+        {
+          "id": "https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/",
+          "publishedOn": "2025-07-02T18:05:17.000Z",
+          "wordCount": null,
+          "title": "AI note takers are flooding Zoom calls as workers opt to skip meetings",
+          "imageUrl": null
+        },
+        {
+          "id": "https://job-boards.greenhouse.io/mindsdb/jobs/4770283007",
+          "author": null,
+          "description": "Comments",
+          "link": "https://job-boards.greenhouse.io/mindsdb/jobs/4770283007",
+          "publishedOn": "2025-07-02T17:29:55.000Z",
+          "wordCount": 1548,
+          "title": "MindsDB (YC W20) is hiring an AI solutions engineer",
+          "imageUrl": "https://s7-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/273/100/original/MindsDB_Logo_-_Vertical_-_Light_Mode.jpg?1750527045"
+        },
+        {
+          "id": "https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/",
+          "publishedOn": "2025-07-02T16:45:28.000Z",
+          "wordCount": 2501,
+          "title": "Features of D That I Love",
+          "imageUrl": null
+        },
+        {
+          "id": "https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/",
+          "publishedOn": "2025-07-02T16:10:46.000Z",
+          "wordCount": null,
+          "title": "Sony's Mark Cerny Has Worked on \"Big Chunks of RDNA 5\" with AMD",
+          "imageUrl": null
+        },
+        {
+          "id": "https://glass3d.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://glass3d.dev/",
+          "publishedOn": "2025-07-02T15:51:03.000Z",
+          "wordCount": 33,
+          "title": "Show HN: CSS generator for a high-def glass effect",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients",
+          "publishedOn": "2025-07-02T15:03:09.000Z",
+          "wordCount": 1458,
+          "title": "Gene therapy restored hearing in deaf patients",
+          "imageUrl": "https://news.ki.se/sites/nyheter/files/qbank/GettyImages1442100368_custom20250625145243.webp"
+        },
+        {
+          "id": "https://blog.mgdproductions.com/ikko-activebuds/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.mgdproductions.com/ikko-activebuds/",
+          "publishedOn": "2025-07-02T14:06:43.000Z",
+          "wordCount": 2484,
+          "title": "Exploiting the IKKO Activebuds “AI powered” earbuds (2024)",
+          "imageUrl": "https://blog.mgdproductions.com/content/images/2024/10/IMG_3221-1-2.jpg"
+        },
+        {
+          "id": "https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html",
+          "publishedOn": "2025-07-02T13:40:33.000Z",
+          "wordCount": 26966,
+          "title": "Private sector lost 33k jobs, badly missing expectations of 100k increase",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108138827-1746203264391-108138827-1746032489603-gettyimages-2212774223-jr_18835_uzd1yntc.jpeg?v=1746205217&w=1920&h=1080"
+        },
+        {
+          "id": "https://www.w3.org/QA/Tips/noClickHere",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.w3.org/QA/Tips/noClickHere",
+          "publishedOn": "2025-07-02T11:39:12.000Z",
+          "wordCount": 395,
+          "title": "Don’t use “click here” as link text (2001)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://morrick.me/archives/10068",
+          "author": null,
+          "description": "Comments",
+          "link": "https://morrick.me/archives/10068",
+          "publishedOn": "2025-07-02T08:18:22.000Z",
+          "wordCount": 4289,
+          "title": "More assorted notes on Liquid Glass",
+          "imageUrl": "https://morrick.me/wp-content/uploads/2025/06/11-macosxhig2009-1119.png"
+        },
         {
           "id": "https://arxiv.org/abs/2503.01800",
           "author": null,
@@ -536,6 +726,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/",
+          "publishedOn": "2025-07-01T14:29:32.000Z",
+          "wordCount": 18801,
+          "title": "Conversations with a Hit Man",
+          "imageUrl": "https://magazine.atavist.com/wp-content/uploads/2025/06/Confessions_Lead1_crop.jpg"
+        },
+        {
           "id": "https://arxiv.org/abs/2506.17732",
           "author": null,
           "description": "Comments",
@@ -574,6 +774,26 @@
           "wordCount": 208,
           "title": "Show HN: Jobs by Referral: Find jobs in your LinkedIn network",
           "imageUrl": null
+        },
+        {
+          "id": "https://asciimoon.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://asciimoon.com/",
+          "publishedOn": "2025-07-01T10:53:21.000Z",
+          "wordCount": 820,
+          "title": "ASCIIMoon: The moon's phase live in ASCII art",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/gritzko/librdx/blob/master/blog/escher.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/gritzko/librdx/blob/master/blog/escher.md",
+          "publishedOn": "2025-07-01T09:35:05.000Z",
+          "wordCount": 1821,
+          "title": "Escher's art and computer science",
+          "imageUrl": "https://opengraph.githubassets.com/ac432f5f021c5924747fd7c694976eaf747f4fd3c1edc61ce7f8341f830f17d7/gritzko/librdx"
         },
         {
           "id": "https://github.com/stan-smith/OpenFLOW",
@@ -706,6 +926,16 @@
           "imageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/06/24/477054.jpg?v=3.1"
         },
         {
+          "id": "https://www.cnet.com/tech/microsoft-will-delete-your-passwords-in-one-month-do-this-asap/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnet.com/tech/microsoft-will-delete-your-passwords-in-one-month-do-this-asap/",
+          "publishedOn": "2025-06-30T19:31:32.000Z",
+          "wordCount": 14289,
+          "title": "Next month, saved passwords will no longer be in Microsoft’s Authenticator app",
+          "imageUrl": "https://www.cnet.com/a/img/resize/ba6cb5d2e0fe442bbcf800c794b4ceb426632b49/hub/2025/06/18/2fdc8606-3277-40bb-9392-ebc6fe4e994b/gettyimages-1296451468.jpg?auto=webp&fit=crop&height=675&width=1200"
+        },
+        {
           "id": "https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/",
           "author": null,
           "description": "Comments",
@@ -766,6 +996,16 @@
           "imageUrl": "https://pmecdn.protonweb.com/image-transformation/?s=c&image=images%2Ff_auto%2Cq_auto%2Fv1707562428%2Fwp-pme%2FProton%2FProton.%3F_i%3DAA"
         },
         {
+          "id": "https://florian.github.io//xor-trick/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://florian.github.io//xor-trick/",
+          "publishedOn": "2025-06-30T17:32:41.000Z",
+          "wordCount": 2774,
+          "title": "That XOR Trick (2020)",
+          "imageUrl": null
+        },
+        {
           "id": "https://14.ai/careers",
           "author": null,
           "description": "Comments",
@@ -794,6 +1034,16 @@
           "wordCount": 2502,
           "title": "Donkey Kong Country 2 and Open Bus",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling",
+          "publishedOn": "2025-06-30T14:51:38.000Z",
+          "wordCount": 2488,
+          "title": "More Efficient Thermoelectric Cooling",
+          "imageUrl": "https://www.jhuapl.edu/sites/default/files/2025-05/20250521-Ice-Build-Up-CHESS-Thermoelectric-Device-16x9.jpg"
         },
         {
           "id": "https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only",
@@ -1006,6 +1256,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/",
+          "publishedOn": "2025-06-29T17:53:42.000Z",
+          "wordCount": 2759,
+          "title": "A list is a monad",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate",
           "author": null,
           "description": "Comments",
@@ -1014,6 +1274,16 @@
           "wordCount": 4965,
           "title": "Loss of key US satellite data could send hurricane forecasting back 'decades'",
           "imageUrl": "https://i.guim.co.uk/img/media/f3713d97e783b0710cc675088bec1afaa7839537/560_0_5598_4479/master/5598.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26b941ce8cdfc3f820483ae677658236"
+        },
+        {
+          "id": "https://maypok86.github.io/otter/blog/cache-evolution/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://maypok86.github.io/otter/blog/cache-evolution/",
+          "publishedOn": "2025-06-29T17:07:05.000Z",
+          "wordCount": 2607,
+          "title": "The Evolution of Caching Libraries in Go",
+          "imageUrl": null
         },
         {
           "id": "https://ksagar.bearblog.dev/vjepa/",
@@ -1086,6 +1356,16 @@
           "imageUrl": "https://nicole.express/assets/img/bikutori/title.jpeg"
         },
         {
+          "id": "https://github.com/NationalSecurityAgency/XORSATFilter",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/NationalSecurityAgency/XORSATFilter",
+          "publishedOn": "2025-06-29T14:10:57.000Z",
+          "wordCount": 3931,
+          "title": "Efficient set-membership filters and dictionaries based on SAT",
+          "imageUrl": "https://opengraph.githubassets.com/2f2141c7896f493019493b63d2c3c6c82576769ff00804a70e0ab37754be57e2/NationalSecurityAgency/XORSATFilter"
+        },
+        {
           "id": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
           "author": null,
           "description": "Comments",
@@ -1094,6 +1374,16 @@
           "wordCount": 1865,
           "title": "I made my VM think it has a CPU fan",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.friendsjournal.org/the-zen-of-quakerism/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.friendsjournal.org/the-zen-of-quakerism/",
+          "publishedOn": "2025-06-29T13:40:19.000Z",
+          "wordCount": 4913,
+          "title": "The Zen of Quakerism (2016)",
+          "imageUrl": "https://www.friendsjournal.org/wp-content/uploads/2016/01/32.jpg"
         },
         {
           "id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00723/full",
@@ -8704,216 +8994,6 @@
           "wordCount": 1894,
           "title": "Show HN: Localize React apps without rewriting code",
           "imageUrl": "https://opengraph.githubassets.com/ff548b1ba5fe02bf2abc673fb0e7b102e0b1354498d0d68bc3e1ca2c6215979f/lingodotdev/lingo.dev"
-        },
-        {
-          "id": "https://go.dev/blog/error-syntax",
-          "author": null,
-          "description": "Comments",
-          "link": "https://go.dev/blog/error-syntax",
-          "publishedOn": "2025-06-03T16:18:45.000Z",
-          "wordCount": 2968,
-          "title": "(On | No) Syntactic Support for Error Handling",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.inotherwords.app/linguabase/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.inotherwords.app/linguabase/",
-          "publishedOn": "2025-06-03T15:14:52.000Z",
-          "wordCount": 7778,
-          "title": "The Small World of English",
-          "imageUrl": null
-        },
-        {
-          "id": "https://localmess.github.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://localmess.github.io/",
-          "publishedOn": "2025-06-03T12:12:28.000Z",
-          "wordCount": 4120,
-          "title": "Covert Web-to-App Tracking via Localhost on Android",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.heise.de/en/news/Wendelstein-7-X-sets-new-fusion-record-10422955.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.heise.de/en/news/Wendelstein-7-X-sets-new-fusion-record-10422955.html",
-          "publishedOn": "2025-06-03T09:52:35.000Z",
-          "wordCount": 2373,
-          "title": "Wendelstein 7-X sets new fusion record",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/8/6/4/7/3/3/hp-cea10a36d2132e6e.jpg"
-        },
-        {
-          "id": "https://github.com/iamgio/quarkdown",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/iamgio/quarkdown",
-          "publishedOn": "2025-06-03T08:06:28.000Z",
-          "wordCount": 5027,
-          "title": "Quarkdown: A modern Markdown-based typesetting system",
-          "imageUrl": "https://repository-images.githubusercontent.com/750550657/039ae946-fcb4-49f9-9190-1859ac4aafc2"
-        },
-        {
-          "id": "https://resobscura.substack.com/p/ai-makes-the-humanities-more-important",
-          "author": null,
-          "description": "Comments",
-          "link": "https://resobscura.substack.com/p/ai-makes-the-humanities-more-important",
-          "publishedOn": "2025-06-03T03:53:20.000Z",
-          "wordCount": null,
-          "title": "AI makes the humanities more important, but also a lot weirder",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.rnz.co.nz/news/chinese/562914/it-workers-struggling-in-new-zealand-s-tight-job-market",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.rnz.co.nz/news/chinese/562914/it-workers-struggling-in-new-zealand-s-tight-job-market",
-          "publishedOn": "2025-06-03T03:38:15.000Z",
-          "wordCount": 3020,
-          "title": "IT workers struggling in New Zealand's tight job market",
-          "imageUrl": "https://media.rnztools.nz/rnz/image/upload/s--eBlzsRvF--/t_tohu-badge-facebook/v1644549793/4LXCW8A_copyright_image_285014?_a=BACCd2AD"
-        },
-        {
-          "id": "https://www.bbc.com/culture/article/20250530-how-controversial-activist-group-guerrilla-girls-blazed-a-trail-in-the-art-world",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/culture/article/20250530-how-controversial-activist-group-guerrilla-girls-blazed-a-trail-in-the-art-world",
-          "publishedOn": "2025-06-03T02:35:31.000Z",
-          "wordCount": 9688,
-          "title": "Naked billboard that shocked the establishment – blazed a trail in the art world",
-          "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0lffvjj.jpg"
-        },
-        {
-          "id": "https://culture.ghost.io/genai-is-our-polyester/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://culture.ghost.io/genai-is-our-polyester/",
-          "publishedOn": "2025-06-03T01:33:41.000Z",
-          "wordCount": 1499,
-          "title": "GenAI Is Our Polyester",
-          "imageUrl": "https://culture.ghost.io/content/images/size/w1200/2025/06/Gemini_Generated_Image_sextg1sextg1sext--1-.jpeg"
-        },
-        {
-          "id": "https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/",
-          "publishedOn": "2025-06-02T22:29:30.000Z",
-          "wordCount": 2484,
-          "title": "Largest punk archive to find new home at MTSU's Center for Popular Music",
-          "imageUrl": "https://mtsunews.com/wp-content/uploads/2025/05/maxmium-rocknroll-feature.jpg"
-        },
-        {
-          "id": "https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/",
-          "publishedOn": "2025-06-02T22:03:50.000Z",
-          "wordCount": 3857,
-          "title": "Teaching Program Verification in Dafny at Amazon (2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs",
-          "publishedOn": "2025-06-02T21:50:15.000Z",
-          "wordCount": 13861,
-          "title": "Conformance checking at MongoDB: Testing that our code matches our TLA+ specs",
-          "imageUrl": "https://webassets.mongodb.com/_com_assets/cms/Meta Image Template (9)-j83ciow8il.png"
-        },
-        {
-          "id": "https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/",
-          "publishedOn": "2025-06-02T21:44:37.000Z",
-          "wordCount": 1902,
-          "title": "Japanese scientists develop artificial blood compatible with all blood types",
-          "imageUrl": "https://www.tokyoweekender.com/wp-content/uploads/2025/06/artificial-blood.jpg"
-        },
-        {
-          "id": "https://fly.io/blog/youre-all-nuts/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fly.io/blog/youre-all-nuts/",
-          "publishedOn": "2025-06-02T21:09:53.000Z",
-          "wordCount": 3141,
-          "title": "My AI skeptic friends are all nuts",
-          "imageUrl": "https://fly.io/blog/youre-all-nuts/assets/whoah.png"
-        },
-        {
-          "id": "https://www.answer.ai/posts/2025-01-15-monsterui.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.answer.ai/posts/2025-01-15-monsterui.html",
-          "publishedOn": "2025-06-02T20:41:24.000Z",
-          "wordCount": 3059,
-          "title": "MonsterUI: Python library for building front end UIs quickly in FastHTML apps",
-          "imageUrl": "https://www.answer.ai/posts/MonsterUI/dashboard.png"
-        },
-        {
-          "id": "https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab",
-          "publishedOn": "2025-06-02T20:01:49.000Z",
-          "wordCount": null,
-          "title": "Snowflake to buy Crunchy Data for $250M",
-          "imageUrl": null
-        },
-        {
-          "id": "https://absurd.website/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://absurd.website/",
-          "publishedOn": "2025-06-02T19:52:46.000Z",
-          "wordCount": 649,
-          "title": "Show HN: I build one absurd web project every month",
-          "imageUrl": null
-        },
-        {
-          "id": "http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring",
-          "author": null,
-          "description": "Comments",
-          "link": "http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring",
-          "publishedOn": "2025-06-02T19:48:36.000Z",
-          "wordCount": 1842,
-          "title": "Typing 118 WPM broke my brain in the right ways",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.noahhw.dev/posts/cve-2025-31200/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.noahhw.dev/posts/cve-2025-31200/",
-          "publishedOn": "2025-06-02T18:58:47.000Z",
-          "wordCount": 8442,
-          "title": "CVE 2025 31200",
-          "imageUrl": "https://blog.noahhw.dev/images/share.png"
-        },
-        {
-          "id": "https://asteriskmag.com/issues/10/the-universal-tech-tree",
-          "author": null,
-          "description": "Comments",
-          "link": "https://asteriskmag.com/issues/10/the-universal-tech-tree",
-          "publishedOn": "2025-06-02T18:25:56.000Z",
-          "wordCount": 5219,
-          "title": "The Universal Tech Tree",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer",
-          "publishedOn": "2025-06-02T17:00:38.000Z",
-          "wordCount": 1017,
-          "title": "Piramidal (YC W24) Is Hiring a Senior Full Stack Engineer",
-          "imageUrl": "https://yc-workatastartup-production.s3.amazonaws.com/jobs_company_jobs/images/77025/e666f935413b940540ee152e521e93f4ef36519a.jpg?1748873249"
         }
       ]
     },
@@ -9308,21 +9388,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/xenotransplantation-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/health-disease/2025/how-climate-change-threatens-eye-health",
-          "author": "Sanket Jain",
-          "description": "Cataracts, pink eye and other ocular disorders are linked to heat, air pollution and higher UV exposure",
-          "link": "https://knowablemagazine.org/content/article/health-disease/2025/how-climate-change-threatens-eye-health",
-          "publishedOn": "2025-06-03T04:40:33.429Z",
-          "wordCount": 2950,
-          "title": "How climate change threatens eye health",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/eye-disorders-heat-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/eye-disorders-heat-500x288.jpg"
         }
       ]
     },
@@ -9370,16 +9435,6 @@
           "wordCount": 2375,
           "title": "AI persuasion, AI companionship",
           "imageUrl": "https://danmackinlay.name/generated_thumbnails/opengraph_previews/images/squeeze_face.og.jpg"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/nn_fractal.html",
-          "author": null,
-          "description": "Figure 1\n\n\n\nThe LLC of singular learning theory is closely connected to the fractal dimension (!); See Watanabe (2022) and upcoming work from Zach Furman.\nThey are not the only ones to have noticed fractal-like-behaviour in loss surfaces, although I suspect that not all the senses in which fractal-like-behaviour is used are the same; Figure 2 finds fractals in a transformer residual stream for example.\n\n\n\nFigure 2: From Adam Shai and Paul Riechers (see the presentation) (Shai et al. 2025)\n\n\n\nTolga Birdal: Topological Complexity Measures as Proxies for Generalization in Neural Networks\nMore loss landscape management here (Andreeva et al. 2024; Hennick and Baerdemacker 2025; Ly and Gong 2025; Şimşekli et al. 2021).\nEstimation theory for fractal qualities from empirical samples is notoriously…",
-          "link": "https://danmackinlay.name/notebook/nn_fractal.html",
-          "publishedOn": "2025-06-03T07:00:54.000Z",
-          "wordCount": 2109,
-          "title": "Fractal dimension of loss landscapes and self similar behaviour in neural networks",
-          "imageUrl": "https://danmackinlay.name/images/thornly_tree_RP-P-1898-A-19832.thumbnail.avif"
         }
       ]
     },
@@ -9388,6 +9443,16 @@
       "feedUrl": "http://news.google.com/news?hl=en&output=rss&q=Google+NZ+blog&cf=all&num=30",
       "siteUrl": "https://news.google.com/search?hl=en-US&q=Google+NZ+blog&cf=all&num=30&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiwgFBVV95cUxOdGlCa3psdGdIdW52d0w3TElrUUZCQjdaUGpNNVF2aGFQWlNPb1BpZDR3aXJPaFF1S3ltbWtzbEdHLTljUmpXWV9sbEZJUEJ6Y19MUzNCOFp1bTFqSEpOc08xQ1NscVp0TnJRM21UTks1VkQ1UmxXYWhGOW9sblBvbFNDbFo1cGM2bTVERHp6ektweWNRZHpRSnAzZXZneC1iOW56UVo3X2VQQUI3eElWZmN0Q3BjTUd0d2h1RWFFeERkQdIBxwFBVV95cUxNU016dzQxNVdhaF9qY2EtdThoUTNJSVBsVjdocGo2U0EwVFljcE94bUplTWtwTHlFNFRsWG8xUE5IMmtRQXNmd2pYZklxeHdiNGN4SWM3UmxoenFzam9MLUIyNThnZDdJM1l0UEk1aXdEWE9IYUFxcWdLRWVJbE1DSFlJdF9EOG5QTXZSSGYzUDY5QjF5Y092dTRCS1lVbGlvdXBfZ3ZPejlUSHFMTVNmc2Zjd2p3ZkF5TUs1YnFCTEFtaEhGSVY0",
+          "author": null,
+          "description": "How to navigate digital tools without amplifying fertility-treatment anxiety.  Psychology Today",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdGlCa3psdGdIdW52d0w3TElrUUZCQjdaUGpNNVF2aGFQWlNPb1BpZDR3aXJPaFF1S3ltbWtzbEdHLTljUmpXWV9sbEZJUEJ6Y19MUzNCOFp1bTFqSEpOc08xQ1NscVp0TnJRM21UTks1VkQ1UmxXYWhGOW9sblBvbFNDbFo1cGM2bTVERHp6ektweWNRZHpRSnAzZXZneC1iOW56UVo3X2VQQUI3eElWZmN0Q3BjTUd0d2h1RWFFeERkQdIBxwFBVV95cUxNU016dzQxNVdhaF9qY2EtdThoUTNJSVBsVjdocGo2U0EwVFljcE94bUplTWtwTHlFNFRsWG8xUE5IMmtRQXNmd2pYZklxeHdiNGN4SWM3UmxoenFzam9MLUIyNThnZDdJM1l0UEk1aXdEWE9IYUFxcWdLRWVJbE1DSFlJdF9EOG5QTXZSSGYzUDY5QjF5Y092dTRCS1lVbGlvdXBfZ3ZPejlUSHFMTVNmc2Zjd2p3ZkF5TUs1YnFCTEFtaEhGSVY0?oc=5",
+          "publishedOn": "2025-07-01T16:54:55.000Z",
+          "wordCount": 12647,
+          "title": "How to navigate digital tools without amplifying fertility-treatment anxiety. - Psychology Today",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiakFVX3lxTE1YckN4ZTJ5cEliVmRNaEpwc0g4WTBPcmRqNUhvcjlSMEEzRzJ5TDNZaW5HeHJyU1I0VXRZajV2Slg2NktXTnVSdlJ3OFNLbWdhbElIaUgyV25vU21fQ1ZMYkc4TEUwa0RLSEE",
           "author": null,
