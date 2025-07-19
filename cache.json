@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387827",
+          "author": "Andy Clarke",
+          "description": "A versal letters is a typographic flourish found in illuminated manuscripts and traditional book design, where it adds visual interest and helps guide a reader’s eye to where they should begin.\nGetting Creative With Versal Letters originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-versal-letters/",
+          "publishedOn": "2025-07-18T16:12:05.000Z",
+          "wordCount": 3148,
+          "title": "Getting Creative With Versal Letters",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/versal-featured.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=387817",
           "author": "Geoff Graham",
           "description": "Gathered notes on Liquid Glass, Apple’s new design language that was introduced at WWDC 2025. These links are a choice selection of posts and resources that I've found helpful for understanding the context of Liquid Glass, as well as techniques for recreating it in code.\nGetting Clarity on Apple’s Liquid Glass originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -150,16 +160,6 @@
           "wordCount": 3882,
           "title": "Color Everything in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/03/color-wheels.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386735",
-          "author": "Sunkanmi Fafowora",
-          "description": "CSS has a number of functions that can be used to set, translate, and manipulate colors. Learn what they are and how they are used with a bunch of examples to get you started.\nCSS Color Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-color-functions/",
-          "publishedOn": "2025-06-19T15:01:18.000Z",
-          "wordCount": 6720,
-          "title": "CSS Color Functions",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/color-functions-guide.webp"
         }
       ]
     },
@@ -168,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
+          "author": "hello@smashingmagazine.com (Oleksii Tkachenko)",
+          "description": "Ensuring your product communicates clearly to a global audience is not just about localisation. Even for products that have a proper localisation process, English often remains the default language for UI and communications. This article focuses on how you can make English content clear and inclusive for non-native users. Oleksii offers a practical guide based on his own experience as a non-native English-speaking content designer, defining the user experience for international companies.",
+          "link": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
+          "publishedOn": "2025-07-18T13:00:00.000Z",
+          "wordCount": 5109,
+          "title": "Why Non-Native Content Designers Improve Global UX",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-non-native-content-designers-improve-global-ux/why-non-native-content-designers-improve-global-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-non-native-content-designers-improve-global-ux/why-non-native-content-designers-improve-global-ux.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/07/tiny-screens-big-impact-developing-web-apps-feature-phones/",
           "author": "hello@smashingmagazine.com (Tom Barrasso)",
@@ -319,19 +334,19 @@
           "imageUrl": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
-          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
-          "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
-          "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
-          "publishedOn": "2025-06-19T15:00:00.000Z",
-          "wordCount": 5120,
-          "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
+          "id": "https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Meet “Accessible UX Research,” our upcoming book to make your UX research inclusive. Learn how to recruit, plan, and design with disabled participants in mind. Print shipping in August 2025. eBook available for download later this summer. Pre-order the book.",
+          "link": "https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/",
+          "publishedOn": "2025-06-20T16:00:00.000Z",
+          "wordCount": 3972,
+          "title": "Meet Accessible UX Research, A Brand-New Smashing Book",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
+            "url": "http://files.smashing.media/articles/accessible-ux-research-pre-release/accessible-ux-research-coming-soon-light-varnish-opt.png",
             "length": "0",
-            "type": "image/jpg"
+            "type": "image/png"
           },
-          "imageUrl": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg"
+          "imageUrl": "http://files.smashing.media/articles/accessible-ux-research-pre-release/accessible-ux-research-coming-soon-light-varnish-opt.png"
         }
       ]
     },
@@ -340,6 +355,256 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/",
+          "publishedOn": "2025-07-19T02:56:02.000Z",
+          "wordCount": 3454,
+          "title": "My Ultimate Self-Hosting Setup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/",
+          "publishedOn": "2025-07-19T02:25:50.000Z",
+          "wordCount": 1361,
+          "title": "Advertising Without Signal: The Rise of the Grifter Equilibrium",
+          "imageUrl": "https://images.unsplash.com/photo-1602333869619-f05b7f19d3c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGFkfGVufDB8fHx8MTc1MjU0NDM5MHww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "https://lore.kernel.org/all/CA+55aFy98A+LJK4+GWMcbzaa1zsPBRo76q+ioEjbx-uaMKH6Uw@mail.gmail.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lore.kernel.org/all/CA+55aFy98A+LJK4+GWMcbzaa1zsPBRo76q+ioEjbx-uaMKH6Uw@mail.gmail.com/",
+          "publishedOn": "2025-07-19T01:25:00.000Z",
+          "wordCount": 790,
+          "title": "We do not break userspace (2012)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/oven-sh/bun/pull/20440",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/oven-sh/bun/pull/20440",
+          "publishedOn": "2025-07-19T00:43:08.000Z",
+          "wordCount": 2785,
+          "title": "Bun adds pnpm-style isolated installation mode",
+          "imageUrl": "https://opengraph.githubassets.com/d0d30c099d25e75eacbd75ec7137c28b564de027c3a8201bec350268016bbb93/oven-sh/bun/pull/20440"
+        },
+        {
+          "id": "https://www.macintoshrepository.org/44146-mr-browser",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.macintoshrepository.org/44146-mr-browser",
+          "publishedOn": "2025-07-19T00:20:48.000Z",
+          "wordCount": 6834,
+          "title": "Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs",
+          "imageUrl": "https://www.macintoshrepository.org/img/logo.png"
+        },
+        {
+          "id": "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/",
+          "publishedOn": "2025-07-19T00:04:31.000Z",
+          "wordCount": 1421,
+          "title": "Debcraft – Easiest way to modify and build Debian packages",
+          "imageUrl": "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/debcraft-image.jpg"
+        },
+        {
+          "id": "https://github.com/ryoppippi/ccusage",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ryoppippi/ccusage",
+          "publishedOn": "2025-07-18T23:22:49.000Z",
+          "wordCount": 2936,
+          "title": "Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files",
+          "imageUrl": "https://repository-images.githubusercontent.com/992755069/86c75f49-0257-405c-8181-0aab26e7ae6c"
+        },
+        {
+          "id": "https://varunraghu.com/im-rebelling-against-the-algorithm/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://varunraghu.com/im-rebelling-against-the-algorithm/",
+          "publishedOn": "2025-07-18T22:45:32.000Z",
+          "wordCount": 694,
+          "title": "I'm Rebelling Against the Algorithm",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+        },
+        {
+          "id": "https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/",
+          "publishedOn": "2025-07-18T22:27:17.000Z",
+          "wordCount": 3420,
+          "title": "How to write Rust in the Linux kernel: part 3",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.davidtinapple.com/illich/1983_silence_commons.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.davidtinapple.com/illich/1983_silence_commons.html",
+          "publishedOn": "2025-07-18T21:21:50.000Z",
+          "wordCount": 2674,
+          "title": "Silence Is a Commons by Ivan Illich (1983)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/",
+          "publishedOn": "2025-07-18T20:30:36.000Z",
+          "wordCount": 3837,
+          "title": "Wii U SDBoot1 Exploit “paid the beak”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://burn.dev/blog/sota-multiplatform-matmul/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://burn.dev/blog/sota-multiplatform-matmul/",
+          "publishedOn": "2025-07-18T19:59:49.000Z",
+          "wordCount": 6996,
+          "title": "Multiplatform Matrix Multiplication Kernels",
+          "imageUrl": "/_astro/banner.BviNA-iT_Z16UH5r.webp"
+        },
+        {
+          "id": "https://paulkedrosky.com/honey-ai-capex-ate-the-economy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://paulkedrosky.com/honey-ai-capex-ate-the-economy/",
+          "publishedOn": "2025-07-18T19:59:04.000Z",
+          "wordCount": 2383,
+          "title": "AI capex is so big that it's affecting economic statistics",
+          "imageUrl": "https://paulkedrosky.com/content/images/2025/07/2025-07-16_13-51-16-4.png"
+        },
+        {
+          "id": "https://github.com/bitnami/charts/issues/35164",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/bitnami/charts/issues/35164",
+          "publishedOn": "2025-07-18T19:29:52.000Z",
+          "wordCount": 5965,
+          "title": "Broadcom to discontinue free Bitnami Helm charts",
+          "imageUrl": "https://opengraph.githubassets.com/93cf0cf34bf7e66c0cb443c19c9f36701a18ed635e882ff164335bb62b2d553a/bitnami/charts/issues/35164"
+        },
+        {
+          "id": "https://www.librari.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.librari.io/",
+          "publishedOn": "2025-07-18T19:28:34.000Z",
+          "wordCount": 611,
+          "title": "Show HN: I built library management app for those who outgrew spreadsheets",
+          "imageUrl": "https://librari.io/"
+        },
+        {
+          "id": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
+          "publishedOn": "2025-07-18T19:21:38.000Z",
+          "wordCount": 2268,
+          "title": "Asynchrony is not concurrency",
+          "imageUrl": "https://kristoff.it/logo.png"
+        },
+        {
+          "id": "https://eprint.iacr.org/2025/1237",
+          "author": null,
+          "description": "Comments",
+          "link": "https://eprint.iacr.org/2025/1237",
+          "publishedOn": "2025-07-18T19:09:07.000Z",
+          "wordCount": 456,
+          "title": "Replication of Quantum Factorisation Records with a VIC-20, an Abacus, and a Dog",
+          "imageUrl": "https://eprint.iacr.org/img/iacrlogo.png"
+        },
+        {
+          "id": "https://molab.marimo.io/notebooks",
+          "author": null,
+          "description": "Comments",
+          "link": "https://molab.marimo.io/notebooks",
+          "publishedOn": "2025-07-18T18:40:30.000Z",
+          "wordCount": 821,
+          "title": "Show HN: Molab, a cloud-hosted Marimo notebook workspace",
+          "imageUrl": "https://marimo.io/og/molab.png"
+        },
+        {
+          "id": "https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening",
+          "publishedOn": "2025-07-18T18:39:06.000Z",
+          "wordCount": 12580,
+          "title": "Cancer DNA is detectable in blood years before diagnosis",
+          "imageUrl": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/06/061325_MR_cancer.jpg"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer",
+          "publishedOn": "2025-07-18T18:39:02.000Z",
+          "wordCount": 1173,
+          "title": "Mango Health (YC W24) Is Hiring",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
+          "publishedOn": "2025-07-18T18:36:39.000Z",
+          "wordCount": 2444,
+          "title": "How I keep up with AI progress",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html",
+          "publishedOn": "2025-07-18T17:56:37.000Z",
+          "wordCount": 25583,
+          "title": "Meta says it wont sign Europe AI agreement, calling it growth stunting overreach",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108014388-1722446177565-gettyimages-2164040793-porzycki-metaplat240731_npxDI.jpeg?v=1752850255&w=1920&h=1080"
+        },
+        {
+          "id": "https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/",
+          "publishedOn": "2025-07-18T17:21:49.000Z",
+          "wordCount": 7330,
+          "title": "The year of peak might and magic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/",
+          "publishedOn": "2025-07-18T15:54:46.000Z",
+          "wordCount": 17415,
+          "title": "Valve confirms credit card companies pressured it to delist certain adult games",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/SnLuegaXTcdghqyvxG2ua8.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/",
+          "publishedOn": "2025-07-18T15:19:17.000Z",
+          "wordCount": 4153,
+          "title": "A New Geometry for Einstein's Theory of Relativity",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/NewGRGeometry-crHarolBustos-Social.jpg"
+        },
         {
           "id": "https://bozmen.io/fhe",
           "author": null,
@@ -921,6 +1186,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://kwokchain.com/2025/07/15/the-halo-effect/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kwokchain.com/2025/07/15/the-halo-effect/",
+          "publishedOn": "2025-07-15T16:57:06.000Z",
+          "wordCount": 4803,
+          "title": "The Halo Effect",
+          "imageUrl": "https://i0.wp.com/kwokchain.com/wp-content/uploads/2025/07/image-1.png?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://calv.info/openai-reflections",
           "author": null,
           "description": "Comments",
@@ -971,6 +1246,16 @@
           "imageUrl": "https://mistral.ai/img/mistral-cover.png"
         },
         {
+          "id": "https://www.orioledb.com/blog/orioledb-beta12-benchmarks",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.orioledb.com/blog/orioledb-beta12-benchmarks",
+          "publishedOn": "2025-07-15T12:22:33.000Z",
+          "wordCount": 987,
+          "title": "Show HN: OrioleDB Beta12 Features and Benchmarks",
+          "imageUrl": "https://orioledb.com/img/blog/oriole12/oriole12-go-tpc"
+        },
+        {
           "id": "https://mnvr.in/rust",
           "author": null,
           "description": "Comments",
@@ -978,6 +1263,16 @@
           "publishedOn": "2025-07-15T11:42:46.000Z",
           "wordCount": 1510,
           "title": "A Rust shaped hole",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cofault.com/zero-cost-static.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cofault.com/zero-cost-static.html",
+          "publishedOn": "2025-07-15T11:39:18.000Z",
+          "wordCount": 1862,
+          "title": "C++: zero-cost static initialization",
           "imageUrl": null
         },
         {
@@ -999,6 +1294,16 @@
           "wordCount": 4145,
           "title": "Inside the box: Everything I did with an Arduino starter kit",
           "imageUrl": "https://lopespm.com/files/arduino/thumb/pelegoo_compressed.jpg"
+        },
+        {
+          "id": "https://tazj.in/blog/trying-guix",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tazj.in/blog/trying-guix",
+          "publishedOn": "2025-07-15T08:11:19.000Z",
+          "wordCount": 1943,
+          "title": "Trying Guix: A Nixer's impressions",
+          "imageUrl": null
         },
         {
           "id": "https://www.fastcompany.com/91356463/ibm-thinkpad-701-butterfly-keyboard",
@@ -1259,6 +1564,16 @@
           "wordCount": 1839,
           "title": "Extending That XOR Trick to Billions of Rows",
           "imageUrl": "https://nochlin.com/images/jason.jpeg"
+        },
+        {
+          "id": "https://100r.co/site/home.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://100r.co/site/home.html",
+          "publishedOn": "2025-07-14T15:45:28.000Z",
+          "wordCount": 1917,
+          "title": "Hundred Rabbits – Low-tech living while sailing the world",
+          "imageUrl": null
         },
         {
           "id": "https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/",
@@ -8479,326 +8794,6 @@
           "wordCount": 774,
           "title": "2048 with only 64 bits of state",
           "imageUrl": "https://opengraph.githubassets.com/4e7f999371cdda0c7a79faf990c9cb37888bd43e6d880c374d8bc6a4429aea6f/izabera/bitwise-challenge-2048"
-        },
-        {
-          "id": "https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html",
-          "publishedOn": "2025-06-19T16:11:46.000Z",
-          "wordCount": 2772,
-          "title": "How OpenElections uses LLMs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://erikdemaine.org/curved/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://erikdemaine.org/curved/",
-          "publishedOn": "2025-06-19T14:13:15.000Z",
-          "wordCount": 626,
-          "title": "Curved-Crease Sculpture",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/krustowski/rou2exOS",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/krustowski/rou2exOS",
-          "publishedOn": "2025-06-19T13:38:57.000Z",
-          "wordCount": 1503,
-          "title": "Show HN: A DOS-like hobby OS written in Rust and x86 assembly",
-          "imageUrl": "https://opengraph.githubassets.com/ba9b522e26c8ee1623dadd9c28af6cb0dad4e379b9094a4aa0370d1ddc8fe4cf/krustowski/rou2exOS"
-        },
-        {
-          "id": "https://lmnt.me/blog/rose-gold-tinted-liquid-glasses.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lmnt.me/blog/rose-gold-tinted-liquid-glasses.html",
-          "publishedOn": "2025-06-19T12:11:34.000Z",
-          "wordCount": 3690,
-          "title": "Rose-Gold-Tinted Liquid Glasses",
-          "imageUrl": "https://lmnt.me/files/images/opengraph/lmnt.webp"
-        },
-        {
-          "id": "https://matduggan.com/what-would-a-kubernetes-2-0-look-like/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://matduggan.com/what-would-a-kubernetes-2-0-look-like/",
-          "publishedOn": "2025-06-19T12:00:54.000Z",
-          "wordCount": 3972,
-          "title": "What would a Kubernetes 2.0 look like",
-          "imageUrl": null
-        },
-        {
-          "id": "https://scottaaronson.blog/?p=8908",
-          "author": null,
-          "description": "Comments",
-          "link": "https://scottaaronson.blog/?p=8908",
-          "publishedOn": "2025-06-19T10:22:06.000Z",
-          "wordCount": 10610,
-          "title": "Guess I'm a Rationalist Now",
-          "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
-        },
-        {
-          "id": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor",
-          "publishedOn": "2025-06-19T09:46:43.000Z",
-          "wordCount": 11292,
-          "title": "Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs",
-          "imageUrl": "https://opengraph.githubassets.com/12a26d19b3e89dd79778c747bc827e9065f269ece64d4a87944797fd51423627/Maciek-roboblog/Claude-Code-Usage-Monitor"
-        },
-        {
-          "id": "https://arstechnica.com/science/2025/06/the-controversial-dragon-man-skull-was-a-denisovan/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arstechnica.com/science/2025/06/the-controversial-dragon-man-skull-was-a-denisovan/",
-          "publishedOn": "2025-06-19T06:42:58.000Z",
-          "wordCount": 2926,
-          "title": "We’ve had a Denisovan skull since the 1930s—only nobody knew",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/image-2-1152x648.jpeg"
-        },
-        {
-          "id": "https://elliptic-curves.art/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://elliptic-curves.art/",
-          "publishedOn": "2025-06-19T04:02:27.000Z",
-          "wordCount": 45,
-          "title": "Elliptic Curves as Art",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/",
-          "publishedOn": "2025-06-19T03:28:29.000Z",
-          "wordCount": 3207,
-          "title": "Mathematicians Hunting Prime Numbers Discover Infinite New Pattern",
-          "imageUrl": "https://static.scientificamerican.com/dam/m/753888620ef2a300/original/prime_numbers.jpg?m=1749751515.433&w=1200"
-        },
-        {
-          "id": "https://sopghreporter.com/2025/06/01/dr-demento-announces-retirement/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sopghreporter.com/2025/06/01/dr-demento-announces-retirement/",
-          "publishedOn": "2025-06-19T03:27:39.000Z",
-          "wordCount": 1597,
-          "title": "Dr. Demento Announces Retirement After 55-Year Radio Career",
-          "imageUrl": "https://sopghreporter.com/wp-content/uploads/2025/06/dr.demento-1984-la-times-cropped-1024x683.jpg"
-        },
-        {
-          "id": "https://zed.dev/blog/debugger",
-          "author": null,
-          "description": "Comments",
-          "link": "https://zed.dev/blog/debugger",
-          "publishedOn": "2025-06-19T02:42:15.000Z",
-          "wordCount": 9164,
-          "title": "The Zed Debugger Is Here",
-          "imageUrl": "https://zed.dev/api/og?title=The%20Debugger%20is%20Here"
-        },
-        {
-          "id": "https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html",
-          "publishedOn": "2025-06-19T01:50:47.000Z",
-          "wordCount": 1511,
-          "title": "TI to invest $60B to manufacture foundational semiconductors in the U.S.",
-          "imageUrl": "https://www.ti.com"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
-          "publishedOn": "2025-06-19T00:33:21.000Z",
-          "wordCount": null,
-          "title": "Andrej Karpathy: Software in the era of AI [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/",
-          "publishedOn": "2025-06-19T00:19:58.000Z",
-          "wordCount": 2187,
-          "title": "It's true, “we” don't care about accessibility on Linux",
-          "imageUrl": "/assets/logo-256x256.webp"
-        },
-        {
-          "id": "https://sarupro.itch.io/thenyanja",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sarupro.itch.io/thenyanja",
-          "publishedOn": "2025-06-19T00:02:20.000Z",
-          "wordCount": 900,
-          "title": "The Nyanja new PC-Engine/TurboGrafx 16-bit console game in development",
-          "imageUrl": "https://img.itch.zone/aW1nLzIxNDk0MzkxLnBuZw==/original/lXgUjs.png"
-        },
-        {
-          "id": "https://modelcontextprotocol.io/specification/2025-06-18/changelog",
-          "author": null,
-          "description": "Comments",
-          "link": "https://modelcontextprotocol.io/specification/2025-06-18/changelog",
-          "publishedOn": "2025-06-18T23:59:47.000Z",
-          "wordCount": 2966,
-          "title": "MCP Specification – version 2025-06-18 changes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059",
-          "publishedOn": "2025-06-18T23:49:18.000Z",
-          "wordCount": 89,
-          "title": "Compact Representations for Arrays in Lua [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/psviderski/unregistry",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/psviderski/unregistry",
-          "publishedOn": "2025-06-18T23:17:10.000Z",
-          "wordCount": 5099,
-          "title": "Show HN: Unregistry – “docker push” directly to servers without a registry",
-          "imageUrl": "https://opengraph.githubassets.com/0dc93cdc3b4f5c4fb0b8bba67e318995d17e458597f495a98926137fed79354d/psviderski/unregistry"
-        },
-        {
-          "id": "https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening",
-          "publishedOn": "2025-06-18T23:11:03.000Z",
-          "wordCount": 4046,
-          "title": "New US visa rules will force foreign students to unlock social media profiles",
-          "imageUrl": "https://i.guim.co.uk/img/media/f12ec06e040209f3ea3826242f04c448f795a313/284_0_2841_2273/master/2841.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9b261fc8107b64c7070132801304285"
-        },
-        {
-          "id": "https://github.com/charmbracelet/fang",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/charmbracelet/fang",
-          "publishedOn": "2025-06-18T22:40:32.000Z",
-          "wordCount": 1792,
-          "title": "Fang, the CLI Starter Kit",
-          "imageUrl": "https://repository-images.githubusercontent.com/892791171/33117019-c266-4e20-b535-a9a67a4b0cfb"
-        },
-        {
-          "id": "https://www.complexsystemspodcast.com/episodes/how-to-negotiate-your-salary-package/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.complexsystemspodcast.com/episodes/how-to-negotiate-your-salary-package/",
-          "publishedOn": "2025-06-18T22:16:53.000Z",
-          "wordCount": 9851,
-          "title": "How to negotiate your salary package",
-          "imageUrl": "https://www.complexsystemspodcast.com/content/images/size/w1200/2025/05/Patrick-McKenzie-Pod-4.png"
-        },
-        {
-          "id": "https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/",
-          "publishedOn": "2025-06-18T22:02:21.000Z",
-          "wordCount": 4484,
-          "title": "A deep-dive explainer on Ink and Switch's BeeKEM protocol",
-          "imageUrl": "https://static.meri.garden/mesh-gradient.png"
-        },
-        {
-          "id": "https://drhagen.com/blog/the-missing-11th-of-the-month/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://drhagen.com/blog/the-missing-11th-of-the-month/",
-          "publishedOn": "2025-06-18T21:45:46.000Z",
-          "wordCount": 1875,
-          "title": "The Missing 11th of the Month",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/lunchbox-computer/bento",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/lunchbox-computer/bento",
-          "publishedOn": "2025-06-18T21:21:26.000Z",
-          "wordCount": 2472,
-          "title": "Bento: A Steam Deck in a Keyboard",
-          "imageUrl": "https://opengraph.githubassets.com/10550d6b1f341e93fd98e28009a3f0c339072e58cf3c5b4db94f6afa9b95a577/lunchbox-computer/bento"
-        },
-        {
-          "id": "https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html",
-          "publishedOn": "2025-06-18T20:55:06.000Z",
-          "wordCount": 1147,
-          "title": "Websites are tracking you via browser fingerprinting",
-          "imageUrl": "https://engineering.tamu.edu/news/2025/06/_news-images/News-CSCE-Browser-16june2025.jpg"
-        },
-        {
-          "id": "https://publicdomainreview.org/essay/dancing-naked-on-the-head-of-a-pin",
-          "author": null,
-          "description": "Comments",
-          "link": "https://publicdomainreview.org/essay/dancing-naked-on-the-head-of-a-pin",
-          "publishedOn": "2025-06-18T19:08:57.000Z",
-          "wordCount": 12868,
-          "title": "Dancing Naked on the Head of a Pin: The Early History of Microphotography",
-          "imageUrl": "https://the-public-domain-review.imgix.net/essays/microphotography/erotic-stanhope-thumb.jpg"
-        },
-        {
-          "id": "https://toolchains.bootlin.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://toolchains.bootlin.com/",
-          "publishedOn": "2025-06-18T18:25:11.000Z",
-          "wordCount": 62512,
-          "title": "Cross-Compilation Toolchains for Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer",
-          "publishedOn": "2025-06-18T17:57:44.000Z",
-          "wordCount": 10060,
-          "title": "RaptorCast: Designing a Messaging Layer",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/",
-          "publishedOn": "2025-06-18T17:31:25.000Z",
-          "wordCount": 5603,
-          "title": "Yes I Will Read Ulysses Yes",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/Ls7UdcFAeZc3--d6wseFtpNspH8=/0x43:2000x1085/1200x625/media/img/2025/06/0725_CC_Bulson_Ellmanns_Joyce_16x9/original.jpg"
-        },
-        {
-          "id": "https://codeneverdies.github.io/posts/gh-2/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://codeneverdies.github.io/posts/gh-2/",
-          "publishedOn": "2025-06-18T17:19:31.000Z",
-          "wordCount": 1495,
-          "title": "Game Hacking – Valve Anti-Cheat (VAC)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer",
-          "publishedOn": "2025-06-18T17:00:36.000Z",
-          "wordCount": 1007,
-          "title": "Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer",
-          "imageUrl": "/images/original/missing.png"
         }
       ]
     },
@@ -8864,6 +8859,36 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/health-disease/2025/awakened-viral-jumping-genes-role-in-alzheimers-als",
+          "author": "Amber Dance",
+          "description": "Our genomes are peppered with DNA segments called retrotransposons that can move from place to place. When unleashed, some can kill nerves and promote inflammation — a discovery that may inspire treatments for neurodegeneration.",
+          "link": "https://knowablemagazine.org/content/article/health-disease/2025/awakened-viral-jumping-genes-role-in-alzheimers-als",
+          "publishedOn": "2025-07-19T04:41:53.589Z",
+          "wordCount": 5255,
+          "title": "How rogue jumping genes can spur Alzheimer’s, ALS",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/transposons-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/transposons-500x288.jpg"
+        },
+        {
+          "id": "https://knowablemagazine.org/content/article/food-environment/2025/ghost-forests-are-growing-sea-levels-rise-climate-change",
+          "author": "Jude Coleman",
+          "description": "As trees choked by saltwater die along low-lying coasts, marshes may move in — for better or worse, scientists are learning",
+          "link": "https://knowablemagazine.org/content/article/food-environment/2025/ghost-forests-are-growing-sea-levels-rise-climate-change",
+          "publishedOn": "2025-07-19T04:41:53.443Z",
+          "wordCount": 2414,
+          "title": "Ghost forests are growing as sea levels rise",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/ghost-forests-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/ghost-forests-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/living-world/2025/the-strange-viruses-that-infect-fungi",
           "author": "Amber Dance",
