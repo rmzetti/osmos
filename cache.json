@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387868",
+          "author": "Blake Lundquist",
+          "description": "Parallax is a pattern in which different elements of a webpage move at varying speeds as the user scrolls, creating a three-dimensional, layered appearance. It once required JavaScript. Now we have scroll-driven animations in CSS, which is free from the main-thread blocking that can plague JavaScript animations.\nBringing Back Parallax With Scroll-Driven CSS Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/bringing-back-parallax-with-scroll-driven-css-animations/",
+          "publishedOn": "2025-08-06T13:39:06.000Z",
+          "wordCount": 3180,
+          "title": "Bringing Back Parallax With Scroll-Driven CSS Animations",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/01/smooth-scroll.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=387880",
           "author": "Zell Liew",
           "description": "Today, I want to discuss a couple of patterns for naming color palettes that the community is using, and how I propose we can improve, so we achieve both flexibility and beauty.\nThinking Deeply About Theming and Color Naming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -148,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/08/automating-design-systems-tips-resources/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "Design systems are more than style guides: they’re made up of workflows, tokens, components, and documentation — all the stuff teams rely on to build consistent products. As projects grow, keeping everything in sync gets tricky fast. In this article, we’ll look at how smart tooling, combined with automation where it makes sense, can speed things up, reduce errors, and help your team focus on design over maintenance.",
+          "link": "https://smashingmagazine.com/2025/08/automating-design-systems-tips-resources/",
+          "publishedOn": "2025-08-06T10:00:00.000Z",
+          "wordCount": 5589,
+          "title": "Automating Design Systems: Tips And Resources For Getting Started",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/automating-design-systems-tips-resources/automating-design-systems-tips-resources.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/automating-design-systems-tips-resources/automating-design-systems-tips-resources.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/08/ux-job-interview-helpers/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -297,21 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/unmasking-magic-wizard-oz-method-ux-research/unmasking-magic-wizard-oz-method-ux-research.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/07/modern-website-builder-wordpress-droip/",
-          "author": "hello@smashingmagazine.com (Zareen Tasnim)",
-          "description": "Traditional page builders have shaped how we build WordPress sites for years. Let’s take a closer look at [Droip](https://droip.com/), a modern, no-code visual builder, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.",
-          "link": "https://smashingmagazine.com/2025/07/modern-website-builder-wordpress-droip/",
-          "publishedOn": "2025-07-08T10:00:00.000Z",
-          "wordCount": 4828,
-          "title": "Droip: The Modern Website Builder WordPress Needed",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/creating-more-than-wordpress-page-builders-droip/modern-website-builder-wordpress-droip.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/creating-more-than-wordpress-page-builders-droip/modern-website-builder-wordpress-droip.jpg"
         }
       ]
     },
@@ -320,6 +330,246 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://newatlas.com/aging/age-related-near-sighted-drops-vizz/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://newatlas.com/aging/age-related-near-sighted-drops-vizz/",
+          "publishedOn": "2025-08-07T03:34:58.000Z",
+          "wordCount": 5067,
+          "title": "FDA approves eye drops that fix near vision without glasses",
+          "imageUrl": "https://assets.newatlas.com/dims4/default/d6c27d6/2147483647/strip/true/crop/10000x5250+0+710/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6e%2F24%2Ff01a4bb04fd58b4fde6645ae801a%2Fdepositphotos-565383918-xl.jpg&na.image_optimisation=0"
+        },
+        {
+          "id": "https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/",
+          "publishedOn": "2025-08-07T02:28:47.000Z",
+          "wordCount": 4915,
+          "title": "Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs",
+          "imageUrl": "https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/opengraph-image?acf396358e7a730c"
+        },
+        {
+          "id": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
+          "publishedOn": "2025-08-07T02:27:51.000Z",
+          "wordCount": 3424,
+          "title": "Mac history echoes in current Mac operating systems",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6sFx-YfsvZs1T1yp7crjQsQrZEpxaJUNZ7JzrCCjMqwQ9Du3x8y2l_JoKvuBjbOboBITj2fB-92P54wZ0OrsBoMKiX95A0ledQpacxwFOACnnbVH6h_pMNjIXnugDjMAOfIEuJ01Bv7N3y5DAsxeBjbHzVzw4MGCGCmEPRvSGNqzIQQbwQHaeltupp5Dt/w1200-h630-p-k-no-nu/Internal.png"
+        },
+        {
+          "id": "https://arxiv.org/abs/2508.03814",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2508.03814",
+          "publishedOn": "2025-08-07T01:42:18.000Z",
+          "wordCount": 981,
+          "title": "A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://www.inkhaven.blog/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.inkhaven.blog/",
+          "publishedOn": "2025-08-07T00:20:53.000Z",
+          "wordCount": 2783,
+          "title": "The Inkhaven Blogging Residency",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1754159846/Screenshot_2025-08-02_at_11.37.21_AM_ldvzmf.png"
+        },
+        {
+          "id": "https://founders.archives.gov/documents/Franklin/01-20-02-0213",
+          "author": null,
+          "description": "Comments",
+          "link": "https://founders.archives.gov/documents/Franklin/01-20-02-0213",
+          "publishedOn": "2025-08-06T23:29:11.000Z",
+          "wordCount": 4481,
+          "title": "Rules by Which a Great Empire May Be Reduced to a Small One (1773)",
+          "imageUrl": "http://founders.archives.gov/lib/media/Franklin-200x200.png"
+        },
+        {
+          "id": "https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/",
+          "publishedOn": "2025-08-06T23:18:07.000Z",
+          "wordCount": 1487,
+          "title": "Out-Fibbing CPython with the Plush Interpreter",
+          "imageUrl": "https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/bear_chess.jpg"
+        },
+        {
+          "id": "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/",
+          "publishedOn": "2025-08-06T23:13:33.000Z",
+          "wordCount": 6604,
+          "title": "Apple increases US commitment to $600B, announces American Manufacturing Program",
+          "imageUrl": "https://www.apple.com/newsroom/images/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/tile/Apple-US-investment-hero-lp.jpg.og.jpg?202508062042"
+        },
+        {
+          "id": "https://301party.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://301party.com/",
+          "publishedOn": "2025-08-06T20:54:39.000Z",
+          "wordCount": 39,
+          "title": "301party.com: Intentionally open redirect",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.avibagla.com/blueskydictionary/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.avibagla.com/blueskydictionary/",
+          "publishedOn": "2025-08-06T20:43:08.000Z",
+          "wordCount": 95,
+          "title": "The Bluesky Dictionary",
+          "imageUrl": "https://www.avibagla.com/blueskydictionary/images/og-image.png"
+        },
+        {
+          "id": "https://www.projecthyperion.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.projecthyperion.org/",
+          "publishedOn": "2025-08-06T20:40:17.000Z",
+          "wordCount": 13051,
+          "title": "Project Hyperion: Interstellar ship design competition",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
+          "publishedOn": "2025-08-06T19:43:01.000Z",
+          "wordCount": 3283,
+          "title": "Litestar is worth a look",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pavpanchekha.com/blog/9bit.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pavpanchekha.com/blog/9bit.html",
+          "publishedOn": "2025-08-06T19:39:20.000Z",
+          "wordCount": 1453,
+          "title": "We'd be better off with 9-bit bytes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://danielchasehooper.com/posts/segment_array/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://danielchasehooper.com/posts/segment_array/",
+          "publishedOn": "2025-08-06T18:21:28.000Z",
+          "wordCount": 1270,
+          "title": "A fast, growable array with stable pointers in C",
+          "imageUrl": "https://danielchasehooper.com/images/ogimage.png"
+        },
+        {
+          "id": "https://www.multicians.org/multics.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.multicians.org/multics.html",
+          "publishedOn": "2025-08-06T16:57:55.000Z",
+          "wordCount": 1929,
+          "title": "Multics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.google/technology/google-labs/jules-now-available/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.google/technology/google-labs/jules-now-available/",
+          "publishedOn": "2025-08-06T16:05:39.000Z",
+          "wordCount": 4171,
+          "title": "Jules, our asynchronous coding agent",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/keyword-hero-image.max-1440x810.png"
+        },
+        {
+          "id": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/",
+          "publishedOn": "2025-08-06T16:00:54.000Z",
+          "wordCount": 2115,
+          "title": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
+          "imageUrl": "https://www.collabora.com/assets/images/blog/Collabora-Rust-Tyr.png"
+        },
+        {
+          "id": "https://glfmn.io/posts/zig-error-patterns/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://glfmn.io/posts/zig-error-patterns/",
+          "publishedOn": "2025-08-06T15:03:19.000Z",
+          "wordCount": 958,
+          "title": "Zig Error Patterns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
+          "publishedOn": "2025-08-06T14:43:02.000Z",
+          "wordCount": 2844,
+          "title": "Breaking the sorting barrier for directed single-source shortest paths",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/08/Fastest-Shortest-Paths-cr-DVDP-Social.jpg"
+        },
+        {
+          "id": "https://github.com/manzaltu/claude-code-ide.el",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/manzaltu/claude-code-ide.el",
+          "publishedOn": "2025-08-06T13:17:38.000Z",
+          "wordCount": 9483,
+          "title": "Claude Code IDE integration for Emacs",
+          "imageUrl": "https://opengraph.githubassets.com/778899a787927d596b9b2b952320b245b8764a9dacc5b0bfeb6ac7ff3a2f6137/manzaltu/claude-code-ide.el"
+        },
+        {
+          "id": "https://303-gen-06a668.netlify.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://303-gen-06a668.netlify.app/",
+          "publishedOn": "2025-08-06T12:50:06.000Z",
+          "wordCount": 15,
+          "title": "303Gen – 303 acid loops generator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/hmpl-language/hmpl",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/hmpl-language/hmpl",
+          "publishedOn": "2025-08-06T10:41:43.000Z",
+          "wordCount": 5286,
+          "title": "Show HN: HMPL – Small Template Language for Rendering UI from Server to Client",
+          "imageUrl": "https://repository-images.githubusercontent.com/883392680/71edc75d-90e6-48db-9c59-9de739eba166"
+        },
+        {
+          "id": "https://acko.net/blog/html-is-dead-long-live-html/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://acko.net/blog/html-is-dead-long-live-html/",
+          "publishedOn": "2025-08-06T06:51:13.000Z",
+          "wordCount": 3170,
+          "title": "Rethinking DOM from first principles",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/KittenML/KittenTTS",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/KittenML/KittenTTS",
+          "publishedOn": "2025-08-06T05:04:36.000Z",
+          "wordCount": 1689,
+          "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
+          "imageUrl": "https://opengraph.githubassets.com/3e3507ed37ceb20166e4843c341ede2c3ba9478eeb1b5c9cdd3bde81d5e38d4c/KittenML/KittenTTS"
+        },
         {
           "id": "https://torrentfreak.com/playready-drm-leak-triggers-microsoft-takedown-and-amazon-account-suspensions/",
           "author": null,
@@ -651,6 +901,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://dannybate.com/2025/08/03/you-know-more-finnish-than-you-think/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dannybate.com/2025/08/03/you-know-more-finnish-than-you-think/",
+          "publishedOn": "2025-08-04T19:08:19.000Z",
+          "wordCount": 5641,
+          "title": "You know more Finnish than you think",
+          "imageUrl": "https://i0.wp.com/dannybate.com/wp-content/uploads/2025/08/neitokainen_from_above_in_kittila_lapland_finland_2023_september.jpg?fit=799%2C1200&ssl=1"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44789068",
           "author": null,
           "description": "Comments",
@@ -781,6 +1041,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://e-dorigatti.github.io/math/2023/11/01/queue-length.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://e-dorigatti.github.io/math/2023/11/01/queue-length.html",
+          "publishedOn": "2025-08-04T04:55:11.000Z",
+          "wordCount": 1759,
+          "title": "What is the average length of a queue of cars? (2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/easrng/tsints",
           "author": null,
           "description": "Comments",
@@ -789,6 +1059,16 @@
           "wordCount": 1449,
           "title": "A parser for TypeScript types, written in TypeScript types",
           "imageUrl": "https://opengraph.githubassets.com/3f63f139794668557d139d1a0d5ea35e1fac6b3e240c402a8f5ad2cc8c4d8c81/easrng/tsints"
+        },
+        {
+          "id": "https://every.to/feeds/b0e329f3048258e8eeb7/the-man-who-beat-ibm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://every.to/feeds/b0e329f3048258e8eeb7/the-man-who-beat-ibm",
+          "publishedOn": "2025-08-04T01:31:42.000Z",
+          "wordCount": 11060,
+          "title": "A Man Who Beat IBM",
+          "imageUrl": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/social_media_image/3640/full_page_cover_Screenshot_2025-06-13_at_9.50.43_AM.png"
         },
         {
           "id": "https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25",
@@ -921,6 +1201,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://comptime.js.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://comptime.js.org/",
+          "publishedOn": "2025-08-03T19:11:40.000Z",
+          "wordCount": 1865,
+          "title": "Comptime.ts: compile-time expressions for TypeScript",
+          "imageUrl": "https://comptime.js.org/comptime.ts.jpg"
+        },
+        {
+          "id": "https://www.classcentral.com/report/coursera-preview-mode-paywall/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.classcentral.com/report/coursera-preview-mode-paywall/",
+          "publishedOn": "2025-08-03T17:23:21.000Z",
+          "wordCount": 4519,
+          "title": "The Day MOOCs Died: Coursera's Preview Mode Kills Free Learning",
+          "imageUrl": "https://www.classcentral.com/report/wp-content/uploads/2025/07/coursera-preview-header.png"
+        },
+        {
           "id": "https://www.runconverge.com/careers",
           "author": null,
           "description": "Comments",
@@ -959,6 +1259,16 @@
           "wordCount": 6868,
           "title": "Persona vectors: Monitoring and controlling character traits in language models",
           "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/98b0b9adba1414ee8d544a9a12762b39cce39d3a-2401x1261.png"
+        },
+        {
+          "id": "https://automerge.org/blog/automerge-3/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://automerge.org/blog/automerge-3/",
+          "publishedOn": "2025-08-03T15:08:58.000Z",
+          "wordCount": 848,
+          "title": "Automerge 3.0",
+          "imageUrl": null
         },
         {
           "id": "https://archive.irixnet.org/thisoldsgi/",
@@ -8599,176 +8909,6 @@
           "wordCount": 5448,
           "title": "GlobalFoundries to Acquire MIPS",
           "imageUrl": "https://mips.com/wp-content/uploads/2025/01/MIPS-Atlas-Explorer-title-01.jpg"
-        },
-        {
-          "id": "https://huggingface.co/blog/smollm3",
-          "author": null,
-          "description": "Comments",
-          "link": "https://huggingface.co/blog/smollm3",
-          "publishedOn": "2025-07-08T16:13:40.000Z",
-          "wordCount": 3591,
-          "title": "Smollm3: Smol, multilingual, long-context reasoner LLM",
-          "imageUrl": "https://huggingface.co/blog/assets/smollm3/image.png"
-        },
-        {
-          "id": "https://github.com/asottile/dict-unpacking-at-home",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/asottile/dict-unpacking-at-home",
-          "publishedOn": "2025-07-08T16:05:03.000Z",
-          "wordCount": 1411,
-          "title": "Dict Unpacking in Python",
-          "imageUrl": "https://opengraph.githubassets.com/e7ad4d2311e5a2f7cebd166dda23e459319700096897dff08e0661daf18735ae/asottile/dict-unpacking-at-home"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/c89e872jdjxo",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/news/articles/c89e872jdjxo",
-          "publishedOn": "2025-07-08T15:16:33.000Z",
-          "wordCount": 5203,
-          "title": "First malaria treatment for babies approved for use",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0d49/live/fd791190-5bdf-11f0-9176-c710c4836875.jpg"
-        },
-        {
-          "id": "https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/",
-          "publishedOn": "2025-07-08T13:41:43.000Z",
-          "wordCount": 5377,
-          "title": "Blind to Disruption – The CEOs Who Missed the Future",
-          "imageUrl": "https://steveblank.com/wp-content/uploads/2025/07/Wells-Fargo-coach-300x214.jpg"
-        },
-        {
-          "id": "https://offchess.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://offchess.com/",
-          "publishedOn": "2025-07-08T08:57:01.000Z",
-          "wordCount": 178,
-          "title": "Show HN: OffChess – Offline chess puzzles app",
-          "imageUrl": "https://offchess.com/bg.png"
-        },
-        {
-          "id": "https://lucassifoni.info/blog/leveraging-hot-code-loading-for-fun-and-profit/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lucassifoni.info/blog/leveraging-hot-code-loading-for-fun-and-profit/",
-          "publishedOn": "2025-07-08T07:14:02.000Z",
-          "wordCount": 1430,
-          "title": "Leveraging Elixir's hot code loading capabilities to modularize a monolithic app",
-          "imageUrl": null
-        },
-        {
-          "id": "https://camelai.com/blog/hn-database-hype/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://camelai.com/blog/hn-database-hype/",
-          "publishedOn": "2025-07-08T02:55:04.000Z",
-          "wordCount": 11161,
-          "title": "Analyzing database trends through 1.8M Hacker News headlines",
-          "imageUrl": "https://imagedelivery.net/0Ey8LwpQ4ATeP19F21mqig/6a5b1329-2b89-4437-4438-192fa9e1f300/public"
-        },
-        {
-          "id": "https://blog.decryption.net.au/posts/macse30.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.decryption.net.au/posts/macse30.html",
-          "publishedOn": "2025-07-08T02:45:57.000Z",
-          "wordCount": 943,
-          "title": "Trying to find meaning in owning an old Mac",
-          "imageUrl": "https://blog.decryption.net.au/og.png"
-        },
-        {
-          "id": "https://www.owenjones.news/p/bbc-staff-were-forced-to-do-pro-israel",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.owenjones.news/p/bbc-staff-were-forced-to-do-pro-israel",
-          "publishedOn": "2025-07-08T02:18:01.000Z",
-          "wordCount": 4956,
-          "title": "BBC staff: we're forced to do pro-Israel PR",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!gAfC!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6157cb85-de65-4ba1-819e-8ee9c98ff6eb_1200x800.jpeg"
-        },
-        {
-          "id": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
-          "author": null,
-          "description": "Comments",
-          "link": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
-          "publishedOn": "2025-07-07T22:58:45.000Z",
-          "wordCount": 3523,
-          "title": "Bootstrapping a side project into a profitable seven-figure business",
-          "imageUrl": "https://projectionlab.com/assets/pages/blog/we-reached-1m-arr-with-zero-funding/hero.png"
-        },
-        {
-          "id": "https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/",
-          "publishedOn": "2025-07-07T22:11:58.000Z",
-          "wordCount": 1311,
-          "title": "LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.dolthub.com/blog/2025-07-03-regarding-prollyferation/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.dolthub.com/blog/2025-07-03-regarding-prollyferation/",
-          "publishedOn": "2025-07-07T21:24:53.000Z",
-          "wordCount": 3126,
-          "title": "Regarding Prollyferation: Followup to \"People Keep Inventing Prolly Trees\"",
-          "imageUrl": "https://www.dolthub.com/blog/static/7bc31b7a72f9060d2c2934a70c74167e/92ede/xkcd-calculus.png"
-        },
-        {
-          "id": "https://words.filippo.io/run-sunlight/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://words.filippo.io/run-sunlight/",
-          "publishedOn": "2025-07-07T20:36:54.000Z",
-          "wordCount": 1456,
-          "title": "You Should Run a Certificate Transparency Log",
-          "imageUrl": "https://assets.buttondown.email/images/13d84ddb-41d1-484e-a4a6-cee51054c99e.jpeg?w=960&fit=max"
-        },
-        {
-          "id": "https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/",
-          "publishedOn": "2025-07-07T18:19:13.000Z",
-          "wordCount": 3018,
-          "title": "New sphere-packing record stems from an unexpected source",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/MessyPackings-crDVDP-Social.jpg"
-        },
-        {
-          "id": "https://github.com/google/yamlfmt",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/google/yamlfmt",
-          "publishedOn": "2025-07-07T18:13:20.000Z",
-          "wordCount": 2813,
-          "title": "Yamlfmt: An extensible command line tool or library to format YAML files",
-          "imageUrl": "https://opengraph.githubassets.com/20720780caaa6e28f5f67db9ecf597f24170d4aec200d2c4362c11b8006f2520/google/yamlfmt"
-        },
-        {
-          "id": "https://markushimmel.de/blog/my-first-verified-imperative-program/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://markushimmel.de/blog/my-first-verified-imperative-program/",
-          "publishedOn": "2025-07-07T17:58:04.000Z",
-          "wordCount": 2786,
-          "title": "My first verified imperative program",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/ossia/score",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/ossia/score",
-          "publishedOn": "2025-07-07T17:07:05.000Z",
-          "wordCount": 2913,
-          "title": "Show HN: Ossia score – A sequencer for audio-visual artists",
-          "imageUrl": "https://repository-images.githubusercontent.com/13586541/f1230d52-d717-4840-8db1-367776b5115d"
         }
       ]
     },
@@ -8834,6 +8974,66 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/living-world/2025/how-thermogenic-plants-woo-pollinators",
+          "author": "Rachel Ehrenberg",
+          "description": "To attract insects, thermogenic plants turn up the heat, emit strong odors and even disguise themselves as corpses",
+          "link": "https://knowablemagazine.org/content/article/living-world/2025/how-thermogenic-plants-woo-pollinators",
+          "publishedOn": "2025-08-07T04:46:46.400Z",
+          "wordCount": 4732,
+          "title": "Rotten tricks: How hot and stinky plants woo pollinators",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/hot-plants-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/hot-plants-500x288.jpg"
+        },
+        {
+          "id": "https://knowablemagazine.org/content/article/health-disease/2025/worm-inspired-treatments-inch-toward-clinic",
+          "author": "Amber Dance",
+          "description": "Infection by certain wrigglers may reduce inflammation and fight obesity and diabetes. Scientists are at work to turn the findings into therapies.",
+          "link": "https://knowablemagazine.org/content/article/health-disease/2025/worm-inspired-treatments-inch-toward-clinic",
+          "publishedOn": "2025-08-07T04:46:46.393Z",
+          "wordCount": 3483,
+          "title": "Worm-inspired treatments inch toward the clinic",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/worms-and-diabetes-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/worms-and-diabetes-500x288.jpg"
+        },
+        {
+          "id": "https://knowablemagazine.org/content/article/living-world/2025/foraminifera-fossils-tell-story-of-past-life-on-earth",
+          "author": "Tim Vernimmen",
+          "description": "Bountiful remains of foraminifera reveal how organisms responded to climate disturbances of the past. They can help predict the future, too.",
+          "link": "https://knowablemagazine.org/content/article/living-world/2025/foraminifera-fossils-tell-story-of-past-life-on-earth",
+          "publishedOn": "2025-08-07T04:46:46.386Z",
+          "wordCount": 3595,
+          "title": "The history of the ocean, as told by tiny beautiful fossils",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/foraminifera-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/foraminifera-500x288.jpg"
+        },
+        {
+          "id": "https://knowablemagazine.org/content/article/living-world/2025/weird-wondrous-sea-cucumbers",
+          "author": "Katarina Zimmer",
+          "description": "These spiny or slimy ocean creatures display an astonishing diversity of appearances, behaviors and lifestyles. Many are increasingly threatened.",
+          "link": "https://knowablemagazine.org/content/article/living-world/2025/weird-wondrous-sea-cucumbers",
+          "publishedOn": "2025-08-07T04:46:46.365Z",
+          "wordCount": 3584,
+          "title": "Weird and wondrous sea cucumbers",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/sea-cucumbers-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/sea-cucumbers-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/health-disease/2025/how-climate-change-threatens-eye-health",
           "author": "Sanket Jain",
@@ -9073,21 +9273,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/mitochondrial-therapy-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/food-environment/2025/conflicts-between-people-and-grizzly-bears",
-          "author": "Lesley Evans Ogden",
-          "description": "In rural Alaskan and Canadian communities, reducing conflict between people and their wild neighbors means both species must change their behavior",
-          "link": "https://knowablemagazine.org/content/article/food-environment/2025/conflicts-between-people-and-grizzly-bears",
-          "publishedOn": "2025-07-08T04:41:28.589Z",
-          "wordCount": 5461,
-          "title": "Getting along with grizzly bears",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/grizzly-social-science-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/grizzly-social-science-500x288.jpg"
         }
       ]
     },
