@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388888",
+          "author": "Sunkanmi Fafowora",
+          "description": "The light-dark() function is currently designed to support just two color schemes. Should it support others? Sunkanmi Fafowora says yes and no.\nShould the CSS light-dark() Function Support More Than Light and Dark Values? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/should-the-css-light-dark-function-support-more-than-light-and-dark-values/",
+          "publishedOn": "2025-09-02T14:44:26.000Z",
+          "wordCount": 2903,
+          "title": "Should the CSS light-dark() Function Support More Than Light and Dark Values?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/light-dark.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=388637",
           "author": "Christian Sabourin",
           "description": "In this article, author Chris Sabourin walk through how modern CSS features can build a fully functional, interactive elevator that knows where it is, where it’s headed, and how long it’ll take to get there. No JavaScript required.\nCSS Elevator: A Pure CSS State Machine With Floor Navigation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -170,16 +180,6 @@
           "wordCount": 3180,
           "title": "Bringing Back Parallax With Scroll-Driven CSS Animations",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/01/smooth-scroll.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387880",
-          "author": "Zell Liew",
-          "description": "Today, I want to discuss a couple of patterns for naming color palettes that the community is using, and how I propose we can improve, so we achieve both flexibility and beauty.\nThinking Deeply About Theming and Color Naming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/",
-          "publishedOn": "2025-08-04T13:14:45.000Z",
-          "wordCount": 4672,
-          "title": "Thinking Deeply About Theming and Color Naming",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/abstract-color.jpg"
         }
       ]
     },
@@ -391,6 +391,226 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://ziglang.org/news/2025-financials/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ziglang.org/news/2025-financials/",
+          "publishedOn": "2025-09-03T01:45:47.000Z",
+          "wordCount": 2332,
+          "title": "Zig Software Foundation 2025 Financial Report and Fundraiser",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Tortured-Metaphor/LightCycle",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Tortured-Metaphor/LightCycle",
+          "publishedOn": "2025-09-03T00:08:54.000Z",
+          "wordCount": 2754,
+          "title": "Show HN: LightCycle, a FOSS game in Rust based on Tron",
+          "imageUrl": "https://opengraph.githubassets.com/edf09263d3d9e4b650dd83c4028b708e95eac985fe764a3eb72d6a49fdaf15fa/Tortured-Metaphor/LightCycle"
+        },
+        {
+          "id": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
+          "publishedOn": "2025-09-03T00:01:02.000Z",
+          "wordCount": 903,
+          "title": "%CPU utilization is a lie",
+          "imageUrl": "https://www.brendanlong.com/images/cpu-utilization-lie/cpu_utilization_combined_adjusted.png"
+        },
+        {
+          "id": "https://joegm.github.io/blog/indices-not-pointers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://joegm.github.io/blog/indices-not-pointers/",
+          "publishedOn": "2025-09-02T23:21:30.000Z",
+          "wordCount": 976,
+          "title": "Indices, not Pointers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/",
+          "publishedOn": "2025-09-02T22:58:23.000Z",
+          "wordCount": 1536,
+          "title": "This blog is running on a recycled Google Pixel 5 (2024)",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
+          "publishedOn": "2025-09-02T20:26:47.000Z",
+          "wordCount": 25799,
+          "title": "Google can keep its Chrome browser but will be barred from exclusive contracts",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108175922-1753295096051-gettyimages-2215577882-AFP_47H33MP.jpeg?v=1756848866&w=1920&h=1080"
+        },
+        {
+          "id": "https://dgross.ca/blog/linux-home-server-auto-sleep",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dgross.ca/blog/linux-home-server-auto-sleep",
+          "publishedOn": "2025-09-02T19:42:48.000Z",
+          "wordCount": 3531,
+          "title": "Making a Linux home server sleep on idle and wake on demand (2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage",
+          "publishedOn": "2025-09-02T19:34:24.000Z",
+          "wordCount": 5566,
+          "title": "A staff engineer's journey with Claude Code",
+          "imageUrl": "https://cdn.sanity.io/images/3do82whm/next/776b067d1aeef70752bc0350901ca5c05450d85c-1280x720.png"
+        },
+        {
+          "id": "https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/",
+          "publishedOn": "2025-09-02T19:28:43.000Z",
+          "wordCount": null,
+          "title": "Amazon must face US nationwide class action over third-party sales",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/",
+          "publishedOn": "2025-09-02T18:18:10.000Z",
+          "wordCount": null,
+          "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
+          "imageUrl": null
+        },
+        {
+          "id": "https://imadr.me/pbr/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://imadr.me/pbr/",
+          "publishedOn": "2025-09-02T18:07:22.000Z",
+          "wordCount": 3802,
+          "title": "Physically based rendering from first principles",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas",
+          "publishedOn": "2025-09-02T17:32:08.000Z",
+          "wordCount": 3001,
+          "title": "Introduction to Ada: a project-based exploration with rosettas",
+          "imageUrl": "https://blog.adacore.com/uploads/_1200x630_crop_center-center_82_none/Screenshot-2025-09-01-at-10.14.06.png?mtime=1756719051"
+        },
+        {
+          "id": "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html",
+          "publishedOn": "2025-09-02T17:24:57.000Z",
+          "wordCount": 3663,
+          "title": "Python has had async for 10 years – why isn't it more popular?",
+          "imageUrl": "https://tonybaloney.github.io/img/posts/fishing-2015.jpg"
+        },
+        {
+          "id": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template",
+          "publishedOn": "2025-09-02T17:16:42.000Z",
+          "wordCount": 3003,
+          "title": "<template>: The Content Template element",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
+          "publishedOn": "2025-09-02T16:53:29.000Z",
+          "wordCount": 2720,
+          "title": "'World Models,' an old idea in AI, mount a comeback",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/09/World-Models-explainer-cr-Nash-Weerasekera-Social.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=45104974",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=45104974",
+          "publishedOn": "2025-09-02T16:08:31.000Z",
+          "wordCount": 3789,
+          "title": "Launch HN: Datafruit (YC S25) – AI for DevOps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+          "publishedOn": "2025-09-02T16:04:15.000Z",
+          "wordCount": 4883,
+          "title": "Anthropic raises $13B Series F",
+          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=cactus"
+        },
+        {
+          "id": "https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/",
+          "publishedOn": "2025-09-02T15:25:44.000Z",
+          "wordCount": 1467,
+          "title": "Static sites enable a good time travel experience",
+          "imageUrl": "https://hamatti.org/assets/img/posts/static-sites-enable-a-good-time-travel-experience/static-sites-enable-a-good-time-travel-experience-cover.png.webp"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/The_staff_ate_it_later",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/The_staff_ate_it_later",
+          "publishedOn": "2025-09-02T15:24:48.000Z",
+          "wordCount": 1605,
+          "title": "The staff ate it later",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Cake_%28and_telop%29.jpg"
+        },
+        {
+          "id": "https://github.com/the-litte-book-of/linear-algebra",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/the-litte-book-of/linear-algebra",
+          "publishedOn": "2025-09-02T14:17:07.000Z",
+          "wordCount": 78287,
+          "title": "The Little Book of Linear Algebra",
+          "imageUrl": "https://opengraph.githubassets.com/8d03776018a8843eb5f149036ea67cfdc24c0ee5f85d53520802693c8c3e110d/the-litte-book-of/linear-algebra"
+        },
+        {
+          "id": "https://dynomight.net/liking/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dynomight.net/liking/",
+          "publishedOn": "2025-09-02T12:56:37.000Z",
+          "wordCount": 2349,
+          "title": "Take something you don’t like and try to like it",
+          "imageUrl": "https://dynomight.net/img/liking/oasis.jpg"
+        },
+        {
+          "id": "https://www.worksinprogress.news/p/torontos-underground-labyrinth",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.worksinprogress.news/p/torontos-underground-labyrinth",
+          "publishedOn": "2025-09-02T11:44:14.000Z",
+          "wordCount": 4328,
+          "title": "Toronto’s network of pedestrian tunnels",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!MIcx!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c49f887-46db-4185-a28e-dba7e14fda6b_1187x1600.png"
+        },
+        {
           "id": "https://github.com/woheller69/FreeDroidWarn",
           "author": null,
           "description": "Comments",
@@ -589,6 +809,16 @@
           "wordCount": 8373,
           "title": "Effective learning: Rules of formulating knowledge (1999)",
           "imageUrl": "https://www.supermemo.com/wp-content/uploads/Projekt-bez-tytulu-2.jpg"
+        },
+        {
+          "id": "https://github.com/gethopp/hopp",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/gethopp/hopp",
+          "publishedOn": "2025-09-01T14:36:11.000Z",
+          "wordCount": 2045,
+          "title": "Show HN: We built an open-source alternative to expensive pair programming apps",
+          "imageUrl": "https://opengraph.githubassets.com/49770a9cf9e990f517fdc359b6979a5fecfe5e076fef8fc92e09b7c17a80417b/gethopp/hopp"
         },
         {
           "id": "https://herman.bearblog.dev/license/",
@@ -831,6 +1061,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf",
+          "publishedOn": "2025-08-31T05:53:19.000Z",
+          "wordCount": 7222,
+          "title": "Still Asking: How Good Are Query Optimizers, Really? [pdf]",
+          "imageUrl": null
+        },
+        {
           "id": "https://drb.ie/articles/a-crack-in-the-cosmos/",
           "author": null,
           "description": "Comments",
@@ -851,6 +1091,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://grist.org/accountability/chicago-lead-pipe-replacement-map-health/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://grist.org/accountability/chicago-lead-pipe-replacement-map-health/",
+          "publishedOn": "2025-08-31T01:27:06.000Z",
+          "wordCount": 8421,
+          "title": "Chicago has the most lead pipes in the nation",
+          "imageUrl": "https://grist.org/wp-content/uploads/2025/08/chi-pb-social-no-title-action-blue-1.png?quality=75&strip=all"
+        },
+        {
           "id": "https://www.abc.net.au/news/2025-08-30/scottish-maclean-brothers-finish-pacific-ocean-row/105711488",
           "author": null,
           "description": "Comments",
@@ -869,6 +1119,16 @@
           "wordCount": 17506,
           "title": "Hurricane category 6 could be introduced under new storm severity scale",
           "imageUrl": "https://cdn.mos.cms.futurecdn.net/7JyGu2bJjB3EyDxZWEgmxS.jpg"
+        },
+        {
+          "id": "https://github.com/krig/LISP",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/krig/LISP",
+          "publishedOn": "2025-08-30T23:35:32.000Z",
+          "wordCount": 2917,
+          "title": "Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)",
+          "imageUrl": "https://opengraph.githubassets.com/7df58449bdb07d8e459842a373d530c9c7169b8d2100e8fc97c0f1f19e22c967/krig/LISP"
         },
         {
           "id": "https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/",
@@ -1021,6 +1281,16 @@
           "imageUrl": "https://andrewmarder.net/og-image/firefox.png"
         },
         {
+          "id": "https://kvachev.com/blog/posts/triangular-grid/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kvachev.com/blog/posts/triangular-grid/",
+          "publishedOn": "2025-08-30T08:46:05.000Z",
+          "wordCount": 4339,
+          "title": "Triangle Grids",
+          "imageUrl": null
+        },
+        {
           "id": "https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24",
           "author": null,
           "description": "Comments",
@@ -1039,6 +1309,16 @@
           "wordCount": null,
           "title": "Show HN: Hacker News em dash user leaderboard pre-ChatGPT",
           "imageUrl": null
+        },
+        {
+          "id": "https://eclecticlight.co/2025/08/29/what-happens-during-startup/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://eclecticlight.co/2025/08/29/what-happens-during-startup/",
+          "publishedOn": "2025-08-30T02:35:00.000Z",
+          "wordCount": 4885,
+          "title": "What happens during startup?",
+          "imageUrl": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200"
         },
         {
           "id": "https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/",
@@ -1199,6 +1479,16 @@
           "wordCount": 666,
           "title": "Flunking my Anthropic interview again",
           "imageUrl": null
+        },
+        {
+          "id": "https://aresluna.org/the-primitive-tortureboard/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aresluna.org/the-primitive-tortureboard/",
+          "publishedOn": "2025-08-29T13:59:33.000Z",
+          "wordCount": 8662,
+          "title": "Untangling the myths and mysteries of Dvorak and QWERTY (2023)",
+          "imageUrl": "https://aresluna.org/images/the-primitive-tortureboard/ogimage.png"
         },
         {
           "id": "https://sosumi.ai/",
@@ -8639,396 +8929,6 @@
           "wordCount": 1466,
           "title": "Apple's history is hiding in a Mac font",
           "imageUrl": "https://www.spacebar.news/content/images/size/w1200/2025/06/cool.jpg"
-        },
-        {
-          "id": "https://benholmen.com/blog/kilopixel/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://benholmen.com/blog/kilopixel/",
-          "publishedOn": "2025-08-04T16:16:21.000Z",
-          "wordCount": 2258,
-          "title": "Show HN: I spent 6 years building a ridiculous wooden pixel display",
-          "imageUrl": "https://benholmen.com/assets/images/kilopixel/open-graph.jpg?v=3"
-        },
-        {
-          "id": "https://qwenlm.github.io/blog/qwen-image/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://qwenlm.github.io/blog/qwen-image/",
-          "publishedOn": "2025-08-04T15:56:40.000Z",
-          "wordCount": 2527,
-          "title": "Qwen-Image: Crafting with native text rendering",
-          "imageUrl": "https://qwenlm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"
-        },
-        {
-          "id": "https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/",
-          "publishedOn": "2025-08-04T15:41:30.000Z",
-          "wordCount": 4301,
-          "title": "Customizing tmux",
-          "imageUrl": "https://avatars.githubusercontent.com/u/13444626?v=4"
-        },
-        {
-          "id": "https://docs.sidequestjs.com/quick-start",
-          "author": null,
-          "description": "Comments",
-          "link": "https://docs.sidequestjs.com/quick-start",
-          "publishedOn": "2025-08-04T15:39:49.000Z",
-          "wordCount": 392,
-          "title": "Show HN: Sidequest.js – Background jobs for Node.js using your database",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dustri.org/b/objects-should-shut-the-fuck-up.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dustri.org/b/objects-should-shut-the-fuck-up.html",
-          "publishedOn": "2025-08-04T14:33:49.000Z",
-          "wordCount": 1114,
-          "title": "Objects should shut up",
-          "imageUrl": null
-        },
-        {
-          "id": "https://v8.dev/blog/json-stringify",
-          "author": null,
-          "description": "Comments",
-          "link": "https://v8.dev/blog/json-stringify",
-          "publishedOn": "2025-08-04T14:09:33.000Z",
-          "wordCount": 1538,
-          "title": "How we made JSON.stringify more than twice as fast",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/",
-          "publishedOn": "2025-08-04T13:39:30.000Z",
-          "wordCount": 1706,
-          "title": "Perplexity is using stealth, undeclared crawlers to evade no-crawl directives",
-          "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/CAg8zDXkzESGOfvtxj5U3/bf4bd12b4820cd561579f99b6946b36b/Perplexity_is_using_stealth__undeclared_crawlers_to_evade_website_no-crawl_directives-OG.png"
-        },
-        {
-          "id": "https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html",
-          "publishedOn": "2025-08-04T13:05:08.000Z",
-          "wordCount": 4183,
-          "title": "My Ideal Array Language",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/",
-          "publishedOn": "2025-08-04T12:51:20.000Z",
-          "wordCount": 1490,
-          "title": "Century-old stone “tsunami stones” dot Japan's coastline (2015)",
-          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/r5JSoyOEjghGrBMBtR526hMPoVQ=/fit-in/1200x0/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler%2F00%2F23%2F0023bf4e-a8b1-446f-be9c-3a2c5c279e89%2F.jpg"
-        },
-        {
-          "id": "https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf",
-          "publishedOn": "2025-08-04T12:48:19.000Z",
-          "wordCount": 70636,
-          "title": "Is the interstellar object 3I/ATLAS alien technology? [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html",
-          "publishedOn": "2025-08-04T12:10:22.000Z",
-          "wordCount": 1384,
-          "title": "DrawAFish.com Postmortem",
-          "imageUrl": "https://aldenhallak.github.io/blog/images/drawafish-hero.jpg"
-        },
-        {
-          "id": "https://blog.broulik.de/2025/08/on-window-activation/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.broulik.de/2025/08/on-window-activation/",
-          "publishedOn": "2025-08-04T12:03:24.000Z",
-          "wordCount": 2621,
-          "title": "Window Activation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44784619",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=44784619",
-          "publishedOn": "2025-08-04T11:56:30.000Z",
-          "wordCount": 217,
-          "title": "Ask HN: Has any of the Pivotal Tracker replacement attempts succeeded?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://git.urbach.dev/cli/q",
-          "author": null,
-          "description": "Comments",
-          "link": "https://git.urbach.dev/cli/q",
-          "publishedOn": "2025-08-04T11:07:10.000Z",
-          "wordCount": 1515,
-          "title": "The Q Programming Language",
-          "imageUrl": "https://git.urbach.dev/cli/q/-/summary-card"
-        },
-        {
-          "id": "https://www.c0de517e.com/024_meshblend.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.c0de517e.com/024_meshblend.htm",
-          "publishedOn": "2025-08-04T10:58:27.000Z",
-          "wordCount": 2319,
-          "title": "Fun with MeshBlend",
-          "imageUrl": null
-        },
-        {
-          "id": "https://map-yue.github.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://map-yue.github.io/",
-          "publishedOn": "2025-08-04T10:46:02.000Z",
-          "wordCount": 6999,
-          "title": "Open music foundation models for full-song generation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html",
-          "publishedOn": "2025-08-04T08:53:15.000Z",
-          "wordCount": 7429,
-          "title": "Writing a storage engine for Postgres: An in-memory table access method (2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://e-dorigatti.github.io/math/2023/11/01/queue-length.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://e-dorigatti.github.io/math/2023/11/01/queue-length.html",
-          "publishedOn": "2025-08-04T04:55:11.000Z",
-          "wordCount": 1759,
-          "title": "What is the average length of a queue of cars? (2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/easrng/tsints",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/easrng/tsints",
-          "publishedOn": "2025-08-04T02:12:58.000Z",
-          "wordCount": 1449,
-          "title": "A parser for TypeScript types, written in TypeScript types",
-          "imageUrl": "https://opengraph.githubassets.com/3f63f139794668557d139d1a0d5ea35e1fac6b3e240c402a8f5ad2cc8c4d8c81/easrng/tsints"
-        },
-        {
-          "id": "https://every.to/feeds/b0e329f3048258e8eeb7/the-man-who-beat-ibm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://every.to/feeds/b0e329f3048258e8eeb7/the-man-who-beat-ibm",
-          "publishedOn": "2025-08-04T01:31:42.000Z",
-          "wordCount": 11060,
-          "title": "A Man Who Beat IBM",
-          "imageUrl": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/social_media_image/3640/full_page_cover_Screenshot_2025-06-13_at_9.50.43_AM.png"
-        },
-        {
-          "id": "https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25",
-          "publishedOn": "2025-08-04T00:57:21.000Z",
-          "wordCount": 1703,
-          "title": "Poorest US workers hit hardest by slowing wage growth",
-          "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdf46e184-6a7d-44bb-8f31-3d34ae88b67f.jpg?source=next-barrier-page"
-        },
-        {
-          "id": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers",
-          "publishedOn": "2025-08-04T00:41:28.000Z",
-          "wordCount": 55985,
-          "title": "Why doctors hate their computers (2018)",
-          "imageUrl": "https://media.newyorker.com/photos/5bda2d856c206635ce04893c/16:9/w_1280,c_limit/181112_r33197.jpg"
-        },
-        {
-          "id": "https://solmaz.io/typed-languages-are-better-suited-for-vibecoding",
-          "author": null,
-          "description": "Comments",
-          "link": "https://solmaz.io/typed-languages-are-better-suited-for-vibecoding",
-          "publishedOn": "2025-08-03T23:55:31.000Z",
-          "wordCount": 404,
-          "title": "Typed languages are better suited for vibecoding",
-          "imageUrl": null
-        },
-        {
-          "id": "https://worrydream.com/LearnableProgramming/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://worrydream.com/LearnableProgramming/",
-          "publishedOn": "2025-08-03T22:57:22.000Z",
-          "wordCount": 9584,
-          "title": "Learnable Programming (2012)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/",
-          "publishedOn": "2025-08-03T22:55:28.000Z",
-          "wordCount": 3137,
-          "title": "Names are not type safety (2020)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://howtogrowalmostanything.notion.site/htgaa25",
-          "author": null,
-          "description": "Comments",
-          "link": "https://howtogrowalmostanything.notion.site/htgaa25",
-          "publishedOn": "2025-08-03T22:55:05.000Z",
-          "wordCount": 128,
-          "title": "How to grow almost anything",
-          "imageUrl": "https://www.notion.so/images/meta/default.png"
-        },
-        {
-          "id": "https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth",
-          "publishedOn": "2025-08-03T22:50:53.000Z",
-          "wordCount": 4121,
-          "title": "A study of lights at night suggests dictators lie about economic growth (2022)",
-          "imageUrl": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221001_WOT915.png"
-        },
-        {
-          "id": "https://www.science.org/content/article/human-speech-may-have-universal-transmission-rate-39-bits-second",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.science.org/content/article/human-speech-may-have-universal-transmission-rate-39-bits-second",
-          "publishedOn": "2025-08-03T22:27:57.000Z",
-          "wordCount": null,
-          "title": "Human speech may have a universal transmission rate (2019)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://eliot-jones.com/2025/8/pdf-parsing-xref",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eliot-jones.com/2025/8/pdf-parsing-xref",
-          "publishedOn": "2025-08-03T22:24:29.000Z",
-          "wordCount": 1601,
-          "title": "So you want to parse a PDF?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/",
-          "publishedOn": "2025-08-03T21:09:02.000Z",
-          "wordCount": 2800,
-          "title": "\"If you can rack it, you can run UniFi OS\" Ubiquiti self-hosted UniFi OS release",
-          "imageUrl": "https://deluisio.com/wp-content/uploads/2024/08/IMG_2849-1-scaled.jpg"
-        },
-        {
-          "id": "https://grantslatton.com/how-to-design-document",
-          "author": null,
-          "description": "Comments",
-          "link": "https://grantslatton.com/how-to-design-document",
-          "publishedOn": "2025-08-03T20:21:54.000Z",
-          "wordCount": 1209,
-          "title": "Writing a good design document",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming",
-          "publishedOn": "2025-08-03T19:49:34.000Z",
-          "wordCount": 1747,
-          "title": "Shrinking freshwater availability increasing land contribution to sea level rise",
-          "imageUrl": "https://news.asu.edu/sites/g/files/litvpz161/files/2025-07/GFL%20ASU%20News%20global%20freshwater-1.jpg"
-        },
-        {
-          "id": "https://kashw1n.com/blog/nodejs-2025/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kashw1n.com/blog/nodejs-2025/",
-          "publishedOn": "2025-08-03T19:16:18.000Z",
-          "wordCount": 2793,
-          "title": "Modern Node.js Patterns",
-          "imageUrl": null
-        },
-        {
-          "id": "https://comptime.js.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://comptime.js.org/",
-          "publishedOn": "2025-08-03T19:11:40.000Z",
-          "wordCount": 1865,
-          "title": "Comptime.ts: compile-time expressions for TypeScript",
-          "imageUrl": "https://comptime.js.org/comptime.ts.jpg"
-        },
-        {
-          "id": "https://www.classcentral.com/report/coursera-preview-mode-paywall/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.classcentral.com/report/coursera-preview-mode-paywall/",
-          "publishedOn": "2025-08-03T17:23:21.000Z",
-          "wordCount": 4519,
-          "title": "The Day MOOCs Died: Coursera's Preview Mode Kills Free Learning",
-          "imageUrl": "https://www.classcentral.com/report/wp-content/uploads/2025/07/coursera-preview-header.png"
-        },
-        {
-          "id": "https://www.runconverge.com/careers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.runconverge.com/careers",
-          "publishedOn": "2025-08-03T17:00:32.000Z",
-          "wordCount": 3892,
-          "title": "Converge (YC S23) well-capitalized New York startup seeks product developers",
-          "imageUrl": "https://framerusercontent.com/images/3V0Xdeg96Vc6dgGym4vV3KQM3Q.png"
-        },
-        {
-          "id": "https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/",
-          "publishedOn": "2025-08-03T16:49:08.000Z",
-          "wordCount": null,
-          "title": "UN report finds UN reports are not widely read",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thenewstack.io/how-python-grew-from-a-language-to-a-community/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thenewstack.io/how-python-grew-from-a-language-to-a-community/",
-          "publishedOn": "2025-08-03T16:38:53.000Z",
-          "wordCount": null,
-          "title": "How Python grew from a language to a community",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.anthropic.com/research/persona-vectors",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.anthropic.com/research/persona-vectors",
-          "publishedOn": "2025-08-03T16:38:06.000Z",
-          "wordCount": 6868,
-          "title": "Persona vectors: Monitoring and controlling character traits in language models",
-          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/98b0b9adba1414ee8d544a9a12762b39cce39d3a-2401x1261.png"
         }
       ]
     },
@@ -9408,21 +9308,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/sea-cucumbers-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/health-disease/2025/how-climate-change-threatens-eye-health",
-          "author": "Sanket Jain",
-          "description": "Cataracts, pink eye and other ocular disorders are linked to heat, air pollution and higher UV exposure",
-          "link": "https://knowablemagazine.org/content/article/health-disease/2025/how-climate-change-threatens-eye-health",
-          "publishedOn": "2025-08-04T04:49:00.564Z",
-          "wordCount": 2939,
-          "title": "How climate change threatens eye health",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/eye-disorders-heat-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/eye-disorders-heat-500x288.jpg"
         }
       ]
     },
