@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389371",
+          "author": "Amit Sheen",
+          "description": "Starting in Chrome 140, we'll be able to calculate numeric values with mixed data types. Sounds small, but Amit demonstrates how big a deal this is, calling it Computational CSS.\nCSS Typed Arithmetic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-typed-arithmetic/",
+          "publishedOn": "2025-09-24T12:49:22.000Z",
+          "wordCount": 3970,
+          "title": "CSS Typed Arithmetic",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/09/swirl.mp4",
+            "length": "14785658",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/css-types-arithmetic.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=389157",
           "author": "Geoff Graham",
           "description": "A set of notes taken from Eric Bailey's article about the use of inclusive personas and user research.\nOn inclusive personas and inclusive user research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -125,16 +140,6 @@
           "wordCount": 2653,
           "title": "A Radio Button Shopping Cart Trick",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/add-to-cart-animation.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388519",
-          "author": "Andy Clarke",
-          "description": "Images in long-form content can (and often should) do more than illustrate. They help set the pace, influence how readers feel, and add character that words alone can’t always convey.\nGetting Creative With Images in Long-Form Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-creative-with-images-in-long-form-content/",
-          "publishedOn": "2025-08-25T17:16:35.000Z",
-          "wordCount": 3068,
-          "title": "Getting Creative With Images in Long-Form Content",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/image-long-form-content-caption.jpg"
         }
       ]
     },
@@ -143,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/",
+          "author": "hello@smashingmagazine.com (Yegor Gilyov)",
+          "description": "Yegor Gilyov examines the problem of over-reliance on static high-fidelity mockups, which often leave the conceptual model and user flows dangerously underdeveloped. He then explores whether AI-powered prototyping is the answer, questioning whether the path forward is the popular “vibe coding” approach or a more structured, intent-driven approach.",
+          "link": "https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/",
+          "publishedOn": "2025-09-24T17:00:00.000Z",
+          "wordCount": 5427,
+          "title": "Intent Prototyping: The Allure And Danger Of Pure Vibe Coding In Enterprise UX (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/intent-prototyping-pure-vibe-coding-enterprise-ux/intent-prototyping-pure-vibe-coding-enterprise-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/intent-prototyping-pure-vibe-coding-enterprise-ux/intent-prototyping-pure-vibe-coding-enterprise-ux.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/",
           "author": "hello@smashingmagazine.com (Andy Clarke)",
@@ -322,21 +342,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-tv-evergreen-pattern-shapes-tv-experiences/designing-tv-evergreen-pattern-shapes-tv-experiences.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/",
-          "author": "hello@smashingmagazine.com (Declan Chidlow)",
-          "description": "Progressive Web Apps (PWAs) are a great way to make apps built for the web feel native, but in moving away from a browser environment, we can introduce usability issues. This article covers how we can modify our app depending on what display mode is applied to mitigate these issues.",
-          "link": "https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/",
-          "publishedOn": "2025-08-26T08:00:00.000Z",
-          "wordCount": 4593,
-          "title": "Optimizing PWAs For Different Display Modes",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/optimizing-pwas-different-display-modes/optimizing-pwas-different-display-modes.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/optimizing-pwas-different-display-modes/optimizing-pwas-different-display-modes.jpg"
         }
       ]
     },
@@ -345,6 +350,256 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.newsweek.com/homeowner-baffled-washing-machine-uses-3-6gb-internet-1862675",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newsweek.com/homeowner-baffled-washing-machine-uses-3-6gb-internet-1862675",
+          "publishedOn": "2025-09-25T01:24:33.000Z",
+          "wordCount": 30112,
+          "title": "Homeowner baffled after washing machine uses 3.6GB of internet data a day (2024)",
+          "imageUrl": "https://assets.newsweek.com/wp-content/uploads/2025/08/2338685-washing-machine.png?w=1200crop=1"
+        },
+        {
+          "id": "https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal",
+          "author": null,
+          "description": "Comments",
+          "link": "https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal",
+          "publishedOn": "2025-09-24T23:15:38.000Z",
+          "wordCount": null,
+          "title": "How did sports betting become legal in the US?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9",
+          "publishedOn": "2025-09-24T23:15:33.000Z",
+          "wordCount": 3181,
+          "title": "Docker Hub Is Down",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/early-decision",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/early-decision",
+          "publishedOn": "2025-09-24T23:12:38.000Z",
+          "wordCount": 669,
+          "title": "Do YC after you graduate: Early decision for students",
+          "imageUrl": "https://www.ycombinator.com/assets/ycdc/yc-og-image-388122369d4a469cdbbe4f7b4e6d8def42cd78c9334f38969f23106b1e61c91c.png"
+        },
+        {
+          "id": "https://helium.computer/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://helium.computer/",
+          "publishedOn": "2025-09-24T22:51:16.000Z",
+          "wordCount": 997,
+          "title": "Helium Browser",
+          "imageUrl": "./embed.png"
+        },
+        {
+          "id": "https://bitbytebit.substack.com/p/everything-thats-wrong-with-google",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bitbytebit.substack.com/p/everything-thats-wrong-with-google",
+          "publishedOn": "2025-09-24T22:11:48.000Z",
+          "wordCount": null,
+          "title": "Everything that's wrong with Google Search in one image",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite",
+          "publishedOn": "2025-09-24T22:01:06.000Z",
+          "wordCount": 121,
+          "title": "Snapdragon X2 Elite ARM Laptop CPU",
+          "imageUrl": "https://s7d1.scene7.com/is/image/dmqualcommprod/x2-elite-social-badge-gold"
+        },
+        {
+          "id": "https://github.com/goudvuur/sonyshell",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/goudvuur/sonyshell",
+          "publishedOn": "2025-09-24T21:00:00.000Z",
+          "wordCount": 2323,
+          "title": "SonyShell – An effort to “SSH into my Sony DSLR”",
+          "imageUrl": "https://opengraph.githubassets.com/4bbecce55973030d95ff546eaa1daf990e0c1f18c5f14697909d34916405f3e1/goudvuur/sonshell"
+        },
+        {
+          "id": "https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv",
+          "publishedOn": "2025-09-24T18:48:39.000Z",
+          "wordCount": 5349,
+          "title": "How fast is Go? simulating particles on a smart TV",
+          "imageUrl": "https://dgerrells.com/images/how-fast-go.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=45362914",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=45362914",
+          "publishedOn": "2025-09-24T16:48:27.000Z",
+          "wordCount": 4095,
+          "title": "Launch HN: Flywheel (YC S25) – Waymo for Excavators",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@tao/115259943398316677",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mathstodon.xyz/@tao/115259943398316677",
+          "publishedOn": "2025-09-24T16:32:24.000Z",
+          "wordCount": 126,
+          "title": "Terence Tao: The role of small organizations in society has shrunk significantly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/",
+          "publishedOn": "2025-09-24T16:03:42.000Z",
+          "wordCount": 2172,
+          "title": "New bacteria, and two potential antibiotics, discovered in soil",
+          "imageUrl": "https://www.rockefeller.edu/news/uploads/www.rockefeller.edu/sites/13/2025/09/Brady_81325_HERO.jpg"
+        },
+        {
+          "id": "https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/",
+          "publishedOn": "2025-09-24T16:00:45.000Z",
+          "wordCount": 2779,
+          "title": "SedonaDB: A new geospatial DataFrame library written in Rust",
+          "imageUrl": null
+        },
+        {
+          "id": "https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly",
+          "publishedOn": "2025-09-24T15:48:36.000Z",
+          "wordCount": 14357,
+          "title": "Python on the Edge: Fast, sandboxed, and powered by WebAssembly",
+          "imageUrl": "https://cdn.wasmer.io/original_images/python-wasmer-edge.png"
+        },
+        {
+          "id": "https://lukefleed.xyz/posts/compressed-fixedvec/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lukefleed.xyz/posts/compressed-fixedvec/",
+          "publishedOn": "2025-09-24T15:17:08.000Z",
+          "wordCount": 7299,
+          "title": "Engineering a fixed-width bit-packed integer vector in Rust",
+          "imageUrl": "https://lukefleed.xyz/assets/fixedvec.svg"
+        },
+        {
+          "id": "https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/",
+          "publishedOn": "2025-09-24T15:03:59.000Z",
+          "wordCount": 1652,
+          "title": "How to be a leader when the vibes are off",
+          "imageUrl": "https://chaoticgood.management/content/images/2025/09/5194541408_fc2be6d039_k.jpg"
+        },
+        {
+          "id": "https://github.com/JerryZLiu/Dayflow",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/JerryZLiu/Dayflow",
+          "publishedOn": "2025-09-24T14:53:57.000Z",
+          "wordCount": 6884,
+          "title": "Show HN: Dayflow – A git log for your day",
+          "imageUrl": "https://repository-images.githubusercontent.com/1062234789/470c14f0-42bc-4a7f-988b-3d44ffbd01a5"
+        },
+        {
+          "id": "https://spectrum.ieee.org/hyperspectral-imaging",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/hyperspectral-imaging",
+          "publishedOn": "2025-09-24T14:20:33.000Z",
+          "wordCount": 10001,
+          "title": "Smartphone Cameras Go Hyperspectral",
+          "imageUrl": "https://spectrum.ieee.org/media-library/image.jpg?id=61625667&width=1200&height=600&coordinates=0%2C25%2C0%2C775"
+        },
+        {
+          "id": "https://aartaka.me/select-text.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aartaka.me/select-text.html",
+          "publishedOn": "2025-09-24T13:56:37.000Z",
+          "wordCount": 858,
+          "title": "Just let me select text",
+          "imageUrl": null
+        },
+        {
+          "id": "https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts",
+          "author": null,
+          "description": "Comments",
+          "link": "https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts",
+          "publishedOn": "2025-09-24T12:52:52.000Z",
+          "wordCount": 4925,
+          "title": "How to Lead in a Room Full of Experts",
+          "imageUrl": "https://cdn.idiallo.com/images/assets/556/thumb.jpg"
+        },
+        {
+          "id": "https://cjauvin.github.io/posts/learning-persian/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cjauvin.github.io/posts/learning-persian/",
+          "publishedOn": "2025-09-24T12:45:07.000Z",
+          "wordCount": 1394,
+          "title": "Learning Persian with Anki, ChatGPT and YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/issues/22",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/issues/22",
+          "publishedOn": "2025-09-24T11:52:50.000Z",
+          "wordCount": 5457,
+          "title": "EU age verification app not planning desktop support",
+          "imageUrl": "https://opengraph.githubassets.com/edc08a4d0892adaa4c065bb05a256f0e68bb089b954eda9cd653f7702dde8039/eu-digital-identity-wallet/av-doc-technical-specification/issues/22"
+        },
+        {
+          "id": "https://github.com/yt-dlp/yt-dlp/issues/14404",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/yt-dlp/yt-dlp/issues/14404",
+          "publishedOn": "2025-09-24T11:41:54.000Z",
+          "wordCount": 2849,
+          "title": "Yt-dlp: Upcoming new requirements for YouTube downloads",
+          "imageUrl": "https://opengraph.githubassets.com/9c7945c6d1643400dfb54c821ee92d2b535ee780e8ca25fb927eb0cc13eea874/yt-dlp/yt-dlp/issues/14404"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cevz13xkxpro",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/articles/cevz13xkxpro",
+          "publishedOn": "2025-09-24T11:37:30.000Z",
+          "wordCount": 7678,
+          "title": "Huntington's disease treated for first time",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/63cd/live/66dcf740-98c2-11f0-94c0-d393b11c46d7.jpg"
+        },
+        {
+          "id": "https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives",
+          "publishedOn": "2025-09-24T10:05:29.000Z",
+          "wordCount": 8358,
+          "title": "How AWS S3 serves 1 petabyte per second on top of slow HDDs",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!CqEG!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c663f78-f119-45d7-83e8-fb4268dae83f_1456x1048.png"
+        },
         {
           "id": "https://www.ft.com/content/e93e56df-dd9b-40c1-b77a-dba1ca01e473",
           "author": null,
@@ -706,6 +961,16 @@
           "imageUrl": "https://www.pavlinbg.com/assets/images/profilePhoto.png"
         },
         {
+          "id": "https://platform.leolabs.space/visualization",
+          "author": null,
+          "description": "Comments",
+          "link": "https://platform.leolabs.space/visualization",
+          "publishedOn": "2025-09-22T18:11:14.000Z",
+          "wordCount": 205,
+          "title": "Low Earth Orbit Visualization",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/QwenLM/Qwen3-Omni",
           "author": null,
           "description": "Comments",
@@ -1056,6 +1321,36 @@
           "imageUrl": "https://martinalderson.com/img/og/what-happens-when-coding-agents-stop-feeling-like-dialup.png"
         },
         {
+          "id": "https://idea-instructions.com/quick-sort/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://idea-instructions.com/quick-sort/",
+          "publishedOn": "2025-09-21T11:35:21.000Z",
+          "wordCount": 180,
+          "title": "Quicksort explained IKEA-style",
+          "imageUrl": "https://idea-instructions.com/quick-sort.png"
+        },
+        {
+          "id": "https://www.ufried.com/blog/business_processes/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ufried.com/blog/business_processes/",
+          "publishedOn": "2025-09-21T08:09:29.000Z",
+          "wordCount": 3771,
+          "title": "The (Business) Process Deadlock",
+          "imageUrl": "https://ufried.com//images/logo.png"
+        },
+        {
+          "id": "https://computer.rip/2025-09-20-T-carrier.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://computer.rip/2025-09-20-T-carrier.html",
+          "publishedOn": "2025-09-21T07:30:36.000Z",
+          "wordCount": 3853,
+          "title": "History of Telecommunications T-Carrier",
+          "imageUrl": "https://computer.rip/static/social-icon.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45320757",
           "author": null,
           "description": "Comments",
@@ -1074,6 +1369,16 @@
           "wordCount": 879,
           "title": "How is einx notation universal?",
           "imageUrl": null
+        },
+        {
+          "id": "https://kids.kiddle.co/Kirkwood_gap",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kids.kiddle.co/Kirkwood_gap",
+          "publishedOn": "2025-09-21T04:03:35.000Z",
+          "wordCount": 741,
+          "title": "Kirkwood Gap Facts for Kids",
+          "imageUrl": "https://kids.kiddle.co/images/thumb/6/64/Kirkwood_Gaps.png/300px-Kirkwood_Gaps.png"
         },
         {
           "id": "https://www.ifixit.com/News/113171/iphone-air-teardown",
@@ -8614,266 +8919,6 @@
           "wordCount": null,
           "title": "Undisclosed financial conflicts of interest in DSM-5 (2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://byte.tsundoku.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://byte.tsundoku.io/",
-          "publishedOn": "2025-08-26T15:34:55.000Z",
-          "wordCount": 584,
-          "title": "Show HN: A zoomable, searchable archive of BYTE magazine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.astralcodexten.com/p/in-search-of-ai-psychosis",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.astralcodexten.com/p/in-search-of-ai-psychosis",
-          "publishedOn": "2025-08-26T14:30:50.000Z",
-          "wordCount": 8310,
-          "title": "In Search of AI Psychosis",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!G3Dp!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F099fe1fa-08db-440a-a21a-90cbc0367d65_300x168.png"
-        },
-        {
-          "id": "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html",
-          "publishedOn": "2025-08-26T14:15:54.000Z",
-          "wordCount": null,
-          "title": "A teen was suicidal. ChatGPT was the friend he confided in",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all",
-          "publishedOn": "2025-08-26T14:07:42.000Z",
-          "wordCount": 4483,
-          "title": "One universal antiviral to rule them all?",
-          "imageUrl": "https://www.cuimc.columbia.edu/sites/default/files/styles/cola_media_1280_16_9/public/media/general/2024-04/bogunovic-7400756-min.jpeg?itok=TO4VTdLq"
-        },
-        {
-          "id": "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/",
-          "publishedOn": "2025-08-26T14:01:46.000Z",
-          "wordCount": 1446,
-          "title": "Gemini 2.5 Flash Image",
-          "imageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini2.5Flash-16x9-Alt_RD1-V01.2e16d0ba.fill-1200x600.jpg"
-        },
-        {
-          "id": "https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/",
-          "publishedOn": "2025-08-26T13:07:11.000Z",
-          "wordCount": 3005,
-          "title": "Why You Should Be Using XSLT 3.0 (2017)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://andrewpwheeler.com/2025/08/26/reloading-classes-in-python-and-shared-borders/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://andrewpwheeler.com/2025/08/26/reloading-classes-in-python-and-shared-borders/",
-          "publishedOn": "2025-08-26T11:12:56.000Z",
-          "wordCount": 4295,
-          "title": "Reloading Classes in Python",
-          "imageUrl": "https://raw.githubusercontent.com/apwheele/Blog_Code/refs/heads/master/Python/OutlierProportion/FunnelProportion.png"
-        },
-        {
-          "id": "https://stratechery.com/2025/u-s-intel/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://stratechery.com/2025/u-s-intel/",
-          "publishedOn": "2025-08-26T10:47:46.000Z",
-          "wordCount": 6087,
-          "title": "US Intel",
-          "imageUrl": "https://stratechery.com/wp-content/uploads/2020/05/tsmc-2.png"
-        },
-        {
-          "id": "https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev",
-          "author": null,
-          "description": "Comments",
-          "link": "https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev",
-          "publishedOn": "2025-08-26T08:34:15.000Z",
-          "wordCount": 1179,
-          "title": "Object-oriented design patterns in C and kernel development",
-          "imageUrl": "https://cdn.oshub.org/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6IjBhNTE5MzQ4LWIwZjMtNGVmYS1hYTgxLTFlODdmZmE2OGNmMyIsInB1ciI6ImJsb2JfaWQifX0=--4c0890894842e3ae094c17a2ed56ee45d7aead50/Screenshot%202025-08-20%20181545.png"
-        },
-        {
-          "id": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/",
-          "publishedOn": "2025-08-26T08:15:49.000Z",
-          "wordCount": 838,
-          "title": "Rv, a new kind of Ruby management tool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://english.elpais.com/economy-and-business/2025-08-25/us-retail-giants-raise-prices-and-seek-new-import-sources-due-to-tariffs.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://english.elpais.com/economy-and-business/2025-08-25/us-retail-giants-raise-prices-and-seek-new-import-sources-due-to-tariffs.html",
-          "publishedOn": "2025-08-26T03:28:36.000Z",
-          "wordCount": 4472,
-          "title": "US retail giants raise prices due to tariffs",
-          "imageUrl": "https://imagenes.elpais.com/resizer/v2/I3ESDW3VXBG4ZF5TXSVPTWXN7Q.jpg?auth=ef507c570dd7ff10c058923739478352aec82a9ae6e56ce1168344c44fed1146&width=1200"
-        },
-        {
-          "id": "https://infrequently.org/2025/08/apple-vs-fb-kayfabe/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://infrequently.org/2025/08/apple-vs-fb-kayfabe/",
-          "publishedOn": "2025-08-26T01:37:28.000Z",
-          "wordCount": 3530,
-          "title": "Apple vs. Facebook Is Kayfabe",
-          "imageUrl": "https://infrequently.org/2025/08/apple-vs-fb-kayfabe/claudia-raya-wrestling-unsplash-small.jpg"
-        },
-        {
-          "id": "https://scottstuff.net/posts/2025/05/19/ntp-limits/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://scottstuff.net/posts/2025/05/19/ntp-limits/",
-          "publishedOn": "2025-08-26T01:02:59.000Z",
-          "wordCount": 3950,
-          "title": "The Limits of NTP Accuracy on Linux",
-          "imageUrl": "https://scottstuff.net/logo.png"
-        },
-        {
-          "id": "https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls",
-          "publishedOn": "2025-08-26T00:37:42.000Z",
-          "wordCount": null,
-          "title": "Climbing catfish filmed scaling waterfalls",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons",
-          "author": null,
-          "description": "Comments",
-          "link": "https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons",
-          "publishedOn": "2025-08-26T00:03:25.000Z",
-          "wordCount": 1051,
-          "title": "macOS 26 Tahoe's Dead Canary Utility App Icons",
-          "imageUrl": "https://daringfireball.net/graphics/df-wide-card.png"
-        },
-        {
-          "id": "https://github.com/MaliosDark/wifi-3d-fusion",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/MaliosDark/wifi-3d-fusion",
-          "publishedOn": "2025-08-25T23:26:42.000Z",
-          "wordCount": 16960,
-          "title": "WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi",
-          "imageUrl": "https://repository-images.githubusercontent.com/1041039196/ac401968-2dc8-417c-8738-899d5f5b9e03"
-        },
-        {
-          "id": "https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/",
-          "publishedOn": "2025-08-25T22:31:50.000Z",
-          "wordCount": null,
-          "title": "Exploring the tragedy of the Counter-Strike 2 server browser",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md",
-          "publishedOn": "2025-08-25T22:05:34.000Z",
-          "wordCount": 848,
-          "title": "iOS 18.6.1 0-click RCE POC",
-          "imageUrl": "https://opengraph.githubassets.com/3281b34c4b551a7cfc64dd3d1dfd7af1c7ade974d3caa941704047947d81a814/b1n4r1b01/n-days"
-        },
-        {
-          "id": "https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of",
-          "author": null,
-          "description": "Comments",
-          "link": "https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of",
-          "publishedOn": "2025-08-25T20:47:10.000Z",
-          "wordCount": null,
-          "title": "Blacksky grew to millions of users without spending a dollar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis",
-          "publishedOn": "2025-08-25T20:20:35.000Z",
-          "wordCount": 478,
-          "title": "Reverse Engineering All the Raspberry Pis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/zserge/fenster",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/zserge/fenster",
-          "publishedOn": "2025-08-25T19:41:51.000Z",
-          "wordCount": 2426,
-          "title": "Fenster: Most minimal cross-platform GUI library",
-          "imageUrl": "https://opengraph.githubassets.com/dd8f210ffa5a08f78af39f3477b5a7f3f76174322d2165fc026f6d13f98a73ae/zserge/fenster"
-        },
-        {
-          "id": "https://www.ducktyped.org/p/a-mini-book-on-aws-networking-introduction",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ducktyped.org/p/a-mini-book-on-aws-networking-introduction",
-          "publishedOn": "2025-08-25T19:15:02.000Z",
-          "wordCount": 1341,
-          "title": "A mini-book on AWS networking",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!OKBy!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99e0e000-ef13-4e13-a9b9-bc2d73487c5b_1482x956.heic"
-        },
-        {
-          "id": "https://9to5google.com/2025/08/25/android-apps-developer-verification/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://9to5google.com/2025/08/25/android-apps-developer-verification/",
-          "publishedOn": "2025-08-25T18:18:18.000Z",
-          "wordCount": 3195,
-          "title": "Google will allow only apps from verified developers to be installed on Android",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/Android-Bot-minifig-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://blog.rubygems.org/2025/08/25/rubygems-security-response.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.rubygems.org/2025/08/25/rubygems-security-response.html",
-          "publishedOn": "2025-08-25T18:02:51.000Z",
-          "wordCount": 959,
-          "title": "How RubyGems.org protects OSS infrastructure",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips",
-          "author": null,
-          "description": "Comments",
-          "link": "https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips",
-          "publishedOn": "2025-08-25T17:57:18.000Z",
-          "wordCount": 3647,
-          "title": "Google's Liquid Cooling",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!nH5V!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F175b8f8a-00fb-48e0-a742-dd90e1a5937a_1574x840.png"
-        },
-        {
-          "id": "https://lithub.com/will-bardenwerper-on-baseballs-betrayal-of-its-minor-league-roots/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lithub.com/will-bardenwerper-on-baseballs-betrayal-of-its-minor-league-roots/",
-          "publishedOn": "2025-08-25T17:46:15.000Z",
-          "wordCount": 4034,
-          "title": "Will Bardenwerper on Baseball's Betrayal of Its Minor League Roots",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/08/banner-FNF49.png"
         }
       ]
     },
@@ -9283,21 +9328,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/gender-violence-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/physical-world/2025/studying-the-world-an-attosecond-at-a-time",
-          "author": "Ivan Amato",
-          "description": "An attosecond is no time at all for a person. Not so for electrons, atoms and molecules. Laser-wielding scientists are revealing the action.",
-          "link": "https://knowablemagazine.org/content/article/physical-world/2025/studying-the-world-an-attosecond-at-a-time",
-          "publishedOn": "2025-08-26T04:38:45.300Z",
-          "wordCount": 5620,
-          "title": "Watching the world, one quintillionth of a second at a time",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/attosecond-science-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/attosecond-science-500x288.jpg"
         }
       ]
     },
@@ -9391,16 +9421,6 @@
           "publishedOn": "2025-09-01T08:35:38.000Z",
           "wordCount": 12095,
           "title": "YouTube Australia partners with Tropfest to support a new wave of Australian filmmakers and creators - The Keyword",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMickFVX3lxTE1Fby1sUkRQSThmSWR1NHhfU21EbXB4eFZVZDVuT0FJRDZsU0NGZkxNVjVtTGNzbmVhNW5lUjZXUzNsYUhqWXRodGwtTERiczNKZ2ktbzAyT29PYzZxSHBSekM5S0JNZDJGUmtaN3RFMThNdw",
-          "author": null,
-          "description": "Image editing in Gemini just got a major upgrade  The Keyword",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Fby1sUkRQSThmSWR1NHhfU21EbXB4eFZVZDVuT0FJRDZsU0NGZkxNVjVtTGNzbmVhNW5lUjZXUzNsYUhqWXRodGwtTERiczNKZ2ktbzAyT29PYzZxSHBSekM5S0JNZDJGUmtaN3RFMThNdw?oc=5",
-          "publishedOn": "2025-08-26T07:00:00.000Z",
-          "wordCount": 12038,
-          "title": "Image editing in Gemini just got a major upgrade - The Keyword",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
