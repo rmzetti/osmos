@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389550",
+          "author": "Andy Clarke",
+          "description": "There are so many creative opportunities for using shape-outside that I’m surprised I see it used so rarely. So, how can you use it to add personality to a design? Here’s how I do it.\nGetting Creative With shape-outside originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-shape-outside/",
+          "publishedOn": "2025-10-06T15:45:40.000Z",
+          "wordCount": 3095,
+          "title": "Getting Creative With shape-outside",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/s_3EDD0D53C943B8C049C7F94CCE0401810B7E10ADC9A32E2DF8EBA64F2023E651_1759072311579_2025-09-28-13.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=389238",
           "author": "Geoff Graham",
           "description": "Naturally, everything looks like code when I'm staring at a blank canvas. That's whether the canvas is paper, a screen, some Figma artboard, or what have you.\nSame Idea, Different Paint Brush originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -133,6 +143,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using ``, ``, and CSS Media Queries.",
+          "link": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
+          "publishedOn": "2025-10-06T13:00:00.000Z",
+          "wordCount": 4385,
+          "title": "Smashing Animations Part 5: Building Adaptive SVGs With `<symbol>`, `<use>`, And CSS Media Queries",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-5-building-adaptive-svgs/smashing-animations-part-5-building-adaptive-svgs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-5-building-adaptive-svgs/smashing-animations-part-5-building-adaptive-svgs.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/",
           "author": "hello@smashingmagazine.com (Yegor Gilyov)",
@@ -320,6 +345,206 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://pdoc.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pdoc.dev/",
+          "publishedOn": "2025-10-07T03:40:41.000Z",
+          "wordCount": 2792,
+          "title": "Pdoc – Generate API documentation for Python projects",
+          "imageUrl": "https://pdoc.dev/logo.svg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
+          "publishedOn": "2025-10-07T01:34:32.000Z",
+          "wordCount": 4030,
+          "title": "Origami Patterns Solve a Major Physics Riddle",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Amplituhedron-cr.Ibrahim-Rayintakath-Social.jpg"
+        },
+        {
+          "id": "https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/",
+          "publishedOn": "2025-10-07T00:11:34.000Z",
+          "wordCount": 7760,
+          "title": "Analytical review of depression and suicidality from finasteride",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecascade.dev/article/least-amount-of-css/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thecascade.dev/article/least-amount-of-css/",
+          "publishedOn": "2025-10-06T23:47:24.000Z",
+          "wordCount": 747,
+          "title": "The least amount of CSS for a decent looking site (2023)",
+          "imageUrl": "https://thecascade.dev/social.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
+          "publishedOn": "2025-10-06T23:15:26.000Z",
+          "wordCount": 8000,
+          "title": "Microsoft is plugging more holes that let you use Windows 11 without MS account",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "id": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
+          "publishedOn": "2025-10-06T22:30:12.000Z",
+          "wordCount": 13473,
+          "title": "RediShell: Critical remote code execution vulnerability in Redis",
+          "imageUrl": "https://www.datocms-assets.com/75231/1759772061-redis2-2x.png?fm=webp"
+        },
+        {
+          "id": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
+          "publishedOn": "2025-10-06T21:28:56.000Z",
+          "wordCount": 2106,
+          "title": "CodeMender: an AI agent for code security",
+          "imageUrl": "https://lh3.googleusercontent.com/H7X0ei-VzykRP0ny1WS35GGGIxFnQDUZrILHWSvrIr48QgQHRQrCRvxSafmnIrgVL4BQ26hxIXP2CY-n6-tlJ8inzhe4gGIOgoKgqjKRLS1JDHBWrLE=w1200-h630-n-nu"
+        },
+        {
+          "id": "https://technology.riotgames.com/news/valorants-128-tick-servers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://technology.riotgames.com/news/valorants-128-tick-servers",
+          "publishedOn": "2025-10-06T20:47:25.000Z",
+          "wordCount": 4594,
+          "title": "Valorant's 128-Tick Servers (2020)",
+          "imageUrl": "https://technology.riotgames.com/sites/default/files/articles/112/128header.png"
+        },
+        {
+          "id": "https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/",
+          "publishedOn": "2025-10-06T20:34:36.000Z",
+          "wordCount": 1800,
+          "title": "Being blocked from contributing to lodash",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+        },
+        {
+          "id": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
+          "publishedOn": "2025-10-06T20:09:44.000Z",
+          "wordCount": 24058,
+          "title": "Translating Cython to Mojo, a first attempt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
+          "publishedOn": "2025-10-06T20:07:25.000Z",
+          "wordCount": 7776,
+          "title": "My Life in Ambigrammia",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/5vBVEG3lk5w5CHFliBqh2NF8eqs=/0x32:1499x813/1200x625/media/img/mt/2025/10/ambigram2/original.gif"
+        },
+        {
+          "id": "https://developers.openai.com/apps-sdk/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developers.openai.com/apps-sdk/",
+          "publishedOn": "2025-10-06T18:27:33.000Z",
+          "wordCount": 1747,
+          "title": "Apps SDK",
+          "imageUrl": "https://developers.openai.com/apps-og-card.png"
+        },
+        {
+          "id": "https://github.com/openai/chatkit-js",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/openai/chatkit-js",
+          "publishedOn": "2025-10-06T17:23:20.000Z",
+          "wordCount": 1765,
+          "title": "OpenAI ChatKit",
+          "imageUrl": "https://opengraph.githubassets.com/d6aaa0c2f5ba717d23e0f902dc1a40cd41cd610e9f14ac6eb357c9b209dbd548/openai/chatkit-js"
+        },
+        {
+          "id": "https://up.codes/careers?utm_source=HN",
+          "author": null,
+          "description": "Comments",
+          "link": "https://up.codes/careers?utm_source=HN",
+          "publishedOn": "2025-10-06T17:01:31.000Z",
+          "wordCount": 28,
+          "title": "UpCodes (YC S17) is hiring remote engineers across the Americas",
+          "imageUrl": "https://up.codes/img/upcodes-og-twitter-image.png"
+        },
+        {
+          "id": "https://twitter.com/awesomekling/status/1974781722953953601",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/awesomekling/status/1974781722953953601",
+          "publishedOn": "2025-10-06T16:52:58.000Z",
+          "wordCount": 748,
+          "title": "Ladybird passes the Apple 90% threshold on web-platform-tests",
+          "imageUrl": null
+        },
+        {
+          "id": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
+          "publishedOn": "2025-10-06T16:01:58.000Z",
+          "wordCount": 4076,
+          "title": "OpenZL: An open source format-aware compression framework",
+          "imageUrl": "https://engineering.fb.com/wp-content/uploads/2025/10/Introducing-OpenZL-Meta.png"
+        },
+        {
+          "id": "https://getgrapevine.ai/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://getgrapevine.ai/",
+          "publishedOn": "2025-10-06T15:39:59.000Z",
+          "wordCount": 4588,
+          "title": "Launch HN: Grapevine (YC S19) – A company GPT that actually works",
+          "imageUrl": "https://framerusercontent.com/images/9CjUhdBAOmEUDC5pPxWRTTc4kk.png"
+        },
+        {
+          "id": "https://github.com/jdx/mise/discussions/6564",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/jdx/mise/discussions/6564",
+          "publishedOn": "2025-10-06T14:07:46.000Z",
+          "wordCount": 3003,
+          "title": "Mise: Monorepo Tasks",
+          "imageUrl": "https://opengraph.githubassets.com/b2755d66d1177c7518b3859f220dff076d3ff4faa9cb8ae236b559b1c8a1a91e/jdx/mise/discussions/6564"
+        },
+        {
+          "id": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
+          "publishedOn": "2025-10-06T14:06:29.000Z",
+          "wordCount": 1420,
+          "title": "Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)",
+          "imageUrl": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
+        },
+        {
+          "id": "https://healeycodes.com/compiling-a-forth",
+          "author": null,
+          "description": "Comments",
+          "link": "https://healeycodes.com/compiling-a-forth",
+          "publishedOn": "2025-10-06T13:52:50.000Z",
+          "wordCount": 7207,
+          "title": "Compiling a Forth",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.archive.org/trillion/",
           "author": null,
@@ -811,6 +1036,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://windscribe.com/blog/the-vpn-relationship-map/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://windscribe.com/blog/the-vpn-relationship-map/",
+          "publishedOn": "2025-10-04T00:30:44.000Z",
+          "wordCount": 4371,
+          "title": "Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)",
+          "imageUrl": "https://windscribe.com/blog/content/images/2022/04/1920-1080-max-2.png"
+        },
+        {
           "id": "https://formats.kaitai.io/",
           "author": null,
           "description": "Comments",
@@ -841,6 +1076,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/",
+          "publishedOn": "2025-10-03T22:30:57.000Z",
+          "wordCount": 3236,
+          "title": "Removing these 50 objects from orbit would cut danger from space junk in half",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1936304422-1152x648.jpg"
+        },
+        {
           "id": "https://zenodo.org/records/17065099",
           "author": null,
           "description": "Comments",
@@ -859,6 +1104,16 @@
           "wordCount": 2153,
           "title": "TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)",
           "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/9457bff20e5d17fb2c5052f01775956ce5758567.png?1757029288"
+        },
+        {
+          "id": "https://www.newstatesman.com/ideas/2025/10/gore-vidal-american-prophet",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newstatesman.com/ideas/2025/10/gore-vidal-american-prophet",
+          "publishedOn": "2025-10-03T21:00:28.000Z",
+          "wordCount": 5360,
+          "title": "Gore Vidal: American Prophet",
+          "imageUrl": "https://dl6pgk4f88hky.cloudfront.net/2025/10/01/202540GoreVidal-708x418.jpg?1759811334"
         },
         {
           "id": "https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/",
@@ -961,6 +1216,36 @@
           "imageUrl": "https://blog.nataliethenerd.com/content/images/2025/10/DSCF4479.jpg"
         },
         {
+          "id": "https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine",
+          "author": null,
+          "description": "Comments",
+          "link": "https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine",
+          "publishedOn": "2025-10-03T06:33:43.000Z",
+          "wordCount": 1321,
+          "title": "Using Deno as my game engine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles",
+          "author": null,
+          "description": "Comments",
+          "link": "https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles",
+          "publishedOn": "2025-10-03T04:24:58.000Z",
+          "wordCount": null,
+          "title": "Why did Crunchyroll's subtitles just get worse?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lwn.net/Articles/411845/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/Articles/411845/",
+          "publishedOn": "2025-10-03T04:01:35.000Z",
+          "wordCount": 5314,
+          "title": "Ghosts of Unix Past: a historical search for design patterns (2010)",
+          "imageUrl": null
+        },
+        {
           "id": "https://lwn.net/Articles/1036262/",
           "author": null,
           "description": "Comments",
@@ -1021,6 +1306,16 @@
           "imageUrl": "https://opengraph.githubassets.com/1db3d3c5c37c12b5ef29f6d9bd77c2bb9c57d3bc36ca22eb185e96b9616364c8/FyshOS/fynedesk"
         },
         {
+          "id": "https://alvinwan.com/how-to-tile-matrix-multiplication/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alvinwan.com/how-to-tile-matrix-multiplication/",
+          "publishedOn": "2025-10-03T01:37:23.000Z",
+          "wordCount": 2964,
+          "title": "How to tile matrix multiplication (2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/",
           "author": null,
           "description": "Comments",
@@ -1069,6 +1364,16 @@
           "wordCount": null,
           "title": "Self-supervised learning, JEPA, world models, and the future of AI [video]",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.motivenotes.ai/p/what-makes-5-of-ai-agents-actually",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.motivenotes.ai/p/what-makes-5-of-ai-agents-actually",
+          "publishedOn": "2025-10-02T22:30:46.000Z",
+          "wordCount": 5417,
+          "title": "What makes 5% of AI agents work in production?",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!US5o!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc246083-44f6-4842-9b08-8ebca1d340d4_1179x617.png"
         },
         {
           "id": "https://www.deadlanguagesociety.com/p/history-of-letter-yogh",
@@ -1138,6 +1443,16 @@
           "publishedOn": "2025-10-02T18:06:41.000Z",
           "wordCount": 494,
           "title": "Babel is why I keep blogging with Emacs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jeremymaluf.com/onebag/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jeremymaluf.com/onebag/",
+          "publishedOn": "2025-10-02T17:12:23.000Z",
+          "wordCount": null,
+          "title": "Indefinite Backpack Travel",
           "imageUrl": null
         },
         {
@@ -1219,6 +1534,16 @@
           "wordCount": 220,
           "title": "Potential issues in curl found using AI assisted tools",
           "imageUrl": null
+        },
+        {
+          "id": "https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/",
+          "publishedOn": "2025-10-02T12:54:13.000Z",
+          "wordCount": 2554,
+          "title": "Kirigami-inspired parachute falls on target",
+          "imageUrl": "https://physicsworld.com/wp-content/uploads/2025/09/1-10-25-kirigami-parachute-list.jpg"
         },
         {
           "id": "https://magic-wormhole.readthedocs.io/en/latest/welcome.html",
@@ -8669,296 +8994,6 @@
           "wordCount": 6648,
           "title": "She puts the Lord in 'vanlord.' Palo Alto wants to ban her business",
           "imageUrl": "https://sanjosespotlight.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/09/04111148/VanLord-PA-e1757009727851-1200x630.webp"
-        },
-        {
-          "id": "https://twitter.com/samhenrigold/status/1964428927159382261",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/samhenrigold/status/1964428927159382261",
-          "publishedOn": "2025-09-07T15:20:29.000Z",
-          "wordCount": 728,
-          "title": "The MacBook has a sensor that knows the exact angle of the screen hinge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tcl-lang.org/community/tcl2017/assets/talk93/Paper.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tcl-lang.org/community/tcl2017/assets/talk93/Paper.html",
-          "publishedOn": "2025-09-07T15:03:46.000Z",
-          "wordCount": 3028,
-          "title": "SQLite's Use of Tcl (2017)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bottlefire.dev/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bottlefire.dev/",
-          "publishedOn": "2025-09-07T13:48:25.000Z",
-          "wordCount": 321,
-          "title": "Show HN: Bottlefire – Build single-executable microVMs from Docker images",
-          "imageUrl": null
-        },
-        {
-          "id": "https://molecheck.info/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://molecheck.info/",
-          "publishedOn": "2025-09-07T10:38:29.000Z",
-          "wordCount": 1727,
-          "title": "Show HN: I'm a dermatologist and I vibe coded a skin cancer learning app",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html",
-          "publishedOn": "2025-09-07T09:52:56.000Z",
-          "wordCount": null,
-          "title": "What is the origin of the private network address 192.168.*.*? (2009)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mahesh-hegde.github.io/posts/what_debugger_can/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mahesh-hegde.github.io/posts/what_debugger_can/",
-          "publishedOn": "2025-09-07T08:22:54.000Z",
-          "wordCount": 526,
-          "title": "Things you can do with a debugger but not with print debugging",
-          "imageUrl": "https://mahesh-hegde.github.io/"
-        },
-        {
-          "id": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
-          "publishedOn": "2025-09-07T06:54:29.000Z",
-          "wordCount": 1560,
-          "title": "I am giving up on Intel and have bought an AMD Ryzen 9950X3D",
-          "imageUrl": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/2025-07-19-cpu_hu_a707786e21b93f32.jpg"
-        },
-        {
-          "id": "https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/",
-          "publishedOn": "2025-09-07T06:49:20.000Z",
-          "wordCount": 3861,
-          "title": "A polyglot's guide to multiple-dispatch (2016)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lakefs.io/blog/how-we-built-lakefs-iceberg-catalog/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lakefs.io/blog/how-we-built-lakefs-iceberg-catalog/",
-          "publishedOn": "2025-09-07T06:43:42.000Z",
-          "wordCount": 15431,
-          "title": "How We Built Our lakeFS Iceberg Catalog",
-          "imageUrl": "https://lakefs.io/wp-content/uploads/2025/08/1200X630-Iceberg-–-How-We-Built-Our-Catalog.png"
-        },
-        {
-          "id": "https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/",
-          "publishedOn": "2025-09-07T06:28:04.000Z",
-          "wordCount": 4171,
-          "title": "The Expression Problem and its solutions (2016)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28",
-          "author": null,
-          "description": "Comments",
-          "link": "https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28",
-          "publishedOn": "2025-09-07T02:46:55.000Z",
-          "wordCount": 4653,
-          "title": "The world has a running Rational R1000/400 computer again (2019)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/ccheshirecat/flint",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/ccheshirecat/flint",
-          "publishedOn": "2025-09-07T02:30:16.000Z",
-          "wordCount": 2467,
-          "title": "Show HN: Lightweight tool for managing Linux virtual machines",
-          "imageUrl": "https://opengraph.githubassets.com/44e895284c48867cba110e29b86e5babe0f15bfb39553754d922f220a84649e4/ccheshirecat/flint"
-        },
-        {
-          "id": "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html",
-          "publishedOn": "2025-09-07T02:30:07.000Z",
-          "wordCount": null,
-          "title": "Navy SEALs reportedly killed North Korean fishermen to hide a failed mission",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mitchivin.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mitchivin.com/",
-          "publishedOn": "2025-09-07T01:44:19.000Z",
-          "wordCount": 152,
-          "title": "Show HN: I recreated Windows XP as my portfolio",
-          "imageUrl": "./assets/gui/boot/link.webp"
-        },
-        {
-          "id": "https://stlab.cc/tips/about-mvc.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://stlab.cc/tips/about-mvc.html",
-          "publishedOn": "2025-09-07T01:26:44.000Z",
-          "wordCount": 1566,
-          "title": "The MVC definition has been abused",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jetgirl.art/blogs-used-to-be-very-different/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jetgirl.art/blogs-used-to-be-very-different/",
-          "publishedOn": "2025-09-07T00:45:22.000Z",
-          "wordCount": 1674,
-          "title": "Blogs used to be different",
-          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Axial_twist_theory",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Axial_twist_theory",
-          "publishedOn": "2025-09-07T00:25:00.000Z",
-          "wordCount": 5893,
-          "title": "Axial twist theory",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/AxialTwistSchema.png"
-        },
-        {
-          "id": "https://kindnesssender.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kindnesssender.com/",
-          "publishedOn": "2025-09-06T23:32:22.000Z",
-          "wordCount": 1715,
-          "title": "Show HN: Send kind and aspirational words to a stranger who needs it",
-          "imageUrl": "https://kindnesssender.com/og-image.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41380-025-03053-6",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/s41380-025-03053-6",
-          "publishedOn": "2025-09-06T22:21:55.000Z",
-          "wordCount": 9358,
-          "title": "A history of metaphorical brain talk in psychiatry",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.gpiaaf.gov.pt/upload/processos/d054239.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gpiaaf.gov.pt/upload/processos/d054239.pdf",
-          "publishedOn": "2025-09-06T21:43:08.000Z",
-          "wordCount": null,
-          "title": "Gloria funicular derailment initial findings report (EN) [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kanadojo.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kanadojo.com/",
-          "publishedOn": "2025-09-06T21:19:30.000Z",
-          "wordCount": null,
-          "title": "Show HN: I'm making an open-source platform for learning Japanese",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html",
-          "publishedOn": "2025-09-06T20:57:27.000Z",
-          "wordCount": 4824,
-          "title": "A Navajo weaving of an integrated circuit: the 555 timer",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tH9qAMU0-v3HxPB2G_6w5uEJo5muRiLXV7yuAwWduxKR2wMY2nRPEkvskUtlEWfU0f2B0TCrg-nLnEHtl5bpltqUodu9sNyZRLil2sRQY9bItOx-1yTd2K22-ouUI3AA=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://gamesbymason.com/blog/2025/stop-shipping-pngs/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gamesbymason.com/blog/2025/stop-shipping-pngs/",
-          "publishedOn": "2025-09-06T20:37:16.000Z",
-          "wordCount": 1145,
-          "title": "Shipping textures as PNGs is suboptimal",
-          "imageUrl": "https://gamesbymason.com/blog/2025/stop-shipping-pngs/thumb.png"
-        },
-        {
-          "id": "https://joshs.bearblog.dev/being-good-isnt-enough/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://joshs.bearblog.dev/being-good-isnt-enough/",
-          "publishedOn": "2025-09-06T20:01:35.000Z",
-          "wordCount": 1641,
-          "title": "Being good isn't enough",
-          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
-        },
-        {
-          "id": "https://www.consumer.org.hk/en/press-release/528-sunscreen-test",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.consumer.org.hk/en/press-release/528-sunscreen-test",
-          "publishedOn": "2025-09-06T19:57:59.000Z",
-          "wordCount": 1656,
-          "title": "Over 80% of sunscreen performed below their labelled efficacy (2020)",
-          "imageUrl": "https://www.consumer.org.hk/f/press_release/308214/1200c630/528_sunscreen-test_1.jpg"
-        },
-        {
-          "id": "https://simonwillison.net/2025/Sep/6/research-goblin/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://simonwillison.net/2025/Sep/6/research-goblin/",
-          "publishedOn": "2025-09-06T19:42:48.000Z",
-          "wordCount": 2418,
-          "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search",
-          "imageUrl": "https://static.simonwillison.net/static/2025/research-goblin.jpg"
-        },
-        {
-          "id": "https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/",
-          "publishedOn": "2025-09-06T19:14:26.000Z",
-          "wordCount": 6354,
-          "title": "How the “Kim” dump exposed North Korea's credential theft playbook",
-          "imageUrl": "https://dti.domaintools.com/wp-content/uploads/image-33.png"
-        },
-        {
-          "id": "https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time",
-          "publishedOn": "2025-09-06T18:20:26.000Z",
-          "wordCount": 5496,
-          "title": "Stop writing CLI validation. Parse it right the first time",
-          "imageUrl": "https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time/ogimage?l=en"
-        },
-        {
-          "id": "https://www.gigabyte.com/PC-Accessory/AI-TOP-CXL-R5X4",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gigabyte.com/PC-Accessory/AI-TOP-CXL-R5X4",
-          "publishedOn": "2025-09-06T18:17:06.000Z",
-          "wordCount": null,
-          "title": "GigaByte CXL memory expansion card with up to 512GB DRAM",
-          "imageUrl": null
         }
       ]
     },
