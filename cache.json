@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390539",
+          "author": "Geoff Graham",
+          "description": "Sketch probably didn't \"have\" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally belongs to the Mac.\nSketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/",
+          "publishedOn": "2025-11-21T18:53:05.000Z",
+          "wordCount": 2014,
+          "title": "Sketch: A guided tour of Copenhagen",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/sketch-liquid-glass.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390115",
           "author": "Sunkanmi Fafowora",
           "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.\nShould We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -125,16 +135,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/10/motion-blur.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389961",
-          "author": "Mat Marquis",
-          "description": "A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Piccalilli.\nAn Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/an-introduction-to-javascript-expressions/",
-          "publishedOn": "2025-10-22T19:08:23.000Z",
-          "wordCount": 4302,
-          "title": "An Introduction to JavaScript Expressions",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/javascript-for-everyone-scaled.png"
         }
       ]
     },
@@ -143,6 +143,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
+          "author": "hello@smashingmagazine.com (Amit Sheen)",
+          "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
+          "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
+          "publishedOn": "2025-11-21T08:00:00.000Z",
+          "wordCount": 7573,
+          "title": "Keyframes Tokens: Standardizing Animation Across Projects",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
           "author": "hello@smashingmagazine.com (Mansoor Ahmed Khan)",
@@ -276,6 +291,196 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://scienceclock.com/moss-survives-9-months-in-space-vacuum/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scienceclock.com/moss-survives-9-months-in-space-vacuum/",
+          "publishedOn": "2025-11-22T03:57:29.000Z",
+          "wordCount": 4560,
+          "title": "Moss Survives 9 Months in Space Vacuum",
+          "imageUrl": "https://scienceclock.com/wp-content/uploads/2025/11/Moss-1024x768.jpg"
+        },
+        {
+          "id": "https://github.com/Infinibay/lxd",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Infinibay/lxd",
+          "publishedOn": "2025-11-22T01:54:45.000Z",
+          "wordCount": 6361,
+          "title": "Infinibay LXD Container",
+          "imageUrl": "https://opengraph.githubassets.com/37ffedd80aa307a1dfdddc211bf9e11bf5561e9b2f78286d568c40cce49f9f71/Infinibay/lxd"
+        },
+        {
+          "id": "https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model",
+          "publishedOn": "2025-11-22T00:30:26.000Z",
+          "wordCount": null,
+          "title": "Sharper MRI scans may be on horizon thanks to new physics-based model",
+          "imageUrl": null
+        },
+        {
+          "id": "https://edw.is/learning-vulkan/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://edw.is/learning-vulkan/",
+          "publishedOn": "2025-11-21T23:28:40.000Z",
+          "wordCount": 9228,
+          "title": "How I learned Vulkan and wrote a small game engine with it (2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://drobinin.com/posts/apples-problem-with-bodies/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://drobinin.com/posts/apples-problem-with-bodies/",
+          "publishedOn": "2025-11-21T23:16:25.000Z",
+          "wordCount": 6040,
+          "title": "Apple's Problem with Bodies",
+          "imageUrl": "https://drobinin.com/assets/previews/apples-problem-with-bodies.png"
+        },
+        {
+          "id": "https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/",
+          "publishedOn": "2025-11-21T23:10:17.000Z",
+          "wordCount": 2367,
+          "title": "3D printing with unconventional vase mode",
+          "imageUrl": null
+        },
+        {
+          "id": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
+          "publishedOn": "2025-11-21T22:40:28.000Z",
+          "wordCount": null,
+          "title": "Personal blogs are back, should niche blogs be next?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/",
+          "publishedOn": "2025-11-21T22:17:11.000Z",
+          "wordCount": 4543,
+          "title": "Is Matrix Multiplication Ugly?",
+          "imageUrl": "https://mathenchant.wordpress.com/wp-content/uploads/2025/11/both-1.jpg"
+        },
+        {
+          "id": "https://lapdhelicoptertracker.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lapdhelicoptertracker.com/",
+          "publishedOn": "2025-11-21T22:11:07.000Z",
+          "wordCount": 13,
+          "title": "LAPD helicopter tracker with real-time operating costs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/",
+          "publishedOn": "2025-11-21T21:13:11.000Z",
+          "wordCount": 3093,
+          "title": "Arduino Terms of Service and Privacy Policy update: setting the record straight",
+          "imageUrl": "https://blog.arduino.cc/wp-content/uploads/2025/11/Blog-Feature.png"
+        },
+        {
+          "id": "https://stevejobsarchive.com/stories/pixar-early-days",
+          "author": null,
+          "description": "Comments",
+          "link": "https://stevejobsarchive.com/stories/pixar-early-days",
+          "publishedOn": "2025-11-21T20:45:06.000Z",
+          "wordCount": 5970,
+          "title": "Pixar: The Early Days A never-before-seen 1996 interview",
+          "imageUrl": "https://res.cloudinary.com/dkpjmxbwo/image/upload/c_fill,h_630,w_1200/f_auto/q_auto:eco/v1/Share%20Images/Pixar_Early_Days_iambjv?_a=DATAdthKZAA0"
+        },
+        {
+          "id": "https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo",
+          "publishedOn": "2025-11-21T19:46:34.000Z",
+          "wordCount": 2094,
+          "title": "Discontinuation of ARM Notebook with Snapdragon X Elite SoC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.igalia.com/2025/11/helpingvalve.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.igalia.com/2025/11/helpingvalve.html",
+          "publishedOn": "2025-11-21T17:29:59.000Z",
+          "wordCount": 1758,
+          "title": "Helping Valve to power up Steam devices",
+          "imageUrl": "https://www.igalia.com/assets/i/logo200x200Margin-og.png"
+        },
+        {
+          "id": "https://susam.net/fizz-buzz-with-cosines.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://susam.net/fizz-buzz-with-cosines.html",
+          "publishedOn": "2025-11-21T17:28:25.000Z",
+          "wordCount": 3460,
+          "title": "Solving Fizz Buzz with Cosines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls",
+          "publishedOn": "2025-11-21T17:00:00.000Z",
+          "wordCount": 731,
+          "title": "Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer",
+          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/a97c7be78446ecefc9f34fde50b8b2ce8d7de54f.png?1721668366"
+        },
+        {
+          "id": "https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript",
+          "publishedOn": "2025-11-21T16:42:19.000Z",
+          "wordCount": null,
+          "title": "You can make PS2 games in JavaScript",
+          "imageUrl": null
+        },
+        {
+          "id": "https://wealthfolio.app/?v=2.0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wealthfolio.app/?v=2.0",
+          "publishedOn": "2025-11-21T16:34:52.000Z",
+          "wordCount": 1905,
+          "title": "Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker",
+          "imageUrl": "https://wealthfolio.app/og.png"
+        },
+        {
+          "id": "https://dynomight.net/worse/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dynomight.net/worse/",
+          "publishedOn": "2025-11-21T15:23:20.000Z",
+          "wordCount": 1864,
+          "title": "Make product worse, get money",
+          "imageUrl": "https://dynomight.net/img/worse/club_night.jpg"
+        },
+        {
+          "id": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
+          "publishedOn": "2025-11-21T14:50:36.000Z",
+          "wordCount": 1044,
+          "title": "We should all be using dependency cooldowns",
+          "imageUrl": null
+        },
+        {
           "id": "https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/",
           "author": null,
           "description": "Comments",
@@ -294,6 +499,26 @@
           "wordCount": 1853,
           "title": "Why top firms fire good workers",
           "imageUrl": "https://www.rochester.edu/newscenter/wp-content/uploads/2025/11/fea-employee-turnover-churn-top-firms-GettyImages-155156767-1200x630.jpg"
+        },
+        {
+          "id": "https://reason.com/2025/11/19/homeschooling-hits-record-numbers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://reason.com/2025/11/19/homeschooling-hits-record-numbers/",
+          "publishedOn": "2025-11-21T00:31:47.000Z",
+          "wordCount": 4966,
+          "title": "Homeschooling hits record numbers",
+          "imageUrl": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/11/increase-in-homeschooling.jpg"
+        },
+        {
+          "id": "https://www.theguardian.com/society/2025/nov/20/prozac-no-better-than-placebo-for-treating-children-with-depression-experts-say",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/society/2025/nov/20/prozac-no-better-than-placebo-for-treating-children-with-depression-experts-say",
+          "publishedOn": "2025-11-21T00:02:18.000Z",
+          "wordCount": 4419,
+          "title": "Prozac 'no better than placebo' for treating children with depression, experts",
+          "imageUrl": "https://i.guim.co.uk/img/media/a547beef4442d592416e2348e96551577cc504e7/235_0_4283_3426/master/4283.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=127faf93085f85f2eef703b7f86dc2b9"
         },
         {
           "id": "https://rein.pk/over-regulation-is-doubling-the-cost",
@@ -444,6 +669,16 @@
           "wordCount": 5304,
           "title": "Nano Banana Pro",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.width-1300.png"
+        },
+        {
+          "id": "https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/",
+          "publishedOn": "2025-11-20T13:26:08.000Z",
+          "wordCount": 4083,
+          "title": "Building a Durable Execution Engine with SQLite",
+          "imageUrl": null
         },
         {
           "id": "https://arxiv.org/abs/2511.15304",
@@ -1136,6 +1371,16 @@
           "imageUrl": "https://images.newrepublic.com/eda996a9a9fe47eb507f091a534f73f22f8ad267.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg"
         },
         {
+          "id": "https://www.awsistoohard.com/blog/self-hosting-nat-gateway",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.awsistoohard.com/blog/self-hosting-nat-gateway",
+          "publishedOn": "2025-11-17T17:31:41.000Z",
+          "wordCount": 3036,
+          "title": "Self-hosting a NAT Gateway",
+          "imageUrl": null
+        },
+        {
           "id": "https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts",
           "author": null,
           "description": "Comments",
@@ -1224,6 +1469,16 @@
           "wordCount": 2995,
           "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
           "imageUrl": "https://opengraph.githubassets.com/ee79d677e1636f55b7ece580e710475408e9566fd590cf22f3a0972a3731eccb/medusalix/FreeMDU"
+        },
+        {
+          "id": "https://www.newyorker.com/magazine/2025/11/24/the-strange-afterlife-of-hilma-af-klint-paintings-posthumous-star",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/magazine/2025/11/24/the-strange-afterlife-of-hilma-af-klint-paintings-posthumous-star",
+          "publishedOn": "2025-11-17T12:12:37.000Z",
+          "wordCount": 59883,
+          "title": "The Strange Afterlife of Hilma af Klint, Painting’s Posthumous Star",
+          "imageUrl": "https://media.newyorker.com/photos/6913c03f133e83bbbae2a9b7/16:9/w_1280,c_limit/r47392.jpg"
         },
         {
           "id": "https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic",
@@ -1526,6 +1781,16 @@
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwphOIBJNMT4yciT93GgS2WSQvAfFKHKCLVbloburRMuqZzuT5jH02Xa28qTZ2TjrBs6LJP0Fi4WHx1sqRcyd3hmSt_x6a69UKFtYoMs4OGtOJ7r3nlOwiMFQLCqMFi_Rr_ObTgp3xcdzuX59DPWlD3ygjvaqkB3qykcX0Er3kIPh2nwp1X0j0K7jaUt4/w1200-h630-p-k-no-nu/upyourps.png"
         },
         {
+          "id": "https://rubber-duck-typing.com/posts/2020-12-12-when-functions-dissolve.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rubber-duck-typing.com/posts/2020-12-12-when-functions-dissolve.html",
+          "publishedOn": "2025-11-15T23:42:55.000Z",
+          "wordCount": 1706,
+          "title": "When functions dissolve (2020)",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html",
           "author": null,
           "description": "Comments",
@@ -1806,6 +2071,16 @@
           "imageUrl": "https://opengraph.githubassets.com/af2b4b0ce8f06b5f5969b3c89c357ac0ae80a1bd178786f7932c0c01340bf502/vortex-data/vortex"
         },
         {
+          "id": "https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/",
+          "publishedOn": "2025-11-15T02:45:44.000Z",
+          "wordCount": 2643,
+          "title": "Samsung's 60% DRAM price hike signals a new phase of global memory tightening",
+          "imageUrl": "https://www.buysellram.com/wp-content/uploads/2025/11/samsung-ads-01.jpg"
+        },
+        {
           "id": "https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/",
           "author": null,
           "description": "Comments",
@@ -1976,6 +2251,16 @@
           "imageUrl": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png"
         },
         {
+          "id": "https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/",
+          "publishedOn": "2025-11-14T15:11:13.000Z",
+          "wordCount": 9338,
+          "title": "Childhood Friends, Not Moms, Shape Attachment Styles Most",
+          "imageUrl": "https://assets.nautil.us/sites/3/nautilus/tree_HERO.png?auto=compress&fm=png&ixlib=php-3.3.1"
+        },
+        {
           "id": "https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable",
           "author": null,
           "description": "Comments",
@@ -1984,6 +2269,16 @@
           "wordCount": 8266,
           "title": "Linear algebra explains why some words are effectively untranslatable",
           "imageUrl": "https://aethermug.com/assets/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable/vackground-com-7K1_uSnNoy4-unsplash.jpg"
+        },
+        {
+          "id": "https://www.cnn.com/2025/11/13/style/escaramuza-cowgirl-fashion-photography",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnn.com/2025/11/13/style/escaramuza-cowgirl-fashion-photography",
+          "publishedOn": "2025-11-14T13:37:23.000Z",
+          "wordCount": null,
+          "title": "Mexico's Female Rodeo Culture",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/mgreenwood1001/winamp",
@@ -2234,6 +2529,16 @@
           "wordCount": 3569,
           "title": "SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds",
           "imageUrl": "https://lh3.googleusercontent.com/A5vgACWjzxaEanLkjrZSNlQDjI0SEZ4tKJqE2EtboljSRIkcbEVv4JA2H7a-BEYNoWK097hNdthFdB6h537DUVvFbAUwhWUFSzzA0E0ndr6zMC8tMA=w1200-h630-n-nu"
+        },
+        {
+          "id": "https://github.com/sirrodgepodge/rrule_plpgsql",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/sirrodgepodge/rrule_plpgsql",
+          "publishedOn": "2025-11-13T14:33:35.000Z",
+          "wordCount": 6214,
+          "title": "RRules (yes handling RSCALE) using only PL/pgSQL",
+          "imageUrl": "https://opengraph.githubassets.com/79149b3a128cfcc354b81e91d00b54c9f10e5d01db5354000a1abdc54fe3e084/sirrodgepodge/rrule_plpgsql"
         },
         {
           "id": "https://www.blender.org/news/introducing-blender-lab/",
@@ -2534,6 +2839,16 @@
           "wordCount": null,
           "title": "The last-ever penny will be minted today in Philadelphia",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.futurefonts.com/hex/shop-sans",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.futurefonts.com/hex/shop-sans",
+          "publishedOn": "2025-11-12T15:40:11.000Z",
+          "wordCount": 11,
+          "title": "Shop Sans is a typeface for curved text paths",
+          "imageUrl": "https://incremental-production.s3.amazonaws.com/uploads/slide/image/35607/medium_Shop_Sans_Curve.png"
         },
         {
           "id": "https://ysyx.oscc.cc/docs/en/",
@@ -8414,356 +8729,6 @@
           "wordCount": 1948,
           "title": "Claude Memory",
           "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/b0fec85c4cfb29023f80f59ae564a77b6dc0ba78-2400x1260.png"
-        },
-        {
-          "id": "https://sphere.computer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sphere.computer/",
-          "publishedOn": "2025-10-23T16:09:27.000Z",
-          "wordCount": 362,
-          "title": "Sphere Computer – The Innovative 1970s Computer Company Everyone Forgot",
-          "imageUrl": "assets/images/index-meta.jpg"
-        },
-        {
-          "id": "https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63",
-          "publishedOn": "2025-10-23T15:41:48.000Z",
-          "wordCount": null,
-          "title": "Trump pardons convicted Binance founder",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twigg.ai/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twigg.ai/",
-          "publishedOn": "2025-10-23T15:12:57.000Z",
-          "wordCount": 43,
-          "title": "Show HN: Git for LLMs – A context management interface",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mbleigh.dev/posts/context-engineering-with-links/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mbleigh.dev/posts/context-engineering-with-links/",
-          "publishedOn": "2025-10-23T14:24:47.000Z",
-          "wordCount": 1835,
-          "title": "Context engineering is sleeping on the humble hyperlink",
-          "imageUrl": "https://mbleigh.dev/og-image/context-engineering-with-links.png"
-        },
-        {
-          "id": "https://words.filippo.io/standard-of-care/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://words.filippo.io/standard-of-care/",
-          "publishedOn": "2025-10-23T14:14:10.000Z",
-          "wordCount": 1891,
-          "title": "The Geomys Standard of Care",
-          "imageUrl": "https://assets.buttondown.email/images/694f8cb6-1b40-4db1-87a5-28fcf423f214.jpeg?w=960&fit=max"
-        },
-        {
-          "id": "https://snipettemag.com/cheese-crystals/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://snipettemag.com/cheese-crystals/",
-          "publishedOn": "2025-10-23T14:00:37.000Z",
-          "wordCount": 2046,
-          "title": "Cheese Crystals (2019)",
-          "imageUrl": "//media.snipettemag.com/wp-uploads/2019/09/trashed-cheese-withbg.jpg"
-        },
-        {
-          "id": "https://thecretefleet.com/blog/f/kerkship-st-jozef-antwerp-%E2%80%93-wwii-german-concrete-tanker",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thecretefleet.com/blog/f/kerkship-st-jozef-antwerp-%E2%80%93-wwii-german-concrete-tanker",
-          "publishedOn": "2025-10-23T13:23:32.000Z",
-          "wordCount": 7216,
-          "title": "Kerkship St. Jozef, Antwerp – WWII German Concrete Tanker",
-          "imageUrl": "https://img1.wsimg.com/isteam/ip/f156c0b3-bd88-4cb6-aeab-0bba5e65175e/Kerkschip_Sint-Jozef_medium1.jpeg"
-        },
-        {
-          "id": "https://nodumbideas.com/p/labor-day-special-the-1924-new-mexico",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nodumbideas.com/p/labor-day-special-the-1924-new-mexico",
-          "publishedOn": "2025-10-23T13:22:15.000Z",
-          "wordCount": 5220,
-          "title": "The 1924 New Mexico regional banking panic",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!h4XQ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92c637cb-43d9-4e48-b03e-0976ecbd4e2e_1536x1024.png"
-        },
-        {
-          "id": "https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html",
-          "publishedOn": "2025-10-23T12:40:57.000Z",
-          "wordCount": 8726,
-          "title": "US probes Waymo robotaxis over school bus safety",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/11f20f2e6432520338eaeab53c4fbcfa"
-        },
-        {
-          "id": "https://grim7reaper.github.io/blog/2023/01/09/the-hydronium-project/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://grim7reaper.github.io/blog/2023/01/09/the-hydronium-project/",
-          "publishedOn": "2025-10-23T11:23:51.000Z",
-          "wordCount": 4108,
-          "title": "Harder, Better, Faster, Stronger Version of Uber H3 in Rust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://fly.io/blog/corrosion/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fly.io/blog/corrosion/",
-          "publishedOn": "2025-10-23T11:21:04.000Z",
-          "wordCount": 2454,
-          "title": "Corrosion",
-          "imageUrl": "https://fly.io/blog/corrosion/assets/sqlite-cover.webp"
-        },
-        {
-          "id": "https://pytorch.org/blog/introducing-pytorch-monarch/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pytorch.org/blog/introducing-pytorch-monarch/",
-          "publishedOn": "2025-10-23T10:15:12.000Z",
-          "wordCount": 14154,
-          "title": "PyTorch Monarch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/bnjbvr/rouille",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/bnjbvr/rouille",
-          "publishedOn": "2025-10-23T09:43:52.000Z",
-          "wordCount": 2839,
-          "title": "Rouille – Rust Programming, in French",
-          "imageUrl": "https://opengraph.githubassets.com/013e8a9fde629716f880de0510745f3082b91c0803ae393d8aa2c9bea5933bf1/bnjbvr/rouille"
-        },
-        {
-          "id": "https://lithub.com/the-psychology-of-portnoy-on-the-making-of-philip-roths-groundbreaking-novel/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lithub.com/the-psychology-of-portnoy-on-the-making-of-philip-roths-groundbreaking-novel/",
-          "publishedOn": "2025-10-23T07:06:07.000Z",
-          "wordCount": 5212,
-          "title": "The Psychology of Portnoy: On the Making of Philip Roth's Groundbreaking Novel",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/10/philip-roth.png"
-        },
-        {
-          "id": "https://williamjbarry.substack.com/p/the-myth-of-outrunning-your-diet",
-          "author": null,
-          "description": "Comments",
-          "link": "https://williamjbarry.substack.com/p/the-myth-of-outrunning-your-diet",
-          "publishedOn": "2025-10-23T03:47:09.000Z",
-          "wordCount": null,
-          "title": "The Myth of Outrunning Your Diet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/",
-          "publishedOn": "2025-10-23T01:36:37.000Z",
-          "wordCount": 3539,
-          "title": "The Sodium-Ion Battery Revolution Has Started",
-          "imageUrl": "https://cleantechnica.com/wp-content/uploads/2025/10/Pioneer-Na-Bluetti-Sodium-Ion-Battery.jpeg"
-        },
-        {
-          "id": "https://aws.amazon.com/message/101925/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://aws.amazon.com/message/101925/",
-          "publishedOn": "2025-10-23T01:19:58.000Z",
-          "wordCount": 10303,
-          "title": "Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/",
-          "publishedOn": "2025-10-22T23:18:52.000Z",
-          "wordCount": null,
-          "title": "NextSilicon reveals new processor chip in challenge to Intel, AMD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/samim23/vortexnet",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/samim23/vortexnet",
-          "publishedOn": "2025-10-22T22:51:58.000Z",
-          "wordCount": 2281,
-          "title": "VortexNet: Neural network based on fluid dynamics",
-          "imageUrl": "https://opengraph.githubassets.com/2566ba184fd7a84940b708f6a557e105758b195ab86b94c1d9b5e5d65f3c34aa/samim23/vortexnet"
-        },
-        {
-          "id": "https://github.com/malandrakisgeo/mnemosyne",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/malandrakisgeo/mnemosyne",
-          "publishedOn": "2025-10-22T21:22:59.000Z",
-          "wordCount": 4797,
-          "title": "Value-pool based caching for Java applications",
-          "imageUrl": "https://opengraph.githubassets.com/7d2b13454a23972e56e572e6c521dd3d3a678bf423ac0f67616723d1c781cf9f/malandrakisgeo/mnemosyne"
-        },
-        {
-          "id": "https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer",
-          "publishedOn": "2025-10-22T21:01:07.000Z",
-          "wordCount": 1374,
-          "title": "InpharmD (YC W21) Is Hiring – NLP Engineer",
-          "imageUrl": "https://inpharmd-asset.s3.amazonaws.com/blog_images/inpharmd_logo_yellow.webp"
-        },
-        {
-          "id": "https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/",
-          "publishedOn": "2025-10-22T20:54:37.000Z",
-          "wordCount": 1694,
-          "title": "YASA beats own power density record pushing electric motor to 59kW/kg benchmark",
-          "imageUrl": "https://yasa.com/media/2025/10/5_yasa-rd-engineer-eddie-martin-holds-new-12.7kg-prototype-motor_-1-scaled.webp"
-        },
-        {
-          "id": "https://immich.app/blog/google-flags-immich-as-dangerous",
-          "author": null,
-          "description": "Comments",
-          "link": "https://immich.app/blog/google-flags-immich-as-dangerous",
-          "publishedOn": "2025-10-22T20:53:49.000Z",
-          "wordCount": 1092,
-          "title": "Google flags Immich sites as dangerous",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mcyoung.xyz/2025/10/21/ssa-1/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mcyoung.xyz/2025/10/21/ssa-1/",
-          "publishedOn": "2025-10-22T20:13:31.000Z",
-          "wordCount": 13569,
-          "title": "Why SSA Compilers?",
-          "imageUrl": "https://mcyoung.xyz/og/ssa-1-b79112da21ec3e15691884c06e369be3a1fb3407.png"
-        },
-        {
-          "id": "https://github.com/character-ai/Ovi",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/character-ai/Ovi",
-          "publishedOn": "2025-10-22T19:42:36.000Z",
-          "wordCount": 7447,
-          "title": "Ovi: Twin backbone cross-modal fusion for audio-video generation",
-          "imageUrl": "https://opengraph.githubassets.com/44ec9afcfbc7d1472b91aa062dd3a7240a26b68ce13f28698aef47a05fadafbd/character-ai/Ovi"
-        },
-        {
-          "id": "https://github.com/neelsomani/cuq",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/neelsomani/cuq",
-          "publishedOn": "2025-10-22T19:38:54.000Z",
-          "wordCount": 4042,
-          "title": "Show HN: Cuq – Formal Verification of Rust GPU Kernels",
-          "imageUrl": "https://opengraph.githubassets.com/ddc6312bda7f95451ef1acbe576379c069d55133b394f0cd727b4d062dcb228f/neelsomani/cuq"
-        },
-        {
-          "id": "https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html",
-          "publishedOn": "2025-10-22T19:29:59.000Z",
-          "wordCount": 3093,
-          "title": "Public Montessori programs strengthen learning outcomes at lower costs: study",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2023/preschool-1.jpg"
-        },
-        {
-          "id": "https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit",
-          "author": null,
-          "description": "Comments",
-          "link": "https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit",
-          "publishedOn": "2025-10-22T18:49:04.000Z",
-          "wordCount": null,
-          "title": "Criticisms of “The Body Keeps the Score”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ian.sh/fia",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ian.sh/fia",
-          "publishedOn": "2025-10-22T18:21:54.000Z",
-          "wordCount": 5671,
-          "title": "Accessing Max Verstappen's passport and PII through FIA bugs",
-          "imageUrl": "https://images.unsplash.com/photo-1614949194403-9602bdc14a3a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb"
-        },
-        {
-          "id": "https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad",
-          "publishedOn": "2025-10-22T18:00:20.000Z",
-          "wordCount": 8410,
-          "title": "Rivian's TM-B electric bike",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/250919_AdamWells_ALSO_R5A2023-R2-v2-1.jpg?quality=90&strip=all&crop=0%2C10.742559278735%2C100%2C78.514881442529&w=1200"
-        },
-        {
-          "id": "https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/",
-          "publishedOn": "2025-10-22T17:45:21.000Z",
-          "wordCount": 2643,
-          "title": "Sandhill cranes have adopted a Canada gosling",
-          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/sMroxhIPgQcAqqPKHHZi2qB-_Zw=/fit-in/1600x0/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/57/81/5781961b-f3f5-40f7-bf20-bf48a9e84737/sandhill-cranes-with-gosling-3_web.jpg"
-        },
-        {
-          "id": "https://stalw.art/blog/jmap-collaboration/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://stalw.art/blog/jmap-collaboration/",
-          "publishedOn": "2025-10-22T17:26:06.000Z",
-          "wordCount": 863,
-          "title": "JMAP for Calendars, Contacts and Files Now in Stalwart",
-          "imageUrl": "https://stalw.art/img/stalwart-social-card.jpg"
-        },
-        {
-          "id": "https://steveklabnik.com/writing/i-see-a-future-in-jj/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://steveklabnik.com/writing/i-see-a-future-in-jj/",
-          "publishedOn": "2025-10-22T17:21:54.000Z",
-          "wordCount": 1841,
-          "title": "I see a future in jj",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.hp.com/us-en/printers/site-print/layout-robot.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.hp.com/us-en/printers/site-print/layout-robot.html",
-          "publishedOn": "2025-10-22T17:18:33.000Z",
-          "wordCount": 10338,
-          "title": "HP SitePrint",
-          "imageUrl": "https://www.hp.com/content/dam/sites/worldwide/dems/hp_og_image.jpg"
-        },
-        {
-          "id": "https://www.semantic.art/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.semantic.art/",
-          "publishedOn": "2025-10-22T16:55:44.000Z",
-          "wordCount": 23,
-          "title": "Show HN: Semantic Art – Uses natural language prompts to find real artwork",
-          "imageUrl": "https://semantic.art/socialcard.jpg"
         }
       ]
     },
@@ -9226,6 +9191,16 @@
           "publishedOn": "2025-11-09T00:59:17.000Z",
           "wordCount": 12198,
           "title": "The silent online erasure of Israel’s war crimes - thedailyblog.co.nz",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMipgFBVV95cUxPcnJXSHVYRW9oVDE4Wm56UDJvTGtvUERlZXdnYjl5TEVubmNyWVpPSHdSeEZFV1pBeDlZaC1jelFSbWhBZkdianpCR3RJS0czMmV6N1dJU2NKRkhkdGdsY19vX19McXc5ckE4N1lTdU1iYVRQR2ZMWjNIUW1ZYjVKNlZITWR5eVF4NnU3RGFqYWNmQ2hsSWVXUGVJcWxiUm1ySTg1YmZ3",
+          "author": null,
+          "description": "Gemini AI to transform Google Maps into a more conversational experience  Stuff",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcnJXSHVYRW9oVDE4Wm56UDJvTGtvUERlZXdnYjl5TEVubmNyWVpPSHdSeEZFV1pBeDlZaC1jelFSbWhBZkdianpCR3RJS0czMmV6N1dJU2NKRkhkdGdsY19vX19McXc5ckE4N1lTdU1iYVRQR2ZMWjNIUW1ZYjVKNlZITWR5eVF4NnU3RGFqYWNmQ2hsSWVXUGVJcWxiUm1ySTg1YmZ3?oc=5",
+          "publishedOn": "2025-11-05T08:00:00.000Z",
+          "wordCount": 12249,
+          "title": "Gemini AI to transform Google Maps into a more conversational experience - Stuff",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
