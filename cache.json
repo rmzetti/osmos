@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390205",
+          "author": "Lee Meyer",
+          "description": "Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling.\nScrollytelling on Steroids With Scroll-State Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/",
+          "publishedOn": "2025-12-02T16:47:14.000Z",
+          "wordCount": 4643,
+          "title": "Scrollytelling on Steroids With Scroll-State Queries",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/taylor-flowe-aXeVH4FcS1k-unsplash-scaled.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=390613",
           "author": "Geoff Graham",
           "description": "Bramus:\nChrome 144 features a small change to overscroll-behavior: it now also works on non-scrollable scroll containers. While this change might seem trivial, it fixes an issue developers have been dealing with for ages: prevent a page from \n…\nPrevent a page from scrolling while a dialog is open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -105,16 +115,6 @@
           "wordCount": 2316,
           "title": "Explaining the Accessible Benefits of Using Semantic HTML Elements",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/11/screaming-button.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389842",
-          "author": "Juan Diego Rodríguez",
-          "description": "Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.\nThat shocked me. I may have even been a little offended, being a math nerd and …\nThe “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-most-hated-css-feature-tan/",
-          "publishedOn": "2025-11-03T16:03:08.000Z",
-          "wordCount": 3512,
-          "title": "The “Most Hated” CSS Feature: tan()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/trig-tangent-graph.png"
         }
       ]
     },
@@ -297,21 +297,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/key-components-ux-strategy/practical-guide-ux-strategy.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
-          "author": "hello@smashingmagazine.com (Daniel Schwarz)",
-          "description": "With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this article, Daniel Schwarz demonstrates how design tokens can be leveraged to manage components and their variations using Penpot, the open-source tool built for scalable, consistent design.",
-          "link": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
-          "publishedOn": "2025-11-04T10:00:00.000Z",
-          "wordCount": 4411,
-          "title": "How To Leverage Component Variants In Penpot",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg"
         }
       ]
     },
@@ -320,6 +305,246 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.bbc.com/news/articles/c0mpr1mvwj3o",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/articles/c0mpr1mvwj3o",
+          "publishedOn": "2025-12-04T03:51:09.000Z",
+          "wordCount": 5589,
+          "title": "New homes in London were delayed by 'energy-hungry' data centres",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3c51/live/70f5c1b0-d05f-11f0-9fb5-5f3a3703a365.jpg"
+        },
+        {
+          "id": "https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501",
+          "publishedOn": "2025-12-04T03:50:36.000Z",
+          "wordCount": 2722,
+          "title": "Euler Conjecture and CDC 6600",
+          "imageUrl": "https://global.discourse-cdn.com/free1/uploads/fortran_lang/original/1X/50078338be6df8cfc3e2277e9cb3c805f45c6ee6.png"
+        },
+        {
+          "id": "https://pcpartpicker.com/trends/price/memory/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pcpartpicker.com/trends/price/memory/",
+          "publishedOn": "2025-12-04T00:08:26.000Z",
+          "wordCount": null,
+          "title": "Average DRAM price in USD over last 18 months",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.isc.org/kea/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.isc.org/kea/",
+          "publishedOn": "2025-12-03T23:58:04.000Z",
+          "wordCount": 1874,
+          "title": "Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/neurosnap/zmx",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/neurosnap/zmx",
+          "publishedOn": "2025-12-03T23:46:30.000Z",
+          "wordCount": 5367,
+          "title": "Zmx: Session Persistence for Terminal Processes",
+          "imageUrl": "https://opengraph.githubassets.com/77bf05fbcb8697d9fdab3831355bb69a3a3e1e8a486dbbad030c61a92c14c59d/neurosnap/zmx"
+        },
+        {
+          "id": "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/",
+          "publishedOn": "2025-12-03T23:28:34.000Z",
+          "wordCount": 5417,
+          "title": "Acme, a brief history of one of the protocols which has changed the Internet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://onlinelibrary.wiley.com/doi/10.1111/eth.70033",
+          "author": null,
+          "description": "Comments",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/eth.70033",
+          "publishedOn": "2025-12-03T21:56:37.000Z",
+          "wordCount": null,
+          "title": "Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nand2mario.github.io/posts/2025/8086_microcode_browser/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nand2mario.github.io/posts/2025/8086_microcode_browser/",
+          "publishedOn": "2025-12-03T21:16:11.000Z",
+          "wordCount": 392,
+          "title": "8086 Microcode Browser",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/",
+          "publishedOn": "2025-12-03T20:37:08.000Z",
+          "wordCount": 3263,
+          "title": "Checked-size array parameters in C",
+          "imageUrl": null
+        },
+        {
+          "id": "https://finfam.app/blog/credit-union-mortgages",
+          "author": null,
+          "description": "Comments",
+          "link": "https://finfam.app/blog/credit-union-mortgages",
+          "publishedOn": "2025-12-03T20:35:27.000Z",
+          "wordCount": 984,
+          "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
+          "imageUrl": "https://finfam.app/og/og_finfam_2.png"
+        },
+        {
+          "id": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
+          "publishedOn": "2025-12-03T19:37:25.000Z",
+          "wordCount": 995,
+          "title": "Everyone in Seattle hates AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.quantamagazine.org/what-are-lie-groups-20251203/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/what-are-lie-groups-20251203/",
+          "publishedOn": "2025-12-03T19:12:40.000Z",
+          "wordCount": 2728,
+          "title": "Lie groups are crucial to some of the most fundamental theories in physics",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/12/True-Story-of-Lie-Groups-cr-Mark-Belan-Social.jpg"
+        },
+        {
+          "id": "https://mitchellh.com/writing/ghostty-non-profit",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mitchellh.com/writing/ghostty-non-profit",
+          "publishedOn": "2025-12-03T18:40:06.000Z",
+          "wordCount": 2116,
+          "title": "Ghostty is now non-profit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
+          "author": null,
+          "description": "Comments",
+          "link": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
+          "publishedOn": "2025-12-03T18:04:32.000Z",
+          "wordCount": null,
+          "title": "Micron Announces Exit from Crucial Consumer Business",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46137548",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=46137548",
+          "publishedOn": "2025-12-03T17:47:15.000Z",
+          "wordCount": 4783,
+          "title": "Launch HN: Phind 3 (YC S22) – Every answer is a mini-app",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
+          "publishedOn": "2025-12-03T17:44:33.000Z",
+          "wordCount": 1210,
+          "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
+          "imageUrl": "https://alexschapiro.com/assets/images/filevine-security/search-results.png"
+        },
+        {
+          "id": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
+          "author": null,
+          "description": "Comments",
+          "link": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
+          "publishedOn": "2025-12-03T17:24:49.000Z",
+          "wordCount": null,
+          "title": "1D Conway's Life glider found, 3.7B cells long",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform",
+          "publishedOn": "2025-12-03T17:01:18.000Z",
+          "wordCount": 1820,
+          "title": "Rocketable (YC W25) is hiring a founding engineer to automate software companies",
+          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/c9440ad0897d392d2ee47e51233f089049227107.png?1737055298"
+        },
+        {
+          "id": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
+          "publishedOn": "2025-12-03T16:00:23.000Z",
+          "wordCount": 681,
+          "title": "RCE Vulnerability in React and Next.js",
+          "imageUrl": "https://opengraph.githubassets.com/d290ade319ea1d0682476b293a1f03bd20cb5658aea2647de98a1a6d6128dd91/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
+        },
+        {
+          "id": "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2",
+          "publishedOn": "2025-12-03T16:00:19.000Z",
+          "wordCount": 752,
+          "title": "MinIO is now in maintenance-mode",
+          "imageUrl": "https://opengraph.githubassets.com/453d6162c39f2847835c5e30fd8d81b85e7345dce03a2cbc967887b57521f2e8/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2"
+        },
+        {
+          "id": "https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html",
+          "publishedOn": "2025-12-03T15:30:30.000Z",
+          "wordCount": 802,
+          "title": "Why are my headphones buzzing whenever I run my game?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sinelaw.github.io/fresh/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sinelaw.github.io/fresh/",
+          "publishedOn": "2025-12-03T14:45:26.000Z",
+          "wordCount": 1755,
+          "title": "Show HN: Fresh – A new terminal editor built in Rust",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xania.org/202512/03-more-adding-integers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://xania.org/202512/03-more-adding-integers",
+          "publishedOn": "2025-12-03T12:14:34.000Z",
+          "wordCount": 948,
+          "title": "You can't fool the optimizer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f",
+          "publishedOn": "2025-12-03T09:53:27.000Z",
+          "wordCount": 1733,
+          "title": "Anthropic taps IPO lawyers as it races OpenAI to go public",
+          "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa1a5e936-6029-430a-ae48-d055588db337.jpg?source=next-barrier-page"
+        },
         {
           "id": "https://avidthinker.github.io/2025/11/28/understanding-ecdsa/",
           "author": null,
@@ -379,6 +604,16 @@
           "wordCount": 1347,
           "title": "Delty (YC X25) Is Hiring",
           "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/9ed8722c9e1f6e49ec12fb5e3887f8f622e06921.png?1746945557"
+        },
+        {
+          "id": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
+          "publishedOn": "2025-12-02T20:33:10.000Z",
+          "wordCount": 17255,
+          "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0008.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200"
         },
         {
           "id": "https://pagedout.institute/",
@@ -941,6 +1176,16 @@
           "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/6f80b4a48465bc260e00f9331c1aa38175ffced5.png?1704487189"
         },
         {
+          "id": "https://samsja.github.io/blogs/cot/blog/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://samsja.github.io/blogs/cot/blog/",
+          "publishedOn": "2025-11-30T16:39:46.000Z",
+          "wordCount": 2025,
+          "title": "What I don’t like about chains of thoughts (2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://eldred.fr/blog/forge-migration/",
           "author": null,
           "description": "Comments",
@@ -971,6 +1216,16 @@
           "imageUrl": "https://langjamgamejam.com/langjamgamejam_dragon_5x.png"
         },
         {
+          "id": "https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/",
+          "publishedOn": "2025-11-30T15:46:36.000Z",
+          "wordCount": 1751,
+          "title": "Ethiopian Volcano Erupts for First Time in Nearly 12K Years of Records",
+          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/q6j9j0-ub0j7c0LUYKJc_HEYkvA=/fit-in/1600x0/filters:focal(359x280:360x281)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/5b/c45b2d89-fcce-44df-9532-35652cd3cc8d/586806164_1282653717227544_3555179513039520002_n.jpg"
+        },
+        {
           "id": "https://dillo-browser.org/news/migration-from-github/",
           "author": null,
           "description": "Comments",
@@ -998,6 +1253,16 @@
           "publishedOn": "2025-11-30T13:07:15.000Z",
           "wordCount": 1364,
           "title": "Advent of Code 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://vitaut.net/posts/2025/smallest-dtoa/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vitaut.net/posts/2025/smallest-dtoa/",
+          "publishedOn": "2025-11-30T12:42:04.000Z",
+          "wordCount": 2921,
+          "title": "Schubfach: The smallest floating point double-to-string impleme",
           "imageUrl": null
         },
         {
@@ -1249,6 +1514,16 @@
           "wordCount": 2474,
           "title": "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/03/24/ChatGPT-logo.jpg"
+        },
+        {
+          "id": "https://www.its.caltech.edu/~atomic/snowcrystals/preserve/preserve.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.its.caltech.edu/~atomic/snowcrystals/preserve/preserve.htm",
+          "publishedOn": "2025-11-29T08:32:21.000Z",
+          "wordCount": 679,
+          "title": "Preserving Snow Crystals",
+          "imageUrl": null
         },
         {
           "id": "https://macos9lives.com/smforum/index.php?topic=7711.0",
@@ -1639,6 +1914,16 @@
           "wordCount": 2809,
           "title": "Replacing My Window Manager with Google Chrome",
           "imageUrl": "https://foxmoss.com/_astro/dote.DjqXJSax.png"
+        },
+        {
+          "id": "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop",
+          "author": null,
+          "description": "Comments",
+          "link": "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop",
+          "publishedOn": "2025-11-27T19:04:56.000Z",
+          "wordCount": 74,
+          "title": "How to Synthesize a House Loop",
+          "imageUrl": "https://loopmaster.xyz/screenshot.png?v=2"
         },
         {
           "id": "https://www.raspberrypi.com/news/cloud-init-on-raspberry-pi-os/",
@@ -8269,386 +8554,6 @@
           "wordCount": 5498,
           "title": "Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts",
           "imageUrl": null
-        },
-        {
-          "id": "https://loopholelabs.io/blog/xdp-for-egress-traffic",
-          "author": null,
-          "description": "Comments",
-          "link": "https://loopholelabs.io/blog/xdp-for-egress-traffic",
-          "publishedOn": "2025-11-04T16:26:09.000Z",
-          "wordCount": 15863,
-          "title": "An eBPF Loophole: Using XDP for Egress Traffic",
-          "imageUrl": "https://loopholelabs.io/blog/posts/xdp-for-egress-traffic/opengraph.png"
-        },
-        {
-          "id": "https://github.com/Snowflake-Labs/pg_lake",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Snowflake-Labs/pg_lake",
-          "publishedOn": "2025-11-04T16:12:27.000Z",
-          "wordCount": 5809,
-          "title": "Pg_lake: Postgres with Iceberg and data lake access",
-          "imageUrl": "https://opengraph.githubassets.com/90d52b961537617baafdb2fb1d2b062f28dd35e1cdcc869213f3af1759249324/Snowflake-Labs/pg_lake"
-        },
-        {
-          "id": "https://ciju.in/writings/understanding-financial-functions-excel-sheets",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ciju.in/writings/understanding-financial-functions-excel-sheets",
-          "publishedOn": "2025-11-04T16:00:59.000Z",
-          "wordCount": 4211,
-          "title": "Understanding Financial Functions in Excel",
-          "imageUrl": "https://ciju.in/images/financial_fns/cashflows.png"
-        },
-        {
-          "id": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
-          "publishedOn": "2025-11-04T15:23:14.000Z",
-          "wordCount": 32585,
-          "title": "This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours",
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/ttuF6zAsvkYiVcKNJst2TH-2000-80.jpg"
-        },
-        {
-          "id": "https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu",
-          "author": null,
-          "description": "Comments",
-          "link": "https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu",
-          "publishedOn": "2025-11-04T14:31:27.000Z",
-          "wordCount": null,
-          "title": "Optimizing Datalog for the GPU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://norvig.com/sudoku.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://norvig.com/sudoku.html",
-          "publishedOn": "2025-11-04T14:30:23.000Z",
-          "wordCount": 5503,
-          "title": "Solving Every Sudoku Puzzle (2006)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://terra.layoutit.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://terra.layoutit.com/",
-          "publishedOn": "2025-11-04T13:58:35.000Z",
-          "wordCount": 665,
-          "title": "Show HN: A CSS-Only Terrain Generator",
-          "imageUrl": "https://terra.layoutit.com/layoutit-terra.png"
-        },
-        {
-          "id": "https://gordonbeeming.com/blog/2025-10-03/taming-the-ai-my-paranoid-guide-to-running-copilot-cli-in-a-secure-docker-sandbox",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gordonbeeming.com/blog/2025-10-03/taming-the-ai-my-paranoid-guide-to-running-copilot-cli-in-a-secure-docker-sandbox",
-          "publishedOn": "2025-11-04T13:14:26.000Z",
-          "wordCount": null,
-          "title": "The Paranoid Guide to Running Copilot CLI in a Secure Docker Sandbox",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/",
-          "publishedOn": "2025-11-04T12:36:49.000Z",
-          "wordCount": 5269,
-          "title": "When your hash becomes a string: Hunting Ruby's million-to-one memory bug",
-          "imageUrl": "https://cdn.mensfeld.pl/wp-content/uploads/2025/11/bug.jpg"
-        },
-        {
-          "id": "https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/",
-          "publishedOn": "2025-11-04T12:16:54.000Z",
-          "wordCount": 10217,
-          "title": "When Soviet-Made Cars Roamed Singapore Roads",
-          "imageUrl": "https://remembersingapore.org/wp-content/uploads/2025/10/lada-1200-advert-1978-newspapersg.jpg"
-        },
-        {
-          "id": "https://matklad.github.io/2025/11/04/on-async-mutexes.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://matklad.github.io/2025/11/04/on-async-mutexes.html",
-          "publishedOn": "2025-11-04T12:02:24.000Z",
-          "wordCount": 725,
-          "title": "Async Mutexes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html",
-          "publishedOn": "2025-11-04T11:27:59.000Z",
-          "wordCount": null,
-          "title": "Shell Grotto: England's mysterious underground seashell chamber",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.wilsonl.in/blobd/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.wilsonl.in/blobd/",
-          "publishedOn": "2025-11-04T11:09:24.000Z",
-          "wordCount": 8288,
-          "title": "Building blobd: single-machine object store with sub-ms reads and 15 GB/s upload",
-          "imageUrl": null
-        },
-        {
-          "id": "https://funktionale-programmierung.de/en/2018/03/22/transducer.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://funktionale-programmierung.de/en/2018/03/22/transducer.html",
-          "publishedOn": "2025-11-04T10:32:26.000Z",
-          "wordCount": 2317,
-          "title": "Transducer: Composition, abstraction, performance (2018)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://moebio.com/research/sevensets/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://moebio.com/research/sevensets/",
-          "publishedOn": "2025-11-04T09:27:57.000Z",
-          "wordCount": 119,
-          "title": "Venn Diagram for 7 Sets",
-          "imageUrl": "http://moebio.com/research/sevensets/resources/sevensets.png"
-        },
-        {
-          "id": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
-          "publishedOn": "2025-11-04T09:08:23.000Z",
-          "wordCount": 2671,
-          "title": "JVM exceptions are weird: a decompiler perspective",
-          "imageUrl": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/og.png"
-        },
-        {
-          "id": "https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html",
-          "publishedOn": "2025-11-04T09:02:49.000Z",
-          "wordCount": 2977,
-          "title": "From web developer to database developer in 10 years",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0-eViUyPwso",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=0-eViUyPwso",
-          "publishedOn": "2025-11-04T06:35:27.000Z",
-          "wordCount": null,
-          "title": "I want a good parallel language [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html",
-          "publishedOn": "2025-11-04T03:05:19.000Z",
-          "wordCount": 3454,
-          "title": "Real VT102 Emulation with MAME",
-          "imageUrl": null
-        },
-        {
-          "id": "https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html",
-          "publishedOn": "2025-11-04T02:58:40.000Z",
-          "wordCount": 2266,
-          "title": "An individual can change an organization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.statnews.com/2025/11/03/unitedhealth-pays-its-optum-physicians-17-percent-more/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.statnews.com/2025/11/03/unitedhealth-pays-its-optum-physicians-17-percent-more/",
-          "publishedOn": "2025-11-04T02:10:21.000Z",
-          "wordCount": 3893,
-          "title": "UnitedHealth pays its own physician groups 17% more than outside ones",
-          "imageUrl": "https://www.statnews.com/wp-content/uploads/2025/11/AdobeStock_705127162_Editorial_Use_Only-1024x576.jpeg"
-        },
-        {
-          "id": "https://animationobsessive.substack.com/p/when-stick-figures-fought",
-          "author": null,
-          "description": "Comments",
-          "link": "https://animationobsessive.substack.com/p/when-stick-figures-fought",
-          "publishedOn": "2025-11-04T00:48:56.000Z",
-          "wordCount": null,
-          "title": "When stick figures fought",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lcamtuf.substack.com/p/things-you-can-do-with-diodes",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lcamtuf.substack.com/p/things-you-can-do-with-diodes",
-          "publishedOn": "2025-11-03T23:49:03.000Z",
-          "wordCount": null,
-          "title": "Things you can do with diodes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0xkato.xyz/linux-process-memory/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.0xkato.xyz/linux-process-memory/",
-          "publishedOn": "2025-11-03T23:04:22.000Z",
-          "wordCount": 13890,
-          "title": "A friendly tour of process memory on Linux",
-          "imageUrl": "/assets/virtual-momory-show-case.png"
-        },
-        {
-          "id": "https://www.airs.com/blog/archives/38",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.airs.com/blog/archives/38",
-          "publishedOn": "2025-11-03T23:01:08.000Z",
-          "wordCount": 3464,
-          "title": "Linkers (2007)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition",
-          "author": null,
-          "description": "Comments",
-          "link": "https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition",
-          "publishedOn": "2025-11-03T22:54:20.000Z",
-          "wordCount": 2569,
-          "title": "Guideline has been acquired by Gusto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dfir.ch/posts/today_i_learned_binfmt_misc/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dfir.ch/posts/today_i_learned_binfmt_misc/",
-          "publishedOn": "2025-11-03T21:49:58.000Z",
-          "wordCount": 1497,
-          "title": "Today I Learned: Binfmt_misc",
-          "imageUrl": "https://dfir.ch/"
-        },
-        {
-          "id": "https://www.reddit.com/r/webdev/comments/1onnzlj/app_store_web_has_exposed_all_its_source_code/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reddit.com/r/webdev/comments/1onnzlj/app_store_web_has_exposed_all_its_source_code/",
-          "publishedOn": "2025-11-03T21:27:56.000Z",
-          "wordCount": null,
-          "title": "App Store web has exposed all its source code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.wreflection.com/p/ai-dial-up-era",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wreflection.com/p/ai-dial-up-era",
-          "publishedOn": "2025-11-03T21:01:09.000Z",
-          "wordCount": 8057,
-          "title": "AI's Dial-Up Era",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!zH50!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba0eaf69-eff7-4b03-9604-ed204521e640_1920x1080.jpeg"
-        },
-        {
-          "id": "http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl",
-          "author": null,
-          "description": "Comments",
-          "link": "http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl",
-          "publishedOn": "2025-11-03T20:52:50.000Z",
-          "wordCount": 3707,
-          "title": "CHIP8 – emulator, assembler, game, vhdl hardware implementations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/",
-          "publishedOn": "2025-11-03T20:37:34.000Z",
-          "wordCount": 3147,
-          "title": "The Mack Super Pumper was a locomotive engined fire fighter (2018)",
-          "imageUrl": "https://bangshift.com/wp-content/uploads/2014/10/pumper1.jpg"
-        },
-        {
-          "id": "https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/",
-          "publishedOn": "2025-11-03T20:19:53.000Z",
-          "wordCount": 1747,
-          "title": "40 years on, Former Nintendo employees reveal what it took to launch the NES",
-          "imageUrl": "https://hanafuda.report/wp-content/uploads/2025/11/Screenshot-2025-11-03-at-20.13.25.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dy-wFixuRVU",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=dy-wFixuRVU",
-          "publishedOn": "2025-11-03T19:51:30.000Z",
-          "wordCount": null,
-          "title": "Building a 2.5kWh battery from disposable vapes to power my workshop [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "http://xahlee.info/kbd/keyboard_n-key_rollover_key_ghosting.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://xahlee.info/kbd/keyboard_n-key_rollover_key_ghosting.html",
-          "publishedOn": "2025-11-03T19:36:27.000Z",
-          "wordCount": 1313,
-          "title": "Max Number of Simultaneous Key-Press (N-Key Rollover, NKRO, Ghosting) (2010)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://guestbook.goodenough.us/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://guestbook.goodenough.us/",
-          "publishedOn": "2025-11-03T18:27:32.000Z",
-          "wordCount": 227,
-          "title": "Gallery of wonderful drawings our little thermal printer received",
-          "imageUrl": "https://guestbook.goodenough.us/assets/social-preview-guestbook-8ee2746e0b2758f94c534b9d9350a0caf4a6dbc05b7e9ebc8b71600131078d29.jpg"
-        },
-        {
-          "id": "https://blog.redplanetlabs.com/2025/11/03/introducing-agent-o-rama-build-trace-evaluate-and-monitor-stateful-llm-agents-in-java-or-clojure/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.redplanetlabs.com/2025/11/03/introducing-agent-o-rama-build-trace-evaluate-and-monitor-stateful-llm-agents-in-java-or-clojure/",
-          "publishedOn": "2025-11-03T18:16:43.000Z",
-          "wordCount": 4303,
-          "title": "Agent-o-rama: build, trace, evaluate, and monitor LLM agents in Java or Clojure",
-          "imageUrl": "https://i0.wp.com/blog.redplanetlabs.com/wp-content/uploads/2025/10/trace.png"
-        },
-        {
-          "id": "https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking",
-          "publishedOn": "2025-11-03T17:55:10.000Z",
-          "wordCount": 51983,
-          "title": "The Case That A.I. Is Thinking",
-          "imageUrl": "https://media.newyorker.com/photos/6903f253c112f653fd376249/16:9/w_1280,c_limit/r47764.jpg"
-        },
-        {
-          "id": "https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased",
-          "author": null,
-          "description": "Comments",
-          "link": "https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased",
-          "publishedOn": "2025-11-03T17:49:25.000Z",
-          "wordCount": 24,
-          "title": "Dependent types and how to get rid of them",
-          "imageUrl": null
         }
       ]
     },
@@ -9075,16 +8980,6 @@
           "wordCount": 3343,
           "title": "Parsl",
           "imageUrl": "https://danmackinlay.name/generated_thumbnails/opengraph_previews/images/tafeldans_RP-P-1937-2008.og.jpg"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/snakemake.html",
-          "author": null,
-          "description": "Figure 1\n\n\n\nI missed it before, but Snakemake deserves a look. At its core, it’s a build tool inspired by Make, but it’s built with data science and bioinformatics workflows in mind.\nIts main purpose is to create reproducible, scalable data analyses. We express a pipeline as a DAG (Directed Acyclic Graph) of rules, and Snakemake detects which jobs can run in parallel based on their dependencies. This avoids re-running tasks whose inputs haven’t changed — super handy if the task is a 100-hour weather simulation or a neural-network training run.\n1 The DSL\nSnakemake uses its own DSL (a.k.a. Domain-Specific Language) for defining the tasks in a Snakefile.\nI hate this. The docs spin this as a “human-readable, Python-based language,” but in practice it’s a custom file format. This odd choice bre…",
-          "link": "https://danmackinlay.name/notebook/snakemake.html",
-          "publishedOn": "2025-11-04T06:04:17.000Z",
-          "wordCount": 2913,
-          "title": "Snakemake",
-          "imageUrl": "https://danmackinlay.name/generated_thumbnails/opengraph_previews/images/shoe_elf.og.jpg"
         }
       ]
     },
