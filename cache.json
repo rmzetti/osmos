@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390654",
+          "author": "Daniel Schwarz",
+          "description": "How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? What could we use them for?\nWhat Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/what-else-could-container-queries-query/",
+          "publishedOn": "2025-12-12T14:38:18.000Z",
+          "wordCount": 1938,
+          "title": "What Else Could Container Queries… Query?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390516",
           "author": "Preethi",
           "description": "It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.\nCreating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -150,16 +160,6 @@
           "wordCount": 1860,
           "title": "Quiet UI Came and Went, Quiet as a Mouse",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/quiet-ui.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390178",
-          "author": "Daniel Schwarz",
-          "description": "Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.\nThe Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/",
-          "publishedOn": "2025-11-13T15:00:20.000Z",
-          "wordCount": 3233,
-          "title": "The Range Syntax Has Come to Container Style Queries and if()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/media-query-range-syntax.png"
         }
       ]
     },
@@ -342,21 +342,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
-          "author": "hello@smashingmagazine.com (Bryan Rasmussen)",
-          "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
-          "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
-          "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6487,
-          "title": "Older Tech In The Browser Stack",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg"
         }
       ]
     },
@@ -365,6 +350,236 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://github.com/sgharlow/claude-code-recipes",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/sgharlow/claude-code-recipes",
+          "publishedOn": "2025-12-13T03:57:58.000Z",
+          "wordCount": 8661,
+          "title": "Show HN: Claude Code Recipes for Knowledge Workers (Open Source)",
+          "imageUrl": "https://opengraph.githubassets.com/994d1a1251b84d1706d0e07b7a369c9eb11cd130570f8067cc5b0e3db94caac3/sgharlow/claude-code-recipes"
+        },
+        {
+          "id": "https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/",
+          "publishedOn": "2025-12-13T03:21:32.000Z",
+          "wordCount": 1540,
+          "title": "Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order",
+          "imageUrl": null
+        },
+        {
+          "id": "https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/",
+          "publishedOn": "2025-12-13T03:17:18.000Z",
+          "wordCount": 1421,
+          "title": "The Coming Need for Formal Specification",
+          "imageUrl": "https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/cover.jpg"
+        },
+        {
+          "id": "https://boingboing.net/2025/12/12/oliver-sacks-fabricated-key-details-in-his-books.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://boingboing.net/2025/12/12/oliver-sacks-fabricated-key-details-in-his-books.html",
+          "publishedOn": "2025-12-13T03:12:47.000Z",
+          "wordCount": null,
+          "title": "Oliver Sacks fabricated key details in his books",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ghibli.jp/info/013772/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ghibli.jp/info/013772/",
+          "publishedOn": "2025-12-13T02:56:49.000Z",
+          "wordCount": 135,
+          "title": "1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli",
+          "imageUrl": "https://www.ghibli.jp/images/kimitachi.jpg"
+        },
+        {
+          "id": "https://99percentinvisible.org/episode/650-the-checkerboard/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://99percentinvisible.org/episode/650-the-checkerboard/",
+          "publishedOn": "2025-12-13T00:50:47.000Z",
+          "wordCount": 2289,
+          "title": "The Checkerboard",
+          "imageUrl": "https://99percentinvisible.org/wp-content/uploads/2025/12/Screenshot-2025-10-15-at-7.58.56-AM-728x344.png"
+        },
+        {
+          "id": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+          "publishedOn": "2025-12-12T23:30:19.000Z",
+          "wordCount": 1175,
+          "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+          "imageUrl": "https://static.simonwillison.net/static/2025/openai-skills-card.jpg"
+        },
+        {
+          "id": "https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html",
+          "publishedOn": "2025-12-12T23:26:26.000Z",
+          "wordCount": 3408,
+          "title": "50 years of proof assistants",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ringtailsoftware/uvm32",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ringtailsoftware/uvm32",
+          "publishedOn": "2025-12-12T22:02:14.000Z",
+          "wordCount": 3577,
+          "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
+          "imageUrl": "https://opengraph.githubassets.com/2534dd39ecec89eac2b55c1eb0bce7772935f47a5cbf1c10b347a6eda040b60c/ringtailsoftware/uvm32"
+        },
+        {
+          "id": "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html",
+          "publishedOn": "2025-12-12T21:42:04.000Z",
+          "wordCount": 1655,
+          "title": "Capsudo: Rethinking Sudo with Object Capabilities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39",
+          "publishedOn": "2025-12-12T21:00:54.000Z",
+          "wordCount": 5377,
+          "title": "Motion (YC W20) Is Hiring Senior Staff Front End Engineers",
+          "imageUrl": "https://app.ashbyhq.com/api/images/org-theme-social/fd4042c5-a696-4b26-9058-2ac8131c2d75/ba054e11-b6a5-49eb-bfa7-65f4f442dec5/fab07bab-a363-44f7-8435-32f76868d3d3.png"
+        },
+        {
+          "id": "https://unifoundry.com/unifont/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://unifoundry.com/unifont/index.html",
+          "publishedOn": "2025-12-12T20:57:34.000Z",
+          "wordCount": 8996,
+          "title": "GNU Unifont",
+          "imageUrl": null
+        },
+        {
+          "id": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
+          "publishedOn": "2025-12-12T20:41:38.000Z",
+          "wordCount": 63,
+          "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
+          "imageUrl": "https://docs.developer.apple.com/tutorials/developer-og.jpg"
+        },
+        {
+          "id": "https://invoice.secvuln.info/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://invoice.secvuln.info/",
+          "publishedOn": "2025-12-12T20:28:41.000Z",
+          "wordCount": 750,
+          "title": "Security issues with electronic invoices",
+          "imageUrl": "https://invoice.secvuln.info/xxeinvoice.png"
+        },
+        {
+          "id": "https://ratsplaydoom.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ratsplaydoom.com/",
+          "publishedOn": "2025-12-12T20:15:58.000Z",
+          "wordCount": 1200,
+          "title": "Rats Play DOOM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
+          "publishedOn": "2025-12-12T18:23:21.000Z",
+          "wordCount": 2696,
+          "title": "Home Depot GitHub token exposed for a year, granted access to internal systems",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/12/home-depot-2200450751.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://flak.tedunangst.com/post/async-dns",
+          "author": null,
+          "description": "Comments",
+          "link": "https://flak.tedunangst.com/post/async-dns",
+          "publishedOn": "2025-12-12T16:52:41.000Z",
+          "wordCount": 1270,
+          "title": "Async DNS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/",
+          "publishedOn": "2025-12-12T16:23:10.000Z",
+          "wordCount": 4447,
+          "title": "String theory inspires a brilliant, baffling new math proof",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/12/QuantumPolynomials-crKristinaArmitage-Social.jpg"
+        },
+        {
+          "id": "https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy",
+          "publishedOn": "2025-12-12T15:19:19.000Z",
+          "wordCount": 1065,
+          "title": "CM0 – A new Raspberry Pi you can't buy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing",
+          "publishedOn": "2025-12-12T13:25:19.000Z",
+          "wordCount": 2731,
+          "title": "SQLite JSON at full index speed using generated columns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
+          "publishedOn": "2025-12-12T12:51:40.000Z",
+          "wordCount": 5343,
+          "title": "Sick of smart TVs? Here are your best options",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/smart-dumb-tv-1152x648.jpg"
+        },
+        {
+          "id": "https://sgt.hootr.club/blog/docker-protips/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sgt.hootr.club/blog/docker-protips/",
+          "publishedOn": "2025-12-12T10:23:23.000Z",
+          "wordCount": 1804,
+          "title": "Building small Docker images faster",
+          "imageUrl": null
+        },
+        {
+          "id": "https://0l.de/blog/2025/11/xiaomi-humidifier/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://0l.de/blog/2025/11/xiaomi-humidifier/",
+          "publishedOn": "2025-12-12T06:17:28.000Z",
+          "wordCount": 1391,
+          "title": "Freeing a Xiaomi humidifier from the cloud",
+          "imageUrl": null
+        },
         {
           "id": "https://www.bbc.com/news/articles/c24l223d9n7o",
           "author": null,
@@ -424,6 +639,16 @@
           "wordCount": 1365,
           "title": "Nokia N900 Necromancy",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
+          "publishedOn": "2025-12-11T23:56:10.000Z",
+          "wordCount": 3630,
+          "title": "Ensuring a National Policy Framework for Artificial Intelligence",
+          "imageUrl": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg"
         },
         {
           "id": "https://1517.substack.com/p/powder-and-stone-or-why-medieval",
@@ -503,6 +728,16 @@
           "publishedOn": "2025-12-11T18:04:47.000Z",
           "wordCount": null,
           "title": "GPT-5.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://victorpoughon.github.io/bidicalc/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://victorpoughon.github.io/bidicalc/",
+          "publishedOn": "2025-12-11T18:00:55.000Z",
+          "wordCount": 1280,
+          "title": "Show HN: I made a spreadsheet where formulas also update backwards",
           "imageUrl": null
         },
         {
@@ -724,6 +959,16 @@
           "wordCount": 1825,
           "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/9/9/2/4/4/4/Steam_Machine-78169c2a6ba85a4c.jpg"
+        },
+        {
+          "id": "https://clickhouse.com/blog/introducing-pg_clickhouse",
+          "author": null,
+          "description": "Comments",
+          "link": "https://clickhouse.com/blog/introducing-pg_clickhouse",
+          "publishedOn": "2025-12-10T17:14:39.000Z",
+          "wordCount": 5395,
+          "title": "Pg_ClickHouse: A Postgres extension for querying ClickHouse",
+          "imageUrl": "https://clickhouse.com/_next/image?url=%2Fuploads%2FClick_House_pg_clickhouse_Blog_Banner_7f63005a61.jpg&w=1200&h=630&q=80"
         },
         {
           "id": "https://app.dover.com/jobs/9mothers",
@@ -1306,6 +1551,16 @@
           "imageUrl": "https://opengraph.githubassets.com/eca76a0313132585a973c2d3f38cc66e83222bb486aa6e3aafa7fea201183063/apple/foundationdb"
         },
         {
+          "id": "https://www.slax.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.slax.org/",
+          "publishedOn": "2025-12-08T12:24:29.000Z",
+          "wordCount": 2754,
+          "title": "Slax: Live Pocket Linux",
+          "imageUrl": null
+        },
+        {
           "id": "https://lucasvance.github.io/2100/history/",
           "author": null,
           "description": "Comments",
@@ -1406,6 +1661,16 @@
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!-CL8!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa93cbb15-b59d-4f80-b760-f309183f19b6_1080x721.jpeg"
         },
         {
+          "id": "https://cns.utexas.edu/news/research/so-what-should-we-call-grue-jay",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cns.utexas.edu/news/research/so-what-should-we-call-grue-jay",
+          "publishedOn": "2025-12-07T18:11:25.000Z",
+          "wordCount": 1371,
+          "title": "So What Should We Call This – A Grue Jay?",
+          "imageUrl": "https://cns.utexas.edu/sites/default/files/uploads/images/default/fig1-no-labels_2400x1350.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Gv4sDL9Ljww",
           "author": null,
           "description": "Comments",
@@ -1504,6 +1769,16 @@
           "wordCount": 2393,
           "title": "Google Titans architecture, helping AI have long-term memory",
           "imageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg"
+        },
+        {
+          "id": "https://basic-code.bearblog.dev/c64-maze-chompbas/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://basic-code.bearblog.dev/c64-maze-chompbas/",
+          "publishedOn": "2025-12-07T11:01:07.000Z",
+          "wordCount": 1663,
+          "title": "C64 Maze Chomp.BAS",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/basic-code/c490f910-b561-419a-94ea-872b19600c5c.webp"
         },
         {
           "id": "https://github.com/pdsink/pdsink",
@@ -1704,6 +1979,16 @@
           "wordCount": 3064,
           "title": "CATL expects oceanic electric ships in 3 years",
           "imageUrl": "https://cleantechnica.com/wp-content/uploads/2025/12/CATL-powered-tugboat-Qinggang-Tug-1.jpg"
+        },
+        {
+          "id": "https://gwern.net/doc/technology/2008-sower.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gwern.net/doc/technology/2008-sower.pdf",
+          "publishedOn": "2025-12-06T19:21:50.000Z",
+          "wordCount": 1964,
+          "title": "Ferrari's Formula 1 Handovers: Handovers from Surgery to Intensive Care 2008;pdf",
+          "imageUrl": null
         },
         {
           "id": "https://sites.gatech.edu/omscsopencourseware/",
@@ -8494,346 +8779,6 @@
           "wordCount": 10726,
           "title": "Nano Banana can be prompt engineered for nuanced AI image generation",
           "imageUrl": "https://minimaxir.com/2025/11/nano-banana-prompts/s57haPv7FsOumtkP1e_mqQM.webp"
-        },
-        {
-          "id": "https://www.tweeks.io/onboarding",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tweeks.io/onboarding",
-          "publishedOn": "2025-11-13T16:03:04.000Z",
-          "wordCount": 428,
-          "title": "Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web",
-          "imageUrl": null
-        },
-        {
-          "id": "https://zed.dev/blog/zed-is-our-office",
-          "author": null,
-          "description": "Comments",
-          "link": "https://zed.dev/blog/zed-is-our-office",
-          "publishedOn": "2025-11-13T15:41:26.000Z",
-          "wordCount": 11031,
-          "title": "Zed is our office",
-          "imageUrl": "https://zed.dev/img/post/zed-is-our-office/thumbnail.webp"
-        },
-        {
-          "id": "https://32bits.substack.com/p/under-the-microscope-ncaa-basketball",
-          "author": null,
-          "description": "Comments",
-          "link": "https://32bits.substack.com/p/under-the-microscope-ncaa-basketball",
-          "publishedOn": "2025-11-13T15:33:51.000Z",
-          "wordCount": null,
-          "title": "The marriage proposal that's hidden in two 1990s PlayStation games",
-          "imageUrl": null
-        },
-        {
-          "id": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
-          "publishedOn": "2025-11-13T15:29:38.000Z",
-          "wordCount": 3569,
-          "title": "SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds",
-          "imageUrl": "https://lh3.googleusercontent.com/A5vgACWjzxaEanLkjrZSNlQDjI0SEZ4tKJqE2EtboljSRIkcbEVv4JA2H7a-BEYNoWK097hNdthFdB6h537DUVvFbAUwhWUFSzzA0E0ndr6zMC8tMA=w1200-h630-n-nu"
-        },
-        {
-          "id": "https://github.com/sirrodgepodge/rrule_plpgsql",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/sirrodgepodge/rrule_plpgsql",
-          "publishedOn": "2025-11-13T14:33:35.000Z",
-          "wordCount": 6214,
-          "title": "RRules (yes handling RSCALE) using only PL/pgSQL",
-          "imageUrl": "https://opengraph.githubassets.com/79149b3a128cfcc354b81e91d00b54c9f10e5d01db5354000a1abdc54fe3e084/sirrodgepodge/rrule_plpgsql"
-        },
-        {
-          "id": "https://www.blender.org/news/introducing-blender-lab/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.blender.org/news/introducing-blender-lab/",
-          "publishedOn": "2025-11-13T13:38:47.000Z",
-          "wordCount": 2061,
-          "title": "Blender Lab",
-          "imageUrl": "https://www.blender.org/wp-content/uploads/2025/11/blender_lab_2025-480x270.jpg"
-        },
-        {
-          "id": "https://www.embedded.com/bluetooth-channel-sounding-the-next-leap-in-bluetooth-innovation?_gl=1*8e3cij*_gcl_au*MzQwNzM2NDAxLjE3NjMwMzUwNzA.*_ga*NDc3NjU3MDk3LjE3NjMwMzUwNzA.*_ga_ZLV02RYCZ8*czE3NjMwMzUwNjkkbzEkZzAkdDE3NjMwMzUwNjkkajYwJGwwJGgw",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.embedded.com/bluetooth-channel-sounding-the-next-leap-in-bluetooth-innovation?_gl=1*8e3cij*_gcl_au*MzQwNzM2NDAxLjE3NjMwMzUwNzA.*_ga*NDc3NjU3MDk3LjE3NjMwMzUwNzA.*_ga_ZLV02RYCZ8*czE3NjMwMzUwNjkkbzEkZzAkdDE3NjMwMzUwNjkkajYwJGwwJGgw",
-          "publishedOn": "2025-11-13T11:58:43.000Z",
-          "wordCount": null,
-          "title": "Bluetooth Channel Sounding: The Next Leap in Bluetooth Innovation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/",
-          "publishedOn": "2025-11-13T10:41:08.000Z",
-          "wordCount": 1949,
-          "title": "Hilbert space: treating functions as vectors",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
-          "publishedOn": "2025-11-13T09:23:30.000Z",
-          "wordCount": 3291,
-          "title": "Checkout.com hacked, refuses ransom payment, donates to security labs",
-          "imageUrl": "https://cdn.prod.website-files.com/64db80a5e88c6b1723ff7649/69149eaf311cad0ecc4a8d4f_Thumbnail_Option%203.png"
-        },
-        {
-          "id": "https://evanhahn.com/fizz-buzz-without-conditionals-or-booleans/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://evanhahn.com/fizz-buzz-without-conditionals-or-booleans/",
-          "publishedOn": "2025-11-13T07:37:50.000Z",
-          "wordCount": 278,
-          "title": "Fizz Buzz without conditionals or booleans",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer",
-          "publishedOn": "2025-11-13T04:26:56.000Z",
-          "wordCount": 935,
-          "title": "CollectWise (YC F24) Is Hiring",
-          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/a5be02a3378f664e1f80f2a84997514d00f9fc1f.png?1731452013"
-        },
-        {
-          "id": "https://grapheneos.social/@GrapheneOS/115533432439509433",
-          "author": null,
-          "description": "Comments",
-          "link": "https://grapheneos.social/@GrapheneOS/115533432439509433",
-          "publishedOn": "2025-11-13T03:49:23.000Z",
-          "wordCount": 177,
-          "title": "Google open-sources Android 16 QPR1, two months late",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.a67z.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.a67z.com/",
-          "publishedOn": "2025-11-13T03:48:15.000Z",
-          "wordCount": 735,
-          "title": "A67z",
-          "imageUrl": "https://www.a67z.com/a67z.png"
-        },
-        {
-          "id": "https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/",
-          "publishedOn": "2025-11-13T03:39:56.000Z",
-          "wordCount": 1055,
-          "title": "Bitcoin's big secret: How cryptocurrency became law enforcement's secret weapon",
-          "imageUrl": "https://bitwarden.com/assets/38DP5zUliNz94JBkEo8xeM/497b1316567e2e6cbf367df06eb1fc7b/summit-andy-greenberg-blog.png"
-        },
-        {
-          "id": "https://github.com/anthropics/claude-code/issues/11506",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/anthropics/claude-code/issues/11506",
-          "publishedOn": "2025-11-13T03:34:02.000Z",
-          "wordCount": 1509,
-          "title": "Claude Code Introduces Off-by-One Errors",
-          "imageUrl": "https://opengraph.githubassets.com/f59d3c70eeb1a0579fbd47186667c580245bf49aafd7005d016867b8df6ee37f/anthropics/claude-code/issues/11506"
-        },
-        {
-          "id": "https://epsilon537.github.io/boxlambda/usb-hid/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://epsilon537.github.io/boxlambda/usb-hid/",
-          "publishedOn": "2025-11-13T03:32:24.000Z",
-          "wordCount": 2603,
-          "title": "On USB HID, Keyboard LEDs, and device emulation (2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://warsus.github.io/lions-/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://warsus.github.io/lions-/",
-          "publishedOn": "2025-11-13T03:01:47.000Z",
-          "wordCount": 2,
-          "title": "A Commentary on the Sixth Edition Unix Operating System",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/",
-          "publishedOn": "2025-11-13T02:17:30.000Z",
-          "wordCount": 1624,
-          "title": "My dad could still be alive, but he's not",
-          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
-        },
-        {
-          "id": "http://sarah.alroe.dk/2025/NeoInf/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://sarah.alroe.dk/2025/NeoInf/",
-          "publishedOn": "2025-11-13T01:57:11.000Z",
-          "wordCount": 1232,
-          "title": "Temporal Dithering of NeoPixels on an ATtiny412",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.shadertoy.com/view/4dsXzM",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.shadertoy.com/view/4dsXzM",
-          "publishedOn": "2025-11-13T00:48:45.000Z",
-          "wordCount": null,
-          "title": "Human Fovea Detector",
-          "imageUrl": null
-        },
-        {
-          "id": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
-          "publishedOn": "2025-11-13T00:33:25.000Z",
-          "wordCount": 8510,
-          "title": "Google will allow users to sideload Android apps without verification",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_0oYZrhyCqNBO9anwBOP-3yGqbxf_mGoKMcsLxVixlVftYnSfg1H6W235avMonfD62Yw8M4wOwHxcNoJDCw3hTooUpQr6aZAGdej9cMygcg4-SMMYFchbo8x5-6lLLodUgVGhoN-SdkPGiRYxFV825y6Drdr0SwmwUtwtBRdiydT3s48ACNvKS1GI2aM/s1600/V3%20-%20Opt%20B%20Meta_1.png"
-        },
-        {
-          "id": "https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432",
-          "publishedOn": "2025-11-12T23:38:56.000Z",
-          "wordCount": 4629,
-          "title": "Voyager 1 is a light-day away by November 2026",
-          "imageUrl": "https://assets.iflscience.com/assets/articleNo/81432/aImg/87383/pale-blue-dot-meta.png"
-        },
-        {
-          "id": "https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/",
-          "publishedOn": "2025-11-12T23:35:41.000Z",
-          "wordCount": 1738,
-          "title": "Valve is about to win the console generation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.worldlabs.ai/blog/marble-world-model",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.worldlabs.ai/blog/marble-world-model",
-          "publishedOn": "2025-11-12T22:11:14.000Z",
-          "wordCount": 5603,
-          "title": "Marble: A Multimodal World Model",
-          "imageUrl": "https://www.worldlabs.ai/og.png"
-        },
-        {
-          "id": "https://github.com/Homebrew/brew/issues/20755",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Homebrew/brew/issues/20755",
-          "publishedOn": "2025-11-12T21:50:14.000Z",
-          "wordCount": 3704,
-          "title": "Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software",
-          "imageUrl": "https://opengraph.githubassets.com/08aeeeae978f16ff74e814645c15b38a9ad443d8387a656d73fd054273a9e984/Homebrew/brew/issues/20755"
-        },
-        {
-          "id": "https://fex-emu.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fex-emu.com/",
-          "publishedOn": "2025-11-12T20:15:51.000Z",
-          "wordCount": 367,
-          "title": "FEX-emu – Run x86 applications on ARM64 Linux devices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with",
-          "author": null,
-          "description": "Comments",
-          "link": "https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with",
-          "publishedOn": "2025-11-12T18:46:40.000Z",
-          "wordCount": null,
-          "title": "Blasting Yeast with UV Light",
-          "imageUrl": null
-        },
-        {
-          "id": "https://robrobinette.com/How_Amps_Work.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://robrobinette.com/How_Amps_Work.htm",
-          "publishedOn": "2025-11-12T18:35:59.000Z",
-          "wordCount": null,
-          "title": "How Tube Amplifiers Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
-          "publishedOn": "2025-11-12T18:26:25.000Z",
-          "wordCount": 1734,
-          "title": "Valve Announces New Steam Machine, Steam Controller and Steam Frame",
-          "imageUrl": null
-        },
-        {
-          "id": "https://store.steampowered.com/sale/steammachine",
-          "author": null,
-          "description": "Comments",
-          "link": "https://store.steampowered.com/sale/steammachine",
-          "publishedOn": "2025-11-12T17:59:43.000Z",
-          "wordCount": 414,
-          "title": "Steam Machine",
-          "imageUrl": "https://clan.fastly.steamstatic.com/images/45479024/d2ce7e96bb0ab51817ba37cf61e3ca919d6f7209.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/sale/steamframe",
-          "author": null,
-          "description": "Comments",
-          "link": "https://store.steampowered.com/sale/steamframe",
-          "publishedOn": "2025-11-12T17:54:58.000Z",
-          "wordCount": 414,
-          "title": "Steam Frame",
-          "imageUrl": "https://clan.fastly.steamstatic.com/images/45479024/41ac1feaa13a1396844a31be91beb068eb2e509f.jpg"
-        },
-        {
-          "id": "https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/",
-          "publishedOn": "2025-11-12T17:50:54.000Z",
-          "wordCount": 3192,
-          "title": "The Lucas-Lehmer Prime Number Test",
-          "imageUrl": "https://static.scientificamerican.com/dam/m/56087a8ff6d6adcc/original/GettyImages-669891874-prime-numbers.jpeg?m=1762893627.436&w=1200"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45903161",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=45903161",
-          "publishedOn": "2025-11-12T17:43:42.000Z",
-          "wordCount": 4839,
-          "title": "Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React",
-          "imageUrl": null
-        },
-        {
-          "id": "https://projecteuler.net/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://projecteuler.net/",
-          "publishedOn": "2025-11-12T17:24:54.000Z",
-          "wordCount": 340,
-          "title": "Project Euler",
-          "imageUrl": null
         }
       ]
     },
