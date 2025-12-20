@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390640",
+          "author": "Sunkanmi Fafowora",
+          "description": "It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.\nMasonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/masonry-layout-is-now-grid-lanes/",
+          "publishedOn": "2025-12-19T16:08:28.000Z",
+          "wordCount": 2555,
+          "title": "Masonry Layout is Now grid-lanes",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/05/css-masonry.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391171",
           "author": "Geoff Graham",
           "description": "Jelte Lagendijk built a Raycast extension for searching CSS-Tricks articles where you simply type and a get a solid set of real-time results.\nSearch CSS-Tricks Raycast Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -185,16 +195,6 @@
           "wordCount": 2014,
           "title": "Sketch: A guided tour of Copenhagen",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/sketch-liquid-glass.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390115",
-          "author": "Sunkanmi Fafowora",
-          "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.\nShould We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/should-we-even-have-closed/",
-          "publishedOn": "2025-11-20T15:10:26.000Z",
-          "wordCount": 2420,
-          "title": "Should We Even Have :closed?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/12/opinon-this-that-signs.png"
         }
       ]
     },
@@ -203,6 +203,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).",
+          "link": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
+          "publishedOn": "2025-12-19T10:00:00.000Z",
+          "wordCount": 4051,
+          "title": "How To Measure The Impact Of Features",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-measure-impact-features-tars/how-measure-impact-features-tars.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-measure-impact-features-tars/how-measure-impact-features-tars.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "author": "hello@smashingmagazine.com (Andy Clarke)",
@@ -376,6 +391,206 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://pomb.us/build-your-own-react/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pomb.us/build-your-own-react/",
+          "publishedOn": "2025-12-20T00:16:13.000Z",
+          "wordCount": 4621,
+          "title": "Build Your Own React",
+          "imageUrl": "https://pomb.us/static/b4694e6041953e3cb16f6a889f0cbc59/54290/card.png"
+        },
+        {
+          "id": "https://www.playbookatlas.com/research/ai-adoption-explorer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.playbookatlas.com/research/ai-adoption-explorer",
+          "publishedOn": "2025-12-19T22:48:24.000Z",
+          "wordCount": 3037,
+          "title": "We ran Anthropic’s interviews through structured LLM analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
+          "publishedOn": "2025-12-19T22:13:06.000Z",
+          "wordCount": 2017,
+          "title": "CSS Grid Lanes",
+          "imageUrl": "https://webkit.org/wp-content/uploads/Grid-Lanes-classic-light.png"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Buteyko_method",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Buteyko_method",
+          "publishedOn": "2025-12-19T21:52:07.000Z",
+          "wordCount": null,
+          "title": "Buteyko Method",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bamsoftware.com/hacks/zipbomb/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bamsoftware.com/hacks/zipbomb/",
+          "publishedOn": "2025-12-19T21:34:10.000Z",
+          "wordCount": 9684,
+          "title": "A Better Zip Bomb",
+          "imageUrl": null
+        },
+        {
+          "id": "https://karpathy.bearblog.dev/year-in-review-2025/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://karpathy.bearblog.dev/year-in-review-2025/",
+          "publishedOn": "2025-12-19T20:49:20.000Z",
+          "wordCount": 2524,
+          "title": "LLM Year in Review",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+        },
+        {
+          "id": "http://miod.online.fr/software/openbsd/stories/boot_hppa.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://miod.online.fr/software/openbsd/stories/boot_hppa.html",
+          "publishedOn": "2025-12-19T20:29:53.000Z",
+          "wordCount": 4345,
+          "title": "The scariest boot loader code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
+          "publishedOn": "2025-12-19T18:19:32.000Z",
+          "wordCount": 2391,
+          "title": "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
+          "imageUrl": "/images/2025/tapo/header.jpg"
+        },
+        {
+          "id": "https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability",
+          "publishedOn": "2025-12-19T18:15:17.000Z",
+          "wordCount": 1618,
+          "title": "Reverse Engineering US Airline's PNR System and Accessing All Reservations",
+          "imageUrl": "https://alexschapiro.com/assets/images/avelo-security/validcodes.png"
+        },
+        {
+          "id": "https://abseil.io/fast/hints.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://abseil.io/fast/hints.html",
+          "publishedOn": "2025-12-19T17:14:42.000Z",
+          "wordCount": 21955,
+          "title": "Performance Hints (2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cursor.com/blog/graphite",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cursor.com/blog/graphite",
+          "publishedOn": "2025-12-19T15:57:01.000Z",
+          "wordCount": 1337,
+          "title": "Graphite is joining Cursor",
+          "imageUrl": "https://cursor.com/marketing-static/blog/og/graphite-og.png"
+        },
+        {
+          "id": "https://robertgreiner.com/believe-the-checkbook/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://robertgreiner.com/believe-the-checkbook/",
+          "publishedOn": "2025-12-19T15:51:30.000Z",
+          "wordCount": 4438,
+          "title": "Believe the Checkbook",
+          "imageUrl": "https://robertgreiner.com/images/checkbook-vs-megaphone.webp"
+        },
+        {
+          "id": "https://garagehq.deuxfleurs.fr/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://garagehq.deuxfleurs.fr/",
+          "publishedOn": "2025-12-19T15:40:03.000Z",
+          "wordCount": 465,
+          "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
+          "imageUrl": "https://garagehq.deuxfleurs.fr/images/og-default.png"
+        },
+        {
+          "id": "https://github.com/FreeBSDFoundation/proj-laptop",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/FreeBSDFoundation/proj-laptop",
+          "publishedOn": "2025-12-19T14:56:05.000Z",
+          "wordCount": 4513,
+          "title": "The FreeBSD Foundation's Laptop Support and Usability Project",
+          "imageUrl": "https://opengraph.githubassets.com/d2479b45e62cc19597023dee9f40f46293e73335aa3bd50ea23641c1b020c931/FreeBSDFoundation/proj-laptop"
+        },
+        {
+          "id": "https://linusakesson.net/music/bolero/index.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://linusakesson.net/music/bolero/index.php",
+          "publishedOn": "2025-12-19T11:38:54.000Z",
+          "wordCount": 841,
+          "title": "8-bit Boléro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
+          "publishedOn": "2025-12-19T11:16:23.000Z",
+          "wordCount": 1323,
+          "title": "GotaTun – Mullvad's WireGuard Implementation in Rust",
+          "imageUrl": "https://mullvad.net/media/uploads/2025/gotatun.png"
+        },
+        {
+          "id": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
+          "publishedOn": "2025-12-19T10:03:38.000Z",
+          "wordCount": 1703,
+          "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://notgull.net/block-pattern/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://notgull.net/block-pattern/",
+          "publishedOn": "2025-12-19T04:56:13.000Z",
+          "wordCount": 1226,
+          "title": "Rust's Block Pattern",
+          "imageUrl": "http://notgull.net/images/notgull.png"
+        },
+        {
+          "id": "https://huggingface.co/papers/2512.15603",
+          "author": null,
+          "description": "Comments",
+          "link": "https://huggingface.co/papers/2512.15603",
+          "publishedOn": "2025-12-19T03:24:26.000Z",
+          "wordCount": 831,
+          "title": "Qwen-Image-Layered: transparency and layer aware open diffusion model",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2512.15603/gradient.png"
+        },
+        {
+          "id": "https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/",
+          "publishedOn": "2025-12-19T03:19:59.000Z",
+          "wordCount": null,
+          "title": "Brown/MIT shooting suspect found dead, officials say",
+          "imageUrl": null
+        },
+        {
           "id": "https://noclip.website/",
           "author": null,
           "description": "Comments",
@@ -476,6 +691,16 @@
           "imageUrl": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
         },
         {
+          "id": "https://github.com/Lulzx/tinypdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Lulzx/tinypdf",
+          "publishedOn": "2025-12-18T18:59:33.000Z",
+          "wordCount": 4508,
+          "title": "Show HN: TinyPDF – 3kb pdf library (70x smaller than jsPDF)",
+          "imageUrl": "https://opengraph.githubassets.com/48fba8e46b805d368ca231ab66526df0042ea86c8612c5e165b51f6297a8b2a6/Lulzx/tinypdf"
+        },
+        {
           "id": "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/",
           "author": null,
           "description": "Comments",
@@ -534,6 +759,16 @@
           "wordCount": null,
           "title": "Beginning January 2026, all ACM publications will be made open access",
           "imageUrl": null
+        },
+        {
+          "id": "https://mistral.ai/news/mistral-ocr-3",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mistral.ai/news/mistral-ocr-3",
+          "publishedOn": "2025-12-18T15:01:10.000Z",
+          "wordCount": 3543,
+          "title": "Mistral OCR 3",
+          "imageUrl": "https://mistral.ai/img/mistral-cover.png"
         },
         {
           "id": "https://www.jack.bio/blog/licenseplate",
@@ -603,6 +838,16 @@
           "publishedOn": "2025-12-17T23:11:14.000Z",
           "wordCount": 1010,
           "title": "Gut bacteria from amphibians and reptiles achieve tumor elimination in mice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models",
+          "publishedOn": "2025-12-17T22:32:19.000Z",
+          "wordCount": null,
+          "title": "NOAA deploys new generation of AI-driven global weather models",
           "imageUrl": null
         },
         {
@@ -796,6 +1041,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html",
+          "publishedOn": "2025-12-17T10:45:27.000Z",
+          "wordCount": 1002,
+          "title": "Vm.overcommit_memory=2 is the right setting for servers",
+          "imageUrl": null
+        },
+        {
           "id": "https://electrek.co/2025/12/15/tesla-reports-another-robotaxi-crash-even-with-supervisor/",
           "author": null,
           "description": "Comments",
@@ -966,6 +1221,16 @@
           "imageUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.2365-6/384127954_1010009116964035_2906046058102555347_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=PG6Qi38x3IkQ7kNvwG8WiTU&_nc_oc=Adkqar0RRNfdLswJPLD91mJAN9nZcT0aPKDE2i4cwwPmFqK3EU9_xoOSDTxML4W09h0&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=mZnhBXyt86YQWGXoZ4zB-g&oh=00_AfmUNAevM2qRrisxJIBuJnCwX6hePLpUSqP2rRt68JEdTg&oe=694A9485"
         },
         {
+          "id": "https://hatchet.run/blog/postgres-partitioning",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hatchet.run/blog/postgres-partitioning",
+          "publishedOn": "2025-12-16T18:21:21.000Z",
+          "wordCount": 1604,
+          "title": "The pitfalls of partitioning Postgres yourself",
+          "imageUrl": "/assets/og-PqKfvZWg.png"
+        },
+        {
           "id": "https://openai.com/index/new-chatgpt-images-is-here/",
           "author": null,
           "description": "Comments",
@@ -1014,6 +1279,16 @@
           "wordCount": 3082,
           "title": "Writing a blatant Telegram clone using Qt, QML and Rust. And C++",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/rasinmuhammed/misata",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/rasinmuhammed/misata",
+          "publishedOn": "2025-12-16T14:38:56.000Z",
+          "wordCount": 4526,
+          "title": "Show HN: Misata – synthetic data engine using LLM and Vectorized NumPy",
+          "imageUrl": "https://opengraph.githubassets.com/a000aad918d4904629e8ef54eeb8c185e7673aa6acb062fb1c9dccbc6aec9fa8/rasinmuhammed/misata"
         },
         {
           "id": "https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/",
@@ -1346,6 +1621,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://ewpratten.com/blog/fuzix-pi-pico",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ewpratten.com/blog/fuzix-pi-pico",
+          "publishedOn": "2025-12-15T06:31:39.000Z",
+          "wordCount": 632,
+          "title": "Fuzix on a Raspberry Pi Pico",
+          "imageUrl": null
+        },
+        {
           "id": "https://jsomers.net/blog/speed-matters",
           "author": null,
           "description": "Comments",
@@ -1444,6 +1729,16 @@
           "wordCount": 3939,
           "title": "Elevated errors across many models",
           "imageUrl": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png"
+        },
+        {
+          "id": "https://carolinacloud.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://carolinacloud.io/",
+          "publishedOn": "2025-12-14T21:43:35.000Z",
+          "wordCount": 4,
+          "title": "Carolina Cloud – One third the cost of AWS for data science workloads",
+          "imageUrl": "https://carolinacloud.io/imessage-preview.webp"
         },
         {
           "id": "https://cybercultural.com/p/lastfm-audioscrobbler-2002/",
@@ -8594,286 +8889,6 @@
           "wordCount": 3903,
           "title": "Android and iPhone users can now share files, starting with the Pixel 10",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-frd93mi4_thumb.jpg"
-        },
-        {
-          "id": "https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing",
-          "publishedOn": "2025-11-20T15:53:17.000Z",
-          "wordCount": 6094,
-          "title": "The Banished Bottom of the Housing Market",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!bsvX!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63934c52-a40c-41c4-80f2-463703a72a4b_1456x816.png"
-        },
-        {
-          "id": "https://blog.google/technology/ai/nano-banana-pro/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.google/technology/ai/nano-banana-pro/",
-          "publishedOn": "2025-11-20T15:04:23.000Z",
-          "wordCount": 5304,
-          "title": "Nano Banana Pro",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.width-1300.png"
-        },
-        {
-          "id": "https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/",
-          "publishedOn": "2025-11-20T13:26:08.000Z",
-          "wordCount": 4083,
-          "title": "Building a Durable Execution Engine with SQLite",
-          "imageUrl": null
-        },
-        {
-          "id": "https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on",
-          "author": null,
-          "description": "Comments",
-          "link": "https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on",
-          "publishedOn": "2025-11-20T12:47:41.000Z",
-          "wordCount": 3158,
-          "title": "Ubuntu LTS releases to 15 years with Legacy add-on",
-          "imageUrl": "https://ubuntu.com/wp-content/uploads/caf1/15-years-blog-cover-legacy-addon.png"
-        },
-        {
-          "id": "https://arxiv.org/abs/2511.15304",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2511.15304",
-          "publishedOn": "2025-11-20T12:01:26.000Z",
-          "wordCount": 730,
-          "title": "Adversarial poetry as a universal single-turn jailbreak mechanism in LLMs",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://geacron.com/home-en/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://geacron.com/home-en/",
-          "publishedOn": "2025-11-20T09:52:11.000Z",
-          "wordCount": 9635,
-          "title": "Interactive World History Atlas Since 3000 BC",
-          "imageUrl": "http://geacron.com/map/img/twitter_follow.jpg"
-        },
-        {
-          "id": "https://www.eastgate.com/MS/Title_184.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.eastgate.com/MS/Title_184.html",
-          "publishedOn": "2025-11-20T07:33:38.000Z",
-          "wordCount": 120,
-          "title": "Marble Springs (1993)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
-          "publishedOn": "2025-11-20T05:32:13.000Z",
-          "wordCount": 10628,
-          "title": "Inside Rust's std and parking_lot mutexes – who wins?",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Qw15!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a2306f9-c81b-4035-a4da-a1b68f70c3a9_1800x960.png"
-        },
-        {
-          "id": "https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish",
-          "author": null,
-          "description": "Comments",
-          "link": "https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish",
-          "publishedOn": "2025-11-20T00:32:17.000Z",
-          "wordCount": null,
-          "title": "Measuring the impact of AI scams on the elderly",
-          "imageUrl": null
-        },
-        {
-          "id": "https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/",
-          "publishedOn": "2025-11-20T00:22:03.000Z",
-          "wordCount": 1877,
-          "title": "Verifying your Matrix devices is becoming mandatory",
-          "imageUrl": "https://element.io/blog/content/images/2025/10/device-verification__blog.png"
-        },
-        {
-          "id": "https://cornhub.website/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cornhub.website/",
-          "publishedOn": "2025-11-19T23:50:08.000Z",
-          "wordCount": 356,
-          "title": "CornHub",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable",
-          "publishedOn": "2025-11-19T22:00:28.000Z",
-          "wordCount": 2570,
-          "title": "The patent office is about to make bad patents untouchable",
-          "imageUrl": "https://www.eff.org/files/banner_library/patent-troll-jail.png"
-        },
-        {
-          "id": "https://www.amoses.dev/blog/wifi-location/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.amoses.dev/blog/wifi-location/",
-          "publishedOn": "2025-11-19T21:58:47.000Z",
-          "wordCount": 2251,
-          "title": "Precise geolocation via Wi-Fi Positioning System",
-          "imageUrl": "https://www.amoses.dev/og/blog/wifi-location.png"
-        },
-        {
-          "id": "https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos",
-          "publishedOn": "2025-11-19T21:30:02.000Z",
-          "wordCount": 10651,
-          "title": "Gaming on Linux has never been more approachable",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258120_Gaming_on_Linux_CVirginia_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-        },
-        {
-          "id": "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/",
-          "publishedOn": "2025-11-19T21:07:05.000Z",
-          "wordCount": 21839,
-          "title": "How Slide Rules Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp",
-          "publishedOn": "2025-11-19T20:55:30.000Z",
-          "wordCount": 1418,
-          "title": "Researchers discover security vulnerability in WhatsApp",
-          "imageUrl": "https://www.univie.ac.at/fileadmin/_processed_/f/3/csm_pexels-nurseryart-369376_1a96cb5d2d.jpg"
-        },
-        {
-          "id": "https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html",
-          "publishedOn": "2025-11-19T20:53:42.000Z",
-          "wordCount": 2928,
-          "title": "New magnetic component discovered in the Faraday effect after nearly 2 centuries",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-magnetic-component.jpg"
-        },
-        {
-          "id": "https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against-critics-after-recent-windows-ai-backlash-the-fact-that-people-are-unimpressed-is-mindblowing-to-me",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against-critics-after-recent-windows-ai-backlash-the-fact-that-people-are-unimpressed-is-mindblowing-to-me",
-          "publishedOn": "2025-11-19T20:51:33.000Z",
-          "wordCount": 31671,
-          "title": "Microsoft AI CEO pushes back against critics after recent Windows AI backlash",
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/8DEeXvzaHefUspJ8aDbecH-2560-80.jpg"
-        },
-        {
-          "id": "https://www.ntsb.gov/news/press-releases/Pages/NR20251118.aspx",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ntsb.gov/news/press-releases/Pages/NR20251118.aspx",
-          "publishedOn": "2025-11-19T20:26:43.000Z",
-          "wordCount": 1985,
-          "title": "Loose wire leads to blackout, contact with Francis Scott Key bridge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.collabora.com/news-and-blog/news-and-events/racing-karts-on-a-rust-gpu-kernel-driver.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.collabora.com/news-and-blog/news-and-events/racing-karts-on-a-rust-gpu-kernel-driver.html",
-          "publishedOn": "2025-11-19T20:23:47.000Z",
-          "wordCount": 2015,
-          "title": "Racing karts on a Rust GPU kernel driver",
-          "imageUrl": "https://www.collabora.com/assets/images/blog/Collabora-TyrProgress.jpg"
-        },
-        {
-          "id": "https://github.com/PegorK/f32",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/PegorK/f32",
-          "publishedOn": "2025-11-19T20:09:30.000Z",
-          "wordCount": 3061,
-          "title": "Show HN: F32 – An Extremely Small ESP32 Board",
-          "imageUrl": "https://opengraph.githubassets.com/9fe870a48925b5ace129490f108b6f4b3bda772a336c8f30ca9acd1c6c8027cf/PegorK/f32"
-        },
-        {
-          "id": "https://lithub.com/robert-louis-stevensons-art-of-living-and-dying/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lithub.com/robert-louis-stevensons-art-of-living-and-dying/",
-          "publishedOn": "2025-11-19T19:55:49.000Z",
-          "wordCount": 3893,
-          "title": "Robert Louis Stevenson's Art of Living (and Dying)",
-          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2025/11/RLS-sargent.jpg"
-        },
-        {
-          "id": "https://elizabethvannostrand.substack.com/p/the-boring-part-of-bell-labs",
-          "author": null,
-          "description": "Comments",
-          "link": "https://elizabethvannostrand.substack.com/p/the-boring-part-of-bell-labs",
-          "publishedOn": "2025-11-19T19:47:31.000Z",
-          "wordCount": null,
-          "title": "The Boring Part of Bell Labs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.anthropic.com/news/political-even-handedness",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.anthropic.com/news/political-even-handedness",
-          "publishedOn": "2025-11-19T19:42:38.000Z",
-          "wordCount": 5903,
-          "title": "Measuring political bias in Claude",
-          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20ScaleShapes&backgroundColor=oat"
-        },
-        {
-          "id": "https://www.chrbutler.com/what-ai-is-really-for",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.chrbutler.com/what-ai-is-really-for",
-          "publishedOn": "2025-11-19T19:09:27.000Z",
-          "wordCount": null,
-          "title": "AI is a front for consolidation of resources and power",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/gpt-5-1-codex-max/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://openai.com/index/gpt-5-1-codex-max/",
-          "publishedOn": "2025-11-19T18:01:59.000Z",
-          "wordCount": null,
-          "title": "Building more with GPT-5.1-Codex-Max",
-          "imageUrl": null
-        },
-        {
-          "id": "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/",
-          "publishedOn": "2025-11-19T17:22:46.000Z",
-          "wordCount": 3753,
-          "title": "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu",
-          "imageUrl": "https://it-notes.dragas.net//featured/server_rack.webp"
-        },
-        {
-          "id": "https://ai.meta.com/sam3/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ai.meta.com/sam3/",
-          "publishedOn": "2025-11-19T17:14:51.000Z",
-          "wordCount": 1923,
-          "title": "Meta Segment Anything Model 3",
-          "imageUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/384127954_1010009116964035_2906046058102555347_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=wRcRbM-WyksQ7kNvwFMBgpU&_nc_oc=AdnGnnV-aRaYMy61AZqEoapb78L2H-cxtOZGYG6nsQ7d7OkG8FToxzPOh29tKS-T7Ac&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Y6VuRQxswcFU3WqhHOeR4g&oh=00_AfiHAPcxAz8YnUPcrha5d7KbGWD1nJN95OHi0-9Y8lf0tQ&oe=69245905"
         }
       ]
     },
@@ -9306,16 +9321,6 @@
           "publishedOn": "2025-12-03T13:07:30.000Z",
           "wordCount": 12276,
           "title": "Understand it, make it, survive it and do it. Here’s what Kiwis searched for in 2025 - blog.google",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX0FVX3lxTE81eFc0WmRGVnBjc2RqT0RkT3EycWQtTW1McUxmZFQzLXZDZG5pbUdCdm9FTi1QR21mS0VraUlldmMxNFFmZ2hxZEtwcUJIMy1Tc3dyUWlRT0EtNjFQS3o4",
-          "author": null,
-          "description": "Introducing Nano Banana Pro  The Keyword",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81eFc0WmRGVnBjc2RqT0RkT3EycWQtTW1McUxmZFQzLXZDZG5pbUdCdm9FTi1QR21mS0VraUlldmMxNFFmZ2hxZEtwcUJIMy1Tc3dyUWlRT0EtNjFQS3o4?oc=5",
-          "publishedOn": "2025-11-20T08:00:00.000Z",
-          "wordCount": 12249,
-          "title": "Introducing Nano Banana Pro - The Keyword",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
