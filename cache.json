@@ -100,21 +100,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/thank-you-2025-scaled.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390681",
-          "author": "Daniel Schwarz",
-          "description": "The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines extend beyond the first and last characters, resulting in vertical misalignment.\ntext-decoration-inset is Like Padding for Text Decorations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/text-decoration-inset-is-like-padding-for-text-decorations/",
-          "publishedOn": "2025-12-22T14:39:52.000Z",
-          "wordCount": 1897,
-          "title": "text-decoration-inset is Like Padding for Text Decorations",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/12/Screen-Recording-2025-12-05-at-9.32.03-AM.mp4",
-            "length": "88976",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-22-at-7.41.21-AM.png"
         }
       ]
     },
@@ -123,6 +108,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
+          "author": "hello@smashingmagazine.com (Amit Sheen)",
+          "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
+          "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
+          "publishedOn": "2026-01-20T10:00:00.000Z",
+          "wordCount": 5101,
+          "title": "Rethinking “Pixel Perfect” Web Design",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "author": "hello@smashingmagazine.com (Andy Clarke)",
@@ -235,6 +235,256 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+          "publishedOn": "2026-01-21T03:38:57.000Z",
+          "wordCount": 29910,
+          "title": "Disaster planning for regular folks (2015)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/anthropics/original_performance_takehome",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/anthropics/original_performance_takehome",
+          "publishedOn": "2026-01-21T02:54:32.000Z",
+          "wordCount": 1084,
+          "title": "Anthropic's original take home assignment open sourced",
+          "imageUrl": "https://opengraph.githubassets.com/905e35d3497d089d968af41757f5a21d7500852939c40db98aa01a9db391d218/anthropics/original_performance_takehome"
+        },
+        {
+          "id": "https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/",
+          "publishedOn": "2026-01-21T01:37:41.000Z",
+          "wordCount": 2715,
+          "title": "Verizon starts requiring 365 days of paid service before it will unlock phones",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/verizon-1152x648-1752087139.jpg"
+        },
+        {
+          "id": "https://creativelawcenter.com/copyright-rudolph-reindeer/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://creativelawcenter.com/copyright-rudolph-reindeer/",
+          "publishedOn": "2026-01-21T00:21:13.000Z",
+          "wordCount": null,
+          "title": "Who owns Rudolph's nose?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/davidbeesley/claude-chill",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/davidbeesley/claude-chill",
+          "publishedOn": "2026-01-20T23:26:06.000Z",
+          "wordCount": 4055,
+          "title": "Claude Chill: Fix Claude Code's flickering in terminal",
+          "imageUrl": "https://opengraph.githubassets.com/7e7bc74cf9ee9f379211a28df8376e1d6bf5941461978bc1f59428cf8ff114f0/davidbeesley/claude-chill"
+        },
+        {
+          "id": "https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm",
+          "publishedOn": "2026-01-20T22:42:55.000Z",
+          "wordCount": 167,
+          "title": "Show HN: Parallel Agentic Search on the Twitter Algorithm",
+          "imageUrl": "https://morphllm.com/preview.png?v=2"
+        },
+        {
+          "id": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
+          "publishedOn": "2026-01-20T22:39:26.000Z",
+          "wordCount": 5509,
+          "title": "California is free of drought for the first time in 25 years",
+          "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/3763eb2/2147483647/strip/true/crop/4232x2222+0+438/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2F7d%2F2d1dc1bc48768d49bb4fe97d0079%2F1536447-me-beaches-advisory-storm-ajs-16.jpg"
+        },
+        {
+          "id": "https://spectrum.ieee.org/lunar-radio-telescope",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/lunar-radio-telescope",
+          "publishedOn": "2026-01-20T22:36:23.000Z",
+          "wordCount": 13246,
+          "title": "Lunar Radio Telescope to Unlock Cosmic Mysteries",
+          "imageUrl": "https://spectrum.ieee.org/media-library/image.jpg?id=62822242&width=1200&height=600&coordinates=0%2C15%2C0%2C15"
+        },
+        {
+          "id": "https://arxiv.org/abs/2512.13821",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2512.13821",
+          "publishedOn": "2026-01-20T22:18:53.000Z",
+          "wordCount": 692,
+          "title": "Provably unmasking malicious behavior through execution traces",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://so-long-sucker.vercel.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://so-long-sucker.vercel.app/",
+          "publishedOn": "2026-01-20T22:09:49.000Z",
+          "wordCount": 1359,
+          "title": "Which AI Lies Best? A game theory classic designed by John Nash",
+          "imageUrl": "https://so-long-sucker.vercel.app/og-image.svg"
+        },
+        {
+          "id": "https://atlas9.dev/blog/soft-delete.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://atlas9.dev/blog/soft-delete.html",
+          "publishedOn": "2026-01-20T21:36:34.000Z",
+          "wordCount": 1842,
+          "title": "The challenges of soft delete",
+          "imageUrl": null
+        },
+        {
+          "id": "https://skills.sh/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://skills.sh/",
+          "publishedOn": "2026-01-20T21:22:19.000Z",
+          "wordCount": 864,
+          "title": "Show HN: Agent Skills Leaderboard",
+          "imageUrl": "https://skills.sh/og.jpeg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46697735",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=46697735",
+          "publishedOn": "2026-01-20T21:05:02.000Z",
+          "wordCount": 923,
+          "title": "Ask HN: Revive a mostly dead Discord server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/our-approach-to-age-prediction/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openai.com/index/our-approach-to-age-prediction/",
+          "publishedOn": "2026-01-20T19:34:48.000Z",
+          "wordCount": null,
+          "title": "Our approach to age prediction",
+          "imageUrl": null
+        },
+        {
+          "id": "https://novalauncher.com/nova-is-here-to-stay",
+          "author": null,
+          "description": "Comments",
+          "link": "https://novalauncher.com/nova-is-here-to-stay",
+          "publishedOn": "2026-01-20T19:06:56.000Z",
+          "wordCount": 755,
+          "title": "Instabridge has acquired Nova Launcher",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/",
+          "publishedOn": "2026-01-20T19:03:38.000Z",
+          "wordCount": 373,
+          "title": "IPv6 is not insecure because it lacks a NAT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://press.stripe.com/maintenance-part-one",
+          "author": null,
+          "description": "Comments",
+          "link": "https://press.stripe.com/maintenance-part-one",
+          "publishedOn": "2026-01-20T19:01:30.000Z",
+          "wordCount": 95359,
+          "title": "Maintenance: Of Everything, Part One",
+          "imageUrl": "https://images.stripeassets.com/fzn2n1nzq965/530359Xz3aQDQlSImDqESx/ce7765a360aa2cbf8d2cc0dbef1442e2/MOE_social.jpg?q=80"
+        },
+        {
+          "id": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+          "publishedOn": "2026-01-20T18:16:09.000Z",
+          "wordCount": 1960,
+          "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
+          "imageUrl": "https://static.longnow.org/2022/04/1-QpK0dPz4sOtgKfQYShhF1A.gif"
+        },
+        {
+          "id": "https://punkx.org/unix-pipe-game/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://punkx.org/unix-pipe-game/",
+          "publishedOn": "2026-01-20T16:48:59.000Z",
+          "wordCount": 587,
+          "title": "The Unix Pipe Card Game",
+          "imageUrl": "https://punkx.org/unix-pipe-game/photos/deck.jpg"
+        },
+        {
+          "id": "https://github.com/mastra-ai/mastra",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mastra-ai/mastra",
+          "publishedOn": "2026-01-20T16:38:56.000Z",
+          "wordCount": 2724,
+          "title": "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
+          "imageUrl": "https://opengraph.githubassets.com/541888795fd49f6f60d13f5cf9c83029b31dde3b9002ab2eb9a946247b8d0df4/mastra-ai/mastra"
+        },
+        {
+          "id": "https://entropicthoughts.com/nvidia-stock-crash-prediction",
+          "author": null,
+          "description": "Comments",
+          "link": "https://entropicthoughts.com/nvidia-stock-crash-prediction",
+          "publishedOn": "2026-01-20T15:56:07.000Z",
+          "wordCount": 4018,
+          "title": "Nvidia Stock Crash Prediction",
+          "imageUrl": null
+        },
+        {
+          "id": "https://apify.com/mick-johnson/topic-radar",
+          "author": null,
+          "description": "Comments",
+          "link": "https://apify.com/mick-johnson/topic-radar",
+          "publishedOn": "2026-01-20T14:47:50.000Z",
+          "wordCount": 6549,
+          "title": "Show HN: TopicRadar – Track trending topics across HN, GitHub, ArXiv, and more",
+          "imageUrl": "https://apify.com/og-image/actor?actorName=Topic+Radar&uniqueName=mick-johnson%2Ftopic-radar&categories=NEWS%2CINTEGRATIONS%2COTHER&users=2&runs=67&pictureUrl=https%3A%2F%2Fapify-image-uploads-prod.s3.us-east-1.amazonaws.com%2FUcxU06BMfgtPFFDGW-actor-dbZIaJtydIJMik9Db-y5lqVfeHrs-topic-radar-logo.png&authorName=mick+johnson&userPictureUrl=https%3A%2F%2Fimages.apifyusercontent.com%2F7tvQvz7mL7V1e88_JsSXh6AW5wel9zk_Bdq6Us6nUPo%2Frs%3Afill%3A224%3A224%2Fcb%3A1%2FaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSjJVNmdEVkdkUTFaWnlNMENnT3MwdlhWMjNCUlJIMDRTU2lweWRqbmhfNFFhT1hoWGk9czk2LWM.webp"
+        },
+        {
+          "id": "https://hakibenita.com/postgresql-unconventional-optimizations",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hakibenita.com/postgresql-unconventional-optimizations",
+          "publishedOn": "2026-01-20T14:23:44.000Z",
+          "wordCount": 4313,
+          "title": "Unconventional PostgreSQL Optimizations",
+          "imageUrl": "https://hakibenita.com/images/00-postgresql-unconventional-optimizations.png"
+        },
+        {
+          "id": "https://www.potaroo.net/ispcol/2026-01/addr2025.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.potaroo.net/ispcol/2026-01/addr2025.html",
+          "publishedOn": "2026-01-20T13:51:03.000Z",
+          "wordCount": 12054,
+          "title": "IP Addresses Through 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://developers.google.com/business-communications/rcs-business-messaging",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developers.google.com/business-communications/rcs-business-messaging",
+          "publishedOn": "2026-01-20T04:14:12.000Z",
+          "wordCount": 908,
+          "title": "RCS for Business",
+          "imageUrl": "https://www.gstatic.com/devrel-devsite/prod/v5ecaab6967af5bdfffc1b93fe7d0ad58c271bf9f563243cec25f323a110134f0/developers/images/opengraph/google-blue.png"
+        },
         {
           "id": "https://webchrono.pl/F16FalconStrike/index.html",
           "author": null,
@@ -426,6 +676,16 @@
           "imageUrl": "https://hawkticehurst.com/seo/css-web-components.png"
         },
         {
+          "id": "https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html",
+          "publishedOn": "2026-01-19T09:19:45.000Z",
+          "wordCount": 1477,
+          "title": "Building Robust Helm Charts",
+          "imageUrl": null
+        },
+        {
           "id": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
           "author": null,
           "description": "Comments",
@@ -434,6 +694,16 @@
           "wordCount": 5099,
           "title": "The coming industrialisation of exploit generation with LLMs",
           "imageUrl": "https://sean.heelan.io/wp-content/uploads/2009/05/cropped-oxford_7602.jpg?w=200"
+        },
+        {
+          "id": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
+          "publishedOn": "2026-01-19T06:30:49.000Z",
+          "wordCount": 1288,
+          "title": "Are arrays functions?",
+          "imageUrl": null
         },
         {
           "id": "https://www.sfgate.com/local/article/san-francisco-coyote-alcatraz-21302218.php",
@@ -816,6 +1086,16 @@
           "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0mvf06z.jpg"
         },
         {
+          "id": "https://systemstack.dev/2025/09/humane-computing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://systemstack.dev/2025/09/humane-computing/",
+          "publishedOn": "2026-01-17T16:44:45.000Z",
+          "wordCount": 2615,
+          "title": "Apples, Trees, and Quasimodes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/",
           "author": null,
           "description": "Comments",
@@ -1026,6 +1306,16 @@
           "imageUrl": "https://letsencrypt.org/images/LetsEncrypt-SocialShare.png"
         },
         {
+          "id": "https://bernsteinbear.com/blog/gdb-jit/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bernsteinbear.com/blog/gdb-jit/",
+          "publishedOn": "2026-01-16T15:27:46.000Z",
+          "wordCount": 1233,
+          "title": "The GDB JIT Interface",
+          "imageUrl": "https://bernsteinbear.com/favicon.ico"
+        },
+        {
           "id": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
           "author": null,
           "description": "Comments",
@@ -1234,6 +1524,16 @@
           "wordCount": 32687,
           "title": "The Space and Motion of Communicating Agents (2008) [pdf]",
           "imageUrl": null
+        },
+        {
+          "id": "https://thehumanoid.ai/humanoid-and-siemens-completed-a-proof-of-concept-to-test-humanoidrobots-in-industrial-logistics/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thehumanoid.ai/humanoid-and-siemens-completed-a-proof-of-concept-to-test-humanoidrobots-in-industrial-logistics/",
+          "publishedOn": "2026-01-15T21:07:30.000Z",
+          "wordCount": 1317,
+          "title": "Proof of Concept to Test Humanoid Robots",
+          "imageUrl": "https://dgkykqgxmn5kc.cloudfront.net/wp-content/uploads/2026/01/HMND_SIEMENS_Cover1_opt-scaled.png?x29257"
         },
         {
           "id": "https://www.ycombinator.com/companies/aviator/jobs",
@@ -8024,336 +8324,6 @@
           "wordCount": 292,
           "title": "Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI)",
           "imageUrl": "https://ik.imagekit.io/parallel/undefined/6942baf61af7b542c9885322/company/header/prl-c_E4W-GquqR"
-        },
-        {
-          "id": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
-          "publishedOn": "2025-12-22T16:31:40.000Z",
-          "wordCount": 1558,
-          "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/12/1222.gif"
-        },
-        {
-          "id": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
-          "publishedOn": "2025-12-22T15:59:01.000Z",
-          "wordCount": 26036,
-          "title": "Claude Code gets native LSP support",
-          "imageUrl": "https://opengraph.githubassets.com/8376927369571dd37a972f4f8064fb050f59583a7a6c79b446d6c488a3925b46/anthropics/claude-code"
-        },
-        {
-          "id": "https://blog.kierangill.xyz/oversight-and-guidance",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.kierangill.xyz/oversight-and-guidance",
-          "publishedOn": "2025-12-22T15:38:37.000Z",
-          "wordCount": 3328,
-          "title": "Scaling LLMs to Larger Codebases",
-          "imageUrl": "/images/guidance-and-oversight-og.webp"
-        },
-        {
-          "id": "https://willmcgugan.github.io/toad-released/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://willmcgugan.github.io/toad-released/",
-          "publishedOn": "2025-12-22T15:12:40.000Z",
-          "wordCount": 820,
-          "title": "Toad is a unified experience for AI in the terminal",
-          "imageUrl": "http://willmcgugan.github.io/images/will2025.jpeg"
-        },
-        {
-          "id": "https://lua.org/versions.html#5.5",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lua.org/versions.html#5.5",
-          "publishedOn": "2025-12-22T15:06:13.000Z",
-          "wordCount": 1074,
-          "title": "Lua 5.5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nry.me/posts/2025-10-09/small-web-screenshots/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nry.me/posts/2025-10-09/small-web-screenshots/",
-          "publishedOn": "2025-12-22T14:44:20.000Z",
-          "wordCount": 1034,
-          "title": "One million (small web) screenshots",
-          "imageUrl": "https://nry.me/posts/2025-10-09/small-web-screenshots/og.jpg"
-        },
-        {
-          "id": "https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list",
-          "publishedOn": "2025-12-22T14:16:40.000Z",
-          "wordCount": 3945,
-          "title": "One year of keeping a tada list",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!-pJb!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c1a2a05-8c3c-4097-817d-cd7b38fad31c_837x1060.png"
-        },
-        {
-          "id": "https://www.anthropic.com/research/project-vend-2",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.anthropic.com/research/project-vend-2",
-          "publishedOn": "2025-12-22T13:44:14.000Z",
-          "wordCount": 6721,
-          "title": "Project Vend: Phase Two",
-          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/1d139b7dd4c67a44a58a3c42d207624264fe0a42-1920x1080.png"
-        },
-        {
-          "id": "https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/",
-          "publishedOn": "2025-12-22T12:54:29.000Z",
-          "wordCount": 3279,
-          "title": "The biggest CRT ever made: Sony's PVM-4300",
-          "imageUrl": "https://i0.wp.com/dfarq.homeip.net/wp-content/uploads/2024/06/sony-pvm-4300-social.jpg?fit=706%2C398&ssl=1"
-        },
-        {
-          "id": "https://docs.python.org/3.15/library/profiling.sampling.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://docs.python.org/3.15/library/profiling.sampling.html",
-          "publishedOn": "2025-12-22T11:21:42.000Z",
-          "wordCount": 7728,
-          "title": "Tachyon: High frequency statistical sampling profiler",
-          "imageUrl": "https://docs.python.org/3.15/_images/social_previews/summary_library_profiling.sampling_150a7363.png"
-        },
-        {
-          "id": "https://github.com/microsoft/RepDL",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/microsoft/RepDL",
-          "publishedOn": "2025-12-22T09:38:37.000Z",
-          "wordCount": 2353,
-          "title": "A bitwise reproducible deep learning framework",
-          "imageUrl": "https://opengraph.githubassets.com/84eac9efeba7f6dfc19d8cc5efc5ef730e264d147cdf5311172c1049ee70d35a/microsoft/RepDL"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g7vmPFZrYAk",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=g7vmPFZrYAk",
-          "publishedOn": "2025-12-22T08:37:34.000Z",
-          "wordCount": null,
-          "title": "Hybrid Aerial Underwater Drone – Bachelor Project [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://diziet.dreamwidth.org/20436.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://diziet.dreamwidth.org/20436.html",
-          "publishedOn": "2025-12-22T08:24:32.000Z",
-          "wordCount": 3186,
-          "title": "Debian's Git Transition",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world",
-          "publishedOn": "2025-12-22T07:18:08.000Z",
-          "wordCount": 1641,
-          "title": "What happened to all the gold Spain got from the New World? (1985)",
-          "imageUrl": "https://cst.brightspotcdn.com/dims4/default/4c364c9/2147483647/strip/true/crop/300x171+0+58/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Fh6Ot4VdtUp0ZokUSQOdsk3y0G9Q%3D%2F0x0%3A300x287%2F300x287%2Ffilters%3Afocal%28150x143%3A151x144%29%3Ano_upscale%28%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F20535581%2F851004_300x287.gif"
-        },
-        {
-          "id": "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields",
-          "publishedOn": "2025-12-22T05:38:33.000Z",
-          "wordCount": 2101,
-          "title": "CSRF protection without tokens or hidden form fields",
-          "imageUrl": "https://blog.miguelgrinberg.com/static/cards/csrf-protection-without-tokens-or-hidden-form-fields.jpg"
-        },
-        {
-          "id": "https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/",
-          "publishedOn": "2025-12-22T05:28:42.000Z",
-          "wordCount": 5614,
-          "title": "A Child in the State of Nature",
-          "imageUrl": "https://cdn.lareviewofbooks.org/unsafe/fit-in/938x0/filters:format(jpeg):quality(75)/https%3A%2F%2Fassets.lareviewofbooks.org%2Fuploads%2FForbidden-Experiment.jpg"
-        },
-        {
-          "id": "https://github.com/mruby/mruby",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/mruby/mruby",
-          "publishedOn": "2025-12-22T05:00:14.000Z",
-          "wordCount": 3605,
-          "title": "Mruby: Ruby for Embedded Systems",
-          "imageUrl": "https://opengraph.githubassets.com/b327e081c8142d731e2376864ce5ab3a05fee420f250ad112ec1b012c8bd02eb/mruby/mruby"
-        },
-        {
-          "id": "https://github.com/ibaryshnikov/android-iced-example",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/ibaryshnikov/android-iced-example",
-          "publishedOn": "2025-12-22T02:14:32.000Z",
-          "wordCount": 1709,
-          "title": "Build Android apps using Rust and iced",
-          "imageUrl": "https://opengraph.githubassets.com/9cee9cc8f1df08078063231a7375bf52c2924884bc4ec445a566993cf0ad33c9/ibaryshnikov/android-iced-example"
-        },
-        {
-          "id": "https://86box.net/2025/12/21/86box-v5-3.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://86box.net/2025/12/21/86box-v5-3.html",
-          "publishedOn": "2025-12-22T01:43:40.000Z",
-          "wordCount": 1192,
-          "title": "86Box v5.3",
-          "imageUrl": "http://86box.net/assets/images/v5.3/hero.png"
-        },
-        {
-          "id": "https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society",
-          "publishedOn": "2025-12-22T01:25:15.000Z",
-          "wordCount": 4365,
-          "title": "Danish postal service to stop delivering letters after 400 years",
-          "imageUrl": "https://i.guim.co.uk/img/media/cb20b84ec8fc0ec83c9eaac484fce86c363805af/986_0_6942_5553/master/6942.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b03a8ddbcaf1333599457db01e9f23d"
-        },
-        {
-          "id": "https://ym2132.github.io/ONNX_MLProgram_NN_exploration",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ym2132.github.io/ONNX_MLProgram_NN_exploration",
-          "publishedOn": "2025-12-22T00:27:04.000Z",
-          "wordCount": 7440,
-          "title": "ONNX Runtime and CoreML May Silently Convert Your Model to FP16",
-          "imageUrl": null
-        },
-        {
-          "id": "https://faultlore.com/blah/text-hates-you/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://faultlore.com/blah/text-hates-you/",
-          "publishedOn": "2025-12-22T00:14:43.000Z",
-          "wordCount": 3985,
-          "title": "Text rendering hates you (2019)",
-          "imageUrl": "https://gankra.github.io/blah/img/error-base.png"
-        },
-        {
-          "id": "https://borretti.me/article/i-wish-people-were-more-public",
-          "author": null,
-          "description": "Comments",
-          "link": "https://borretti.me/article/i-wish-people-were-more-public",
-          "publishedOn": "2025-12-21T23:42:34.000Z",
-          "wordCount": 1153,
-          "title": "I wish people were more public",
-          "imageUrl": "https://borretti.me/assets/card/i-wish-people-were-more-public.webp"
-        },
-        {
-          "id": "https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/",
-          "publishedOn": "2025-12-21T21:46:20.000Z",
-          "wordCount": 1833,
-          "title": "Disney Imagineering Debuts Next-Generation Robotic Character, Olaf",
-          "imageUrl": "https://disneyparksblog.com/app/uploads/2025/11/2025-WDI-Olaf-Robotic-Character-Header.jpg"
-        },
-        {
-          "id": "https://github.com/arximboldi/immer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/arximboldi/immer",
-          "publishedOn": "2025-12-21T20:59:06.000Z",
-          "wordCount": 3633,
-          "title": "Immer – A library of persistent and immutable data structures written in C++",
-          "imageUrl": "https://opengraph.githubassets.com/912ccf349bb6ada1c2142e9988b448df72989ab6f39d327cb5e09a18c4234ae1/arximboldi/immer"
-        },
-        {
-          "id": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
-          "publishedOn": "2025-12-21T20:55:15.000Z",
-          "wordCount": 10094,
-          "title": "A guide to local coding models",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!fARn!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb194c53f-7b2b-4f74-942b-5cf1c59b32aa_1920x1080.jpeg"
-        },
-        {
-          "id": "https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/",
-          "publishedOn": "2025-12-21T20:03:03.000Z",
-          "wordCount": 959,
-          "title": "Go Gray, Not Cray: Why You Should Grayscale Your Phone",
-          "imageUrl": "https://images.unsplash.com/photo-1708605716481-5c2107d59b57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI2MHx8Z3JheXNjYWxlfGVufDB8fHx8MTc0NTE4NzM1N3ww&ixlib=rb-4.0.3&q=80&w=2000"
-        },
-        {
-          "id": "https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone",
-          "author": null,
-          "description": "Comments",
-          "link": "https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone",
-          "publishedOn": "2025-12-21T18:43:20.000Z",
-          "wordCount": 1406,
-          "title": "I can't upgrade to Windows 11, now leave me alone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mastodon.online/@mullvadnet/115742530333573065",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mastodon.online/@mullvadnet/115742530333573065",
-          "publishedOn": "2025-12-21T18:39:46.000Z",
-          "wordCount": 200,
-          "title": "The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/",
-          "publishedOn": "2025-12-21T18:28:56.000Z",
-          "wordCount": 5840,
-          "title": "You’re not burnt out, you’re existentially starving",
-          "imageUrl": "https://neilthanedar.com/wp-content/uploads/Mondays-Happiness-Scale-1024x683.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46346648",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=46346648",
-          "publishedOn": "2025-12-21T17:49:36.000Z",
-          "wordCount": 3664,
-          "title": "Ask HN: Resources to get better at outbound sales?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://oldmanrahul.com/2025/12/19/ai-code-review-trick/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://oldmanrahul.com/2025/12/19/ai-code-review-trick/",
-          "publishedOn": "2025-12-21T17:21:05.000Z",
-          "wordCount": 152,
-          "title": "Get an AI code review in 10 seconds",
-          "imageUrl": "https://oldmanrahul.com/images/oldmanrahul_menu_icon.jpg"
-        },
-        {
-          "id": "https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/",
-          "publishedOn": "2025-12-21T16:57:57.000Z",
-          "wordCount": 9625,
-          "title": "Autoland saves King Air, everyone reported safe",
-          "imageUrl": "https://avbrief.com/wp-content/uploads/2025/12/autoland-save-N479BR.jpg"
         }
       ]
     },
