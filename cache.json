@@ -12,6 +12,31 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391705",
+          "author": "Daniel Schwarz",
+          "description": "Chrome 144 recently shipped ::search-text, which is now one of several highlight-related pseudo-elements. This one selects find-in-page text, which is the text that gets highlighted when you do a Ctrl/Command + F-type search for something on a page and matches are found.\nHow to Style the New ::search-text and Other Highlight-y Pseudo-Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/",
+          "publishedOn": "2026-01-28T15:08:04.000Z",
+          "wordCount": 2137,
+          "title": "How to Style the New ::search-text and Other Highlight-y Pseudo-Elements",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-21-at-10.28.07-AM.mov",
+            "length": "6902193",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/search-text-pseudo-example.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391920",
+          "author": "Geoff Graham",
+          "description": "Stu Robson's ReliCSS (clever name!) tool can excavate outdated CSS in your codebase that have modern CSS solutions.\nReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/relicss/",
+          "publishedOn": "2026-01-28T13:25:00.000Z",
+          "wordCount": 1277,
+          "title": "ReliCSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/relicss-audit.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=388430",
           "author": "Zell Liew",
           "description": "Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).\nThere is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -252,21 +277,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/12/how-design-for-with-deaf-people/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Practical UX guidelines to keep in mind for 466 million people who experience hearing loss. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
-          "link": "https://smashingmagazine.com/2025/12/how-design-for-with-deaf-people/",
-          "publishedOn": "2025-12-30T10:00:00.000Z",
-          "wordCount": 4103,
-          "title": "How To Design For (And With) Deaf People",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-design-for-with-deaf-people/how-design-for-with-deaf-people.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-design-for-with-deaf-people/how-design-for-with-deaf-people.jpg"
         }
       ]
     },
@@ -276,6 +286,186 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://web.mit.edu/jemorris/humor/500-miles",
+          "author": null,
+          "description": "Comments",
+          "link": "https://web.mit.edu/jemorris/humor/500-miles",
+          "publishedOn": "2026-01-29T03:58:33.000Z",
+          "wordCount": 1052,
+          "title": "We can't send mail farther than 500 miles (2002)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer",
+          "publishedOn": "2026-01-29T03:29:53.000Z",
+          "wordCount": 1614,
+          "title": "Questom (YC F25) is hiring an engineer",
+          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/a8c09862b3c01c2ce35c4ed871078e37cf50db4f.png?1758932971"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
+          "publishedOn": "2026-01-29T02:11:42.000Z",
+          "wordCount": 4193,
+          "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
+          "imageUrl": "https://i.guim.co.uk/img/media/606f34633fefe42ecdfca363e4b1fc0468490a83/488_0_4858_3889/master/4858.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a744fcf6aedd164aeb53f8ff5dd148e"
+        },
+        {
+          "id": "https://github.com/lukilabs/beautiful-mermaid",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/lukilabs/beautiful-mermaid",
+          "publishedOn": "2026-01-29T02:08:40.000Z",
+          "wordCount": 7094,
+          "title": "Render Mermaid diagrams as SVGs or ASCII art",
+          "imageUrl": "https://opengraph.githubassets.com/238e64d5442698eb70acc5229054565f2c7b44a6261710a8b63d445007f602eb/lukilabs/beautiful-mermaid"
+        },
+        {
+          "id": "https://shelvybooks.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://shelvybooks.com/",
+          "publishedOn": "2026-01-29T01:16:41.000Z",
+          "wordCount": 8,
+          "title": "Show HN: Shelvy Books",
+          "imageUrl": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/3f034dbe-fa37-484f-90d6-7c74dc67ee86/id-preview-a2df342a--09d72b80-25a8-45b3-9827-8db368470465.lovable.app-1769659040225.png"
+        },
+        {
+          "id": "https://mahadk.com/posts/ai-skills-hub",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mahadk.com/posts/ai-skills-hub",
+          "publishedOn": "2026-01-28T23:16:12.000Z",
+          "wordCount": 729,
+          "title": "UK Government’s ‘AI Skills Hub’ was delivered by PwC for £4.1M",
+          "imageUrl": "https://mahadk.com//posts/ai-skills-hub/og.png"
+        },
+        {
+          "id": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
+          "publishedOn": "2026-01-28T22:53:54.000Z",
+          "wordCount": 13557,
+          "title": "Tesla ending Models S and X production",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/106844785-1614168905231-106844785-1614168417817-gettyimages-1302579261-vcg111317588857.jpg?v=1769640014&w=1920&h=1080"
+        },
+        {
+          "id": "https://github.com/microsoft/bf-tree",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/microsoft/bf-tree",
+          "publishedOn": "2026-01-28T22:05:05.000Z",
+          "wordCount": 3664,
+          "title": "Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index",
+          "imageUrl": "https://opengraph.githubassets.com/e1a2e0fc93bfef9f6349576addf046d1d2b3b652fc73bef66323416484ffb051/microsoft/bf-tree"
+        },
+        {
+          "id": "https://alecmuffett.com/article/143548",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alecmuffett.com/article/143548",
+          "publishedOn": "2026-01-28T21:50:47.000Z",
+          "wordCount": 1896,
+          "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
+          "imageUrl": "https://alecmuffett.com/wp-content/uploads/2026/01/Screenshot_20260128-091014.png"
+        },
+        {
+          "id": "https://github.com/jmuncor/sherlock",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/jmuncor/sherlock",
+          "publishedOn": "2026-01-28T18:52:24.000Z",
+          "wordCount": 4630,
+          "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+          "imageUrl": "https://opengraph.githubassets.com/c3aba7fa106b30d84f73571e0970d51a3b317e0201c1daf2e94edd67c7c811d2/jmuncor/sherlock"
+        },
+        {
+          "id": "https://lmstudio.ai/blog/0.4.0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lmstudio.ai/blog/0.4.0",
+          "publishedOn": "2026-01-28T18:23:14.000Z",
+          "wordCount": 8792,
+          "title": "LM Studio 0.4",
+          "imageUrl": "https://files.lmstudio.ai/0.4.0.png"
+        },
+        {
+          "id": "https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/",
+          "publishedOn": "2026-01-28T17:54:54.000Z",
+          "wordCount": 1960,
+          "title": "Computer History Museum Launches Digital Portal to Its Collection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ratatui/mousefood",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ratatui/mousefood",
+          "publishedOn": "2026-01-28T17:20:31.000Z",
+          "wordCount": 4926,
+          "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
+          "imageUrl": "https://opengraph.githubassets.com/d19182346b8784a8a193f47b07ef5ea8c4407a1d42604d85677520cc0ac89431/ratatui/mousefood"
+        },
+        {
+          "id": "https://www.siliceum.com/en/blog/post/spinning-around/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.siliceum.com/en/blog/post/spinning-around/",
+          "publishedOn": "2026-01-28T16:48:59.000Z",
+          "wordCount": 6041,
+          "title": "Spinning around: Please don't – Common problems with spin locks",
+          "imageUrl": "https://www.siliceum.com/_astro/5q2d4Wiw_2iFtau.png"
+        },
+        {
+          "id": "https://www.dimamik.com/posts/oban_py/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dimamik.com/posts/oban_py/",
+          "publishedOn": "2026-01-28T16:32:00.000Z",
+          "wordCount": 4985,
+          "title": "Oban, the job processing framework from Elixir, has come to Python",
+          "imageUrl": "https://www.dimamik.com/images/og-background_hu_bfffbf2d93429ed0.png"
+        },
+        {
+          "id": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
+          "publishedOn": "2026-01-28T15:39:11.000Z",
+          "wordCount": null,
+          "title": "Amazon cuts 16k jobs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ciechanow.ski/airfoil/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ciechanow.ski/airfoil/",
+          "publishedOn": "2026-01-28T14:32:30.000Z",
+          "wordCount": 14550,
+          "title": "Airfoil (2024)",
+          "imageUrl": "https://ciechanow.ski/images/og/airfoil.png"
+        },
+        {
+          "id": "https://netrinos.com/blog/conflicting-subnets",
+          "author": null,
+          "description": "Comments",
+          "link": "https://netrinos.com/blog/conflicting-subnets",
+          "publishedOn": "2026-01-28T14:06:39.000Z",
+          "wordCount": 1906,
+          "title": "When Every Network is 192.168.1.x",
+          "imageUrl": "https://netrinos.com/cdn/images/og-netrinos-banner.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46790957",
           "author": null,
           "description": "Comments",
@@ -284,6 +474,16 @@
           "wordCount": 358,
           "title": "Ask HN: Why all the sudden people are writing browsers with AI?",
           "imageUrl": null
+        },
+        {
+          "id": "https://9to5google.com/2026/01/27/android-desktop-leak/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://9to5google.com/2026/01/27/android-desktop-leak/",
+          "publishedOn": "2026-01-28T03:34:45.000Z",
+          "wordCount": 3385,
+          "title": "Android's desktop interface leaks",
+          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/04/hp-dragonfly-pro-chromebook-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
           "id": "https://monkeyball-online.pages.dev/",
@@ -304,6 +504,46 @@
           "wordCount": 2037,
           "title": "AI found 12 vulnerabilities in OpenSSL",
           "imageUrl": "https://aisle.com/api/media/file/openssl%20release%202-1200x630.jpg"
+        },
+        {
+          "id": "https://www.pinecone-explorer.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pinecone-explorer.com/",
+          "publishedOn": "2026-01-28T01:06:32.000Z",
+          "wordCount": 1705,
+          "title": "Show HN: Pinecone Explorer – Desktop GUI for the Pinecone vector database",
+          "imageUrl": "https://www.pinecone-explorer.com/images/screenshots/main.png"
+        },
+        {
+          "id": "https://www.arcee.ai/blog/trinity-large",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.arcee.ai/blog/trinity-large",
+          "publishedOn": "2026-01-28T00:57:52.000Z",
+          "wordCount": 3387,
+          "title": "Trinity large: An open 400B sparse MoE model",
+          "imageUrl": "https://cdn.prod.website-files.com/68d12bf17c9c2b9864d5218e/6978cb152e57d4dbda9f9c69_Blog%20cover%20(1).png"
+        },
+        {
+          "id": "https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning",
+          "publishedOn": "2026-01-28T00:18:58.000Z",
+          "wordCount": 63366,
+          "title": "Did a celebrated researcher obscure a baby's poisoning?",
+          "imageUrl": "https://media.newyorker.com/photos/69700368162a1094c1fbce63/16:9/w_1280,c_limit/r48477.jpg"
+        },
+        {
+          "id": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
+          "publishedOn": "2026-01-27T22:58:30.000Z",
+          "wordCount": 1399,
+          "title": "Some notes on starting to use Django",
+          "imageUrl": null
         },
         {
           "id": "https://www.web3isgoinggreat.com/single/lick-theft",
@@ -796,6 +1036,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.economist.com/science-and-technology/2026/01/21/satellites-encased-in-wood-are-in-the-works",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.economist.com/science-and-technology/2026/01/21/satellites-encased-in-wood-are-in-the-works",
+          "publishedOn": "2026-01-26T01:08:13.000Z",
+          "wordCount": null,
+          "title": "Satellites encased in wood are in the works",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/clawdbot/clawdbot",
           "author": null,
           "description": "Comments",
@@ -844,6 +1094,16 @@
           "wordCount": 1955,
           "title": "The future of software engineering is SRE",
           "imageUrl": "https://swizec.com/social-cards/the-future-of-software-engineering-is-sre.png"
+        },
+        {
+          "id": "https://mecha.so/comet",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mecha.so/comet",
+          "publishedOn": "2026-01-25T21:44:50.000Z",
+          "wordCount": 5623,
+          "title": "Mecha Comet – Open Modular Linux Handheld Computer",
+          "imageUrl": "https://mecha.so/images/media-kit-banner.jpg"
         },
         {
           "id": "https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world",
@@ -1116,6 +1376,16 @@
           "imageUrl": "https://cdn.prod.website-files.com/64529e978a785fb5da715f99/6972732345cebcb932379b43_1_cars%20horizontal.jpg"
         },
         {
+          "id": "https://www.science.org/content/article/scienceshot-illustrated-guide-hippo-castration",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.science.org/content/article/scienceshot-illustrated-guide-hippo-castration",
+          "publishedOn": "2026-01-24T19:47:41.000Z",
+          "wordCount": null,
+          "title": "An Illustrated Guide to Hippo Castration",
+          "imageUrl": null
+        },
+        {
           "id": "https://substack.com/inbox/post/185649875",
           "author": null,
           "description": "Comments",
@@ -1263,6 +1533,16 @@
           "publishedOn": "2026-01-23T23:12:19.000Z",
           "wordCount": 537,
           "title": "I found the perfect yearly calendar (for me)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/",
+          "publishedOn": "2026-01-23T22:55:00.000Z",
+          "wordCount": 3345,
+          "title": "The Five Levels: From spicy autocomplete to the dark factory",
           "imageUrl": null
         },
         {
@@ -1466,6 +1746,16 @@
           "imageUrl": "https://huggingface.co/blog/assets/overworld/overworld_image.png"
         },
         {
+          "id": "https://www.cambridge.org/core/journals/classical-quarterly/article/hellenistic-warelephants-and-the-use-of-alcohol-before-battle/39A749F62E21ED16C9CCA3B03E176561",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cambridge.org/core/journals/classical-quarterly/article/hellenistic-warelephants-and-the-use-of-alcohol-before-battle/39A749F62E21ED16C9CCA3B03E176561",
+          "publishedOn": "2026-01-23T14:44:14.000Z",
+          "wordCount": 38642,
+          "title": "Hellenistic War-Elephants and the Use of Alcohol Before Battle",
+          "imageUrl": "https://static.cambridge.org/covers/CAQ_0_0_0/the_classical quarterly.jpg?send-full-size-image=true"
+        },
+        {
           "id": "https://www.korg.com/us/products/dj/phase8/",
           "author": null,
           "description": "Comments",
@@ -1474,6 +1764,16 @@
           "wordCount": 790,
           "title": "KORG phase8 – Acoustic Synthesizer",
           "imageUrl": "https://cdn.korg.com/us/products/upload/4b2fec8f24b76d6b3e5b44e7f0dfc50e.jpg"
+        },
+        {
+          "id": "https://thinkygames.com/features/in-a-genre-where-information-is-sacred-and-spoilers-are-devastating-how-do-we-talk-about-puzzle-games/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thinkygames.com/features/in-a-genre-where-information-is-sacred-and-spoilers-are-devastating-how-do-we-talk-about-puzzle-games/",
+          "publishedOn": "2026-01-23T13:55:04.000Z",
+          "wordCount": null,
+          "title": "In a genre where spoilers are devastating, how do we talk about puzzle games?",
+          "imageUrl": null
         },
         {
           "id": "https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/",
@@ -1543,6 +1843,16 @@
           "publishedOn": "2026-01-23T03:45:15.000Z",
           "wordCount": 3137,
           "title": "The lost art of XML",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Wp5NodfvvF4",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=Wp5NodfvvF4",
+          "publishedOn": "2026-01-23T03:32:26.000Z",
+          "wordCount": null,
+          "title": "I overengineered a spinning top [video]",
           "imageUrl": null
         },
         {
@@ -8224,356 +8534,6 @@
           "wordCount": 9935,
           "title": "Show HN: 22 GB of Hacker News in SQLite",
           "imageUrl": null
-        },
-        {
-          "id": "https://dfarq.homeip.net/what-happened-to-abit-motherboards/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dfarq.homeip.net/what-happened-to-abit-motherboards/",
-          "publishedOn": "2025-12-30T14:58:18.000Z",
-          "wordCount": 3034,
-          "title": "What Happened to Abit Motherboards",
-          "imageUrl": "https://i0.wp.com/dfarq.homeip.net/wp-content/uploads/2024/12/abit-motherboards-social.jpg?fit=892%2C502&ssl=1"
-        },
-        {
-          "id": "https://mwilczynski.dev/posts/riscv-gpu-zink/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mwilczynski.dev/posts/riscv-gpu-zink/",
-          "publishedOn": "2025-12-30T13:55:59.000Z",
-          "wordCount": 5023,
-          "title": "Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V",
-          "imageUrl": null
-        },
-        {
-          "id": "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html",
-          "publishedOn": "2025-12-30T13:10:56.000Z",
-          "wordCount": 7342,
-          "title": "The British empire's resilient subsea telegraph network",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxdPUjhIYaHDXjA8B4dWPTlz5TKHwnpqte-GoEjTBvZWTPhBx3_qHDi_3mIXODUB1G8M0iHBNA4B5PMBkSLJOVTfrHbVSrSe8eb6YGiHyPymziABkD9cWnf4ADsVuAFCo9gNXXcrNB4OViNqouOdMCBdLFFqhoOqe6ze6wvcLcwQpD9gvqbZF_UgP6-qk/w1200-h630-p-k-no-nu/1902AllRedLineMap.jpg"
-        },
-        {
-          "id": "https://fuckingapproachableswiftconcurrency.com/en/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fuckingapproachableswiftconcurrency.com/en/",
-          "publishedOn": "2025-12-30T13:01:51.000Z",
-          "wordCount": 3677,
-          "title": "Approachable Swift Concurrency",
-          "imageUrl": null
-        },
-        {
-          "id": "https://hsu.cy/2025/12/times-new-american/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hsu.cy/2025/12/times-new-american/",
-          "publishedOn": "2025-12-30T12:56:07.000Z",
-          "wordCount": 2141,
-          "title": "Times New American: A Tale of Two Fonts",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://nonzerosum.games/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nonzerosum.games/",
-          "publishedOn": "2025-12-30T11:42:55.000Z",
-          "wordCount": 618,
-          "title": "Non-Zero-Sum Games",
-          "imageUrl": "https://nonzerosum.games/Images/Social/alignment1.png"
-        },
-        {
-          "id": "https://opencontent.netflix.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://opencontent.netflix.com/",
-          "publishedOn": "2025-12-30T10:11:57.000Z",
-          "wordCount": 2559,
-          "title": "Netflix Open Content",
-          "imageUrl": "https://lh3.googleusercontent.com/sitesv/AAzXCkcERTgzv4fzZ-jcET6TmIrQGueAFIKKYuLzOsqDSgcxRDx5wJchpKMfIKhru2Tn2_yq7oevrqzh_qA_DFPR92nckgQ5aNkZ9m_gUuJMVGlCWDyG_fBRADg8GQliwzvCdsrm5YnKj4XuLGxXGeOOUACeTzyWleEI=w16383"
-        },
-        {
-          "id": "https://lorentz.app/blog-item.html?id=go-shebang",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lorentz.app/blog-item.html?id=go-shebang",
-          "publishedOn": "2025-12-30T08:50:44.000Z",
-          "wordCount": 8,
-          "title": "Go away Python",
-          "imageUrl": "https://avatars.githubusercontent.com/u/21121209?v=4"
-        },
-        {
-          "id": "https://github.com/quickemu-project/quickemu",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/quickemu-project/quickemu",
-          "publishedOn": "2025-12-30T08:19:08.000Z",
-          "wordCount": 2395,
-          "title": "Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs",
-          "imageUrl": "https://opengraph.githubassets.com/a581490e1fdd76ef929c11e00b96976fc359f6d04d3a62382612b5477baba399/quickemu-project/quickemu"
-        },
-        {
-          "id": "https://jhurliman.org/post/804323197731373056/experiments-with-ableton-mcp-dec-2025",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jhurliman.org/post/804323197731373056/experiments-with-ableton-mcp-dec-2025",
-          "publishedOn": "2025-12-30T02:43:50.000Z",
-          "wordCount": 1206,
-          "title": "Experiments with Ableton-MCP",
-          "imageUrl": "https://64.media.tumblr.com/18725cc767aab262e62859b1cbc43003/b106372ea8b9929c-ad/s1280x1920/30df9efc4f86468ae113ba294a543769fb26b703.jpg"
-        },
-        {
-          "id": "https://media.ccc.de/v/39c3-hacking-washing-machines",
-          "author": null,
-          "description": "Comments",
-          "link": "https://media.ccc.de/v/39c3-hacking-washing-machines",
-          "publishedOn": "2025-12-30T01:40:49.000Z",
-          "wordCount": 817,
-          "title": "Hacking Washing Machines [video]",
-          "imageUrl": "https://static.media.ccc.de/media/congress/2025/2405-efa55b63-86b6-56c5-88ab-46408b59b18d_preview.jpg"
-        },
-        {
-          "id": "https://hichvg.substack.com/p/elegance-is-bullshit",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hichvg.substack.com/p/elegance-is-bullshit",
-          "publishedOn": "2025-12-30T01:32:45.000Z",
-          "wordCount": null,
-          "title": "Language Gives Authority to Weak Ideas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46428206",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=46428206",
-          "publishedOn": "2025-12-30T01:00:03.000Z",
-          "wordCount": 662,
-          "title": "100x (YC S22) Is Hiring a Front End Engineer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/",
-          "publishedOn": "2025-12-30T00:54:34.000Z",
-          "wordCount": 3286,
-          "title": "Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)",
-          "imageUrl": "https://keithburgun.net/wp-content/uploads/2024/03/outsidedungeontown.png"
-        },
-        {
-          "id": "https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025",
-          "publishedOn": "2025-12-30T00:23:47.000Z",
-          "wordCount": 3671,
-          "title": "MongoDB Server Security Update, December 2025",
-          "imageUrl": "https://images.contentstack.io/v3/assets/blt7151619cb9560896/bltf2b2767ac2887b72/69530179f8f075a43c12ec46/MongoDB_Server_Security_Update_December_2025_blog_meta_image.png"
-        },
-        {
-          "id": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
-          "publishedOn": "2025-12-29T23:50:34.000Z",
-          "wordCount": 4416,
-          "title": "Stranger Things creator says turn off \"garbage\" settings",
-          "imageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/mike-protecting-the-new-kids-joyce-and-an-unconscious-will-in-stranger-things-season-5.jpg?w=1600&h=900&fit=crop"
-        },
-        {
-          "id": "https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to",
-          "publishedOn": "2025-12-29T23:50:06.000Z",
-          "wordCount": 3744,
-          "title": "I migrated to an almost all-EU stack and saved 500€ per year",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!YdJF!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6770f016-cfe6-4ba9-bd8c-b6db6eca2bbe_1200x630.png"
-        },
-        {
-          "id": "https://matklad.github.io/2025/12/28/parsing-advances.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://matklad.github.io/2025/12/28/parsing-advances.html",
-          "publishedOn": "2025-12-29T23:29:35.000Z",
-          "wordCount": 980,
-          "title": "Parsing Advances",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pubs.usgs.gov/fs/farallones/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pubs.usgs.gov/fs/farallones/",
-          "publishedOn": "2025-12-29T23:12:00.000Z",
-          "wordCount": 1138,
-          "title": "Geology of the Gulf of the Farallones National Marine Sanctuary",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/mutable-state-inc/ensue-skill",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/mutable-state-inc/ensue-skill",
-          "publishedOn": "2025-12-29T22:30:25.000Z",
-          "wordCount": 1669,
-          "title": "Show HN: Stop Claude Code from forgetting everything",
-          "imageUrl": "https://opengraph.githubassets.com/cd8fce9a55ddb550b036f6b48dcfce5683b18d3da2a171e739103300e64e6e6c/mutable-state-inc/ensue-skill"
-        },
-        {
-          "id": "https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm",
-          "publishedOn": "2025-12-29T22:30:04.000Z",
-          "wordCount": null,
-          "title": "The Late Arrival of 16-Bit CP/M – By Nemanja Trifunovic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
-          "author": null,
-          "description": "Comments",
-          "link": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
-          "publishedOn": "2025-12-29T22:24:22.000Z",
-          "wordCount": 1067,
-          "title": "ManusAI Joins Meta",
-          "imageUrl": "https://files.manuscdn.com/assets/dashboard/materials/2025/12/29/be24830250b19286eda97af3b8f076bc3e0f835a3fa818bb4c3095354c351cfe.webp"
-        },
-        {
-          "id": "https://www.ufv.ca/media/faculty/gregschlitt/information/WhatToDoWhenTrisectorComes.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ufv.ca/media/faculty/gregschlitt/information/WhatToDoWhenTrisectorComes.pdf",
-          "publishedOn": "2025-12-29T21:17:26.000Z",
-          "wordCount": 8079,
-          "title": "What to Do When the Trisector Comes (1983) [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
-          "publishedOn": "2025-12-29T20:29:26.000Z",
-          "wordCount": null,
-          "title": "Google is dead. Where do we go now?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://variationsonnormal.com/2011/04/28/finger-nose-stylus-for-touchscreens/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://variationsonnormal.com/2011/04/28/finger-nose-stylus-for-touchscreens/",
-          "publishedOn": "2025-12-29T19:59:44.000Z",
-          "wordCount": 4581,
-          "title": "Finger-Nose Stylus for Touch Screens",
-          "imageUrl": "https://variationsonnormal.com/wp-content/uploads/2011/04/4430.jpg"
-        },
-        {
-          "id": "https://www.getflack.com/p/responding-to-negative-feedback",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.getflack.com/p/responding-to-negative-feedback",
-          "publishedOn": "2025-12-29T19:30:40.000Z",
-          "wordCount": 4038,
-          "title": "When someone says they hate your product",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!SRle!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F067f837f-ca5d-4341-a2dc-3f9c81cf3d94_1178x1146.png"
-        },
-        {
-          "id": "https://delistedgames.com/all-delisted-steam-games/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://delistedgames.com/all-delisted-steam-games/",
-          "publishedOn": "2025-12-29T19:16:32.000Z",
-          "wordCount": 11026,
-          "title": "All Delisted Steam Games",
-          "imageUrl": "https://delistedgames.com/wp-content/uploads/2024/11/cropped-D-Square-Clean-512px-1.png"
-        },
-        {
-          "id": "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/",
-          "publishedOn": "2025-12-29T19:14:17.000Z",
-          "wordCount": 4358,
-          "title": "The future of software development is software developers",
-          "imageUrl": "https://codemanship.wordpress.com/wp-content/uploads/2025/11/image-7.png"
-        },
-        {
-          "id": "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code",
-          "publishedOn": "2025-12-29T19:11:26.000Z",
-          "wordCount": 4566,
-          "title": "AI is forcing us to write good code",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!M5s0!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0d94e7a-5c6a-4801-a96c-4e2104f96419_2752x1536.jpeg"
-        },
-        {
-          "id": "https://loss32.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://loss32.org/",
-          "publishedOn": "2025-12-29T19:09:08.000Z",
-          "wordCount": 775,
-          "title": "Loss32: Let's Build a Win32/Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cuiiliste.de/domains",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cuiiliste.de/domains",
-          "publishedOn": "2025-12-29T18:21:30.000Z",
-          "wordCount": 1119,
-          "title": "List of domains censored by German ISPs",
-          "imageUrl": "/img/nocuii.png"
-        },
-        {
-          "id": "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html",
-          "publishedOn": "2025-12-29T18:17:29.000Z",
-          "wordCount": 2685,
-          "title": "A production bug that made me care about undefined behavior",
-          "imageUrl": null
-        },
-        {
-          "id": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
-          "publishedOn": "2025-12-29T17:57:03.000Z",
-          "wordCount": 3271,
-          "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
-          "imageUrl": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-4680-Battery-cell.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html",
-          "publishedOn": "2025-12-29T17:12:20.000Z",
-          "wordCount": 573,
-          "title": "Five Years of Tinygrad",
-          "imageUrl": null
-        },
-        {
-          "id": "https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/",
-          "publishedOn": "2025-12-29T16:57:11.000Z",
-          "wordCount": 3904,
-          "title": "The year of the 3D printed miniature and other lies we tell ourselves",
-          "imageUrl": "https://matduggan.com/content/images/2024/01/favicon.ico"
         }
       ]
     },
@@ -8639,6 +8599,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/society/2026/recreating-the-smells-of-the-past",
+          "author": "Kaja Šeruga",
+          "description": "Using chemistry, archival records and AI, scientists are reviving the aromas of old libraries, mummies and battlefields",
+          "link": "https://knowablemagazine.org/content/article/society/2026/recreating-the-smells-of-the-past",
+          "publishedOn": "2026-01-29T04:56:14.202Z",
+          "wordCount": null,
+          "title": "Recreating the smells of history",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/historical-scent-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/historical-scent-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/physical-world/2026/chemistry-of-electrides-new-catalysts-center-of-earth",
           "author": "Rachel Brazil",
