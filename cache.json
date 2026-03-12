@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392463",
+          "author": "Patrick Brosset",
+          "description": "Let’s go over a few demos using the new customizable <select> feature that may be wild, but also give us a great chance to learn new things in CSS.\nAbusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/abusing-customizable-selects/",
+          "publishedOn": "2026-03-11T13:59:15.000Z",
+          "wordCount": 4809,
+          "title": "Abusing Customizable Selects",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/02/css-tricks-custom-select-folder-stack.mp4",
+            "length": "410481",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/custom-select.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=392843",
           "author": "Amit Sheen",
           "description": "How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices.\nThe Value of z-index originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -185,21 +200,6 @@
           "wordCount": 2411,
           "title": "Approximating contrast-color() With Other CSS Features",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/apca-wcg-color-contrast.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391766",
-          "author": "Juan Diego Rodríguez",
-          "description": "Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it.\nTrying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/",
-          "publishedOn": "2026-02-09T17:34:56.000Z",
-          "wordCount": 3717,
-          "title": "Trying to Make the Perfect Pie Chart in CSS",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/ddzynrhrx/video/upload/v1769282762/audio_nvda_tejgbi.mp4",
-            "length": "162076",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
         }
       ]
     },
@@ -381,6 +381,236 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+          "publishedOn": "2026-03-12T03:29:28.000Z",
+          "wordCount": 2108,
+          "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://micahflee.github.io/ice-contracts/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://micahflee.github.io/ice-contracts/",
+          "publishedOn": "2026-03-12T02:03:01.000Z",
+          "wordCount": 77,
+          "title": "DHS Contracts Explorer – Hacked data from the Office of Industry Partnership",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai",
+          "publishedOn": "2026-03-12T01:15:40.000Z",
+          "wordCount": null,
+          "title": "How much of HN is AI?",
+          "imageUrl": null
+        },
+        {
+          "id": "http://satproto.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://satproto.org/",
+          "publishedOn": "2026-03-12T00:22:19.000Z",
+          "wordCount": 1045,
+          "title": "Show HN: s@: decentralized social networking over static sites",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ensue-network.ai/autoresearch",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ensue-network.ai/autoresearch",
+          "publishedOn": "2026-03-11T23:27:18.000Z",
+          "wordCount": 54,
+          "title": "Show HN: Autoresearch@home",
+          "imageUrl": "https://www.ensue-network.ai/assets/autoresearch-og.png"
+        },
+        {
+          "id": "https://github.com/manuelschipper/nah/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/manuelschipper/nah/",
+          "publishedOn": "2026-03-11T23:26:25.000Z",
+          "wordCount": 4834,
+          "title": "Show HN: A context-aware permission guard for Claude Code",
+          "imageUrl": "https://opengraph.githubassets.com/095e6744fdbb66e2abc3f99f7dacd5fe76ea320d2a41463acffab80180bddfd0/manuelschipper/nah"
+        },
+        {
+          "id": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/",
+          "publishedOn": "2026-03-11T22:29:42.000Z",
+          "wordCount": null,
+          "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
+          "author": null,
+          "description": "Comments",
+          "link": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
+          "publishedOn": "2026-03-11T21:23:24.000Z",
+          "wordCount": 2056,
+          "title": "Preliminary data from a longitudinal AI impact study",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!F4Wk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7cd1c8d-f654-4c77-8c46-75bbd1dfa640_4000x2800.png"
+        },
+        {
+          "id": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
+          "author": null,
+          "description": "Comments",
+          "link": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
+          "publishedOn": "2026-03-11T21:06:06.000Z",
+          "wordCount": 13278,
+          "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
+          "imageUrl": "https://dims.apnews.com/dims4/default/d7953a7/2147483647/strip/true/crop/6263x4173+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe9%2Ff4%2F27b69d7e801eaf5094d31ea80a66%2Ff8acdd66bdac4f22af88c727ef6a9d61"
+        },
+        {
+          "id": "https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e",
+          "publishedOn": "2026-03-11T21:01:42.000Z",
+          "wordCount": 3511,
+          "title": "Meticulous (YC S21) is hiring to redefine software dev",
+          "imageUrl": "https://app.ashbyhq.com/api/images/org-theme-social/d03449d5-6886-4ac8-b07d-309ac2d152f2/21a863a4-46d6-4e90-a765-186f9fec1b8a/62c77fa2-b485-40ac-8124-a2068b53346e.png"
+        },
+        {
+          "id": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+          "publishedOn": "2026-03-11T20:56:52.000Z",
+          "wordCount": 6412,
+          "title": "Many SWE-bench-Passing PRs would not be merged",
+          "imageUrl": "https://metr.org/assets/images/logo/og-image-logo.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/newsguidelines.html#generated",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/newsguidelines.html#generated",
+          "publishedOn": "2026-03-11T19:29:29.000Z",
+          "wordCount": 662,
+          "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.perplexity.ai/personal-computer-waitlist",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.perplexity.ai/personal-computer-waitlist",
+          "publishedOn": "2026-03-11T18:22:21.000Z",
+          "wordCount": null,
+          "title": "Personal Computer by Perplexity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+          "publishedOn": "2026-03-11T18:17:30.000Z",
+          "wordCount": 6834,
+          "title": "I was interviewed by an AI bot for a job",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Artboard-1-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "id": "https://sitespy.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sitespy.app/",
+          "publishedOn": "2026-03-11T16:21:06.000Z",
+          "wordCount": 2655,
+          "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+          "imageUrl": "https://sitespy.app/screenshots/marquee-promo.png?v=2"
+        },
+        {
+          "id": "https://klausai.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://klausai.com/",
+          "publishedOn": "2026-03-11T15:54:23.000Z",
+          "wordCount": 20,
+          "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
+          "imageUrl": "https://klausai.com/og-klaus.png?v=2"
+        },
+        {
+          "id": "https://bloomberg.github.io/js-blog/post/temporal/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bloomberg.github.io/js-blog/post/temporal/",
+          "publishedOn": "2026-03-11T15:35:50.000Z",
+          "wordCount": 4928,
+          "title": "Temporal: The 9-year journey to fix time in JavaScript",
+          "imageUrl": "https://bloomberg.github.io/js-blog/images/javascript-logo.webp"
+        },
+        {
+          "id": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+          "publishedOn": "2026-03-11T14:58:20.000Z",
+          "wordCount": 16143,
+          "title": "Google closes deal to acquire Wiz",
+          "imageUrl": "https://www.datocms-assets.com/75231/1772759788-this-one-3.png?fm=webp"
+        },
+        {
+          "id": "https://doi.org/10.1073/pnas.2420092122",
+          "author": null,
+          "description": "Comments",
+          "link": "https://doi.org/10.1073/pnas.2420092122",
+          "publishedOn": "2026-03-11T13:32:12.000Z",
+          "wordCount": null,
+          "title": "Entities enabling scientific fraud at scale (2025)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
+          "publishedOn": "2026-03-11T12:57:41.000Z",
+          "wordCount": 1185,
+          "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
+          "imageUrl": "https://regmedia.co.uk/2020/02/12/swiss_shutterstock.jpg"
+        },
+        {
+          "id": "https://github.com/microsoft/BitNet",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/microsoft/BitNet",
+          "publishedOn": "2026-03-11T12:27:15.000Z",
+          "wordCount": 5689,
+          "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+          "imageUrl": "https://opengraph.githubassets.com/3d7703b90add8eee10f59a5b3d1e2c80c3164e6ef19f9fe3a9e871e94b75a271/microsoft/BitNet"
+        },
+        {
+          "id": "https://daringfireball.net/2026/03/the_macbook_neo",
+          "author": null,
+          "description": "Comments",
+          "link": "https://daringfireball.net/2026/03/the_macbook_neo",
+          "publishedOn": "2026-03-11T11:37:24.000Z",
+          "wordCount": 3454,
+          "title": "The MacBook Neo",
+          "imageUrl": "https://daringfireball.net/graphics/df-wide-card.png"
+        },
+        {
+          "id": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+          "publishedOn": "2026-03-11T04:44:46.000Z",
+          "wordCount": 3854,
+          "title": "Making WebAssembly a first-class language on the Web",
+          "imageUrl": "https://hacks.mozilla.org/wp-content/themes/Hax/img/hacks-meta-image.jpg"
+        },
+        {
           "id": "https://blog.jsbarretto.com/post/text-editor",
           "author": null,
           "description": "Comments",
@@ -439,6 +669,16 @@
           "wordCount": 840,
           "title": "RISC-V Is Sloooow",
           "imageUrl": "https://marcin.juszkiewicz.com.pl/files/images/hrw-192.jpg"
+        },
+        {
+          "id": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
+          "publishedOn": "2026-03-10T19:59:39.000Z",
+          "wordCount": 3238,
+          "title": "Against vibes: When is a generative model useful",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=47328034",
@@ -589,6 +829,16 @@
           "wordCount": 27615,
           "title": "Yann LeCun raises $1B to build AI that understands the physical world",
           "imageUrl": "https://media.wired.com/photos/69ab547169eb9242c51148d7/191:100/w_1280,c_limit/Yann-LeCun-QA-Business-2198379404.jpg"
+        },
+        {
+          "id": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
+          "publishedOn": "2026-03-10T05:58:56.000Z",
+          "wordCount": 7333,
+          "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
+          "imageUrl": "https://assets.newatlas.com/dims4/default/99fb56b/2147483647/strip/true/crop/1024x538+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2F37%2Ffacdf5694b49bdbaec47d6bb9f29%2Fscreenshot-2025-12-16-at-2-17-29-pm.png&na.image_optimisation=0"
         },
         {
           "id": "https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09",
@@ -941,6 +1191,16 @@
           "imageUrl": "https://agent-safehouse.dev/og-image.png"
         },
         {
+          "id": "https://lamag.com/news/the-end/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lamag.com/news/the-end/",
+          "publishedOn": "2026-03-08T20:01:19.000Z",
+          "wordCount": 11985,
+          "title": "What Happens After You Die? (2016)",
+          "imageUrl": "https://lamag.com/wp-content/uploads/2023/04/theend.jpg"
+        },
+        {
           "id": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
           "author": null,
           "description": "Comments",
@@ -1071,6 +1331,36 @@
           "imageUrl": "https://opengraph.githubassets.com/ff82115c7a3fe62d65888c889028a5fb98c6d4d10866b3ea5d735a97228781fd/gritzko/librdx"
         },
         {
+          "id": "https://kiss-and-solid.com/blog/keep-it-simple",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kiss-and-solid.com/blog/keep-it-simple",
+          "publishedOn": "2026-03-08T12:59:47.000Z",
+          "wordCount": 1153,
+          "title": "Challenging the Single-Responsibility Principle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/",
+          "publishedOn": "2026-03-08T11:59:11.000Z",
+          "wordCount": 5395,
+          "title": "About memory pressure, lock contention, and Data-oriented Design",
+          "imageUrl": "https://mnt.io/image/site-poster.jpg"
+        },
+        {
+          "id": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+          "publishedOn": "2026-03-08T11:44:56.000Z",
+          "wordCount": 8344,
+          "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
+          "imageUrl": "https://goughlui.com/wp-content/uploads/2026/03/ritekw01-dashes.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47296547",
           "author": null,
           "description": "Comments",
@@ -1079,6 +1369,16 @@
           "wordCount": 33070,
           "title": "Ask HN: How to be alone?",
           "imageUrl": null
+        },
+        {
+          "id": "https://poloclub.github.io/cnn-explainer/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://poloclub.github.io/cnn-explainer/",
+          "publishedOn": "2026-03-08T11:22:42.000Z",
+          "wordCount": 33,
+          "title": "CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)",
+          "imageUrl": "https://poloclub.github.io/cnn-explainer/assets/figures/preview.png"
         },
         {
           "id": "https://www.bippy.dev/",
@@ -8579,356 +8879,6 @@
           "wordCount": 4847,
           "title": "The Singularity will occur on a Tuesday",
           "imageUrl": "https://campedersen.com/og/singularity"
-        },
-        {
-          "id": "https://github.com/rowboatlabs/rowboat",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/rowboatlabs/rowboat",
-          "publishedOn": "2026-02-10T16:47:29.000Z",
-          "wordCount": 3545,
-          "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
-          "imageUrl": "https://opengraph.githubassets.com/96aaf7f001abc1033d75f5b79fd68021469a7dcc0c989144c878819b5c6c28dd/rowboatlabs/rowboat"
-        },
-        {
-          "id": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
-          "publishedOn": "2026-02-10T16:36:30.000Z",
-          "wordCount": 17584,
-          "title": "Mathematicians disagree on the essential structure of the complex numbers (2024)",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!LLOP!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfa08af5-c9c1-47dc-b75b-73edff9ba33f_1792x1024.webp"
-        },
-        {
-          "id": "https://rup12.net/posts/can-my-sparc-server-host-my-website/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://rup12.net/posts/can-my-sparc-server-host-my-website/",
-          "publishedOn": "2026-02-10T16:14:56.000Z",
-          "wordCount": 2042,
-          "title": "Can my SPARC server host a website?",
-          "imageUrl": "https://rup12.net//post-content/can-my-sparc-server-host-my-website/sun.jpeg"
-        },
-        {
-          "id": "https://www.ablg.io/blog/competition-is-not-validation",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ablg.io/blog/competition-is-not-validation",
-          "publishedOn": "2026-02-10T16:04:21.000Z",
-          "wordCount": 2601,
-          "title": "Competition is not market validation",
-          "imageUrl": "https://www.ablg.io/og?title=Competition%20is%20not%20market%20validation"
-        },
-        {
-          "id": "https://entire.io/blog/hello-entire-world/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://entire.io/blog/hello-entire-world/",
-          "publishedOn": "2026-02-10T15:44:47.000Z",
-          "wordCount": 7,
-          "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
-          "imageUrl": "https://entire.io/entire-funding-announcement-even-logos.png"
-        },
-        {
-          "id": "https://oxide.computer/blog/our-200m-series-c",
-          "author": null,
-          "description": "Comments",
-          "link": "https://oxide.computer/blog/our-200m-series-c",
-          "publishedOn": "2026-02-10T14:20:49.000Z",
-          "wordCount": 2990,
-          "title": "Oxide raises $200M Series C",
-          "imageUrl": "https://oxide-computer-huctn5h8o-oxidecomputer.vercel.app/img/blog/series-c/series-c-announcement-og-image.png"
-        },
-        {
-          "id": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
-          "publishedOn": "2026-02-10T13:26:14.000Z",
-          "wordCount": 1945,
-          "title": "Simplifying Vulkan one subsystem at a time",
-          "imageUrl": "https://www.khronos.org/assets/uploads/apis/Vulkan-Square.png"
-        },
-        {
-          "id": "https://github.com/distr-sh/distr",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/distr-sh/distr",
-          "publishedOn": "2026-02-10T12:19:23.000Z",
-          "wordCount": 3998,
-          "title": "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
-          "imageUrl": "https://opengraph.githubassets.com/7c1f919cf1238d2f5bbed9f43b6cd7206a8930408e6b6bf701c1dcafc2cbf70b/distr-sh/distr"
-        },
-        {
-          "id": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
-          "publishedOn": "2026-02-10T11:42:14.000Z",
-          "wordCount": 6626,
-          "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
-          "imageUrl": "https://europeanbusinessmagazine.com/wp-content/uploads/2026/02/visa-1024x683.jpg"
-        },
-        {
-          "id": "https://www.feynmanlectures.caltech.edu/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.feynmanlectures.caltech.edu/",
-          "publishedOn": "2026-02-10T11:36:14.000Z",
-          "wordCount": null,
-          "title": "The Feynman Lectures on Physics (1961-1964)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://code.idtech.space/fn/hl2",
-          "author": null,
-          "description": "Comments",
-          "link": "https://code.idtech.space/fn/hl2",
-          "publishedOn": "2026-02-10T11:21:56.000Z",
-          "wordCount": 1155,
-          "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
-          "imageUrl": "https://code.idtech.space/fn/hl2/-/summary-card"
-        },
-        {
-          "id": "https://www.netviews.app/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.netviews.app/",
-          "publishedOn": "2026-02-10T05:20:32.000Z",
-          "wordCount": 433,
-          "title": "Show HN: I built a macOS tool for network engineers – it's called NetViews",
-          "imageUrl": "/og-image.png"
-        },
-        {
-          "id": "https://gradient.horse/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gradient.horse/",
-          "publishedOn": "2026-02-10T04:13:49.000Z",
-          "wordCount": 576,
-          "title": "Gradient.horse",
-          "imageUrl": "https://gradient.horse/meta-image.jpg"
-        },
-        {
-          "id": "https://arxiv.org/abs/2512.20798",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2512.20798",
-          "publishedOn": "2026-02-10T03:17:17.000Z",
-          "wordCount": 799,
-          "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://www.bicameral-ai.com/blog/tech-debt-meeting",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bicameral-ai.com/blog/tech-debt-meeting",
-          "publishedOn": "2026-02-10T03:13:48.000Z",
-          "wordCount": 1679,
-          "title": "Why \"just prompt better\" doesn't work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.wallstreetraider.com/story.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wallstreetraider.com/story.html",
-          "publishedOn": "2026-02-10T02:44:58.000Z",
-          "wordCount": 5032,
-          "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
-          "imageUrl": "images/og-image.jpg"
-        },
-        {
-          "id": "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/",
-          "publishedOn": "2026-02-10T02:36:34.000Z",
-          "wordCount": 4648,
-          "title": "Faster Than Dijkstra?",
-          "imageUrl": "https://i0.wp.com/systemsapproach.org/wp-content/uploads/2026/01/shio-yang-b6i9pe16pAg-unsplash.jpg?fit=1920%2C1280&ssl=1"
-        },
-        {
-          "id": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
-          "publishedOn": "2026-02-10T01:26:42.000Z",
-          "wordCount": 4172,
-          "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
-          "imageUrl": "https://opengraph.githubassets.com/c337eae086c61a339235784f286a95f827153b01a5cf67c71af76650332034d3/TrevorS/voxtral-mini-realtime-rs"
-        },
-        {
-          "id": "https://github.com/antirez/voxtral.c",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/antirez/voxtral.c",
-          "publishedOn": "2026-02-10T01:17:35.000Z",
-          "wordCount": 7418,
-          "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
-          "imageUrl": "https://opengraph.githubassets.com/c0474f153589e3ec3eb7c78c78d7cda9b9f10bfb9dc235351c9f81a4452898c8/antirez/voxtral.c"
-        },
-        {
-          "id": "https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/",
-          "publishedOn": "2026-02-10T00:07:44.000Z",
-          "wordCount": 9854,
-          "title": "What functional programmers get wrong about systems",
-          "imageUrl": "https://iankduncan.com/portrait.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
-          "publishedOn": "2026-02-09T23:31:15.000Z",
-          "wordCount": 4310,
-          "title": "Is particle physics dead, dying, or just hard?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/01/Qualia_ParticlePhysics-crKristinaArmitage-Social.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cddg885344do",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/news/articles/cddg885344do",
-          "publishedOn": "2026-02-09T23:17:42.000Z",
-          "wordCount": 7253,
-          "title": "The shadowy world of abandoned oil tankers",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ad29/live/12236bf0-01ac-11f1-b6ab-2307e83ecd56.jpg"
-        },
-        {
-          "id": "https://www.chainlift.io/liftkit",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.chainlift.io/liftkit",
-          "publishedOn": "2026-02-09T22:01:34.000Z",
-          "wordCount": 2468,
-          "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
-          "imageUrl": "https://cdn.prod.website-files.com/657f62adb6ceeafe578853be/68742fe22c80ea2fc46bf4bd_liftkit%20open%20graph.png"
-        },
-        {
-          "id": "https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides",
-          "author": null,
-          "description": "Comments",
-          "link": "https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides",
-          "publishedOn": "2026-02-09T21:23:27.000Z",
-          "wordCount": null,
-          "title": "A brief history of oral peptides",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.noleary.com/blog/posts/1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.noleary.com/blog/posts/1",
-          "publishedOn": "2026-02-09T20:49:21.000Z",
-          "wordCount": 4022,
-          "title": "America has a tungsten problem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.red5.net/blog/between-video-calling-and-live-streaming-software/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.red5.net/blog/between-video-calling-and-live-streaming-software/",
-          "publishedOn": "2026-02-09T20:41:34.000Z",
-          "wordCount": 8399,
-          "title": "The Blurred Line Between Video Calling and Live Streaming Software",
-          "imageUrl": "https://www.red5.net/wp-content/uploads/2026/02/The-Blurred-Line-Between-Video-Calling-and-Live-Streaming-Software.png"
-        },
-        {
-          "id": "https://blog.prosody.im/2026-letsencrypt-changes/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.prosody.im/2026-letsencrypt-changes/",
-          "publishedOn": "2026-02-09T20:31:44.000Z",
-          "wordCount": 1015,
-          "title": "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
-          "imageUrl": "https://prosody.im/prosody.svg"
-        },
-        {
-          "id": "https://daeus.blog/2026/01/18/game-theory-patterns-at-work/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://daeus.blog/2026/01/18/game-theory-patterns-at-work/",
-          "publishedOn": "2026-02-09T20:30:10.000Z",
-          "wordCount": 5930,
-          "title": "Game Theory Patterns at Work (2016)",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
-        },
-        {
-          "id": "https://ntietz.com/blog/using-an-engineering-notebook/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ntietz.com/blog/using-an-engineering-notebook/",
-          "publishedOn": "2026-02-09T19:29:53.000Z",
-          "wordCount": 1031,
-          "title": "Using an engineering notebook",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ferrari.com/en-US/auto/ferrari-luce",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ferrari.com/en-US/auto/ferrari-luce",
-          "publishedOn": "2026-02-09T19:19:30.000Z",
-          "wordCount": null,
-          "title": "Luce: First Electric Ferrari",
-          "imageUrl": null
-        },
-        {
-          "id": "https://taggart-tech.com/discord-alternatives/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://taggart-tech.com/discord-alternatives/",
-          "publishedOn": "2026-02-09T19:15:14.000Z",
-          "wordCount": 3830,
-          "title": "Discord Alternatives, Ranked",
-          "imageUrl": "https://taggart-tech.com/discord-meme.png"
-        },
-        {
-          "id": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
-          "publishedOn": "2026-02-09T19:07:25.000Z",
-          "wordCount": 5731,
-          "title": "Another GitHub outage in the same day",
-          "imageUrl": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png"
-        },
-        {
-          "id": "https://www.omnara.com/blog/what-is-an-async-agent-really",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.omnara.com/blog/what-is-an-async-agent-really",
-          "publishedOn": "2026-02-09T18:01:44.000Z",
-          "wordCount": 127,
-          "title": "Everyone’s building “async agents,” but almost no one can define them",
-          "imageUrl": "https://www.omnara.com/og-image.jpg"
-        },
-        {
-          "id": "https://jsgroth.dev/blog/posts/gba-audio-interpolation/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jsgroth.dev/blog/posts/gba-audio-interpolation/",
-          "publishedOn": "2026-02-09T17:44:10.000Z",
-          "wordCount": 2586,
-          "title": "Game Boy Advance Audio Interpolation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
-          "publishedOn": "2026-02-09T17:09:37.000Z",
-          "wordCount": 1770,
-          "title": "Hard-braking events as indicators of road segment crash risk",
-          "imageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg"
         }
       ]
     },
@@ -8994,6 +8944,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/mind/2026/what-is-wisdom-can-it-be-taught",
+          "author": "Emily Laber-Warren",
+          "description": "Scientists are trying to name the qualities that make someone wise and figure out how to cultivate them",
+          "link": "https://knowablemagazine.org/content/article/mind/2026/what-is-wisdom-can-it-be-taught",
+          "publishedOn": "2026-03-11T00:00:11.000Z",
+          "wordCount": null,
+          "title": "What is wisdom, and can it be taught?",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/learning-wisdom-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/learning-wisdom-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass",
           "author": "Nicola Jones",
@@ -9308,21 +9273,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/slime-molds-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/physical-world/2026/case-against-zanclean-megaflood-filling-mediterranean",
-          "author": "Dana Mackenzie",
-          "description": "Researchers have long believed that a sudden, massive deluge filled a dry, salt-filled Mediterranean some 5 million years ago. Turns out that probably didn't happen, but there was still drama aplenty.",
-          "link": "https://knowablemagazine.org/content/article/physical-world/2026/case-against-zanclean-megaflood-filling-mediterranean",
-          "publishedOn": "2026-02-10T05:11:41.498Z",
-          "wordCount": null,
-          "title": "The cataclysmic flood that wasn’t",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/ancient-mediterranean-sea-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/ancient-mediterranean-sea-500x288.jpg"
         }
       ]
     },
@@ -9386,6 +9336,16 @@
           "publishedOn": "2026-03-11T02:38:24.000Z",
           "wordCount": 12314,
           "title": "Expanding Chrome’s AI experiences to India, New Zealand and Canada - blog.google",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwFBVV95cUxNQjJuQi1MYTBoWHpPNFpPVUQ0cEcteWh1OU5WOW5xTjlIVzRyUnZ4YTU4SmFXNkxNUWJmQWc2WGpRMjQwbHlqQkpIeHRwNmJpVWx3Yy1uWnVMYzhITjJoVnN3SmlndmpvRHM5WmZ6OTJsTDh4QXFrWU5zdXQ3WHZMNzA1VWhjdzZrMHQ0LTlpTjBNcmdlM0NicTJPVkt1NkU",
+          "author": null,
+          "description": "New ways to create faster with Gemini in Docs, Sheets, Slides and Drive  blog.google",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjJuQi1MYTBoWHpPNFpPVUQ0cEcteWh1OU5WOW5xTjlIVzRyUnZ4YTU4SmFXNkxNUWJmQWc2WGpRMjQwbHlqQkpIeHRwNmJpVWx3Yy1uWnVMYzhITjJoVnN3SmlndmpvRHM5WmZ6OTJsTDh4QXFrWU5zdXQ3WHZMNzA1VWhjdzZrMHQ0LTlpTjBNcmdlM0NicTJPVkt1NkU?oc=5",
+          "publishedOn": "2026-03-10T13:12:21.000Z",
+          "wordCount": 12314,
+          "title": "New ways to create faster with Gemini in Docs, Sheets, Slides and Drive - blog.google",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
