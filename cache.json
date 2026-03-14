@@ -175,21 +175,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/wi5.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391879",
-          "author": "Temani Afif",
-          "description": "This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.\nMaking a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/",
-          "publishedOn": "2026-02-12T14:57:36.000Z",
-          "wordCount": 3663,
-          "title": "Making a Responsive Pyramidal Grid With Modern CSS",
-          "enclosure": {
-            "url": "http://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-8.44.39-AM.mov",
-            "length": "0",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/Artboard.webp"
         }
       ]
     },
@@ -198,6 +183,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
+          "author": "hello@smashingmagazine.com (Joe Attardi)",
+          "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
+          "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
+          "publishedOn": "2026-03-13T13:00:00.000Z",
+          "wordCount": 6373,
+          "title": "Moving From Moment.js To The JS Temporal API",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
           "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
@@ -370,6 +370,226 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://cra.mr/optimizing-content-for-agents/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cra.mr/optimizing-content-for-agents/",
+          "publishedOn": "2026-03-14T02:27:00.000Z",
+          "wordCount": 965,
+          "title": "Optimizing Content for Agents",
+          "imageUrl": "https://cra.mr/ai-content/optimizing-content-for-agents.png"
+        },
+        {
+          "id": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+          "publishedOn": "2026-03-14T01:19:18.000Z",
+          "wordCount": null,
+          "title": "An investigation of the forces behind the age-verification bills",
+          "imageUrl": null
+        },
+        {
+          "id": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
+          "publishedOn": "2026-03-14T00:29:50.000Z",
+          "wordCount": 4488,
+          "title": "Our Experience with I-Ready",
+          "imageUrl": "https://i0.wp.com/moultano.wordpress.com/wp-content/uploads/2026/03/childs_hand_on_trackpad-1.jpg?fit=1200%2C706&ssl=1"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cge84xqjg5lo",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/articles/cge84xqjg5lo",
+          "publishedOn": "2026-03-14T00:02:37.000Z",
+          "wordCount": 5808,
+          "title": "Games with loot boxes to get minimum 16 age rating across Europe",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/be71/live/dfa35450-1ed0-11f1-b8f6-b15aa2adfcf4.jpg"
+        },
+        {
+          "id": "https://lr0.org/blog/p/crocker/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lr0.org/blog/p/crocker/",
+          "publishedOn": "2026-03-13T23:14:37.000Z",
+          "wordCount": 1283,
+          "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
+          "imageUrl": null
+        },
+        {
+          "id": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+          "author": null,
+          "description": "Comments",
+          "link": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+          "publishedOn": "2026-03-13T22:52:05.000Z",
+          "wordCount": 1791,
+          "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
+          "imageUrl": "https://benzimmermann.dev/images/blog/docsearch-admin-keys-cover.png"
+        },
+        {
+          "id": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
+          "publishedOn": "2026-03-13T19:15:06.000Z",
+          "wordCount": null,
+          "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/TomBadash/MouseControl",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/TomBadash/MouseControl",
+          "publishedOn": "2026-03-13T18:42:54.000Z",
+          "wordCount": 8918,
+          "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+          "imageUrl": "https://opengraph.githubassets.com/802237b08b1672fc0365bed36d2105e5711f98fe5bf7d5458d8d9887b2ac7da2/TomBadash/MouseControl"
+        },
+        {
+          "id": "https://github.com/Hammerspoon/hammerspoon",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Hammerspoon/hammerspoon",
+          "publishedOn": "2026-03-13T18:34:12.000Z",
+          "wordCount": 2004,
+          "title": "Hammerspoon",
+          "imageUrl": "https://opengraph.githubassets.com/cf29738490bd115702e10ca2008546b236a9307861f350de8002f00a69bfe4f8/Hammerspoon/hammerspoon"
+        },
+        {
+          "id": "https://medhir.com/blog/your-phone-is-an-entire-computer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medhir.com/blog/your-phone-is-an-entire-computer",
+          "publishedOn": "2026-03-13T18:02:32.000Z",
+          "wordCount": 3011,
+          "title": "Your phone is an entire computer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Compresr-ai/Context-Gateway",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Compresr-ai/Context-Gateway",
+          "publishedOn": "2026-03-13T17:58:22.000Z",
+          "wordCount": 1420,
+          "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
+          "imageUrl": "https://opengraph.githubassets.com/6336cfb971e4bd2a8e52d41d28769ff4daa93a4f47171aec53b7aa6dcf2b4be3/Compresr-ai/Context-Gateway"
+        },
+        {
+          "id": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
+          "publishedOn": "2026-03-13T17:51:34.000Z",
+          "wordCount": 719,
+          "title": "John Carmack about open source and anti-AI activists",
+          "imageUrl": null
+        },
+        {
+          "id": "https://claude.com/blog/1m-context-ga",
+          "author": null,
+          "description": "Comments",
+          "link": "https://claude.com/blog/1m-context-ga",
+          "publishedOn": "2026-03-13T17:19:01.000Z",
+          "wordCount": 14179,
+          "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
+          "publishedOn": "2026-03-13T16:40:42.000Z",
+          "wordCount": null,
+          "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
+          "publishedOn": "2026-03-13T16:13:30.000Z",
+          "wordCount": 4005,
+          "title": "The Wyden Siren Goes Off Again: We'll Be \"Stunned\" by NSA Under Section 702",
+          "imageUrl": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png"
+        },
+        {
+          "id": "https://www.runcaptain.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.runcaptain.com/",
+          "publishedOn": "2026-03-13T15:45:33.000Z",
+          "wordCount": 401,
+          "title": "Launch HN: Captain (YC W26) – Automated RAG for Files",
+          "imageUrl": "https://hn.runcaptain.com/opengraph.jpg"
+        },
+        {
+          "id": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
+          "publishedOn": "2026-03-13T14:11:36.000Z",
+          "wordCount": 2646,
+          "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
+          "imageUrl": "https://images.macrumors.com/t/eUtUULFLe-rs76M241emfNWEyQ4=/2500x/article-new/2026/03/MacBook-Neo-Feature-Pastel-1.jpg"
+        },
+        {
+          "id": "https://www.getspine.ai/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.getspine.ai/",
+          "publishedOn": "2026-03-13T13:22:40.000Z",
+          "wordCount": 11,
+          "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
+          "imageUrl": "https://getspine.ai/WebsitePreview.jpg"
+        },
+        {
+          "id": "https://www.canirun.ai/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.canirun.ai/",
+          "publishedOn": "2026-03-13T12:46:10.000Z",
+          "wordCount": 10767,
+          "title": "Can I run AI locally?",
+          "imageUrl": "https://canirun.ai/og/home.png"
+        },
+        {
+          "id": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+          "publishedOn": "2026-03-13T12:31:09.000Z",
+          "wordCount": null,
+          "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
+          "publishedOn": "2026-03-13T09:45:30.000Z",
+          "wordCount": 8009,
+          "title": "Source code of Swedish e-government services has been leaked",
+          "imageUrl": "https://darkwebinformer.com/content/images/2026/03/35216424822626571062.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o",
+          "publishedOn": "2026-03-13T05:18:01.000Z",
+          "wordCount": 9466,
+          "title": "Lost Doctor Who episodes found",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61f9/live/601b9ce0-1e2d-11f1-801d-ed3cff6bf876.jpg"
+        },
         {
           "id": "https://vite.dev/blog/announcing-vite8",
           "author": null,
@@ -601,6 +821,16 @@
           "imageUrl": "https://duckdb.org/images/blog/thumbs/macbook-neo.jpg"
         },
         {
+          "id": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share",
+          "publishedOn": "2026-03-12T10:29:45.000Z",
+          "wordCount": null,
+          "title": "Coding after coders: The end of computer programming as we know it?",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/@brightcarvings/celebrating-flickr-technology-3c93c8ddecc2",
           "author": null,
           "description": "Comments",
@@ -721,6 +951,16 @@
           "imageUrl": "https://metr.org/assets/images/logo/og-image-logo.png"
         },
         {
+          "id": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
+          "publishedOn": "2026-03-11T20:46:24.000Z",
+          "wordCount": 1689,
+          "title": "New 'negative light' technology hides data transfers in plain sight",
+          "imageUrl": "https://www.unsw.edu.au/content/dam/images/unsw-wide/general/stock/2025-09-negativelighthiddendata/AdobeStock_740077611.cropimg.width=700.crop=landscape.jpeg"
+        },
+        {
           "id": "https://news.ycombinator.com/newsguidelines.html#generated",
           "author": null,
           "description": "Comments",
@@ -789,6 +1029,16 @@
           "wordCount": 16143,
           "title": "Google closes deal to acquire Wiz",
           "imageUrl": "https://www.datocms-assets.com/75231/1772759788-this-one-3.png?fm=webp"
+        },
+        {
+          "id": "https://channelsurfer.tv/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://channelsurfer.tv/",
+          "publishedOn": "2026-03-11T14:34:57.000Z",
+          "wordCount": 187,
+          "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+          "imageUrl": "https://channelsurfer.tv/og-image.png"
         },
         {
           "id": "https://doi.org/10.1073/pnas.2420092122",
@@ -1061,6 +1311,16 @@
           "imageUrl": "https://media.wired.com/photos/69ab547169eb9242c51148d7/191:100/w_1280,c_limit/Yann-LeCun-QA-Business-2198379404.jpg"
         },
         {
+          "id": "https://rubenerd.com/using-thunderbird-for-rss/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rubenerd.com/using-thunderbird-for-rss/",
+          "publishedOn": "2026-03-10T07:38:59.000Z",
+          "wordCount": 368,
+          "title": "Using Thunderbird for RSS",
+          "imageUrl": "https://rubenerd.com/preview.png"
+        },
+        {
           "id": "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/",
           "author": null,
           "description": "Comments",
@@ -1079,6 +1339,16 @@
           "wordCount": 7333,
           "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
           "imageUrl": "https://assets.newatlas.com/dims4/default/99fb56b/2147483647/strip/true/crop/1024x538+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2F37%2Ffacdf5694b49bdbaec47d6bb9f29%2Fscreenshot-2025-12-16-at-2-17-29-pm.png&na.image_optimisation=0"
+        },
+        {
+          "id": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+          "publishedOn": "2026-03-10T04:21:32.000Z",
+          "wordCount": 3273,
+          "title": "Emacs and Vim in the Age of AI",
+          "imageUrl": "https://batsov.com/assets/img/og-image.png"
         },
         {
           "id": "https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09",
@@ -1109,6 +1379,16 @@
           "wordCount": 3092,
           "title": "Learnings from paying artists royalties for AI-generated art",
           "imageUrl": "https://www.kapwing.com/blog/content/images/2026/03/A_brunette_woman_in_a_red_top_in_front_of_a_white_wall_1_V4-1.png"
+        },
+        {
+          "id": "http://karpathy.github.io/2016/09/07/phd/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://karpathy.github.io/2016/09/07/phd/",
+          "publishedOn": "2026-03-10T02:16:51.000Z",
+          "wordCount": 8409,
+          "title": "A Survival Guide to a PhD (2016)",
+          "imageUrl": null
         },
         {
           "id": "https://scottaaronson.blog/?p=9615",
@@ -1149,6 +1429,16 @@
           "wordCount": 1589,
           "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
           "imageUrl": "https://martinalderson.com/img/og/no-it-doesn-t-cost-anthropic-5k-per-claude-code-user.png"
+        },
+        {
+          "id": "https://underjord.io/shipping-grayscale-photos-at-small-scale.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://underjord.io/shipping-grayscale-photos-at-small-scale.html",
+          "publishedOn": "2026-03-09T22:29:57.000Z",
+          "wordCount": 1219,
+          "title": "Shipping Grayscale Photos at Small Scale",
+          "imageUrl": "https://underjord.io/img/preview.png"
         },
         {
           "id": "https://arcanenibble.github.io/so-you-want-to-write-an-app.html",
@@ -8659,286 +8949,6 @@
           "wordCount": 7987,
           "title": "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-          "publishedOn": "2026-02-12T16:55:50.000Z",
-          "wordCount": 4569,
-          "title": "Gemini 3 Deep Think",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_deep-think_meta_dark_Fm70Cou.width-1300.png"
-        },
-        {
-          "id": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-          "publishedOn": "2026-02-12T16:23:24.000Z",
-          "wordCount": null,
-          "title": "An AI agent published a hit piece on me",
-          "imageUrl": null
-        },
-        {
-          "id": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
-          "author": null,
-          "description": "Comments",
-          "link": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
-          "publishedOn": "2026-02-12T16:10:29.000Z",
-          "wordCount": 1476,
-          "title": "Beginning fully autonomous operations with the 6th-generation Waymo driver",
-          "imageUrl": "https://images.ctfassets.net/7ijaobx36mtm/2vy2r8uqvrtF80vIo4aDQK/49a4410ba259e0dfb248870e6c30ea78/Waymo_6th_Gen_Hero.png"
-        },
-        {
-          "id": "https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/",
-          "publishedOn": "2026-02-12T14:56:18.000Z",
-          "wordCount": 4845,
-          "title": "A brief history of barbed wire fence telephone networks (2024)",
-          "imageUrl": "https://i0.wp.com/loriemerson.net/wp-content/uploads/2024/08/img_2201.jpg?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://atha.io/blog/2026-02-12-viva",
-          "author": null,
-          "description": "Comments",
-          "link": "https://atha.io/blog/2026-02-12-viva",
-          "publishedOn": "2026-02-12T14:24:15.000Z",
-          "wordCount": 17175,
-          "title": "Major European payment processor can't send email to Google Workspace users",
-          "imageUrl": "https://atha.io/static/images/twitter-card.png"
-        },
-        {
-          "id": "http://blog.can.ac/2026/02/12/the-harness-problem/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://blog.can.ac/2026/02/12/the-harness-problem/",
-          "publishedOn": "2026-02-12T13:30:20.000Z",
-          "wordCount": 1628,
-          "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
-          "imageUrl": "https://blog.can.ac/2026/02/12/the-harness-problem/og.png"
-        },
-        {
-          "id": "https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/",
-          "publishedOn": "2026-02-12T13:13:30.000Z",
-          "wordCount": 2378,
-          "title": "Apache Arrow is 10 years old",
-          "imageUrl": "https://arrow.apache.org/img/arrow-logo_horizontal_black-txt_white-bg.png"
-        },
-        {
-          "id": "https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/",
-          "publishedOn": "2026-02-12T12:23:05.000Z",
-          "wordCount": null,
-          "title": "The \"Crown of Nobles\" Noble Gas Tube Display (2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
-          "publishedOn": "2026-02-12T02:03:33.000Z",
-          "wordCount": 2821,
-          "title": "The Problem with LLMs",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.lisp-screenshots.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.lisp-screenshots.org/",
-          "publishedOn": "2026-02-12T01:44:35.000Z",
-          "wordCount": 8,
-          "title": "Common Lisp Screenshots: today's CL applications in action",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead",
-          "publishedOn": "2026-02-12T00:20:30.000Z",
-          "wordCount": 3794,
-          "title": "Heroku is not dead",
-          "imageUrl": "http://static1.squarespace.com/static/56612050e4b0ae1476ab78f9/t/69884a2030fe4914708bbcbb/1770539552951/Screenshot+2026-02-08+at+00.32.20.png?format=1500w"
-        },
-        {
-          "id": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
-          "publishedOn": "2026-02-11T23:54:59.000Z",
-          "wordCount": 1454,
-          "title": "From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0",
-          "imageUrl": "https://hologram.page/images/og/blog/porting-initiative-delivers-hologram-v0-7-0-47ed5fc67d8d5349b19eb04272961f6c.jpg"
-        },
-        {
-          "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
-          "author": null,
-          "description": "Comments",
-          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
-          "publishedOn": "2026-02-11T23:37:11.000Z",
-          "wordCount": null,
-          "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.poetryfoundation.org/articles/1769037/language-a-wood-for-thought",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.poetryfoundation.org/articles/1769037/language-a-wood-for-thought",
-          "publishedOn": "2026-02-11T23:07:10.000Z",
-          "wordCount": null,
-          "title": "Language a Wood for Thought: Susan Howe's Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://age-verifier.kibty.town/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://age-verifier.kibty.town/",
-          "publishedOn": "2026-02-11T22:56:41.000Z",
-          "wordCount": 774,
-          "title": "Discord/Twitch/Snapchat age verification bypass",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.anthropic.com/news/covering-electricity-price-increases",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.anthropic.com/news/covering-electricity-price-increases",
-          "publishedOn": "2026-02-11T21:12:59.000Z",
-          "wordCount": 1558,
-          "title": "Covering electricity price increases from our data centers",
-          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadBolt&backgroundColor=cactus"
-        },
-        {
-          "id": "https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/",
-          "publishedOn": "2026-02-11T21:03:58.000Z",
-          "wordCount": 1822,
-          "title": "Transforming a Clojure Database into a Library with GraalVM Native Image and FFI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
-          "publishedOn": "2026-02-11T20:20:48.000Z",
-          "wordCount": 1769,
-          "title": "Reports of Telnet's death have been greatly exaggerated",
-          "imageUrl": "http://static1.squarespace.com/static/68753b4b6af18340a5cecce3/t/698cdbae9e200c2530587627/1770838963696/telnet_heatmap.png?format=1500w"
-        },
-        {
-          "id": "https://agentalcove.ai/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://agentalcove.ai/",
-          "publishedOn": "2026-02-11T20:15:21.000Z",
-          "wordCount": 3810,
-          "title": "Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums",
-          "imageUrl": "https://agentalcove.ai/opengraph-image?d3fa9b7dcc5eb5a"
-        },
-        {
-          "id": "https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27",
-          "publishedOn": "2026-02-11T19:59:17.000Z",
-          "wordCount": null,
-          "title": "Apple's latest attempt to launch the new Siri runs into snags",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
-          "publishedOn": "2026-02-11T19:50:43.000Z",
-          "wordCount": 7487,
-          "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/adenhq/hive/blob/main/README.md",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/adenhq/hive/blob/main/README.md",
-          "publishedOn": "2026-02-11T19:39:43.000Z",
-          "wordCount": 6260,
-          "title": "Show HN: Agent framework that generates its own topology and evolves at runtime",
-          "imageUrl": "https://opengraph.githubassets.com/5967698d2a8054d974d8e2bd1d3db668820f92b5eef48fd9ab5aeb79e7547b37/adenhq/hive"
-        },
-        {
-          "id": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-          "publishedOn": "2026-02-11T18:43:01.000Z",
-          "wordCount": 11050,
-          "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-        },
-        {
-          "id": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-          "publishedOn": "2026-02-11T18:23:39.000Z",
-          "wordCount": 1042,
-          "title": "Claude Code is being dumbed down?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
-          "publishedOn": "2026-02-11T18:06:11.000Z",
-          "wordCount": 295,
-          "title": "NetNewsWire Turns 23",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/crux-ecosystem/mol-lang",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/crux-ecosystem/mol-lang",
-          "publishedOn": "2026-02-11T17:31:48.000Z",
-          "wordCount": 12815,
-          "title": "Show HN: MOL – A programming language where pipelines trace themselves",
-          "imageUrl": "https://opengraph.githubassets.com/401c508a26596d12218dd1ba3f4d45e3218971daeee028049f3b71741694d9f4/crux-ecosystem/mol-lang"
-        },
-        {
-          "id": "https://sometimes.digital/posts/the-perfect-device/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sometimes.digital/posts/the-perfect-device/",
-          "publishedOn": "2026-02-11T17:17:35.000Z",
-          "wordCount": 1733,
-          "title": "The Perfect Device",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology",
-          "publishedOn": "2026-02-11T17:13:17.000Z",
-          "wordCount": 11242,
-          "title": "I Love Board Games: A Personal Obsession Explained by Psychology",
-          "imageUrl": "https://static.wixstatic.com/media/4ad342_1d8729bf0473401c877e4093bef3fa27~mv2.jpg/v1/fill/w_1000,h_562,al_c,q_85,usm_0.66_1.00_0.01/4ad342_1d8729bf0473401c877e4093bef3fa27~mv2.jpg"
         }
       ]
     },
@@ -9318,21 +9328,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/aedes-aegypti-mosquito-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/living-world/2026/learning-memory-learning-physarum-polycephalum-slime-mold",
-          "author": "Tim Vernimmen",
-          "description": "In its quest to feed, avoid nasty substances and just generally live its life, the brainless, one-celled Physarum polycephalum performs some impressive tricks of learning and memory",
-          "link": "https://knowablemagazine.org/content/article/living-world/2026/learning-memory-learning-physarum-polycephalum-slime-mold",
-          "publishedOn": "2026-02-12T05:08:22.581Z",
-          "wordCount": null,
-          "title": "The curious life of a clever slime mold",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/slime-molds-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/slime-molds-500x288.jpg"
         }
       ]
     },
@@ -9388,6 +9383,16 @@
       "feedUrl": "http://news.google.com/news?hl=en&output=rss&q=Google+NZ+blog&cf=all&num=30",
       "siteUrl": "https://news.google.com/search?hl=en-US&q=Google+NZ+blog&cf=all&num=30&gl=US&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMikAFBVV95cUxNN2xXRXdGRzdaU1d5cm1nZWFIeWlDN0Rna3dnbmtHZXNyMEZmVzRobVU4ZW9EU1VtaGctakFWQnJ1VnUxZ05Pdkh4dUwzWkdEQnlDY1Z6OTJ2dzJ0bGpQTU81Ri1OV1puTHc5Y3ByTWRIdEJMSXpkY01zOGtlSGkxLXcwSnZkUlZtbGpqNW0tM0s",
+          "author": null,
+          "description": "How we’re reimagining Maps with Gemini  blog.google",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xXRXdGRzdaU1d5cm1nZWFIeWlDN0Rna3dnbmtHZXNyMEZmVzRobVU4ZW9EU1VtaGctakFWQnJ1VnUxZ05Pdkh4dUwzWkdEQnlDY1Z6OTJ2dzJ0bGpQTU81Ri1OV1puTHc5Y3ByTWRIdEJMSXpkY01zOGtlSGkxLXcwSnZkUlZtbGpqNW0tM0s?oc=5",
+          "publishedOn": "2026-03-12T12:44:50.000Z",
+          "wordCount": 7543,
+          "title": "How we’re reimagining Maps with Gemini - blog.google",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMioAFBVV95cUxNYTNCVUtlSjB1UEZIb2xycTJnMXhYdHFLQncyN2RSODR1X0xGMDFGa0k3XzU3MDc4dmkwZlo2UU1JaHBfS19WVXM2SmZvWmNlTkZCSFUtYWNBQ2c5cWFQOENfUEZZZXVQWWVBMXhsUjNQYjBubHExZ25uT2tsblRXZHFaMFNUaDRKcFFhU1VSdFJ2TDNoNW0waGJvOUFmM3RH",
           "author": null,
