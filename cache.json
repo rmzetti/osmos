@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392714",
+          "author": "Mat Marquis",
+          "description": "Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken specifically from a chapter all about JavaScript destructuring. \nJavaScript for Everyone: Destructuring originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/javascript-for-everyone-destructuring/",
+          "publishedOn": "2026-03-19T13:06:30.000Z",
+          "wordCount": 5744,
+          "title": "JavaScript for Everyone: Destructuring",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/javascript-for-everyone-scaled.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=393021",
           "author": "Daniel Schwarz",
           "description": "For this issue of What’s !important, we have a healthy balance of old CSS that you might’ve missed and new CSS that you don’t want to miss. This includes random(), random-item(), folded corners using clip-path, backdrop-filter, font-variant-numeric: tabular-nums, the Popover API, anchored container queries, anchor positioning in general, DOOM in CSS, the customizable select element, :open, scroll-triggered animations, the toolbar element, and somehow, more.\nWhat’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -145,16 +155,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/pointer-click.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390460",
-          "author": "Zell Liew",
-          "description": "The distinction between \"components\" and \"utilities\" seems clear at first glance, but gets a little blurred when working with them in Tailwind.\nDistinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/",
-          "publishedOn": "2026-02-18T16:21:41.000Z",
-          "wordCount": 1612,
-          "title": "Distinguishing “Components” and “Utilities” in Tailwind",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/tailwind-paint.jpg"
         }
       ]
     },
@@ -163,6 +163,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
+          "author": "hello@smashingmagazine.com (Godstime Aburu)",
+          "description": "Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the container’s edge. Godstime Aburu explains why this happens and offers practical solutions to fix it.",
+          "link": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
+          "publishedOn": "2026-03-20T13:00:00.000Z",
+          "wordCount": 5124,
+          "title": "Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/dropdowns-scrollable-containers-why-break-how-fix/dropdowns-scrollable-containers-why-break-how-fix.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/dropdowns-scrollable-containers-why-break-how-fix/dropdowns-scrollable-containers-why-break-how-fix.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -351,6 +366,186 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://blogs.igalia.com/llepage/ffmpeg-101/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blogs.igalia.com/llepage/ffmpeg-101/",
+          "publishedOn": "2026-03-21T02:47:13.000Z",
+          "wordCount": 2963,
+          "title": "FFmpeg 101 (2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.purl.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.purl.dev/",
+          "publishedOn": "2026-03-21T02:09:08.000Z",
+          "wordCount": 230,
+          "title": "purl: a curl-esque CLI for making HTTP requests that require payment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tracesofevil.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tracesofevil.com/",
+          "publishedOn": "2026-03-21T00:54:27.000Z",
+          "wordCount": 26200,
+          "title": "Traces of Evil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+          "publishedOn": "2026-03-20T23:57:22.000Z",
+          "wordCount": 655,
+          "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+          "imageUrl": "https://opengraph.githubassets.com/215dbf477b07d6af7f24e728b4d20d77a3b9b070f54d312ec1e7715d27109d97/arnoldrobbins/LinuxByExample-2e"
+        },
+        {
+          "id": "https://github.com/RedGridTactical/RedGridLink",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/RedGridTactical/RedGridLink",
+          "publishedOn": "2026-03-20T22:25:51.000Z",
+          "wordCount": 5274,
+          "title": "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
+          "imageUrl": "https://opengraph.githubassets.com/12ba326029a58db14a3e54dfb3868666f7aa7b323b0b031b14e2ac0675c7d10c/RedGridTactical/RedGridLink"
+        },
+        {
+          "id": "https://github.com/ghostty-org/ghostling",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ghostty-org/ghostling",
+          "publishedOn": "2026-03-20T22:11:37.000Z",
+          "wordCount": 3574,
+          "title": "Ghostling",
+          "imageUrl": "https://opengraph.githubassets.com/3f49582a1452926d56385ee3b2098bd1cd5a090c796a4ae18f856e7eb1634303/ghostty-org/ghostling"
+        },
+        {
+          "id": "https://github.com/FormerLab/fortransky",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/FormerLab/fortransky",
+          "publishedOn": "2026-03-20T22:06:51.000Z",
+          "wordCount": 3951,
+          "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
+          "imageUrl": "https://opengraph.githubassets.com/7f49a78068e5ccc9d31b05e1da25d2a2f4f4b5bf788b422a44d966d601d351f6/FormerLab/fortransky"
+        },
+        {
+          "id": "https://www.openui.com/blog/rust-wasm-parser",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.openui.com/blog/rust-wasm-parser",
+          "publishedOn": "2026-03-20T21:48:06.000Z",
+          "wordCount": 3785,
+          "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+          "imageUrl": "https://www.openui.com/meta-image.png"
+        },
+        {
+          "id": "https://github.com/FormerLab/shadow-fleet-tracker-light",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/FormerLab/shadow-fleet-tracker-light",
+          "publishedOn": "2026-03-20T21:04:11.000Z",
+          "wordCount": 7450,
+          "title": "Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts",
+          "imageUrl": "https://opengraph.githubassets.com/08915a46bbd26012958839da481bc5d542a17c8b868151271b8bebab36e2c491/FormerLab/shadow-fleet-tracker-light"
+        },
+        {
+          "id": "https://opencode.ai/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://opencode.ai/",
+          "publishedOn": "2026-03-20T21:03:52.000Z",
+          "wordCount": 820,
+          "title": "OpenCode – Open source AI coding agent",
+          "imageUrl": "/social-share.png"
+        },
+        {
+          "id": "https://www.nippon.com/en/japan-data/h01362/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nippon.com/en/japan-data/h01362/",
+          "publishedOn": "2026-03-20T20:54:57.000Z",
+          "wordCount": 986,
+          "title": "A Japanese glossary of chopsticks faux pas",
+          "imageUrl": "https://www.nippon.com/en/ncommon/contents/japan-data/1854990/1854990.jpg"
+        },
+        {
+          "id": "https://ashvardanian.com/posts/numkong/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ashvardanian.com/posts/numkong/",
+          "publishedOn": "2026-03-20T19:29:39.000Z",
+          "wordCount": 12138,
+          "title": "NumKong: 2'000 Mixed Precision Kernels for All",
+          "imageUrl": "https://ashvardanian.com/numkong/NumKong-v7.jpg"
+        },
+        {
+          "id": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+          "publishedOn": "2026-03-20T19:16:13.000Z",
+          "wordCount": 3387,
+          "title": "Our commitment to Windows quality",
+          "imageUrl": "https://winblogs.thesourcemediaassets.com/sites/44/2026/03/WIP-Email_Option-2.png"
+        },
+        {
+          "id": "https://github.com/MoonshotAI/Attention-Residuals",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/MoonshotAI/Attention-Residuals",
+          "publishedOn": "2026-03-20T18:23:41.000Z",
+          "wordCount": 3284,
+          "title": "Attention Residuals",
+          "imageUrl": "https://opengraph.githubassets.com/cc0b1b9a7acd3273546c1cb4688970c9a82810ad5418191e484e103315346606/MoonshotAI/Attention-Residuals"
+        },
+        {
+          "id": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
+          "publishedOn": "2026-03-20T14:33:41.000Z",
+          "wordCount": 3151,
+          "title": "Molly Guard",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqhXfvdwH2Q3dUIS7ROPd_lvD6QWAw7IyPG6eyedf1djSS70b4Yj0RttWd7N47XIqEILZn0bW_-6LM9znuOTg3dOzBiZNRZGJi7Dq7nxqhUqJ6GB3qnw61-YnNiWatuUZunfdjUV5o42uXNV9XcaqCiU9YO2Dslf_R_Tpg-k2sQxNzSwSOI1elNe0iPfdP/w1200-h630-p-k-no-nu/Screenshot%202026-02-16%20at%2011.32.51%E2%80%AFAM.png"
+        },
+        {
+          "id": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+          "publishedOn": "2026-03-20T13:01:56.000Z",
+          "wordCount": null,
+          "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
+          "publishedOn": "2026-03-20T11:03:27.000Z",
+          "wordCount": null,
+          "title": "Entso-E final report on Iberian 2025 blackout",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+          "publishedOn": "2026-03-20T04:24:11.000Z",
+          "wordCount": null,
+          "title": "ArXiv declares independence from Cornell",
+          "imageUrl": null
+        },
+        {
           "id": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
           "author": null,
           "description": "Comments",
@@ -458,6 +653,16 @@
           "publishedOn": "2026-03-19T19:18:25.000Z",
           "wordCount": 5046,
           "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
+          "author": null,
+          "description": "Comments",
+          "link": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
+          "publishedOn": "2026-03-19T19:08:02.000Z",
+          "wordCount": null,
+          "title": "Delve – Fake Compliance as a Service",
           "imageUrl": null
         },
         {
@@ -571,6 +776,16 @@
           "imageUrl": "https://astral.sh/static/OpenGraph/Astral.jpg"
         },
         {
+          "id": "https://epoch.ai/gradient-updates/state-of-rl-envs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://epoch.ai/gradient-updates/state-of-rl-envs",
+          "publishedOn": "2026-03-19T12:24:46.000Z",
+          "wordCount": 4656,
+          "title": "An FAQ on Reinforcement Learning Environments",
+          "imageUrl": "https://epoch.ai/assets/images/newsletter/t-state-of-rl-envs.png"
+        },
+        {
           "id": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
           "author": null,
           "description": "Comments",
@@ -579,6 +794,16 @@
           "wordCount": 1114,
           "title": "“Your frustration is the product”",
           "imageUrl": "https://daringfireball.net/graphics/df-wide-card.png"
+        },
+        {
+          "id": "https://japannews.yomiuri.co.jp/society/general-news/20260319-317449/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://japannews.yomiuri.co.jp/society/general-news/20260319-317449/",
+          "publishedOn": "2026-03-19T08:06:28.000Z",
+          "wordCount": null,
+          "title": "Heisuke Hironaka Has Died",
+          "imageUrl": null
         },
         {
           "id": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
@@ -681,6 +906,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
+          "publishedOn": "2026-03-18T21:29:14.000Z",
+          "wordCount": null,
+          "title": "A look at content scrambling in DVDs",
+          "imageUrl": null
+        },
+        {
           "id": "https://nearzero.software/p/warranty-void-if-regenerated",
           "author": null,
           "description": "Comments",
@@ -709,6 +944,16 @@
           "wordCount": 14824,
           "title": "Show HN: Will my flight have Starlink?",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
+          "publishedOn": "2026-03-18T16:52:58.000Z",
+          "wordCount": 2751,
+          "title": "The Ugliest Airplane: An Appreciation",
+          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/4aC0kZOQDQLb4TyltO9IZMnQzgw=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/93/3a/933ad68e-af75-4c6d-8aea-b86cc1b55d5c/11j_dj2022_ugliestshowplane-gavinconroyac3q8790_live.jpg"
         },
         {
           "id": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
@@ -751,6 +996,16 @@
           "imageUrl": "https://images.stripeassets.com/fzn2n1nzq965/1Ch34TLSZjLk5MQukNj6E5/ded24adc6bdd260e608f844fb4842e59/MPP-social.png?q=80"
         },
         {
+          "id": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
+          "publishedOn": "2026-03-18T13:00:39.000Z",
+          "wordCount": 1456,
+          "title": "Lent and Lisp",
+          "imageUrl": "https://leancrew.com/all-this/resources/snowman-background.jpg"
+        },
+        {
           "id": "https://www.shayon.dev/post/2026/65/linux-page-faults-mmap-and-userfaultfd/",
           "author": null,
           "description": "Comments",
@@ -761,6 +1016,26 @@
           "imageUrl": "https://www.shayon.dev/page-fault.jpg"
         },
         {
+          "id": "https://amturing.acm.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://amturing.acm.org/",
+          "publishedOn": "2026-03-18T12:16:26.000Z",
+          "wordCount": null,
+          "title": "Turing Award Honors Bennett and Brassard for Quantum Information Science",
+          "imageUrl": null
+        },
+        {
+          "id": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
+          "publishedOn": "2026-03-18T11:59:05.000Z",
+          "wordCount": 4707,
+          "title": "Parallel Perl – Autoparallelizing interpreter with JIT",
+          "imageUrl": null
+        },
+        {
           "id": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
           "author": null,
           "description": "Comments",
@@ -769,6 +1044,16 @@
           "wordCount": 5278,
           "title": "OpenAI Has New Focus (on the IPO)",
           "imageUrl": "https://images.unsplash.com/photo-1696041760711-f1bd9e111b70?ixid=M3wxMzczOTd8MHwxfGFsbHx8fHx8fHx8fDE3MDA2NjQyNDF8&ixlib=rb-4.0.3&fm=jpg&q=85&fit=crop&w=2560&h=1441"
+        },
+        {
+          "id": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
+          "author": null,
+          "description": "Comments",
+          "link": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
+          "publishedOn": "2026-03-18T10:22:38.000Z",
+          "wordCount": null,
+          "title": "The worst volume control UI in the world (2017)",
+          "imageUrl": null
         },
         {
           "id": "https://awards.acm.org/about/2025-turing",
@@ -911,6 +1196,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
+          "author": null,
+          "description": "Comments",
+          "link": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
+          "publishedOn": "2026-03-17T18:43:53.000Z",
+          "wordCount": 3839,
+          "title": "The Los Angeles Aqueduct Is Wild",
+          "imageUrl": "http://static1.squarespace.com/static/55ac34e4e4b0170ef54be632/55ac3907e4b03d1c8c9deff1/69b9a04591992c11b5f51309/1773772948931/LA+Aqueduct+%28color%29.jpg?format=1500w"
+        },
+        {
           "id": "https://fidget-spinner.github.io/posts/jit-on-track.html",
           "author": null,
           "description": "Comments",
@@ -1011,6 +1306,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://zserge.com/posts/visicalc/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zserge.com/posts/visicalc/",
+          "publishedOn": "2026-03-17T10:39:55.000Z",
+          "wordCount": 2545,
+          "title": "VisiCalc Reconstructed",
+          "imageUrl": "https://zserge.com/logo.png"
+        },
+        {
           "id": "https://kagi.com/smallweb/",
           "author": null,
           "description": "Comments",
@@ -1068,6 +1373,16 @@
           "publishedOn": "2026-03-17T03:20:36.000Z",
           "wordCount": 3043,
           "title": "Every layer of review makes you 10x slower",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg",
+          "publishedOn": "2026-03-17T01:02:41.000Z",
+          "wordCount": null,
+          "title": "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg",
           "imageUrl": null
         },
         {
@@ -8659,336 +8974,6 @@
           "wordCount": 4573,
           "title": "A terminal weather app with ASCII animations driven by real-time weather data",
           "imageUrl": "https://opengraph.githubassets.com/4a2b2c55ce6ac11d43f78055cdc3bb24ec38c2d3b416f35636498e61a4b17a7e/Veirt/weathr"
-        },
-        {
-          "id": "https://hannahilea.com/blog/musidex/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hannahilea.com/blog/musidex/",
-          "publishedOn": "2026-02-19T16:42:04.000Z",
-          "wordCount": 1640,
-          "title": "The Musidex: A physical music library for the streaming era",
-          "imageUrl": "https://www.hannahilea.com/blog/musidex/assets/thumbnail.png"
-        },
-        {
-          "id": "https://micasa.dev/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://micasa.dev/",
-          "publishedOn": "2026-02-19T15:54:14.000Z",
-          "wordCount": 949,
-          "title": "Show HN: Micasa – track your house from the terminal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://borischerny.com/food/2022/01/17/Dinosaur-food.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://borischerny.com/food/2022/01/17/Dinosaur-food.html",
-          "publishedOn": "2026-02-19T15:30:42.000Z",
-          "wordCount": 294,
-          "title": "Dinosaur Food: 100M year old foods we still eat today (2022)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-          "publishedOn": "2026-02-19T15:19:57.000Z",
-          "wordCount": 4469,
-          "title": "Gemini 3.1 Pro",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_pro_meta_dark.width-1300.png"
-        },
-        {
-          "id": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
-          "publishedOn": "2026-02-19T14:52:18.000Z",
-          "wordCount": 7037,
-          "title": "America vs. Singapore: You can't save your way out of economic shocks",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!mrn8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb306c317-e1de-4420-95f5-9d3f1bc7b28f_800x430.jpeg"
-        },
-        {
-          "id": "https://keybeekeyboard.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://keybeekeyboard.com/",
-          "publishedOn": "2026-02-19T14:45:55.000Z",
-          "wordCount": 179,
-          "title": "Keybee: A Keyboard Designed for Smartphones",
-          "imageUrl": "https://keybeekeyboard.com/img/KeybeeKeyboardCover.png"
-        },
-        {
-          "id": "https://www.anthropic.com/research/measuring-agent-autonomy",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.anthropic.com/research/measuring-agent-autonomy",
-          "publishedOn": "2026-02-19T14:14:14.000Z",
-          "wordCount": 12125,
-          "title": "Measuring AI agent autonomy in practice",
-          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&backgroundColor=olive"
-        },
-        {
-          "id": "https://repebble.com/blog/february-pebble-production-and-software-updates",
-          "author": null,
-          "description": "Comments",
-          "link": "https://repebble.com/blog/february-pebble-production-and-software-updates",
-          "publishedOn": "2026-02-19T12:36:00.000Z",
-          "wordCount": 2763,
-          "title": "Pebble Production: February Update",
-          "imageUrl": "https://repebble.com/assets/february-pebble-production-and-software-updates-0-image-social.jpg"
-        },
-        {
-          "id": "https://pagedout.institute/download/PagedOut_008.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pagedout.institute/download/PagedOut_008.pdf",
-          "publishedOn": "2026-02-19T12:13:44.000Z",
-          "wordCount": 931181,
-          "title": "Paged Out Issue #8 [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/fjrevoredo/mini-diarium",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/fjrevoredo/mini-diarium",
-          "publishedOn": "2026-02-19T11:54:21.000Z",
-          "wordCount": 6131,
-          "title": "Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app",
-          "imageUrl": "https://opengraph.githubassets.com/b98b29f6894c0b5030e6576593623bc5095893ab0b541556718c71a7e802919f/fjrevoredo/mini-diarium"
-        },
-        {
-          "id": "https://makie.org/website/blogposts/raytracing/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://makie.org/website/blogposts/raytracing/",
-          "publishedOn": "2026-02-19T10:55:13.000Z",
-          "wordCount": 3111,
-          "title": "Show HN: A physically-based GPU ray tracer written in Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/",
-          "publishedOn": "2026-02-19T09:23:53.000Z",
-          "wordCount": 5005,
-          "title": "Forward propagation of errors through time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/",
-          "publishedOn": "2026-02-19T03:56:29.000Z",
-          "wordCount": null,
-          "title": "Ukranian controls Home Assistant over LoRa radio when their power grid goes down",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blackboard.sh/blog/electrobun-v1/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blackboard.sh/blog/electrobun-v1/",
-          "publishedOn": "2026-02-19T03:46:07.000Z",
-          "wordCount": 664,
-          "title": "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://code.claude.com/docs/en/legal-and-compliance",
-          "author": null,
-          "description": "Comments",
-          "link": "https://code.claude.com/docs/en/legal-and-compliance",
-          "publishedOn": "2026-02-19T02:52:26.000Z",
-          "wordCount": 426,
-          "title": "Anthropic officially bans using subscription auth for third party use",
-          "imageUrl": null
-        },
-        {
-          "id": "https://static.stepfun.com/blog/step-3.5-flash/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://static.stepfun.com/blog/step-3.5-flash/",
-          "publishedOn": "2026-02-19T02:32:00.000Z",
-          "wordCount": 5568,
-          "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
-          "publishedOn": "2026-02-19T01:55:33.000Z",
-          "wordCount": 1817,
-          "title": "Minecraft Java is switching from OpenGL to Vulkan",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1519041173id28520gol.jpg"
-        },
-        {
-          "id": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
-          "publishedOn": "2026-02-19T01:46:07.000Z",
-          "wordCount": 1425,
-          "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
-          "publishedOn": "2026-02-19T00:22:45.000Z",
-          "wordCount": null,
-          "title": "How AI is affecting productivity and jobs in Europe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
-          "publishedOn": "2026-02-18T23:19:29.000Z",
-          "wordCount": null,
-          "title": "Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/LadybirdBrowser/ladybird/issues/933",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/LadybirdBrowser/ladybird/issues/933",
-          "publishedOn": "2026-02-18T23:08:38.000Z",
-          "wordCount": 9534,
-          "title": "Closing this as we are no longer pursuing Swift adoption",
-          "imageUrl": "https://opengraph.githubassets.com/bd7753566bc9dda581e2395c7ad9fe1b8dd77c835a32a361e79ca73d3871572e/LadybirdBrowser/ladybird/issues/933"
-        },
-        {
-          "id": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
-          "publishedOn": "2026-02-18T22:25:13.000Z",
-          "wordCount": null,
-          "title": "US plans online portal to bypass content bans in Europe and elsewhere",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline",
-          "publishedOn": "2026-02-18T21:59:06.000Z",
-          "wordCount": 29263,
-          "title": "My journey to the microwave alternate timeline",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/8m6AM5qtPMjgTkEeD/xab0mj6lgmlbysspzldj"
-        },
-        {
-          "id": "https://pudding.cool/2026/02/womens-sizing/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pudding.cool/2026/02/womens-sizing/",
-          "publishedOn": "2026-02-18T21:18:20.000Z",
-          "wordCount": 3441,
-          "title": "Sizing chaos",
-          "imageUrl": "https://pudding.cool/2026/02/womens-sizing/assets/og2.jpg"
-        },
-        {
-          "id": "https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/",
-          "publishedOn": "2026-02-18T21:10:09.000Z",
-          "wordCount": 3031,
-          "title": "How to train your program verifier",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
-          "publishedOn": "2026-02-18T21:00:32.000Z",
-          "wordCount": 2498,
-          "title": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
-          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/ca3f92ea54dc8cdabcaf691d1a29ddbe6011756e.png?1660775370"
-        },
-        {
-          "id": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
-          "publishedOn": "2026-02-18T20:54:31.000Z",
-          "wordCount": null,
-          "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
-          "publishedOn": "2026-02-18T19:28:59.000Z",
-          "wordCount": 23530,
-          "title": "R3forth: A concatenative language derived from ColorForth",
-          "imageUrl": "https://opengraph.githubassets.com/2c6554cbf9aade138854b679e9b90e5f615936e71ef54f23b45882232cbfe576/phreda4/r3"
-        },
-        {
-          "id": "https://spawn-queue.acm.org/doi/pdf/10.1145/3778029",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spawn-queue.acm.org/doi/pdf/10.1145/3778029",
-          "publishedOn": "2026-02-18T19:02:18.000Z",
-          "wordCount": null,
-          "title": "What Every Experimenter Must Know About Randomization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-          "publishedOn": "2026-02-18T18:37:22.000Z",
-          "wordCount": 5973,
-          "title": "Cosmologically Unique IDs",
-          "imageUrl": "https://jasonfantl.com/https:/blog-assets.jasonemerald.workers.dev/CUIDs/cover.png"
-        },
-        {
-          "id": "https://blog.conan.io/cpp/conan/configuration/reproducibility/lockfile/2026/02/17/Reproducible-Configuration-Conan.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.conan.io/cpp/conan/configuration/reproducibility/lockfile/2026/02/17/Reproducible-Configuration-Conan.html",
-          "publishedOn": "2026-02-18T18:04:18.000Z",
-          "wordCount": 1418,
-          "title": "Reproducible and traceable configuration for Conan C and C++ package manager",
-          "imageUrl": null
-        },
-        {
-          "id": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-          "publishedOn": "2026-02-18T18:04:13.000Z",
-          "wordCount": 988,
-          "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-          "imageUrl": "https://letsencrypt.org/images/LetsEncrypt-SocialShare.png"
-        },
-        {
-          "id": "https://rygoldstein.com/posts/perils-of-isbn",
-          "author": null,
-          "description": "Comments",
-          "link": "https://rygoldstein.com/posts/perils-of-isbn",
-          "publishedOn": "2026-02-18T17:34:37.000Z",
-          "wordCount": 1046,
-          "title": "The Perils of ISBN",
-          "imageUrl": null
         }
       ]
     },
@@ -9218,36 +9203,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/protein-restriction-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/mind/2026/what-to-know-choosing-adhd-coach",
-          "author": "Katherine Ellison",
-          "description": "As diagnoses surge, so does an unregulated coaching industry",
-          "link": "https://knowablemagazine.org/content/article/mind/2026/what-to-know-choosing-adhd-coach",
-          "publishedOn": "2026-02-19T05:05:42.467Z",
-          "wordCount": null,
-          "title": "Looking for an ADHD coach? Choose carefully",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/adhd-coaches-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/adhd-coaches-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/food-environment/2025/science-of-green-hair-care",
-          "author": "Carolyn Wilke",
-          "description": "A push to move away from petroleum products — plus the perception that natural is gentler — has scientists lathering up new ingredients, from wood and fungus extracts to engineered proteins",
-          "link": "https://knowablemagazine.org/content/article/food-environment/2025/science-of-green-hair-care",
-          "publishedOn": "2026-02-19T05:05:42.467Z",
-          "wordCount": null,
-          "title": "The science of green hair care",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/green-hair-care-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/green-hair-care-500x288.jpg"
         }
       ]
     },
@@ -9461,46 +9416,6 @@
           "publishedOn": "2026-02-24T14:07:51.000Z",
           "wordCount": 12313,
           "title": "ProducerAI: Your music creation partner, now in Google Labs - blog.google",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikAFBVV95cUxQRUg0WnM3MnlQZ1NsUGdEYWJ0ZmZkZFU1MERHYzJKdVVjdmw2OW93cjRqS1Y5UE1YVFlZQ3VCd3FJUWRUWlczUEF0Z1ZMWFpEZ1l0cXB6M3BKdzVDQVgtejdCWGZ5UV93NVVvMmFFc1dnZEZuQVhJenZNLUgyR25fLW93dWhMbnNLVUtzZE5hcUE",
-          "author": null,
-          "description": "Gemini 3.1 Pro: A smarter model for your most complex tasks  blog.google",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUg0WnM3MnlQZ1NsUGdEYWJ0ZmZkZFU1MERHYzJKdVVjdmw2OW93cjRqS1Y5UE1YVFlZQ3VCd3FJUWRUWlczUEF0Z1ZMWFpEZ1l0cXB6M3BKdzVDQVgtejdCWGZ5UV93NVVvMmFFc1dnZEZuQVhJenZNLUgyR25fLW93dWhMbnNLVUtzZE5hcUE?oc=5",
-          "publishedOn": "2026-02-19T16:08:42.000Z",
-          "wordCount": 12306,
-          "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks - blog.google",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilwFBVV95cUxNMlVlSFFsR1NYRmM3TDREblRyeGN4WHZ6M3lEYzdLaDJFNGZPU05XeUlwc0ZqTkJPV19QTGFETGY5RDNEdTBuU2k4cUxEa0N2Qmh3cUVyZGZyRklHakQ4dUw1cll6SXkySWlyMTJicVZ2bllqSEFGOVZnMmJLbDlINGtxQWU1SklqMFZuT0lnUXo4ZWdQU1pR",
-          "author": null,
-          "description": "New features in Chrome for work, life and everything in between  blog.google",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMlVlSFFsR1NYRmM3TDREblRyeGN4WHZ6M3lEYzdLaDJFNGZPU05XeUlwc0ZqTkJPV19QTGFETGY5RDNEdTBuU2k4cUxEa0N2Qmh3cUVyZGZyRklHakQ4dUw1cll6SXkySWlyMTJicVZ2bllqSEFGOVZnMmJLbDlINGtxQWU1SklqMFZuT0lnUXo4ZWdQU1pR?oc=5",
-          "publishedOn": "2026-02-19T08:00:00.000Z",
-          "wordCount": 12314,
-          "title": "New features in Chrome for work, life and everything in between - blog.google",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikwFBVV95cUxNbUotTEt3LUoxNGFEYTN3UENwclBiMXg1REtZNmRkcXZZcC0tUFlmTEtJNEZjbkVLQWFaTTRBSDF2NTUxbUFlTFI2YVB0N3FZQTJxRXA1MTFvQ2Q1RTlyZ3ViQ2Y0YmRYc0lxVWZTcndJTWptS2JHYU5hZGxXT09oZ29fRGh4c2tydmtLNzg4YWw2c0E",
-          "author": null,
-          "description": "Pixel 10a: More of what you need.  blog.google",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbUotTEt3LUoxNGFEYTN3UENwclBiMXg1REtZNmRkcXZZcC0tUFlmTEtJNEZjbkVLQWFaTTRBSDF2NTUxbUFlTFI2YVB0N3FZQTJxRXA1MTFvQ2Q1RTlyZ3ViQ2Y0YmRYc0lxVWZTcndJTWptS2JHYU5hZGxXT09oZ29fRGh4c2tydmtLNzg4YWw2c0E?oc=5",
-          "publishedOn": "2026-02-18T22:14:30.000Z",
-          "wordCount": 12306,
-          "title": "Pixel 10a: More of what you need. - blog.google",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMixgFBVV95cUxQNWNERTJDYllJY2l3bVcxTkdlMnpkZUsxVnBFOTd3UnViLWxMMnRndVNPc0o2U21lOWk5cUVFTkpQU3dVMHZYbmh3ak9iWGF1UDUzaEQ1SnREWEdGU19POUhXUFVGMTI2RVBZTzgtaUM2Vk1wTmxMNXZKR2hkVFVoRU1KZk9KZzJLNlFSSFpTV2VUWmxCcE16ODVfTjRneE1FUmttbEFfY0JzS1IyQjFncWNRaGcydDRrb1RBUGlFUHNUMGVOdlE",
-          "author": null,
-          "description": "Google just launched Lyria 3 - its ‘most advanced’ AI music generator yet - in the Gemini app  Music Business Worldwide",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNWNERTJDYllJY2l3bVcxTkdlMnpkZUsxVnBFOTd3UnViLWxMMnRndVNPc0o2U21lOWk5cUVFTkpQU3dVMHZYbmh3ak9iWGF1UDUzaEQ1SnREWEdGU19POUhXUFVGMTI2RVBZTzgtaUM2Vk1wTmxMNXZKR2hkVFVoRU1KZk9KZzJLNlFSSFpTV2VUWmxCcE16ODVfTjRneE1FUmttbEFfY0JzS1IyQjFncWNRaGcydDRrb1RBUGlFUHNUMGVOdlE?oc=5",
-          "publishedOn": "2026-02-18T19:25:11.000Z",
-          "wordCount": 12306,
-          "title": "Google just launched Lyria 3 - its ‘most advanced’ AI music generator yet - in the Gemini app - Music Business Worldwide",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
