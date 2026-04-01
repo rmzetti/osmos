@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=393306",
+          "author": "Daniel Schwarz",
+          "description": "Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.\nWhat’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-important-8/",
+          "publishedOn": "2026-03-31T14:14:07.000Z",
+          "wordCount": 2760,
+          "title": "What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/wh8.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391993",
           "author": "Iqra Naaem",
           "description": "That gap between \"the form works\" and \"the business works\" is something we don't really tend to discuss much as front-enders. We focus a great deal on user experience, validation methods, and accessibility, yet we overlook what the data does once it leaves our control\nForm Automation Tips for Happier User and Clients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -110,16 +120,6 @@
           "wordCount": 2504,
           "title": "The Different Ways to Select <html> in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/02/css-block-html.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388435",
-          "author": "Zell Liew",
-          "description": "Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discovered that the Popover API and Dialog API are wildly different in terms of accessibility and we'll go over that in this article.\nPopover API or Dialog API: Which to Choose? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/",
-          "publishedOn": "2026-03-02T15:10:07.000Z",
-          "wordCount": 2411,
-          "title": "Popover API or Dialog API: Which to Choose?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         }
       ]
     },
@@ -128,6 +128,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
+          "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
+          "publishedOn": "2026-03-31T11:00:00.000Z",
+          "wordCount": 4324,
+          "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
           "author": "hello@smashingmagazine.com (Carrie Webster)",
@@ -292,21 +307,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/accessible-ux-research-release/accessible-ux-research-coffee.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
-          "author": "hello@smashingmagazine.com (Godstime Aburu)",
-          "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
-          "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
-          "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5640,
-          "title": "Getting Started With The Popover API",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg"
         }
       ]
     },
@@ -315,6 +315,166 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
+          "publishedOn": "2026-04-01T03:27:38.000Z",
+          "wordCount": 916,
+          "title": "Analyzing Geekbench 6 under Intel's BOT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+          "publishedOn": "2026-04-01T01:58:45.000Z",
+          "wordCount": 1718,
+          "title": "We intercepted the White House app's network traffic",
+          "imageUrl": "https://www.atomic.computer/atom.jpg"
+        },
+        {
+          "id": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+          "publishedOn": "2026-04-01T01:12:12.000Z",
+          "wordCount": null,
+          "title": "Neanderthals survived on a knife's edge for 350k years",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
+          "publishedOn": "2026-03-31T21:22:48.000Z",
+          "wordCount": 3635,
+          "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+          "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_621137.png"
+        },
+        {
+          "id": "https://scottlawsonbc.com/post/dot-system",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scottlawsonbc.com/post/dot-system",
+          "publishedOn": "2026-03-31T21:15:01.000Z",
+          "wordCount": 2469,
+          "title": "A dot a day keeps the clutter away",
+          "imageUrl": "https://scottlawsonbc.com/static/dot-system-10.jpg"
+        },
+        {
+          "id": "https://prismml.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://prismml.com/",
+          "publishedOn": "2026-03-31T21:01:18.000Z",
+          "wordCount": 9264,
+          "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+          "imageUrl": "https://cdn.prod.website-files.com/697a3312d33c2cc715ec3899/69cae04a19115963ea13d12d_prism-og-img%20(2).png"
+        },
+        {
+          "id": "https://ministack.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ministack.org/",
+          "publishedOn": "2026-03-31T20:48:15.000Z",
+          "wordCount": 2584,
+          "title": "Ministack (Replacement for LocalStack)",
+          "imageUrl": "https://ministack.org/og-image.png"
+        },
+        {
+          "id": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+          "publishedOn": "2026-03-31T20:07:30.000Z",
+          "wordCount": 15013,
+          "title": "OpenAI closes funding round at an $852B valuation",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108276826-17732552422026-03-11t184543z_527413325_rc2i2katf9b2_rtrmadp_0_usa-blackrock.jpeg?v=1773315937&w=1920&h=1080"
+        },
+        {
+          "id": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
+          "publishedOn": "2026-03-31T19:46:43.000Z",
+          "wordCount": 9671,
+          "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
+          "imageUrl": "https://tech.stonecharioteer.com/images/posts/tailscale/exit-node-flow.png"
+        },
+        {
+          "id": "https://damrnelson.github.io/github-historical-uptime/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://damrnelson.github.io/github-historical-uptime/",
+          "publishedOn": "2026-03-31T19:01:29.000Z",
+          "wordCount": 6,
+          "title": "GitHub's Historic Uptime",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/timescale/pg_textsearch",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/timescale/pg_textsearch",
+          "publishedOn": "2026-03-31T16:29:52.000Z",
+          "wordCount": 11979,
+          "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+          "imageUrl": "https://opengraph.githubassets.com/e6871783274ea3da709456fbccf0a8ad7cf162da2d774e606e8e2403dc79807a/timescale/pg_textsearch"
+        },
+        {
+          "id": "https://cohere.com/blog/transcribe",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cohere.com/blog/transcribe",
+          "publishedOn": "2026-03-31T16:27:02.000Z",
+          "wordCount": 4916,
+          "title": "Cohere Transcribe: Speech Recognition",
+          "imageUrl": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/80ae8c2e82c1538e418a8c751a8965708d370236-3840x1920.png?rect=92,0,3657,1920&w=1200&h=630"
+        },
+        {
+          "id": "https://www.greptile.com/blog/ai-slopware-future",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.greptile.com/blog/ai-slopware-future",
+          "publishedOn": "2026-03-31T14:32:26.000Z",
+          "wordCount": 6975,
+          "title": "Slop is not necessarily the future",
+          "imageUrl": "https://greptile.com/blog/ai-slopware-future/og.png"
+        },
+        {
+          "id": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+          "publishedOn": "2026-03-31T13:04:30.000Z",
+          "wordCount": 3538,
+          "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+          "imageUrl": null
+        },
+        {
+          "id": "https://solvespace.com/webver.pl",
+          "author": null,
+          "description": "Comments",
+          "link": "https://solvespace.com/webver.pl",
+          "publishedOn": "2026-03-31T12:50:23.000Z",
+          "wordCount": 153,
+          "title": "Open source CAD in the browser (Solvespace)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+          "publishedOn": "2026-03-31T09:30:43.000Z",
+          "wordCount": 4748,
+          "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+          "imageUrl": "https://responsiblestatecraft.org/media-library/image.jpg?id=65428245&width=1200&height=600&coordinates=0%2C71%2C0%2C54"
+        },
         {
           "id": "https://github.com/concensure/Semantic",
           "author": null,
@@ -506,6 +666,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nature.com/articles/d41586-026-00974-2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-026-00974-2",
+          "publishedOn": "2026-03-30T14:39:43.000Z",
+          "wordCount": 4655,
+          "title": "Inside the 'self-driving' lab revolution",
+          "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00974-2/d41586-026-00974-2_52212792.jpg"
+        },
+        {
           "id": "https://nbailey.ca/post/router/",
           "author": null,
           "description": "Comments",
@@ -554,6 +724,16 @@
           "wordCount": 240,
           "title": "Copilot Edited an Ad into My PR",
           "imageUrl": null
+        },
+        {
+          "id": "https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/",
+          "publishedOn": "2026-03-30T02:31:57.000Z",
+          "wordCount": 3996,
+          "title": "Use string views instead of passing std:wstring by const&",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
         },
         {
           "id": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/",
@@ -726,6 +906,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.dbpro.app/blog/chess-in-pure-sql",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dbpro.app/blog/chess-in-pure-sql",
+          "publishedOn": "2026-03-29T13:25:16.000Z",
+          "wordCount": 4198,
+          "title": "Chess in SQL",
+          "imageUrl": "https://www.dbpro.app/blog/chess-in-pure-sql/opengraph-image"
+        },
+        {
           "id": "https://github.com/austin-weeks/miasma",
           "author": null,
           "description": "Comments",
@@ -806,6 +996,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.future-shock.ai/the-weight-of-remembering/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.future-shock.ai/the-weight-of-remembering/",
+          "publishedOn": "2026-03-28T22:42:23.000Z",
+          "wordCount": 2802,
+          "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+          "imageUrl": "https://news.future-shock.ai/content/images/2026/03/weight-of-remembering.jpg"
+        },
+        {
           "id": "https://blog.howardjohn.info/posts/go-mod-version/",
           "author": null,
           "description": "Comments",
@@ -824,6 +1024,16 @@
           "wordCount": 1231,
           "title": "InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer",
           "imageUrl": "https://inpharmd-asset.s3.amazonaws.com/blog_images/inpharmd_logo_yellow.webp"
+        },
+        {
+          "id": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+          "publishedOn": "2026-03-28T21:04:06.000Z",
+          "wordCount": 886,
+          "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+          "imageUrl": ""
         },
         {
           "id": "https://github.com/elixir-volt/quickbeam",
@@ -864,6 +1074,16 @@
           "wordCount": 1609,
           "title": "The first 40 months of the AI era",
           "imageUrl": "https://lzon.ca/img/og-image.jpg"
+        },
+        {
+          "id": "https://chrisseaton.com/truffleruby/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chrisseaton.com/truffleruby/",
+          "publishedOn": "2026-03-28T18:39:39.000Z",
+          "wordCount": 1414,
+          "title": "TruffleRuby",
+          "imageUrl": null
         },
         {
           "id": "https://twitter.com/BoWang87/status/2037648937453232504",
@@ -923,6 +1143,16 @@
           "publishedOn": "2026-03-28T16:49:46.000Z",
           "wordCount": 3228,
           "title": "Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/",
+          "publishedOn": "2026-03-28T16:29:16.000Z",
+          "wordCount": 7426,
+          "title": "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
           "imageUrl": null
         },
         {
@@ -1016,6 +1246,16 @@
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/9950x3d2-1152x648.jpeg"
         },
         {
+          "id": "https://github.com/ericlewis/libpo32",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ericlewis/libpo32",
+          "publishedOn": "2026-03-28T01:04:56.000Z",
+          "wordCount": 2867,
+          "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+          "imageUrl": "https://opengraph.githubassets.com/32667f2edf35e3d08e693fc6fad38fad1bf04b353115db39485c3f110dc21ccd/ericlewis/libpo32"
+        },
+        {
           "id": "https://jai.scs.stanford.edu/",
           "author": null,
           "description": "Comments",
@@ -1054,6 +1294,16 @@
           "wordCount": 40,
           "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/danieldugas/HYPERHELL",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/danieldugas/HYPERHELL",
+          "publishedOn": "2026-03-27T22:19:34.000Z",
+          "wordCount": 1472,
+          "title": "4D Doom",
+          "imageUrl": "https://opengraph.githubassets.com/d682959a2cba52c3ec6fc5dccf67bbe2fc42780143645be3f710fb084d4b3874/danieldugas/HYPERHELL"
         },
         {
           "id": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
@@ -1133,6 +1383,16 @@
           "publishedOn": "2026-03-27T19:06:44.000Z",
           "wordCount": 1307,
           "title": "Capability-Based Security for Redox: Namespace and CWD as Capabilities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hypha.pub/back-to-freebsd-part-2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hypha.pub/back-to-freebsd-part-2",
+          "publishedOn": "2026-03-27T18:55:02.000Z",
+          "wordCount": null,
+          "title": "Back to FreeBSD – Part 2 – Jails",
           "imageUrl": null
         },
         {
@@ -1226,6 +1486,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://github.com/jkool702/forkrun",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/jkool702/forkrun",
+          "publishedOn": "2026-03-27T12:12:20.000Z",
+          "wordCount": 2992,
+          "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
+          "imageUrl": "https://opengraph.githubassets.com/fe52e38e4ea266d0dc782e1a0698002bd0c98d46e8d668ecc707edd1a623141b/jkool702/forkrun"
+        },
+        {
+          "id": "https://arxiv.org/abs/2602.04118",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2602.04118",
+          "publishedOn": "2026-03-27T12:11:12.000Z",
+          "wordCount": 674,
+          "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
           "author": null,
           "description": "Comments",
@@ -1304,6 +1584,16 @@
           "wordCount": 802,
           "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
           "imageUrl": "https://www.symbolica.ai/images/blog/meta/arc-agi-3.png"
+        },
+        {
+          "id": "https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support",
+          "publishedOn": "2026-03-27T01:00:49.000Z",
+          "wordCount": null,
+          "title": "A Primer on Long-Duration Life Support",
+          "imageUrl": null
         },
         {
           "id": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
@@ -8624,246 +8914,6 @@
           "wordCount": 766,
           "title": "\"That Shape Had None\" – A Horror of Substrate Independence (Short Fiction)",
           "imageUrl": null
-        },
-        {
-          "id": "https://govbase.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://govbase.com/",
-          "publishedOn": "2026-03-02T17:08:53.000Z",
-          "wordCount": null,
-          "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/reflex/jobs",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/reflex/jobs",
-          "publishedOn": "2026-03-02T17:01:20.000Z",
-          "wordCount": 586,
-          "title": "Reflex (YC W23) Is Hiring Software Engineers – Python",
-          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/b152827b3d2a1fddc281b91522bcddae057bd6e3.png?1727224650"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47220320",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=47220320",
-          "publishedOn": "2026-03-02T16:39:21.000Z",
-          "wordCount": 3787,
-          "title": "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47219668",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=47219668",
-          "publishedOn": "2026-03-02T16:00:27.000Z",
-          "wordCount": 31316,
-          "title": "Ask HN: Who is hiring? (March 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47219667",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=47219667",
-          "publishedOn": "2026-03-02T16:00:26.000Z",
-          "wordCount": 23096,
-          "title": "Ask HN: Who wants to be hired? (March 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
-          "author": null,
-          "description": "Comments",
-          "link": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
-          "publishedOn": "2026-03-02T14:54:58.000Z",
-          "wordCount": 1539,
-          "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
-          "imageUrl": "https://health.ucdavis.edu/media-resources/contenthub/health-news/2026/2/thumbnail/CuRe-thumbnail.jpg"
-        },
-        {
-          "id": "https://tsvibt.blogspot.com/2026/02/a-bit-of-fluid-mechanics-from-scratch.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tsvibt.blogspot.com/2026/02/a-bit-of-fluid-mechanics-from-scratch.html",
-          "publishedOn": "2026-03-02T14:52:52.000Z",
-          "wordCount": 7230,
-          "title": "A bit of fluid mechanics from scratch not from scratch",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_v5-UNkA_3u58zs_smAtA-GcXkvFO-EMrGGi2yEiXfZIBR82-VxxCCyZqHW_kJ8bTFq0JEz90vb9uMcU2a1PRWglw=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
-          "publishedOn": "2026-03-02T14:11:23.000Z",
-          "wordCount": 7584,
-          "title": "New iPad Air, powered by M4",
-          "imageUrl": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/tile/Apple-iPad-Air-M4-multitasking-260302-lp.jpg.og.jpg?202603021433"
-        },
-        {
-          "id": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
-          "publishedOn": "2026-03-02T14:03:00.000Z",
-          "wordCount": 8653,
-          "title": "iPhone 17e",
-          "imageUrl": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-iphone-17e/tile/Apple-iPhone-17e-hero-260302-lp.jpg.og.jpg?202603021433"
-        },
-        {
-          "id": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
-          "publishedOn": "2026-03-02T09:26:04.000Z",
-          "wordCount": 2666,
-          "title": "Hardware hotplug events on Linux, the gory details",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.openstreetmap.org/user/FeetAndInches/diary/408268",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.openstreetmap.org/user/FeetAndInches/diary/408268",
-          "publishedOn": "2026-03-02T08:16:55.000Z",
-          "wordCount": 2125,
-          "title": "Converting dash cam videos into Panoramax images",
-          "imageUrl": "https://www.openstreetmap.org/assets/osm_logo_256-ed028f90468224a272961c380ecee0cfb73b8048b34f4b4b204b7f0d1097875d.png"
-        },
-        {
-          "id": "https://happel.ai/posts/covering-spaces-geometries-visualized/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://happel.ai/posts/covering-spaces-geometries-visualized/",
-          "publishedOn": "2026-03-02T07:56:43.000Z",
-          "wordCount": 4575,
-          "title": "Hacking Super Mario 64 using covering spaces",
-          "imageUrl": "https://happel.ai/assets/covering-space/double-torus-universal-cover-alt.png"
-        },
-        {
-          "id": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
-          "publishedOn": "2026-03-02T06:48:07.000Z",
-          "wordCount": 1932,
-          "title": "Motorola announces a partnership with GrapheneOS",
-          "imageUrl": "https://motorolanews.com/wp-content/uploads/2026/02/2024_MOTOROLA_B2B_PHOTOS_150dpi_44-1.png"
-        },
-        {
-          "id": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
-          "publishedOn": "2026-03-02T04:23:53.000Z",
-          "wordCount": 3123,
-          "title": "Computer-generated dream world: Virtual reality for a 286 processor",
-          "imageUrl": "https://deadlime.hu/uploads/2026/286.jpg"
-        },
-        {
-          "id": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
-          "publishedOn": "2026-03-02T04:06:00.000Z",
-          "wordCount": 6152,
-          "title": "Everett shuts down Flock camera network after judge rules footage public record",
-          "imageUrl": "https://media.wltx.com/assets/KING/images/a34148ae-a136-4198-91d1-811853233a86/20260228T004510/a34148ae-a136-4198-91d1-811853233a86_1140x641.jpg"
-        },
-        {
-          "id": "https://github.com/kossisoroyce/timber",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/kossisoroyce/timber",
-          "publishedOn": "2026-03-02T00:57:40.000Z",
-          "wordCount": 3802,
-          "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
-          "imageUrl": "https://opengraph.githubassets.com/d8e63ac61872af1374427c95c0e043a7f9372f933da139e86bdf46d33ecae9ed/kossisoroyce/timber"
-        },
-        {
-          "id": "https://www.sixstepstobetterhealth.com/litter.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sixstepstobetterhealth.com/litter.html",
-          "publishedOn": "2026-03-02T00:40:52.000Z",
-          "wordCount": 196,
-          "title": "Picking Up a Zillion Pieces of Litter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/mandel-macaque/memento",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/mandel-macaque/memento",
-          "publishedOn": "2026-03-02T00:27:52.000Z",
-          "wordCount": 5234,
-          "title": "If AI writes code, should the session be part of the commit?",
-          "imageUrl": "https://opengraph.githubassets.com/ba465ac679adab5c2b6add340b45c4363813107b01d3c594d2c119a3529f650b/mandel-macaque/memento"
-        },
-        {
-          "id": "https://github.com/melonattacker/logira",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/melonattacker/logira",
-          "publishedOn": "2026-03-01T23:25:01.000Z",
-          "wordCount": 4168,
-          "title": "Show HN: Logira – eBPF runtime auditing for AI agent runs",
-          "imageUrl": "https://opengraph.githubassets.com/6ad878945620b62b9b3bd4d4a9aed085e3f840e8f8cffefaa06c374534576a5b/melonattacker/logira"
-        },
-        {
-          "id": "https://github.com/AlexsJones/llmfit",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/AlexsJones/llmfit",
-          "publishedOn": "2026-03-01T23:15:16.000Z",
-          "wordCount": 10812,
-          "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
-          "imageUrl": "https://opengraph.githubassets.com/eb33df50554b80b857a48ef7efbd92dbef6de6137c37197234a6243920dbed29/AlexsJones/llmfit"
-        },
-        {
-          "id": "https://littlefreelibrary.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://littlefreelibrary.org/",
-          "publishedOn": "2026-03-01T22:18:10.000Z",
-          "wordCount": 6024,
-          "title": "Little Free Library",
-          "imageUrl": "https://littlefreelibrary.org/wp-content/uploads/2022/05/Umi-Vaughan-51773-Oakland-CA.jpg"
-        },
-        {
-          "id": "https://developer.chrome.com/blog/webmcp-epp",
-          "author": null,
-          "description": "Comments",
-          "link": "https://developer.chrome.com/blog/webmcp-epp",
-          "publishedOn": "2026-03-01T22:13:58.000Z",
-          "wordCount": 863,
-          "title": "WebMCP is available for early preview",
-          "imageUrl": "https://developer.chrome.com/static/blog/webmcp-epp/image/cover.png"
-        },
-        {
-          "id": "https://www.scottsmitelli.com/articles/you-dont-have-to/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scottsmitelli.com/articles/you-dont-have-to/",
-          "publishedOn": "2026-03-01T21:47:13.000Z",
-          "wordCount": 15702,
-          "title": "You don't have to",
-          "imageUrl": "https://www.scottsmitelli.com/img/mortal-damage.jpg"
-        },
-        {
-          "id": "https://maurycyz.com/misc/c_files/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://maurycyz.com/misc/c_files/",
-          "publishedOn": "2026-03-01T19:25:04.000Z",
-          "wordCount": 1248,
-          "title": "Why does C have the best file API",
-          "imageUrl": null
         }
       ]
     },
@@ -8929,6 +8979,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/food-environment/2026/how-to-store-co2-in-ocean-fight-climate-change",
+          "author": "Sandy Ong",
+          "description": "Keeping global warming to manageable levels will require removing carbon dioxide from the atmosphere and storing it somewhere else. The world’s oceans may be a promising option.",
+          "link": "https://knowablemagazine.org/content/article/food-environment/2026/how-to-store-co2-in-ocean-fight-climate-change",
+          "publishedOn": "2026-03-31T00:00:31.000Z",
+          "wordCount": null,
+          "title": "Stashing CO₂ in the sea",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/carbon-removal-ocean-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/carbon-removal-ocean-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/living-world/2026/noncoding-rna-molecules-in-cells",
           "author": "Christina Szalinski",
@@ -9110,16 +9175,6 @@
           "wordCount": 5303,
           "title": "Hacking financial regulation for community mutual aid",
           "imageUrl": "https://danmackinlay.name/generated_thumbnails/opengraph_previews/images/maggior_consiglio_RP-P-2018-1237.og.jpg"
-        },
-        {
-          "id": "https://danmackinlay.name/post/announcing_alignment_journal.html",
-          "author": null,
-          "description": "Figure 1\n\n\n\nOne massive project over the last few weeks has been founding the Alignment Journal, a new open-access journal for research on AI alignment and related topics.\nI am one of the two founding managing editors, along with Jess Riedel, and we have a fantastic team. We’re also really excited about the board members who’ve come on to give us guidance and help us with the work of running the journal.\nThere are all kinds of things to be done. We have a mandate to experiment with alternate peer review processes, which is a long-running obsession of mine.\nPlease see the initial announcement post for more details, and subscribe to the blog for updates on the journal, including calls for papers and announcements of accepted papers.\nIs this a good idea? We don’t know yet. The goal here is to do a one-year pilot and see if we are making the world better, or not. We’d love for people to participate in the experiment by submitting papers, reviewing papers, or just following along with the journal and giving us feedback. Subscribe to our mailing list here for updates.\nI personally am pleased to thank the PIBBSS × ILIAD program for giving me the opportunity to work on this project.",
-          "link": "https://danmackinlay.name/post/announcing_alignment_journal.html",
-          "publishedOn": "2026-03-02T08:18:21.000Z",
-          "wordCount": 2203,
-          "title": "New project: an Alignment Journal",
-          "imageUrl": "https://danmackinlay.name/generated_thumbnails/opengraph_previews/images/konstlyke_dingen_RP-P-OB-44.330.og.jpg"
         }
       ]
     },
@@ -9316,26 +9371,6 @@
           "publishedOn": "2026-03-02T17:36:54.000Z",
           "wordCount": 12314,
           "title": "Google Cloud and the rise of the agentic telco - Google Cloud",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigwFBVV95cUxNWXZNZ3pUNHBWMWJScXlMdVhjdXk2SExjTEdrUGJaUTJzdmlrN1ZSZjZXNVo3QnhIRER1cGFLbTFXbzlfY3UzMmxrMG1qTGlHSE5FbVcxZU5VT1A5bjNZcG5obzFYYkZRSWtBUkhCaE5SYmJ6WEpnNjVzcU8xZmRlVGNYYw",
-          "author": null,
-          "description": "Google Cloud and the rise of the agentic telco  Google Cloud",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWXZNZ3pUNHBWMWJScXlMdVhjdXk2SExjTEdrUGJaUTJzdmlrN1ZSZjZXNVo3QnhIRER1cGFLbTFXbzlfY3UzMmxrMG1qTGlHSE5FbVcxZU5VT1A5bjNZcG5obzFYYkZRSWtBUkhCaE5SYmJ6WEpnNjVzcU8xZmRlVGNYYw?oc=5",
-          "publishedOn": "2026-03-02T09:16:24.000Z",
-          "wordCount": 12314,
-          "title": "Google Cloud and the rise of the agentic telco - Google Cloud",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikAFBVV95cUxOWlUxdmQwQXNKZy1ZVHlFQ2dYQzhKeDVyVU5vOXBDbnNxMGY0YnBoLVZBVWtFUHRzUHQyRkNjTTNmLXEtMWVrNFR1MlZLTXRuN3N4Uy1HdzFQR1MxbnpxWVRabDdCQl9oOTZnb1N2OGtBVFYzdkJvdXRBMkxRYmdGeEdOYzlWdWlxTDN4dmpFcVc",
-          "author": null,
-          "description": "From framework to scale: Accelerating autonomous networks at MWC 26  Google Cloud",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWlUxdmQwQXNKZy1ZVHlFQ2dYQzhKeDVyVU5vOXBDbnNxMGY0YnBoLVZBVWtFUHRzUHQyRkNjTTNmLXEtMWVrNFR1MlZLTXRuN3N4Uy1HdzFQR1MxbnpxWVRabDdCQl9oOTZnb1N2OGtBVFYzdkJvdXRBMkxRYmdGeEdOYzlWdWlxTDN4dmpFcVc?oc=5",
-          "publishedOn": "2026-03-02T08:28:45.000Z",
-          "wordCount": 7543,
-          "title": "From framework to scale: Accelerating autonomous networks at MWC 26 - Google Cloud",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
