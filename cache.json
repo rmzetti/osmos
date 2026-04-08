@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392696",
+          "author": "Saleh Mubashar",
+          "description": "Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.\nAlternatives to the !important Keyword originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/alternatives-to-the-important-keyword/",
+          "publishedOn": "2026-04-07T13:54:43.000Z",
+          "wordCount": 3769,
+          "title": "Alternatives to the !important Keyword",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/important-style.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=392361",
           "author": "Abhishek Pratap Singh",
           "description": "Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.\nLooking at New CSS Multi-Column Layout Wrapping Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -145,16 +155,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/custom-select.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392843",
-          "author": "Amit Sheen",
-          "description": "How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices.\nThe Value of z-index originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-value-of-z-index/",
-          "publishedOn": "2026-03-09T14:20:01.000Z",
-          "wordCount": 4117,
-          "title": "The Value of z-index",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_8926F490CDA74C2CA8D0B6E99405A055C6BF40F4CCE75686F0BAADE6ECBD39FB_1772115867944_image.png"
         }
       ]
     },
@@ -163,6 +163,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
+          "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
+          "publishedOn": "2026-04-07T10:00:00.000Z",
+          "wordCount": 6596,
+          "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -312,21 +327,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/building-dynamic-forms-react-next-js/building-dynamic-forms-react-next-js.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
-          "author": "hello@smashingmagazine.com (Anders Toxboe)",
-          "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.",
-          "link": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
-          "publishedOn": "2026-03-09T11:00:00.000Z",
-          "wordCount": 7461,
-          "title": "Persuasive Design: Ten Years Later",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg"
         }
       ]
     },
@@ -335,6 +335,196 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://dylanbutler.dev/blog/protect-your-shed/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dylanbutler.dev/blog/protect-your-shed/",
+          "publishedOn": "2026-04-08T03:03:33.000Z",
+          "wordCount": 2594,
+          "title": "Protect Your Shed",
+          "imageUrl": "https://dylanbutler.dev/images/IMG_2205.jpg"
+        },
+        {
+          "id": "http://acme.com/updates/archive/229.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://acme.com/updates/archive/229.html",
+          "publishedOn": "2026-04-08T03:02:56.000Z",
+          "wordCount": 436,
+          "title": "LLM scraper bots are overloading acme.com's HTTPS server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456",
+          "author": null,
+          "description": "Comments",
+          "link": "https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456",
+          "publishedOn": "2026-04-08T00:59:05.000Z",
+          "wordCount": 2860,
+          "title": "JSIR: A High-Level IR for JavaScript",
+          "imageUrl": "https://us1.discourse-cdn.com/flex021/uploads/llvm/original/3X/a/5/a5e2f18e2787b0f7493d9aa43cc2f4d488794c53.png"
+        },
+        {
+          "id": "https://github.com/linebender/xilem",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/linebender/xilem",
+          "publishedOn": "2026-04-07T23:36:15.000Z",
+          "wordCount": 3085,
+          "title": "Xilem – An experimental Rust native UI framework",
+          "imageUrl": "https://opengraph.githubassets.com/2865a17a6a219dfdc7135295a68a9eebc0b8a2f749cc79a6e02c531fda828023/linebender/xilem"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+          "publishedOn": "2026-04-07T22:41:02.000Z",
+          "wordCount": 4966,
+          "title": "US and Iran agree to provisional ceasefire",
+          "imageUrl": "https://i.guim.co.uk/img/media/7cde4a66207fd4d8c625b447df29716f6e1a7235/576_0_4582_3666/master/4582.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2a8729bf6c3d7f318035c7c52fbec3a"
+        },
+        {
+          "id": "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html",
+          "publishedOn": "2026-04-07T20:56:23.000Z",
+          "wordCount": 2504,
+          "title": "Bitcoin and quantum computing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://middle-earth-interactive-map.web.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://middle-earth-interactive-map.web.app/",
+          "publishedOn": "2026-04-07T20:42:37.000Z",
+          "wordCount": 2943,
+          "title": "Show HN: An interactive map of Tolkien's Middle-earth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+          "publishedOn": "2026-04-07T19:44:01.000Z",
+          "wordCount": 6101,
+          "title": "S3 Files",
+          "imageUrl": "https://www.allthingsdistributed.com/images/sunflowers.jpg"
+        },
+        {
+          "id": "https://github.com/mattmireles/gemma-tuner-multimodal",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mattmireles/gemma-tuner-multimodal",
+          "publishedOn": "2026-04-07T19:37:05.000Z",
+          "wordCount": 7893,
+          "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+          "imageUrl": "https://opengraph.githubassets.com/a4d4ac0235f82cbf996971f172a687657824362a9e597a3e3b07a3484e293ac5/mattmireles/gemma-tuner-multimodal"
+        },
+        {
+          "id": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+          "publishedOn": "2026-04-07T18:18:36.000Z",
+          "wordCount": null,
+          "title": "System Card: Claude Mythos Preview [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.anthropic.com/glasswing",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anthropic.com/glasswing",
+          "publishedOn": "2026-04-07T18:09:34.000Z",
+          "wordCount": 6498,
+          "title": "Project Glasswing: Securing critical software for the AI era",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/65641e7846f10255c4a3415a10bbf5793ae87b13-1200x630.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+          "publishedOn": "2026-04-07T17:23:43.000Z",
+          "wordCount": 5216,
+          "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/57be/live/78742bb0-308c-11f1-b297-95b0a0a8331e.jpg"
+        },
+        {
+          "id": "https://printervention.app/details",
+          "author": null,
+          "description": "Comments",
+          "link": "https://printervention.app/details",
+          "publishedOn": "2026-04-07T16:33:57.000Z",
+          "wordCount": 1732,
+          "title": "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://z.ai/blog/glm-5.1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://z.ai/blog/glm-5.1",
+          "publishedOn": "2026-04-07T16:32:15.000Z",
+          "wordCount": 2,
+          "title": "GLM-5.1: Towards Long-Horizon Tasks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nasa.gov/gallery/lunar-flyby/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nasa.gov/gallery/lunar-flyby/",
+          "publishedOn": "2026-04-07T15:03:18.000Z",
+          "wordCount": 1795,
+          "title": "Lunar Flyby",
+          "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg"
+        },
+        {
+          "id": "https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4",
+          "author": null,
+          "description": "Comments",
+          "link": "https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4",
+          "publishedOn": "2026-04-07T14:24:30.000Z",
+          "wordCount": 16022,
+          "title": "A blind man made it possible for others with low vision to build Lego sets",
+          "imageUrl": "https://dims.apnews.com/dims4/default/1d5ad53/2147483647/strip/true/crop/5691x3792+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2F68%2F965d57e2417236d0883bc538ad72%2F2ae52fd71a3d4a6f80890ecffc2dea23"
+        },
+        {
+          "id": "https://blog.cloudflare.com/post-quantum-roadmap/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.cloudflare.com/post-quantum-roadmap/",
+          "publishedOn": "2026-04-07T14:07:34.000Z",
+          "wordCount": 2711,
+          "title": "Cloudflare targets 2029 for full post-quantum security",
+          "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/cyRyBin8jhfj8ufWGp1PI/c8d43126c48ebd6d48c73b2e810ee80d/OG_Share_2024-2025-2026__27_.png"
+        },
+        {
+          "id": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
+          "publishedOn": "2026-04-07T13:39:15.000Z",
+          "wordCount": 6130,
+          "title": "Google open-sources experimental agent orchestration testbed Scion",
+          "imageUrl": "https://res.infoq.com/news/2026/04/google-agent-testbed-scion/en/headerimage/google-scion-1775548099004.jpeg"
+        },
+        {
+          "id": "https://sam-burns.com/posts/concrete-laptop-stand/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sam-burns.com/posts/concrete-laptop-stand/",
+          "publishedOn": "2026-04-07T11:07:44.000Z",
+          "wordCount": 2059,
+          "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+          "imageUrl": "https://sam-burns.com/posts/concrete-laptop-stand/images/main-concrete-laptop-stand-overview.jpg"
+        },
         {
           "id": "https://judoscale.com/blog/heroku-whats-going-on",
           "author": null,
@@ -566,6 +756,26 @@
           "imageUrl": "https://media.newyorker.com/photos/69cd326ac6ea0f4558d6e181/16:9/w_1280,c_limit/r47927.jpg"
         },
         {
+          "id": "https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki",
+          "author": null,
+          "description": "Comments",
+          "link": "https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki",
+          "publishedOn": "2026-04-06T07:56:34.000Z",
+          "wordCount": null,
+          "title": "The Image Boards of Hayao Miyazaki",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
+          "publishedOn": "2026-04-06T05:22:24.000Z",
+          "wordCount": 1977,
+          "title": "A truck driver spent 20 years making a scale model of every building in NYC",
+          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/G1N09dK0V7TdAbp9YbmOTT7FwRY=/fit-in/1600x0/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b8/57/b857e0c7-ca4f-4125-8e59-aa66ff192cf3/city.jpg"
+        },
+        {
           "id": "https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/",
           "author": null,
           "description": "Comments",
@@ -706,6 +916,16 @@
           "imageUrl": "https://opengraph.githubassets.com/99f7c5216c55c1dbeb9cff94f32985bb2672e524c5aa65585ac858f0c3ce6877/mohshomis/modo"
         },
         {
+          "id": "https://hellmood.111mb.de//A_whole_boss_fight_in_256_bytes.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hellmood.111mb.de//A_whole_boss_fight_in_256_bytes.html",
+          "publishedOn": "2026-04-05T22:32:12.000Z",
+          "wordCount": 2184,
+          "title": "A whole boss fight in 256 bytes",
+          "imageUrl": null
+        },
+        {
           "id": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
           "author": null,
           "description": "Comments",
@@ -724,6 +944,16 @@
           "wordCount": 466,
           "title": "The Mechanics of Steins Gate (2023) [pdf]",
           "imageUrl": "https://repository-images.githubusercontent.com/680778275/28c73688-1f10-47dd-9896-98cbb3502c84"
+        },
+        {
+          "id": "https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html",
+          "publishedOn": "2026-04-05T20:37:55.000Z",
+          "wordCount": 987,
+          "title": "Binary obfuscation used in AAA Games",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhPJQN6qeVy8lr8Rikfss5p82ORiNryYFRobl5Xunt61-vavRJxGqxlZeMWtzNsWV8MYWvIh6Ux4v-15tzmb-PX9oote0ptZ5d31jYyEkuGguWGEqQpYsJpv20IFnSL7GLflaO8jiXux8v13zhAskwEyNRXE9jOYmg1XScBXWe_9pG1LqlSVjPAlBWrdKc=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
@@ -774,6 +1004,16 @@
           "wordCount": 9689,
           "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!9o_j!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0321dea-0461-40ae-82da-babbd6fa108e_985x402.png"
+        },
+        {
+          "id": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
+          "publishedOn": "2026-04-05T16:14:12.000Z",
+          "wordCount": 2526,
+          "title": "How to get better at guitar",
+          "imageUrl": "https://jakeworth.com/twittercard.png"
         },
         {
           "id": "https://websites.umich.edu/~mejn/cp2/",
@@ -904,6 +1144,16 @@
           "wordCount": 7327,
           "title": "Advice to Young People, the Lies I Tell Myself (2024)",
           "imageUrl": "https://jxnl.co/assets/images/social/writing/2024/06/01/advice-to-young-people.png"
+        },
+        {
+          "id": "https://blazelight.dev/blog/ms2160.mdx",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blazelight.dev/blog/ms2160.mdx",
+          "publishedOn": "2026-04-04T21:44:55.000Z",
+          "wordCount": null,
+          "title": "ACE on a USB→HDMI Adapter",
+          "imageUrl": null
         },
         {
           "id": "https://static.laszlokorte.de/escher/",
@@ -1056,6 +1306,16 @@
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
         },
         {
+          "id": "https://blog.senko.net/the-clock",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.senko.net/the-clock",
+          "publishedOn": "2026-04-04T10:08:31.000Z",
+          "wordCount": 2277,
+          "title": "The Clock",
+          "imageUrl": "https://cdn.writeas.net/img/w-sq-light.png"
+        },
+        {
           "id": "https://github.com/love2d/love",
           "author": null,
           "description": "Comments",
@@ -1154,6 +1414,16 @@
           "wordCount": null,
           "title": "Delve removed from Y Combinator",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426",
+          "publishedOn": "2026-04-04T00:59:08.000Z",
+          "wordCount": 9562,
+          "title": "Native Americans had dice 12,000 years ago",
+          "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260402-Early-examples-of-Native-American-dice-ew-132p-fbf33e.jpg"
         },
         {
           "id": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
@@ -1346,6 +1616,16 @@
           "imageUrl": "https://opengraph.githubassets.com/a7c0752908194ae65e5c8a9b72831ead1b9ddadced9d1adb1ec2586273ac46cf/guilherme-grimm/graph-go"
         },
         {
+          "id": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
+          "publishedOn": "2026-04-03T14:42:28.000Z",
+          "wordCount": 1426,
+          "title": "Running out of disk space in production",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.hanshq.net/big-endian-qemu.html",
           "author": null,
           "description": "Comments",
@@ -1366,6 +1646,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://printed.analogcamera.space/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://printed.analogcamera.space/",
+          "publishedOn": "2026-04-03T09:02:21.000Z",
+          "wordCount": 129,
+          "title": "A database of analog cameras that can be 3D printed",
+          "imageUrl": "https://printed.analogcamera.space/preview.png"
+        },
+        {
           "id": "https://donotresearch.substack.com/p/welcome-to-the-technocracy",
           "author": null,
           "description": "Comments",
@@ -1373,6 +1663,16 @@
           "publishedOn": "2026-04-03T02:29:22.000Z",
           "wordCount": null,
           "title": "The Technocracy Movement of the 1930s",
+          "imageUrl": null
+        },
+        {
+          "id": "http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html",
+          "publishedOn": "2026-04-03T01:53:15.000Z",
+          "wordCount": 3062,
+          "title": "Slightly safer vibecoding by adopting old hacker habits",
           "imageUrl": null
         },
         {
@@ -8624,306 +8924,6 @@
           "wordCount": 6448,
           "title": "Florida judge rules red light camera tickets are unconstitutional",
           "imageUrl": "https://cbs12.com/resources/media2/16x9/602/1320/37x0/90/0bdb9082-796c-4b80-ae94-3e21c2de95d3-REDLIGHTCAMERA.png"
-        },
-        {
-          "id": "https://felixturner.github.io/hex-map-wfc/article/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://felixturner.github.io/hex-map-wfc/article/",
-          "publishedOn": "2026-03-09T17:02:22.000Z",
-          "wordCount": 3095,
-          "title": "Building a Procedural Hex Map with Wave Function Collapse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
-          "publishedOn": "2026-03-09T16:54:31.000Z",
-          "wordCount": 720,
-          "title": "DARPA’s new X-76",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47311657",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=47311657",
-          "publishedOn": "2026-03-09T16:53:52.000Z",
-          "wordCount": 5082,
-          "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://aresluna.org/fn/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://aresluna.org/fn/",
-          "publishedOn": "2026-03-09T16:53:14.000Z",
-          "wordCount": 4785,
-          "title": "I don't know Apple's endgame for the Fn/Globe key–or if Apple does",
-          "imageUrl": "https://aresluna.org/images/fn/ogimage.png"
-        },
-        {
-          "id": "https://bellard.org/jslinux/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bellard.org/jslinux/",
-          "publishedOn": "2026-03-09T16:43:39.000Z",
-          "wordCount": 119,
-          "title": "JSLinux Now Supports x86_64",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html",
-          "publishedOn": "2026-03-09T16:24:22.000Z",
-          "wordCount": 10712,
-          "title": "An opinionated take on how to do important research that matters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-          "publishedOn": "2026-03-09T15:12:53.000Z",
-          "wordCount": 2217,
-          "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/DenchHQ/DenchClaw",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/DenchHQ/DenchClaw",
-          "publishedOn": "2026-03-09T14:55:42.000Z",
-          "wordCount": 1520,
-          "title": "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
-          "imageUrl": "https://opengraph.githubassets.com/29723d9833bb6abcce74a4ccb049d55458729966309d14e3596af8694b05f6a1/DenchHQ/DenchClaw"
-        },
-        {
-          "id": "https://internals-for-interns.com/posts/go-runtime-scheduler/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://internals-for-interns.com/posts/go-runtime-scheduler/",
-          "publishedOn": "2026-03-09T14:54:31.000Z",
-          "wordCount": 9523,
-          "title": "Understanding the Go Runtime: The Scheduler",
-          "imageUrl": "https://internals-for-interns.com/images/go-runtime-header.webp"
-        },
-        {
-          "id": "https://ben-mini.com/2024/img-0416",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ben-mini.com/2024/img-0416",
-          "publishedOn": "2026-03-09T13:07:45.000Z",
-          "wordCount": 904,
-          "title": "IMG_0416 (2024)",
-          "imageUrl": "https://ben-mini.com/assets/images/logo-square.png"
-        },
-        {
-          "id": "https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol",
-          "publishedOn": "2026-03-09T12:38:46.000Z",
-          "wordCount": 2574,
-          "title": "Reverse-engineering the UniFi inform protocol",
-          "imageUrl": "https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol/opengraph-image?e6b9cb467c38a6c9"
-        },
-        {
-          "id": "https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/",
-          "publishedOn": "2026-03-09T12:15:07.000Z",
-          "wordCount": 403,
-          "title": "No leap second will be introduced at the end of June 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sharif.io/looking-stupid",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sharif.io/looking-stupid",
-          "publishedOn": "2026-03-09T10:21:58.000Z",
-          "wordCount": 3252,
-          "title": "A willingness to look stupid is the most underrated moat in doing creative work",
-          "imageUrl": "https://api.sharif.io/content/images/2026/03/IMG_1749-1.jpg"
-        },
-        {
-          "id": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
-          "publishedOn": "2026-03-09T10:14:59.000Z",
-          "wordCount": 4412,
-          "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
-          "imageUrl": "https://www.pv-magazine.com/wp-content/uploads/2025/06/ESB_Moneypoint_Generating_Station_-_geograph.org_.uk_-_12606_crop.v1.jpg"
-        },
-        {
-          "id": "https://www.smartlab.at/rss-revival-life-after-social-media/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.smartlab.at/rss-revival-life-after-social-media/",
-          "publishedOn": "2026-03-09T04:27:59.000Z",
-          "wordCount": 2515,
-          "title": "The Death of Social Media Is the Renaissance of RSS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bbc.com/future/article/20260306-the-wake-up-tricks-people-used-before-alarm-clocks",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/future/article/20260306-the-wake-up-tricks-people-used-before-alarm-clocks",
-          "publishedOn": "2026-03-09T00:09:54.000Z",
-          "wordCount": 10994,
-          "title": "How people woke up before alarm clocks",
-          "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0n52mdl.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47303111",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=47303111",
-          "publishedOn": "2026-03-09T00:07:18.000Z",
-          "wordCount": 19694,
-          "title": "Ask HN: What Are You Working On? (March 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://walzr.com/last-statements",
-          "author": null,
-          "description": "Comments",
-          "link": "https://walzr.com/last-statements",
-          "publishedOn": "2026-03-08T22:54:08.000Z",
-          "wordCount": null,
-          "title": "Last Statements",
-          "imageUrl": null
-        },
-        {
-          "id": "https://offlinemark.com/an-obscure-quirk-of-proc/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://offlinemark.com/an-obscure-quirk-of-proc/",
-          "publishedOn": "2026-03-08T22:50:55.000Z",
-          "wordCount": null,
-          "title": "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/blacksky-algorithms/atproto",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/blacksky-algorithms/atproto",
-          "publishedOn": "2026-03-08T21:40:35.000Z",
-          "wordCount": 6567,
-          "title": "Blacksky AppView",
-          "imageUrl": "https://opengraph.githubassets.com/b534b86d4aab3422f7bd5578ef42a2a78eeefc8ba88ef8a14ef664bcc428b276/blacksky-algorithms/atproto"
-        },
-        {
-          "id": "https://basicappleguy.com/basicappleblog/lil-finder-guy",
-          "author": null,
-          "description": "Comments",
-          "link": "https://basicappleguy.com/basicappleblog/lil-finder-guy",
-          "publishedOn": "2026-03-08T20:43:19.000Z",
-          "wordCount": 1356,
-          "title": "Lil Finder Guy",
-          "imageUrl": "http://static1.squarespace.com/static/5e949a92e17d55230cd1d44f/5e949bf1af9d553df47e07b6/69ada92bc638f84c844cffc7/1772990121286/Lil+Finder+Guy+2.png?format=1500w"
-        },
-        {
-          "id": "https://github.com/Rabrg/artificial-life",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Rabrg/artificial-life",
-          "publishedOn": "2026-03-08T20:42:41.000Z",
-          "wordCount": 1242,
-          "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
-          "imageUrl": "https://opengraph.githubassets.com/ca1a61c0858bc551af6a465d4be3b308800333d35ab905249662193031e1e1fe/Rabrg/artificial-life"
-        },
-        {
-          "id": "https://agent-safehouse.dev/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://agent-safehouse.dev/",
-          "publishedOn": "2026-03-08T20:30:18.000Z",
-          "wordCount": 546,
-          "title": "Agent Safehouse – macOS-native sandboxing for local agents",
-          "imageUrl": "https://agent-safehouse.dev/og-image.png"
-        },
-        {
-          "id": "https://lamag.com/news/the-end/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lamag.com/news/the-end/",
-          "publishedOn": "2026-03-08T20:01:19.000Z",
-          "wordCount": 11985,
-          "title": "What Happens After You Die? (2016)",
-          "imageUrl": "https://lamag.com/wp-content/uploads/2023/04/theend.jpg"
-        },
-        {
-          "id": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-          "publishedOn": "2026-03-08T19:58:15.000Z",
-          "wordCount": 1587,
-          "title": "We should revisit literate programming in the agent era",
-          "imageUrl": "https://silly.business/images/thumb.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47300329",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=47300329",
-          "publishedOn": "2026-03-08T19:26:59.000Z",
-          "wordCount": 25812,
-          "title": "Ask HN: Please restrict new accounts from posting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/BigBodyCobain/Shadowbroker",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/BigBodyCobain/Shadowbroker",
-          "publishedOn": "2026-03-08T19:07:33.000Z",
-          "wordCount": 7671,
-          "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
-          "imageUrl": "https://opengraph.githubassets.com/5af7874d03c108bfa0e018774383453820f7ed1dbef52b57722824de464f6651/BigBodyCobain/Shadowbroker"
-        },
-        {
-          "id": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
-          "publishedOn": "2026-03-08T18:18:40.000Z",
-          "wordCount": null,
-          "title": "I made a programming language with M&Ms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/bostrot/wsl2-distro-manager",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/bostrot/wsl2-distro-manager",
-          "publishedOn": "2026-03-08T18:08:36.000Z",
-          "wordCount": 2433,
-          "title": "WSL Manager",
-          "imageUrl": "https://repository-images.githubusercontent.com/407645904/34cef69a-f94e-42c2-a9f0-c0b8c9fbd735"
-        },
-        {
-          "id": "https://skir.build/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://skir.build/",
-          "publishedOn": "2026-03-08T17:17:54.000Z",
-          "wordCount": 2254,
-          "title": "Show HN: Skir – like Protocol Buffer but better",
-          "imageUrl": null
         }
       ]
     },
@@ -9160,26 +9160,6 @@
           "wordCount": 5459,
           "title": "Sovereign compute for small collectives: a technical implementation guide",
           "imageUrl": "https://danmackinlay.name/generated_thumbnails/opengraph_previews/images/colossal_elephant_section.og.jpg"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/neo_friendly_societies_technical.html",
-          "author": null,
-          "description": "Figure 1\n\n\n\nThis is a companion to Who wants to found a friendly society?, where I sketch out the pitch for a neo-friendly society—a small mutual that invests in counter-cyclical assets as a hedge against state weakness. That post is the why. This one is the how, or more honestly, the can we?\nThe question: if a group of 50 people wanted to pool money, invest it in ETFs and catastrophe bonds, and provide mutual aid to members in hard times—what legal structure would they use in Australia, and could AI agents compress the compliance costs enough to make it viable?\nSound interesting? Get in touch.\n\n\n\nI set Claude to work researching this. It is a start. I have stopped here, with some directions for further research, and one worked-out war-game scenario where we go maximally ambitious.\n1 What …",
-          "link": "https://danmackinlay.name/notebook/neo_friendly_societies_technical.html",
-          "publishedOn": "2026-03-08T23:00:00.000Z",
-          "wordCount": 5323,
-          "title": "Hacking financial regulation for community mutual aid",
-          "imageUrl": "https://danmackinlay.name/generated_thumbnails/opengraph_previews/images/maggior_consiglio_RP-P-2018-1237.og.jpg"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/democratizing_australian_financial_organisation.html",
-          "author": null,
-          "description": "Figure 1\n\n\n\nThis is a companion to Who wants to found a friendly society?, where I sketch out the pitch for a neo-friendly society—a small mutual that invests in counter-cyclical assets as a hedge against state weakness. That post is the why. This one is the how, or more honestly, the can we?\nThe question: if a group of 50 people wanted to pool money, invest it in ETFs and catastrophe bonds, and provide mutual aid to members in hard times—what legal structure would they use in Australia, and could AI agents compress the compliance costs enough to make it viable?\n\n\n\nI set Claude to work researching this. It is a start. I have stopped here, with some directions for further research, and one worked-out war-game scenario where we go maximally ambitious.\n1 What are we in Australian law?\nThis is…",
-          "link": "https://danmackinlay.name/notebook/democratizing_australian_financial_organisation.html",
-          "publishedOn": "2026-03-08T23:00:00.000Z",
-          "wordCount": 5303,
-          "title": "Hacking financial regulation for community mutual aid",
-          "imageUrl": "https://danmackinlay.name/generated_thumbnails/opengraph_previews/images/maggior_consiglio_RP-P-2018-1237.og.jpg"
         }
       ]
     },
@@ -9196,6 +9176,16 @@
           "publishedOn": "2026-04-03T01:27:29.000Z",
           "wordCount": 12271,
           "title": "Google AI Shopping Features: How to Maximize Your Visibility - Shopify",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilwFBVV95cUxPcEJQTnNDbWh2SFBkRWtyWWxMYlNpYWxQM3czdlJzWjdDRGE0QnJ2bU54MUNWS2FmZEh5MHYzWlFrTm5JajRMNlZlZmlEZGp5bFZpRmRZVk5mT1h6MU9PR2x0RTNubUd4aEZOREtWVHZWZG1TS1FxeGFoLWEzbWV5OC1sMml6czExNFp1VnRQNWdpSXU1VUFn",
+          "author": null,
+          "description": "Create, edit and share videos at no cost in Google Vids  blog.google",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEJQTnNDbWh2SFBkRWtyWWxMYlNpYWxQM3czdlJzWjdDRGE0QnJ2bU54MUNWS2FmZEh5MHYzWlFrTm5JajRMNlZlZmlEZGp5bFZpRmRZVk5mT1h6MU9PR2x0RTNubUd4aEZOREtWVHZWZG1TS1FxeGFoLWEzbWV5OC1sMml6czExNFp1VnRQNWdpSXU1VUFn?oc=5",
+          "publishedOn": "2026-04-02T17:02:15.000Z",
+          "wordCount": 12271,
+          "title": "Create, edit and share videos at no cost in Google Vids - blog.google",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
