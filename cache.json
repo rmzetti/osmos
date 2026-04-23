@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392286",
+          "author": "Zell Liew",
+          "description": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\nEnhancing Astro With a Markdown Component originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/astro-markdown-component/",
+          "publishedOn": "2026-04-22T13:49:57.000Z",
+          "wordCount": 3538,
+          "title": "Enhancing Astro With a Markdown Component",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=392278",
           "author": "Zell Liew",
           "description": "Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.\nMarkdown + Astro = ❤️ originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -174,6 +184,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
+          "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
+          "publishedOn": "2026-04-22T10:00:00.000Z",
+          "wordCount": 4130,
+          "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
           "author": "hello@smashingmagazine.com (Eleanor Hecks)",
           "description": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
@@ -262,21 +287,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
-          "author": "hello@smashingmagazine.com (Ruben Ferreira Duarte)",
-          "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
-          "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
-          "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6100,
-          "title": "Testing Font Scaling For Accessibility With Figma Variables",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg"
         }
       ]
     },
@@ -285,6 +295,216 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://crawshaw.io/blog/building-a-cloud",
+          "author": null,
+          "description": "Comments",
+          "link": "https://crawshaw.io/blog/building-a-cloud",
+          "publishedOn": "2026-04-23T04:44:19.000Z",
+          "wordCount": 1703,
+          "title": "I am building a cloud",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/",
+          "publishedOn": "2026-04-23T04:17:14.000Z",
+          "wordCount": 8779,
+          "title": "A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
+          "publishedOn": "2026-04-23T02:55:17.000Z",
+          "wordCount": 6679,
+          "title": "Borrow-checking without type-checking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openreview.net/pdf?id=C1bkDPqvDW",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openreview.net/pdf?id=C1bkDPqvDW",
+          "publishedOn": "2026-04-23T02:52:00.000Z",
+          "wordCount": 8690,
+          "title": "Flow Map Learning via Nongradient Vector Flow [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tempest.homemade.systems/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tempest.homemade.systems/",
+          "publishedOn": "2026-04-23T01:02:32.000Z",
+          "wordCount": 329,
+          "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
+          "imageUrl": "https://tempest.homemade.systems/images/cover_front.jpg"
+        },
+        {
+          "id": "https://openai.com/index/axios-developer-tool-compromise/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openai.com/index/axios-developer-tool-compromise/",
+          "publishedOn": "2026-04-23T00:45:01.000Z",
+          "wordCount": null,
+          "title": "OpenAI's response to the Axios developer tool compromise",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jtomschroeder.com/blog/approximating-tanh/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jtomschroeder.com/blog/approximating-tanh/",
+          "publishedOn": "2026-04-22T23:46:38.000Z",
+          "wordCount": 2362,
+          "title": "Approximating Hyperbolic Tangent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
+          "publishedOn": "2026-04-22T22:25:28.000Z",
+          "wordCount": 1390,
+          "title": "Bring your own Agent to MS Teams",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gardenandgun.com/new-orleans-neon-king",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gardenandgun.com/new-orleans-neon-king",
+          "publishedOn": "2026-04-22T21:26:38.000Z",
+          "wordCount": 2031,
+          "title": "The Neon King of New Orleans",
+          "imageUrl": "https://gardenandgun.com/wp-content/uploads/2026/04/gg0226-arts-01-1600x1067.jpg"
+        },
+        {
+          "id": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+          "publishedOn": "2026-04-22T20:27:31.000Z",
+          "wordCount": 3204,
+          "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/iphone-pop-up-notifications.jpg?resize=1200,900"
+        },
+        {
+          "id": "https://flipbook.page/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://flipbook.page/",
+          "publishedOn": "2026-04-22T18:01:18.000Z",
+          "wordCount": 3,
+          "title": "Website streamed live directly from a model",
+          "imageUrl": "/flipbook-unfurl.jpg"
+        },
+        {
+          "id": "https://nrehiew.github.io/blog/minimal_editing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nrehiew.github.io/blog/minimal_editing/",
+          "publishedOn": "2026-04-22T17:51:17.000Z",
+          "wordCount": 3454,
+          "title": "Over-editing refers to a model modifying code beyond what is necessary",
+          "imageUrl": null
+        },
+        {
+          "id": "https://zed.dev/blog/parallel-agents",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zed.dev/blog/parallel-agents",
+          "publishedOn": "2026-04-22T17:38:57.000Z",
+          "wordCount": 13015,
+          "title": "Parallel agents in Zed",
+          "imageUrl": "https://zed.dev/img/post/parallel-agents/thumbnail.webp"
+        },
+        {
+          "id": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+          "publishedOn": "2026-04-22T17:35:03.000Z",
+          "wordCount": 36446,
+          "title": "We found a stable Firefox identifier linking all your private Tor identities",
+          "imageUrl": "https://fingerprint.com/static/893bf56cdf5a22443c3b3ace0bb862df/blog_firefox_vulnerability.jpg"
+        },
+        {
+          "id": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+          "publishedOn": "2026-04-22T16:29:25.000Z",
+          "wordCount": 8587,
+          "title": "Alberta startup sells no-tech tractors for half price",
+          "imageUrl": "https://wheelfront.com/wp-content/uploads/2026/04/news_image_1776716649_0.jpg"
+        },
+        {
+          "id": "https://martinfowler.com/fragments/2026-04-02.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://martinfowler.com/fragments/2026-04-02.html",
+          "publishedOn": "2026-04-22T16:11:23.000Z",
+          "wordCount": 1177,
+          "title": "Technical, cognitive, and intent debt",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
+          "id": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
+          "publishedOn": "2026-04-22T15:13:48.000Z",
+          "wordCount": null,
+          "title": "Ping-pong robot beats top-level human players",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.adriankrebs.ch/blog/design-slop/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.adriankrebs.ch/blog/design-slop/",
+          "publishedOn": "2026-04-22T14:44:32.000Z",
+          "wordCount": 761,
+          "title": "Scoring Show HN submissions for AI design patterns",
+          "imageUrl": "https://adriankrebs.ch/_astro/og-default.B6BqwTMP.svg"
+        },
+        {
+          "id": "https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age",
+          "author": null,
+          "description": "Comments",
+          "link": "https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age",
+          "publishedOn": "2026-04-22T14:15:44.000Z",
+          "wordCount": null,
+          "title": "The handmade beauty of Machine Age data visualizations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
+          "publishedOn": "2026-04-22T13:28:40.000Z",
+          "wordCount": 2909,
+          "title": "Ultraviolet corona discharges on treetops during storms",
+          "imageUrl": "https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/styles/16_9_1000w/public/2026/04/corona-news-1.jpg?h=84071268&itok=bocHWT_2"
+        },
+        {
+          "id": "https://qwen.ai/blog?id=qwen3.6-27b",
+          "author": null,
+          "description": "Comments",
+          "link": "https://qwen.ai/blog?id=qwen3.6-27b",
+          "publishedOn": "2026-04-22T13:19:58.000Z",
+          "wordCount": 206,
+          "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+          "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg"
+        },
         {
           "id": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/",
           "author": null,
@@ -334,6 +554,16 @@
           "wordCount": 441,
           "title": "Claude Code to be removed from Anthropic's Pro plan?",
           "imageUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qc6xzgctorfsm35w6i3vdebx/bafkreiddpkqpxwsi42rgzrktvrzurcwjcmwbegqouwd5u3qsz5c5c4drte"
+        },
+        {
+          "id": "https://daringfireball.net/2026/04/another_day_has_come",
+          "author": null,
+          "description": "Comments",
+          "link": "https://daringfireball.net/2026/04/another_day_has_come",
+          "publishedOn": "2026-04-21T20:52:19.000Z",
+          "wordCount": 1384,
+          "title": "Another Day Has Come",
+          "imageUrl": "https://daringfireball.net/graphics/df-wide-card.png"
         },
         {
           "id": "https://openai.com/index/introducing-chatgpt-images-2-0/",
@@ -456,6 +686,16 @@
           "imageUrl": "https://courthousenews.com/wp-content/uploads/2026/04/mars-rover-800x600.jpg"
         },
         {
+          "id": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
+          "publishedOn": "2026-04-21T09:55:49.000Z",
+          "wordCount": 3632,
+          "title": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/04/FlagellarMotors-crKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
           "author": null,
           "description": "Comments",
@@ -473,6 +713,16 @@
           "publishedOn": "2026-04-21T03:43:03.000Z",
           "wordCount": 1154,
           "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html",
+          "publishedOn": "2026-04-21T01:23:23.000Z",
+          "wordCount": null,
+          "title": "The Onion to Take over InfoWars",
           "imageUrl": null
         },
         {
@@ -514,6 +764,26 @@
           "wordCount": 14929,
           "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
           "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2025/05/open-ai-data-chatgpt-2025.jpg?w=600&h=315&crop=1"
+        },
+        {
+          "id": "https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html",
+          "publishedOn": "2026-04-20T21:00:43.000Z",
+          "wordCount": 16674,
+          "title": "What killed the Florida orange?",
+          "imageUrl": "https://compote.slate.com/images/626c03c0-c821-4aec-a0bf-c92e3250350a.jpeg?crop=6000%2C4000%2Cx0%2Cy0&width=1560"
+        },
+        {
+          "id": "https://verus-lang.github.io/verus/guide/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://verus-lang.github.io/verus/guide/",
+          "publishedOn": "2026-04-20T20:42:05.000Z",
+          "wordCount": 932,
+          "title": "Verus is a tool for verifying the correctness of code written in Rust",
+          "imageUrl": null
         },
         {
           "id": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
@@ -586,6 +856,16 @@
           "imageUrl": "https://assets.buttondown.email/images/4de912cf-5147-4672-9800-4510d734d5ec.jpeg?w=960&fit=max"
         },
         {
+          "id": "https://effekt-lang.org/blog/recursion-schemes/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://effekt-lang.org/blog/recursion-schemes/",
+          "publishedOn": "2026-04-20T15:48:19.000Z",
+          "wordCount": 1739,
+          "title": "Effectful Recursion Schemes",
+          "imageUrl": "https://effekt-lang.org/img/poster.png"
+        },
+        {
           "id": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
           "author": null,
           "description": "Comments",
@@ -624,6 +904,16 @@
           "wordCount": 4121,
           "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
           "imageUrl": "https://mediator.ai/assets/og-image.png"
+        },
+        {
+          "id": "https://perthirtysix.com/how-the-heck-does-shazam-work",
+          "author": null,
+          "description": "Comments",
+          "link": "https://perthirtysix.com/how-the-heck-does-shazam-work",
+          "publishedOn": "2026-04-20T15:04:04.000Z",
+          "wordCount": 6535,
+          "title": "How does Shazam work?",
+          "imageUrl": "https://perthirtysix.com/img/shazam-cover.png"
         },
         {
           "id": "https://qwen.ai/blog?id=qwen3.6-max-preview",
@@ -904,6 +1194,16 @@
           "wordCount": 39718,
           "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
           "imageUrl": "https://cdn.mos.cms.futurecdn.net/FMANT4DGMrKnDjrSVT8sui-1920-80.jpg"
+        },
+        {
+          "id": "https://maurycyz.com/projects/mcufont/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://maurycyz.com/projects/mcufont/",
+          "publishedOn": "2026-04-19T15:19:28.000Z",
+          "wordCount": 1410,
+          "title": "5x5 Pixel font for tiny screens",
+          "imageUrl": null
         },
         {
           "id": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
@@ -1224,6 +1524,16 @@
           "wordCount": 903,
           "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
           "imageUrl": "https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/69cc089669ab0df26e921aac_prism-og-img%20(2).png"
+        },
+        {
+          "id": "https://bodegacatsofnewyork.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bodegacatsofnewyork.com/",
+          "publishedOn": "2026-04-18T02:26:57.000Z",
+          "wordCount": 960,
+          "title": "Bodega cats of New York",
+          "imageUrl": "https://rpomgbnhmmrgcisvjfoz.supabase.co/storage/v1/object/public/newsletter-images/Chanel-887-Fulton/1770506584748-275-2X3A9031.jpg"
         },
         {
           "id": "https://victorpoughon.github.io/interval-calculator/",
@@ -8584,276 +8894,6 @@
           "wordCount": 10311,
           "title": "Arm AGI CPU",
           "imageUrl": "https://newsroom.arm.com/wp-content/uploads/2026/03/20260216_VISION25_ExplodedTight_Chip-01-16x9_16bit-768x432.png"
-        },
-        {
-          "id": "https://github.com/facebookresearch/hyperagents",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/facebookresearch/hyperagents",
-          "publishedOn": "2026-03-24T16:54:10.000Z",
-          "wordCount": 2220,
-          "title": "HyperAgents: Self-referential self-improving agents",
-          "imageUrl": "https://opengraph.githubassets.com/627fffbe14e3a2d169b20ba5d4bc6516850a0d25658763eaf428de2acd1e0a17/facebookresearch/HyperAgents"
-        },
-        {
-          "id": "https://www.emailmd.dev/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.emailmd.dev/",
-          "publishedOn": "2026-03-24T16:26:00.000Z",
-          "wordCount": 458,
-          "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/t8/hypura",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/t8/hypura",
-          "publishedOn": "2026-03-24T16:02:22.000Z",
-          "wordCount": 4924,
-          "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-          "imageUrl": "https://opengraph.githubassets.com/711237913cd09bbfcbee136b485f693f788a35690c9c8ac977b091fe962cd017/t8/hypura"
-        },
-        {
-          "id": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-          "publishedOn": "2026-03-24T15:29:41.000Z",
-          "wordCount": 5725,
-          "title": "Apple Business",
-          "imageUrl": "https://www.apple.com/newsroom/images/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/tile/Apple-Business-hero-lp.jpg.og.jpg?202603241910"
-        },
-        {
-          "id": "https://antithesis.com/blog/2026/hegel/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://antithesis.com/blog/2026/hegel/",
-          "publishedOn": "2026-03-24T15:28:17.000Z",
-          "wordCount": 5057,
-          "title": "Hypothesis, Antithesis, synthesis",
-          "imageUrl": "https://antithesis.com/blog/2026/hegel/images/hedgel.jpg"
-        },
-        {
-          "id": "https://github.com/ssrajadh/sentrysearch",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/ssrajadh/sentrysearch",
-          "publishedOn": "2026-03-24T14:58:27.000Z",
-          "wordCount": 3964,
-          "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
-          "imageUrl": "https://opengraph.githubassets.com/1e81fd912445b04d82a281623f9d872a13659912e52642c3e7ca5fab9f72eb9d/ssrajadh/sentrysearch"
-        },
-        {
-          "id": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
-          "publishedOn": "2026-03-24T13:00:38.000Z",
-          "wordCount": 2229,
-          "title": "Missile defense is NP-complete",
-          "imageUrl": null
-        },
-        {
-          "id": "https://taylor.town/other-side",
-          "author": null,
-          "description": "Comments",
-          "link": "https://taylor.town/other-side",
-          "publishedOn": "2026-03-24T12:46:22.000Z",
-          "wordCount": 599,
-          "title": "Why did the chicken cross the road?",
-          "imageUrl": "/chicken-dynamics.png"
-        },
-        {
-          "id": "https://github.com/BerriAI/litellm/issues/24512",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/BerriAI/litellm/issues/24512",
-          "publishedOn": "2026-03-24T12:06:29.000Z",
-          "wordCount": 3730,
-          "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-          "imageUrl": "https://opengraph.githubassets.com/45256c9719663f39ca086535c13dfb13ebce80191e801cc19c80694faa412c99/BerriAI/litellm/issues/24512"
-        },
-        {
-          "id": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
-          "publishedOn": "2026-03-24T04:22:15.000Z",
-          "wordCount": null,
-          "title": "Nashville library launches Memory Lab for digitizing home movies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.jackhogan.me/blog/box-of-secrets/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.jackhogan.me/blog/box-of-secrets/",
-          "publishedOn": "2026-03-24T04:11:46.000Z",
-          "wordCount": 2127,
-          "title": "Box of Secrets: Discreetly modding an apartment intercom with Matter",
-          "imageUrl": "https://jackhogan.me//blog/box-of-secrets/og.png"
-        },
-        {
-          "id": "https://oilprice.com/Energy/Energy-General/Cubas-Fragile-Power-Grid-Finds-a-Powerful-New-Partner.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://oilprice.com/Energy/Energy-General/Cubas-Fragile-Power-Grid-Finds-a-Powerful-New-Partner.html",
-          "publishedOn": "2026-03-24T03:32:14.000Z",
-          "wordCount": 4646,
-          "title": "Cuba's Fragile Power Grid Finds a Powerful New Partner",
-          "imageUrl": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-19_6ci7pgj0n5.jpg"
-        },
-        {
-          "id": "https://jamanetwork.com/journals/jama/fullarticle/2847011",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jamanetwork.com/journals/jama/fullarticle/2847011",
-          "publishedOn": "2026-03-24T03:08:56.000Z",
-          "wordCount": null,
-          "title": "Embracing Bayesian methods in clinical trials",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932",
-          "publishedOn": "2026-03-24T01:54:03.000Z",
-          "wordCount": 2202,
-          "title": "Sunsetting the Techempower Framework Benchmarks",
-          "imageUrl": "https://opengraph.githubassets.com/ff9989fd18ebb37ec551fb7d5272a18067ea5b44b6ce6a824eeddc1d7f5ac4ec/TechEmpower/FrameworkBenchmarks/issues/10932"
-        },
-        {
-          "id": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-          "author": null,
-          "description": "Comments",
-          "link": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-          "publishedOn": "2026-03-24T01:53:09.000Z",
-          "wordCount": 2370,
-          "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
-          "imageUrl": "https://epoch.ai/assets/images/frontiermath/open-problems-cover.png"
-        },
-        {
-          "id": "https://github.com/andreasjansson/win-3.1-backgrounds",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/andreasjansson/win-3.1-backgrounds",
-          "publishedOn": "2026-03-23T22:52:35.000Z",
-          "wordCount": 479,
-          "title": "Windows 3.1 tiled background .bmp archive",
-          "imageUrl": "https://opengraph.githubassets.com/5a40f9f94860f8391df83a6ceac30412fa008e98a088a535fc657646f87ae4d3/andreasjansson/win-3.1-backgrounds"
-        },
-        {
-          "id": "https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/",
-          "publishedOn": "2026-03-23T22:37:15.000Z",
-          "wordCount": 1407,
-          "title": "IRIX 3dfx Voodoo driver and glide2x IRIX port",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
-          "publishedOn": "2026-03-23T22:01:15.000Z",
-          "wordCount": 3480,
-          "title": "The Resolv hack: How one compromised key printed $23M",
-          "imageUrl": "https://www.chainalysis.com/wp-content/uploads/2026/03/2026-03-attack-on-resolve-2.jpg"
-        },
-        {
-          "id": "https://cc.storyfox.cz/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cc.storyfox.cz/",
-          "publishedOn": "2026-03-23T21:44:20.000Z",
-          "wordCount": 2450,
-          "title": "Claude Code Cheat Sheet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-          "publishedOn": "2026-03-23T21:28:02.000Z",
-          "wordCount": null,
-          "title": "FCC updates covered list to include foreign-made consumer routers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html",
-          "publishedOn": "2026-03-23T21:18:53.000Z",
-          "wordCount": 6014,
-          "title": "LG's new 1Hz display is the secret behind a new laptop's battery life",
-          "imageUrl": "https://www.pcworld.com/wp-content/uploads/2026/03/dell-xps-14-3-1.jpeg?quality=50&strip=all&w=1024"
-        },
-        {
-          "id": "https://atgreen.github.io/repl-yell/posts/whistler/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://atgreen.github.io/repl-yell/posts/whistler/",
-          "publishedOn": "2026-03-23T21:13:16.000Z",
-          "wordCount": 2249,
-          "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://neilkakkar.com/productive-with-claude-code.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://neilkakkar.com/productive-with-claude-code.html",
-          "publishedOn": "2026-03-23T20:49:10.000Z",
-          "wordCount": 1408,
-          "title": "How I'm Productive with Claude Code",
-          "imageUrl": "https://neilkakkar.com/assets/images/productive-with-claude-code-cover.png"
-        },
-        {
-          "id": "https://github.com/bjarneo/cliamp",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/bjarneo/cliamp",
-          "publishedOn": "2026-03-23T20:42:22.000Z",
-          "wordCount": 1998,
-          "title": "A retro terminal music player inspired by Winamp",
-          "imageUrl": "https://opengraph.githubassets.com/392b8d4ecbb3f5c824275fe0169e373dc8d0c68dc1c48676d35a2fe873bb1e1e/bjarneo/cliamp"
-        },
-        {
-          "id": "https://magnifiedsand.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://magnifiedsand.com/",
-          "publishedOn": "2026-03-23T18:59:03.000Z",
-          "wordCount": 3686,
-          "title": "Explore the Hidden World of Sand",
-          "imageUrl": "https://magnifiedsand.com/wp-content/uploads/2020/11/Syotenkyo-Kazuranohama-Beach-Kyoto-Japan-sand-under-microscope-4-square.jpg"
-        },
-        {
-          "id": "https://github.com/localstack/localstack",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/localstack/localstack",
-          "publishedOn": "2026-03-23T18:57:08.000Z",
-          "wordCount": 4784,
-          "title": "Local Stack Archived their GitHub repo and requires an account to run",
-          "imageUrl": "https://repository-images.githubusercontent.com/71948498/7a7abf27-e02e-4544-8d0f-0a8630e5b77b"
-        },
-        {
-          "id": "https://ykumar.me/blog/eclip-autoresearch/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ykumar.me/blog/eclip-autoresearch/",
-          "publishedOn": "2026-03-23T18:40:58.000Z",
-          "wordCount": null,
-          "title": "Autoresearch on an old research idea",
-          "imageUrl": null
         }
       ]
     },
@@ -8919,6 +8959,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/food-environment/2026/world-way-off-target-of-climate-goals-whats-next",
+          "author": "Nicola Jones",
+          "description": "Once global warming peaks, it will take centuries to cool things back down. But we can bend the curve by cutting fossil fuel emissions now.",
+          "link": "https://knowablemagazine.org/content/article/food-environment/2026/world-way-off-target-of-climate-goals-whats-next",
+          "publishedOn": "2026-04-22T00:00:22.000Z",
+          "wordCount": null,
+          "title": "The world has veered way off-target of its climate goals. Can we rebound?",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/climate-overshoot-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/climate-overshoot-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/health-disease/2026/the-growing-need-for-post-cancer-health-care",
           "author": "Lola Butcher",
@@ -9276,26 +9331,6 @@
           "publishedOn": "2026-03-25T13:31:52.000Z",
           "wordCount": 12271,
           "title": "Quantum frontiers may be closer than they appear - blog.google",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikwFBVV95cUxPeF9WSEZneXZLMWZSdnJkS2o0RkdPaURFS2Z6eGJObXJiM2R6cGl5MGh0cWFPNnJFa01YcXJVVE1KanBiNk1zXzcyUWFQeGRJQVk0dkxNdWZ1eHc4SEZadzBKd1AwQ1NHZGt0dVZtZjVpM2c0RGYxN2NpOFY3SUdUaGtJZ2RXQml2by1uZjFmeUlnN1U",
-          "author": null,
-          "description": "Building superconducting and neutral atom quantum computers  blog.google",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeF9WSEZneXZLMWZSdnJkS2o0RkdPaURFS2Z6eGJObXJiM2R6cGl5MGh0cWFPNnJFa01YcXJVVE1KanBiNk1zXzcyUWFQeGRJQVk0dkxNdWZ1eHc4SEZadzBKd1AwQ1NHZGt0dVZtZjVpM2c0RGYxN2NpOFY3SUdUaGtJZ2RXQml2by1uZjFmeUlnN1U?oc=5",
-          "publishedOn": "2026-03-24T17:15:11.000Z",
-          "wordCount": 12272,
-          "title": "Building superconducting and neutral atom quantum computers - blog.google",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimgFBVV95cUxPUEFIbWlGbERpeU9FSVdfa3NEY0dnV0g5YU93QjZ2bjh3WEVMRW9lTVBGeVJSM2tVY2gwWUhVYUVvSGduTlJfel9LeEJiNW44c2ZpT1dEUTNpM1dsa3l4cGczazFzTzliUGc4NjQ1aTBOUExINGZzbFZXY01TMDRYNTA4UmxOSTVhelptanRqZkRKUk9vU1N3SldR",
-          "author": null,
-          "description": "3 new Gemini features are coming to Google TV  blog.google",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUEFIbWlGbERpeU9FSVdfa3NEY0dnV0g5YU93QjZ2bjh3WEVMRW9lTVBGeVJSM2tVY2gwWUhVYUVvSGduTlJfel9LeEJiNW44c2ZpT1dEUTNpM1dsa3l4cGczazFzTzliUGc4NjQ1aTBOUExINGZzbFZXY01TMDRYNTA4UmxOSTVhelptanRqZkRKUk9vU1N3SldR?oc=5",
-          "publishedOn": "2026-03-24T16:30:32.000Z",
-          "wordCount": 12272,
-          "title": "3 new Gemini features are coming to Google TV - blog.google",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
