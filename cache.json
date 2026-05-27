@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395048",
+          "author": "Geoff Graham",
+          "description": "This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.\nTechnical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/technical-writing-in-the-ai-age/",
+          "publishedOn": "2026-05-26T13:49:28.000Z",
+          "wordCount": 5429,
+          "title": "Technical Writing in the AI Age",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=393441",
           "author": "Durgesh Rajubhai Pawar",
           "description": "Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.\nCross-Document View Transitions: Scaling Across Hundreds of Elements originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -215,16 +225,6 @@
           "wordCount": 4238,
           "title": "contrast-color()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393324",
-          "author": "Lee Meyer",
-          "description": "My shim might give the powers that be another reason to say native support isn't necessary, or if lots of people use my :nth-letter hack in the wild, the browser gods might recognize the need to implement it for real.\nLet’s Use the Nonexistent ::nth-letter Selector Now originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/using-nonexistent-nth-letter-selector-now/",
-          "publishedOn": "2026-04-27T13:55:42.000Z",
-          "wordCount": 6240,
-          "title": "Let’s Use the Nonexistent ::nth-letter Selector Now",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/10/nth-letter.png"
         }
       ]
     },
@@ -233,6 +233,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/",
+          "author": "hello@smashingmagazine.com (Eric Joseph L.)",
+          "description": "There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.",
+          "link": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/",
+          "publishedOn": "2026-05-25T12:00:00.000Z",
+          "wordCount": 3763,
+          "title": "Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/prototype-users-fix-protopie/prototype-users-fix-protopie.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/prototype-users-fix-protopie/prototype-users-fix-protopie.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -367,21 +382,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
-          "author": "hello@smashingmagazine.com (Casey Hudetz and Eric Olive)",
-          "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
-          "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
-          "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": 4595,
-          "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg"
         }
       ]
     },
@@ -390,6 +390,206 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
+          "publishedOn": "2026-05-27T03:56:42.000Z",
+          "wordCount": 2062,
+          "title": "The just-say-no engineer was a ZIRP phenomenon",
+          "imageUrl": "https://www.seangoedecke.com/og-image.jpg"
+        },
+        {
+          "id": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
+          "publishedOn": "2026-05-27T01:10:44.000Z",
+          "wordCount": 1825,
+          "title": "Where does next-token prediction leave us?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://codeberg.org/lindenii/tunecat/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://codeberg.org/lindenii/tunecat/",
+          "publishedOn": "2026-05-27T01:08:16.000Z",
+          "wordCount": 767,
+          "title": "Tunecat: Simple Internet Radio",
+          "imageUrl": "https://codeberg.org/lindenii/tunecat/-/summary-card"
+        },
+        {
+          "id": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
+          "publishedOn": "2026-05-27T00:40:05.000Z",
+          "wordCount": 1773,
+          "title": "Stripe is friendly to “friendly fraud”",
+          "imageUrl": "https://www.gingerlime.com/assets/CleanShot-2026-05-18-at-10.32.00.png"
+        },
+        {
+          "id": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+          "publishedOn": "2026-05-27T00:36:03.000Z",
+          "wordCount": 1889,
+          "title": "Erin Brockovich made a map to track data centers around the country",
+          "imageUrl": "https://www.niemanlab.org/wordpress/wp-content/themes/Labby/resources/twitter-logo-for-nieman-lab.jpg"
+        },
+        {
+          "id": "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/",
+          "publishedOn": "2026-05-27T00:03:04.000Z",
+          "wordCount": 11060,
+          "title": "Sonny Rollins, jazz saxophonist, has died",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2023/04/GettyImages-169407835.jpg?w=1024&h=685&crop=1"
+        },
+        {
+          "id": "https://developers.cloudflare.com/flagship/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developers.cloudflare.com/flagship/",
+          "publishedOn": "2026-05-26T23:36:06.000Z",
+          "wordCount": 979,
+          "title": "Cloudflare Flagship",
+          "imageUrl": "https://developers.cloudflare.com/dev-products-preview.png"
+        },
+        {
+          "id": "https://xlii.space/eng/from-rust-to-ruby/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://xlii.space/eng/from-rust-to-ruby/",
+          "publishedOn": "2026-05-26T21:57:03.000Z",
+          "wordCount": null,
+          "title": "From Rust to Ruby",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+          "publishedOn": "2026-05-26T20:33:24.000Z",
+          "wordCount": null,
+          "title": "Big tech's anti-labor playbook has come for Wikipedia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+          "publishedOn": "2026-05-26T20:11:49.000Z",
+          "wordCount": 1400,
+          "title": "The worst job interview I ever had",
+          "imageUrl": "https://oliverio.dev/og?title=The%20worst%20job%20interview%20I%20ever%20had"
+        },
+        {
+          "id": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+          "publishedOn": "2026-05-26T19:25:16.000Z",
+          "wordCount": null,
+          "title": "Chemistry behind the Garden Grove chemical tank",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer",
+          "publishedOn": "2026-05-26T17:00:40.000Z",
+          "wordCount": 1283,
+          "title": "Sage Care (YC S24) Is Hiring Software Engineers",
+          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/5391e3b9dc6885ca88989101c8590ec67dba9661.png?1763532993"
+        },
+        {
+          "id": "https://ericturner.dev/posts/cost-of-home-ownership/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ericturner.dev/posts/cost-of-home-ownership/",
+          "publishedOn": "2026-05-26T16:04:39.000Z",
+          "wordCount": 1720,
+          "title": "The real cost of owning a home",
+          "imageUrl": null
+        },
+        {
+          "id": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
+          "publishedOn": "2026-05-26T15:58:32.000Z",
+          "wordCount": 3456,
+          "title": "What color is your function? (2015)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.minicor.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.minicor.com/",
+          "publishedOn": "2026-05-26T14:57:27.000Z",
+          "wordCount": 2278,
+          "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+          "imageUrl": "https://github.com/laminar-run/public-assets/blob/main/Business%20Banner%20Linkedin.png?raw=true"
+        },
+        {
+          "id": "https://retrogamecoders.com/overhead-camera-view/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://retrogamecoders.com/overhead-camera-view/",
+          "publishedOn": "2026-05-26T13:47:39.000Z",
+          "wordCount": 7405,
+          "title": "C64 Basic: Game Map Overhead “Camera View”",
+          "imageUrl": "https://retrogamecoders.com/wp-content/uploads/2026/05/C64-Viewport-Map-smaller.png"
+        },
+        {
+          "id": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+          "publishedOn": "2026-05-26T13:18:33.000Z",
+          "wordCount": 16885,
+          "title": "Dropbox CEO Drew Houston to step down",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/106782155-1604608931113-gettyimages-1177668394-WSJ_TECH_LIVE.jpeg?v=1676578588&w=1920&h=1080"
+        },
+        {
+          "id": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+          "publishedOn": "2026-05-26T13:08:13.000Z",
+          "wordCount": null,
+          "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+          "publishedOn": "2026-05-26T12:08:33.000Z",
+          "wordCount": null,
+          "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+          "publishedOn": "2026-05-26T05:57:45.000Z",
+          "wordCount": 2632,
+          "title": "A portentous reunion",
+          "imageUrl": null
+        },
         {
           "id": "https://simonwillison.net/2026/May/25/encyclical-on-ai/",
           "author": null,
@@ -541,6 +741,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+          "publishedOn": "2026-05-25T20:41:49.000Z",
+          "wordCount": 374,
+          "title": "A few interesting modern pixel fonts",
+          "imageUrl": "https://unsung.aresluna.org/_media/a-few-interesting-modern-pixel-fonts/ogimage.png"
+        },
+        {
           "id": "https://thefrontpage.dev/",
           "author": null,
           "description": "Comments",
@@ -649,6 +859,36 @@
           "wordCount": 999,
           "title": "The Eternal Sloptember",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/splinter-cell-veteran-says-realistic-modern-lighting-has-screwed-up-stealth-games-it-gets-very-hard-to-tell-whats-light-whats-shadow-whats-dark-whats-safe",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.rockpapershotgun.com/splinter-cell-veteran-says-realistic-modern-lighting-has-screwed-up-stealth-games-it-gets-very-hard-to-tell-whats-light-whats-shadow-whats-dark-whats-safe",
+          "publishedOn": "2026-05-25T03:30:02.000Z",
+          "wordCount": 6626,
+          "title": "Splinter Cell veteran says realistic modern lighting has screwed up stealth game",
+          "imageUrl": "https://assetsio.gnwcdn.com/splinter-cell-remake-new-director-is-old-director-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zokKqP0plrM",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=zokKqP0plrM",
+          "publishedOn": "2026-05-24T21:21:58.000Z",
+          "wordCount": null,
+          "title": "IBM Confidential: System/360 File Organization [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
+          "publishedOn": "2026-05-24T19:22:18.000Z",
+          "wordCount": 2691,
+          "title": "A History of Obituaries in American Newspapers",
+          "imageUrl": "https://blogs.loc.gov/headlinesandheroes/files/2026/05/Obits-featured.jpg"
         },
         {
           "id": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
@@ -791,6 +1031,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
+          "publishedOn": "2026-05-24T10:17:19.000Z",
+          "wordCount": 809,
+          "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
+          "imageUrl": null
+        },
+        {
           "id": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
           "author": null,
           "description": "Comments",
@@ -891,6 +1141,16 @@
           "imageUrl": "https://www.c82.net/images/euclid/social-preview.jpg"
         },
         {
+          "id": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
+          "publishedOn": "2026-05-23T21:28:09.000Z",
+          "wordCount": 3253,
+          "title": "The Steinwinter Supercargo",
+          "imageUrl": "https://www.thedrive.com/wp-content/uploads/images-by-url-td/content/2017/07/20170718-supercargo.jpg?quality=85&w=1200"
+        },
+        {
           "id": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
           "author": null,
           "description": "Comments",
@@ -899,6 +1159,16 @@
           "wordCount": 5743,
           "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d5b5/live/0f7f6c10-5511-11f1-9e5e-fb37d8c40e64.jpg"
+        },
+        {
+          "id": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
+          "publishedOn": "2026-05-23T19:01:13.000Z",
+          "wordCount": 2504,
+          "title": "The Forgotten Art of the LAN Party (2023)",
+          "imageUrl": "https://images.unsplash.com/photo-1560253023-3ec5d502959f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE5fHxnYW1pbmd8ZW58MHx8fHwxNzAxODU2MjI1fDA&ixlib=rb-4.0.3&q=80&w=2000"
         },
         {
           "id": "https://veronicaexplains.net/my-first-writerdeck/",
@@ -1181,6 +1451,16 @@
           "imageUrl": "https://opengraph.githubassets.com/5d4cf62249fcf4d527b74c0a214bd00a459e9fb4503368c3e978180c3e110e2e/yt-dlp/yt-dlp/issues/16766"
         },
         {
+          "id": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+          "publishedOn": "2026-05-22T17:17:43.000Z",
+          "wordCount": 2187,
+          "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+          "imageUrl": "https://www.djspeckhals.com/images/typesetting-unsplash.jpg"
+        },
+        {
           "id": "https://www.1940airterminal.org/news/liquidation-of-simulators",
           "author": null,
           "description": "Comments",
@@ -1229,6 +1509,16 @@
           "wordCount": 11744,
           "title": "Why Japanese companies do so many different things",
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!q5kh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff42a7b2-6c27-4773-a0b0-561081c55da1_1605x2000.jpeg"
+        },
+        {
+          "id": "https://jry.io/writing/use-boring-languages-with-llms/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jry.io/writing/use-boring-languages-with-llms/",
+          "publishedOn": "2026-05-22T15:10:22.000Z",
+          "wordCount": 1530,
+          "title": "Use boring languages with LLMs",
+          "imageUrl": "https://jry.io/writing/use-boring-languages-with-llms/python_environment_2x.png"
         },
         {
           "id": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
@@ -1599,6 +1889,16 @@
           "wordCount": 2769,
           "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/logannye/rosalind",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/logannye/rosalind",
+          "publishedOn": "2026-05-21T13:55:13.000Z",
+          "wordCount": 4474,
+          "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+          "imageUrl": "https://opengraph.githubassets.com/5be09d0b47ccf60bf7e31b933c90de9786c7a8844d03367a14f506f1cba3eedf/logannye/rosalind"
         },
         {
           "id": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
@@ -8659,316 +8959,6 @@
           "wordCount": 7,
           "title": "Is my blue your blue?",
           "imageUrl": "https://ismy.blue/card.png"
-        },
-        {
-          "id": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-          "publishedOn": "2026-04-27T17:52:12.000Z",
-          "wordCount": null,
-          "title": "You can beat the binary search",
-          "imageUrl": null
-        },
-        {
-          "id": "https://zsnes.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://zsnes.com/",
-          "publishedOn": "2026-04-27T17:50:10.000Z",
-          "wordCount": 757,
-          "title": "Super ZSNES – GPU Powered SNES Emulator",
-          "imageUrl": "SuperZsnesLogo.webp"
-        },
-        {
-          "id": "https://github.com/Hanqaqa/Easyduino",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Hanqaqa/Easyduino",
-          "publishedOn": "2026-04-27T17:45:02.000Z",
-          "wordCount": 2996,
-          "title": "Easyduino: Open Source PCB Devboards for KiCad",
-          "imageUrl": "https://opengraph.githubassets.com/4664a38dad5f7e14962d1e3068089d1623f36262b53477a2159d816d31405b0d/Hanqaqa/Easyduino"
-        },
-        {
-          "id": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-          "publishedOn": "2026-04-27T16:03:08.000Z",
-          "wordCount": 3399,
-          "title": "GitHub Copilot is moving to usage-based billing",
-          "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-invertocat-logo.png"
-        },
-        {
-          "id": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
-          "publishedOn": "2026-04-27T15:36:12.000Z",
-          "wordCount": 5041,
-          "title": "Networking changes coming in macOS 27",
-          "imageUrl": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200"
-        },
-        {
-          "id": "https://muffin.ink/blog/scratch-svg-sanitization/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://muffin.ink/blog/scratch-svg-sanitization/",
-          "publishedOn": "2026-04-27T15:31:36.000Z",
-          "wordCount": 3110,
-          "title": "The woes of sanitizing SVGs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/",
-          "publishedOn": "2026-04-27T14:56:21.000Z",
-          "wordCount": 1931,
-          "title": "Nonlinearity Affects a Pendulum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
-          "publishedOn": "2026-04-27T14:24:53.000Z",
-          "wordCount": 1860,
-          "title": "“Why not just use Lean?”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-          "publishedOn": "2026-04-27T13:54:47.000Z",
-          "wordCount": 4017,
-          "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/04/NewNeuroplasticity-crMarkBelan_YaseminSaplakoglu-Social.jpg"
-        },
-        {
-          "id": "https://www.4rknova.com//blog/2026/04/24/number-trail",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.4rknova.com//blog/2026/04/24/number-trail",
-          "publishedOn": "2026-04-27T13:22:52.000Z",
-          "wordCount": 3803,
-          "title": "Building a Hamiltonian Path Puzzle",
-          "imageUrl": "http://www.4rknova.com/assets/img/post/20260424-number_trail/og-wide.png"
-        },
-        {
-          "id": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-          "publishedOn": "2026-04-27T13:22:42.000Z",
-          "wordCount": null,
-          "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/dirac-run/dirac",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/dirac-run/dirac",
-          "publishedOn": "2026-04-27T12:35:55.000Z",
-          "wordCount": 4198,
-          "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-          "imageUrl": "https://repository-images.githubusercontent.com/1202290616/3387b54d-bb91-4e2a-a35b-b933836bafad"
-        },
-        {
-          "id": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
-          "publishedOn": "2026-04-27T12:17:19.000Z",
-          "wordCount": 2883,
-          "title": "We still don't have a more precise value for \"Big G\"",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/bigG1-1152x648.jpg"
-        },
-        {
-          "id": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-          "publishedOn": "2026-04-27T11:43:59.000Z",
-          "wordCount": 14643,
-          "title": "China blocks Meta's acquisition of AI startup Manus",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108279325-1773812817915-gettyimages-2255015559-img_4584.jpeg?v=1773812854&w=1920&h=1080"
-        },
-        {
-          "id": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-          "publishedOn": "2026-04-27T11:08:26.000Z",
-          "wordCount": 596,
-          "title": "Men who stare at walls",
-          "imageUrl": "https://www.alexselimov.com/images/social_card_bg_hu_127c2191fa265490.webp"
-        },
-        {
-          "id": "https://github.com/pgbackrest/pgbackrest",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/pgbackrest/pgbackrest",
-          "publishedOn": "2026-04-27T10:56:34.000Z",
-          "wordCount": 5925,
-          "title": "Pgbackrest is no longer being maintained",
-          "imageUrl": "https://opengraph.githubassets.com/d0f22aceff82f962a065bb59b0ef152caf5299aef2bbf7846698cce6de67351c/pgbackrest/pgbackrest"
-        },
-        {
-          "id": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
-          "publishedOn": "2026-04-27T10:15:17.000Z",
-          "wordCount": 1096,
-          "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
-          "imageUrl": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png"
-        },
-        {
-          "id": "https://app.oravys.com/blog/mercor-breach-2026",
-          "author": null,
-          "description": "Comments",
-          "link": "https://app.oravys.com/blog/mercor-breach-2026",
-          "publishedOn": "2026-04-27T09:57:10.000Z",
-          "wordCount": 4955,
-          "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-          "imageUrl": "https://app.oravys.com/static/images/og-image.png"
-        },
-        {
-          "id": "https://developer.chrome.com/docs/ai/prompt-api",
-          "author": null,
-          "description": "Comments",
-          "link": "https://developer.chrome.com/docs/ai/prompt-api",
-          "publishedOn": "2026-04-27T02:18:58.000Z",
-          "wordCount": 3661,
-          "title": "The Prompt API",
-          "imageUrl": "https://developer.chrome.com/static/docs/ai/prompt-api/images/cover.png"
-        },
-        {
-          "id": "https://github.com/evanklem/evanflow",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/evanklem/evanflow",
-          "publishedOn": "2026-04-27T01:56:39.000Z",
-          "wordCount": 7388,
-          "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
-          "imageUrl": "https://opengraph.githubassets.com/a802aa7840387ed2ee00e9bfaeb5cca70ec78d903449aaaa1c2e94a42c9df62f/evanklem/evanflow"
-        },
-        {
-          "id": "https://arkaung.github.io/interactive-turboquant/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arkaung.github.io/interactive-turboquant/",
-          "publishedOn": "2026-04-27T01:54:32.000Z",
-          "wordCount": 25221,
-          "title": "TurboQuant: A First-Principles Walkthrough",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
-          "publishedOn": "2026-04-27T00:34:30.000Z",
-          "wordCount": null,
-          "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/ebrandi/FDD-book",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/ebrandi/FDD-book",
-          "publishedOn": "2026-04-26T22:53:06.000Z",
-          "wordCount": 11343,
-          "title": "FreeBSD Device Drivers Book",
-          "imageUrl": "https://opengraph.githubassets.com/a0d94dd3f62c8f9ef0212bae2eae590f7ba33fa8cfd4c498aa91731c548afe78/ebrandi/FDD-book"
-        },
-        {
-          "id": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
-          "publishedOn": "2026-04-26T21:23:20.000Z",
-          "wordCount": 3989,
-          "title": "Butterflies are in decline across North America, a look at the Western Monarch",
-          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/-pUy-tpdhYEeFuT3-STWXN5xIIc=/fit-in/1600x0/filters:focal(2784x1856:2785x1857)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f0/cc/f0cccc48-0697-4243-89b0-1e93aa195dc2/dsc_0152.jpg"
-        },
-        {
-          "id": "https://github.com/sachitrafa/YourMemory",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/sachitrafa/YourMemory",
-          "publishedOn": "2026-04-26T20:58:31.000Z",
-          "wordCount": 5629,
-          "title": "Show HN: AI memory with biological decay (52% recall)",
-          "imageUrl": "https://opengraph.githubassets.com/4e2455304483d002f900846e5c0c814741dffd66afb2197a0c20e9c682725ea8/sachitrafa/YourMemory"
-        },
-        {
-          "id": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-          "publishedOn": "2026-04-26T20:56:30.000Z",
-          "wordCount": 6625,
-          "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b363/live/5c67a4a0-4163-11f1-8a25-27287a9e092d.jpg"
-        },
-        {
-          "id": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-          "publishedOn": "2026-04-26T20:41:06.000Z",
-          "wordCount": null,
-          "title": "I bought Friendster for $30k – Here's what I'm doing with it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://moq.dev/blog/moq-boy/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://moq.dev/blog/moq-boy/",
-          "publishedOn": "2026-04-26T20:40:50.000Z",
-          "wordCount": 1091,
-          "title": "MoQ Boy",
-          "imageUrl": "https://moq.dev/blog/moq-boy/moqboy.png"
-        },
-        {
-          "id": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-          "publishedOn": "2026-04-26T20:18:37.000Z",
-          "wordCount": 13583,
-          "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-          "imageUrl": "https://www.sentinelone.com/wp-content/uploads/2026/04/fast16_3.jpg"
-        },
-        {
-          "id": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-          "publishedOn": "2026-04-26T20:03:12.000Z",
-          "wordCount": 2326,
-          "title": "AI should elevate your thinking, not replace it",
-          "imageUrl": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/blog_social.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on",
-          "publishedOn": "2026-04-26T19:42:59.000Z",
-          "wordCount": 10452,
-          "title": "Chernobyl wildlife forty years on",
-          "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0ngd8ng.jpg"
         }
       ]
     },
@@ -9093,21 +9083,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/brain-plasticity-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/food-environment/2026/why-we-crave-comfort-food",
-          "author": "Debbie Koenig",
-          "description": "Nostalgia plays a big role in the meals that bring us solace — which mean we might be able to recondition ourselves toward healthier foods that still soothe",
-          "link": "https://knowablemagazine.org/content/article/food-environment/2026/why-we-crave-comfort-food",
-          "publishedOn": "2026-04-27T00:00:27.000Z",
-          "wordCount": null,
-          "title": "Why we crave ‘comfort food’",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/comfort-food-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/comfort-food-500x288.jpg"
         }
       ]
     },
@@ -9116,6 +9091,26 @@
       "feedUrl": "http://livingthing.danmackinlay.name/feeds/all.atom.xml",
       "siteUrl": "https://danmackinlay.name/",
       "articles": [
+        {
+          "id": "https://danmackinlay.name/notebook/learning_with_ai.html",
+          "author": null,
+          "description": "Figure 1\n\n\n\nA spin-off from learning, since the link pile here is growing fast enough to warrant its own page.\nBloom’s two-sigma problem — that one-to-one tutoring beats classroom instruction by something like two standard deviations — is the standing reference point. Two-Sigma Tutoring: Separating Science Fiction from Science Fact walks the more breathless versions of that claim back.\nTutoring and AI persuasion share machinery — both depend on modelling what a particular human will accept, and both can optimise perceived effect over actual effect. The learner-tutor relationship is itself a specialisation of collaborative intelligence — pedagogical centaurs, to stretch Kasparov.\n1 Empirics\nEmma Brunskill at Stanford works the reinforcement-learning side of adaptive tutoring.\nPhilippa Hardm…",
+          "link": "https://danmackinlay.name/notebook/learning_with_ai.html",
+          "publishedOn": "2026-05-26T00:00:00.000Z",
+          "wordCount": null,
+          "title": "AI tutoring",
+          "imageUrl": null
+        },
+        {
+          "id": "https://danmackinlay.name/notebook/local_llm_mac.html",
+          "author": null,
+          "description": "Figure 1\n\n\n\nA twin post to front-end clients for AI image models, but for text. The local-LLM ecosystem on Macs is pretty luxurious, with a profusion of GUI options and Linux-y infra, and some specialised tooling that lags the community frontier but is not bad. Also, during the 2026 ramageddon, Macs suddenly look like remarkably good deals for high-RAM parallel-compute machines. I accidentally started going unreasonably deep and technical on this in the SOV repo. That repo really targets my coding assistant. Here is a human-facing version. I made a different one for the purely recreational use of image generation.\n1 The stack\nUseful vocabulary for the rest of this page, from the weights upward:\nModel\n\nthe weights themselves — Qwen, DeepSeek, mxbai-embed, etc. Distributed as .safetensors fr…",
+          "link": "https://danmackinlay.name/notebook/local_llm_mac.html",
+          "publishedOn": "2026-05-23T05:00:00.000Z",
+          "wordCount": 5638,
+          "title": "Running LLMs locally on a Mac",
+          "imageUrl": "https://danmackinlay.name/images/small_power_RP-P-1896-A-19368-144.avif"
+        },
         {
           "id": "https://danmackinlay.name/notebook/causality_mechanization_decisions.html",
           "author": null,
@@ -9211,6 +9206,16 @@
           "publishedOn": "2026-05-19T17:53:45.000Z",
           "wordCount": 12245,
           "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijAFBVV95cUxNVGxlcDl0VnlkNWYzdUcwSTkyM0FBOFNUUGpkWjdRV0Zmcmp5cjJQa0VwX3lqamY2ZXRFQlBMSEt6ZkxVd2FMN2sxZHd2ZG1HeVkycTAwX0dHREJEMmFYU09RM2JzaUppQjhsMTNJU00xUk4yTkF3cGxEYjUtclc1M2NWWUQ4M1hpWGRNOQ",
+          "author": null,
+          "description": "The Gemini app becomes more agentic, delivering proactive, 24/7 help  blog.google",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGxlcDl0VnlkNWYzdUcwSTkyM0FBOFNUUGpkWjdRV0Zmcmp5cjJQa0VwX3lqamY2ZXRFQlBMSEt6ZkxVd2FMN2sxZHd2ZG1HeVkycTAwX0dHREJEMmFYU09RM2JzaUppQjhsMTNJU00xUk4yTkF3cGxEYjUtclc1M2NWWUQ4M1hpWGRNOQ?oc=5",
+          "publishedOn": "2026-05-19T17:52:48.000Z",
+          "wordCount": 12245,
+          "title": "The Gemini app becomes more agentic, delivering proactive, 24/7 help - blog.google",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
