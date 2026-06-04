@@ -12,6 +12,46 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "http://css-tricks.com/?page_id=243521",
+          "author": "Geoff Graham",
+          "description": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …\noffset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
+          "publishedOn": "2026-06-03T15:02:38.000Z",
+          "wordCount": 4295,
+          "title": "offset-path",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/07/funky-path.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=394739",
+          "author": "Declan Chidlow",
+          "description": "The CSS @custom-media at-rule allows creating aliases for media queries.\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
+          "publishedOn": "2026-06-03T13:03:21.000Z",
+          "wordCount": 4179,
+          "title": "@custom-media",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=394732",
+          "author": "Declan Chidlow",
+          "description": "The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. \n@function originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/rules/f/function/",
+          "publishedOn": "2026-06-03T13:02:39.000Z",
+          "wordCount": 4787,
+          "title": "@function",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393544",
+          "author": "Sunkanmi Fafowora",
+          "description": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
+          "publishedOn": "2026-06-02T12:59:21.000Z",
+          "wordCount": 4202,
+          "title": "::search-text",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=392775",
           "author": "Zell Liew",
           "description": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …\nAstro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -205,16 +245,6 @@
           "wordCount": 4396,
           "title": "Making Zigzag CSS Layouts With a Grid + Transform Trick",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/05/line-break.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393102",
-          "author": "Kevine Nzapdi",
-          "description": "Getting a multi-column of cards to line up equally is is a headache we've all faced, and it gets even harder when working with fixed heights.\nFixed-Height Cards: More Fragile Than They Look originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/",
-          "publishedOn": "2026-05-04T14:01:36.000Z",
-          "wordCount": 5188,
-          "title": "Fixed-Height Cards: More Fragile Than They Look",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/borken-card-layout.jpg"
         }
       ]
     },
@@ -223,6 +253,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
+          "link": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+          "publishedOn": "2026-06-03T13:00:00.000Z",
+          "wordCount": 3390,
+          "title": "How To Make Your Design System AI-Ready",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -342,21 +387,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
-          "author": "hello@smashingmagazine.com (Kyrylo Levashov)",
-          "description": "Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.",
-          "link": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
-          "publishedOn": "2026-05-05T08:00:00.000Z",
-          "wordCount": 3952,
-          "title": "Rethinking The Experience Of System Tools",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg"
         }
       ]
     },
@@ -365,6 +395,246 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://montanaskeptic.substack.com/p/the-spacex-ipo-will-be-the-theft",
+          "author": null,
+          "description": "Comments",
+          "link": "https://montanaskeptic.substack.com/p/the-spacex-ipo-will-be-the-theft",
+          "publishedOn": "2026-06-04T04:52:37.000Z",
+          "wordCount": null,
+          "title": "The SpaceX IPO Will Be the Theft of the Century",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+          "publishedOn": "2026-06-04T00:56:32.000Z",
+          "wordCount": 1404,
+          "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+          "imageUrl": "https://kasra.blog/favicon-512.png"
+        },
+        {
+          "id": "https://e360.yale.edu/digest/trump-ooi-amoc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://e360.yale.edu/digest/trump-ooi-amoc",
+          "publishedOn": "2026-06-04T00:44:13.000Z",
+          "wordCount": 770,
+          "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
+          "imageUrl": "https://yale-threesixty.transforms.svdcdn.com/production/OOI_WHOI.png?w=1200&q=60&auto=format&fit=max&dm=1780485909&s=e350e236f7ed410535e0f2084db500a5"
+        },
+        {
+          "id": "https://dumb.co/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dumb.co/",
+          "publishedOn": "2026-06-04T00:41:09.000Z",
+          "wordCount": 18,
+          "title": "Dumbphone 2",
+          "imageUrl": "https://dumb.co/og-image-wide.jpg"
+        },
+        {
+          "id": "https://www.anthropic.com/engineering/how-we-contain-claude",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anthropic.com/engineering/how-we-contain-claude",
+          "publishedOn": "2026-06-04T00:27:52.000Z",
+          "wordCount": 8869,
+          "title": "The ways we contain Claude across products",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/82d2262129af025d98a46411fbd42ee970a95cb4-2400x1260.heif"
+        },
+        {
+          "id": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+          "publishedOn": "2026-06-04T00:18:02.000Z",
+          "wordCount": 11829,
+          "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+          "imageUrl": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/c/40/c40f11cf-dfb0-4973-a534-c64044165f16/6a206ddeec122.image.jpg?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize"
+        },
+        {
+          "id": "https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html",
+          "publishedOn": "2026-06-04T00:12:50.000Z",
+          "wordCount": 1063,
+          "title": "DNS Is for People – Not for IT Infrastructure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://maxleiter.com/blog/weights",
+          "author": null,
+          "description": "Comments",
+          "link": "https://maxleiter.com/blog/weights",
+          "publishedOn": "2026-06-03T23:37:18.000Z",
+          "wordCount": 3888,
+          "title": "\"They're made out of weights\"",
+          "imageUrl": "https://maxleiter.com/blog/weights/opengraph-image-3lcqvo?e0d2238ac8899640"
+        },
+        {
+          "id": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
+          "publishedOn": "2026-06-03T21:55:23.000Z",
+          "wordCount": 6730,
+          "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic_WoSwZ84GajY2-xiBPt4P5ho2eN8-lyfLAx_8A_VfQpy-UKyJSxOjFDn118y4LCXy5EShCZ2L5NH2a5EC_cEh2WyY1oV6ZhipsJ2ZtYl7G2VRkGtP1YWU7m0Gq98NqEUCkcve9f4iDALjZ4diU1SFKXq60P_ba2FA1TP07Ovy8NLXrvVbWNCp1sueSE/w1200-h630-p-k-no-nu/jxl-graph.jpg"
+        },
+        {
+          "id": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
+          "publishedOn": "2026-06-03T21:32:10.000Z",
+          "wordCount": 11746,
+          "title": "A Mathematician's Lament (2002) [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ableton.com/en/live/extensions/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ableton.com/en/live/extensions/",
+          "publishedOn": "2026-06-03T20:39:34.000Z",
+          "wordCount": 1595,
+          "title": "Ableton Extensions SDK",
+          "imageUrl": "https://beta-ableton.imgix.net/media/p5apko3y/ableton-extensions-v4-b-3000x2200.png"
+        },
+        {
+          "id": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
+          "publishedOn": "2026-06-03T20:08:33.000Z",
+          "wordCount": 5518,
+          "title": "A Man Who Reads Books for a Living",
+          "imageUrl": "https://s26162.pcdn.co/wp-content/uploads/2026/05/AN-AMERICAN-scaled.jpg"
+        },
+        {
+          "id": "https://github.com/tastyeffectco/sandboxes",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/tastyeffectco/sandboxes",
+          "publishedOn": "2026-06-03T19:43:37.000Z",
+          "wordCount": 6962,
+          "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+          "imageUrl": "https://opengraph.githubassets.com/2463fc0b73f2d297f08c3b364d0279da08618e9c2576130c13c8a067193c3d23/tastyeffectco/sandboxes"
+        },
+        {
+          "id": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+          "publishedOn": "2026-06-03T19:02:26.000Z",
+          "wordCount": 1829,
+          "title": "Elixir v1.20: Now a gradually typed language",
+          "imageUrl": "https://elixir-lang.org/images/social/elixir-og-card.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+          "publishedOn": "2026-06-03T17:51:37.000Z",
+          "wordCount": 12569,
+          "title": "Artificial intelligence is not conscious – Ted Chiang",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/fdONLsUPMiSaP_UQenVaAXAt2nI=/40x45:1998x1065/1200x625/media/img/mt/2026/06/2026_06_01_chiang_Consciousness_Trap_final_horizontal/original.gif"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48387095",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=48387095",
+          "publishedOn": "2026-06-03T17:39:53.000Z",
+          "wordCount": 5331,
+          "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/duanebester/gooey",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/duanebester/gooey",
+          "publishedOn": "2026-06-03T17:12:27.000Z",
+          "wordCount": 30796,
+          "title": "Gooey: A GPU-accelerated UI framework for Zig",
+          "imageUrl": "https://opengraph.githubassets.com/0807afb35d9bd4497c32eb52a6bcc58deef0938c51727d85b1dcdd37620ccea7/duanebester/gooey"
+        },
+        {
+          "id": "https://www.espressif.com/en/products/socs/esp32-s31",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.espressif.com/en/products/socs/esp32-s31",
+          "publishedOn": "2026-06-03T16:10:25.000Z",
+          "wordCount": 1485,
+          "title": "ESP32-S31",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+          "publishedOn": "2026-06-03T16:04:42.000Z",
+          "wordCount": 4455,
+          "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png"
+        },
+        {
+          "id": "https://letsencrypt.org/2026/06/03/pq-certs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://letsencrypt.org/2026/06/03/pq-certs",
+          "publishedOn": "2026-06-03T15:06:09.000Z",
+          "wordCount": 1548,
+          "title": "A Post-Quantum Future for Let's Encrypt",
+          "imageUrl": "https://letsencrypt.org/images/LetsEncrypt-SocialShare.png"
+        },
+        {
+          "id": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+          "publishedOn": "2026-06-03T14:18:39.000Z",
+          "wordCount": 4854,
+          "title": "DaVinci Resolve 21",
+          "imageUrl": null
+        },
+        {
+          "id": "https://burntsushi.net/encephalitis/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://burntsushi.net/encephalitis/",
+          "publishedOn": "2026-06-03T14:10:06.000Z",
+          "wordCount": 1154,
+          "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+          "publishedOn": "2026-06-03T12:25:14.000Z",
+          "wordCount": 1040,
+          "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+          "publishedOn": "2026-06-03T10:05:48.000Z",
+          "wordCount": null,
+          "title": "Mathematicians issue warning as AI rapidly gains ground",
+          "imageUrl": null
+        },
         {
           "id": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
           "author": null,
@@ -606,6 +876,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48369964",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=48369964",
+          "publishedOn": "2026-06-02T13:22:59.000Z",
+          "wordCount": 97,
+          "title": "Life saving / first aid posters",
+          "imageUrl": null
+        },
+        {
           "id": "https://seths.blog/2026/06/stop-ruining-it/",
           "author": null,
           "description": "Comments",
@@ -714,6 +994,26 @@
           "wordCount": 488,
           "title": "Debug Project",
           "imageUrl": "https://lh3.googleusercontent.com/QZRAEZjsf6aNQRBS6ypIqHU4o-nCheTVfMVdpAkYyYKLQDw0WeuxD5XRgboOF_6fkJoZdUxF1xm7aytdKh_ZwITPd-NlTEbXLmseng"
+        },
+        {
+          "id": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/",
+          "publishedOn": "2026-06-01T20:31:24.000Z",
+          "wordCount": 7889,
+          "title": "Meteor Explodes over Massachusetts",
+          "imageUrl": "https://media.nbcboston.com/2026/05/fireball-rome-new-york.jpg?quality=85&strip=all&resize=1200%2C675"
+        },
+        {
+          "id": "https://docs.pytorch.org/devlogs/eager/2026-06-01-cuda-caching-allocator/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://docs.pytorch.org/devlogs/eager/2026-06-01-cuda-caching-allocator/",
+          "publishedOn": "2026-06-01T18:43:51.000Z",
+          "wordCount": 2520,
+          "title": "When does fragmentation occur in the CUDA caching allocator?",
+          "imageUrl": null
         },
         {
           "id": "https://30fps.net/pages/255-vs-256-division/",
@@ -876,6 +1176,16 @@
           "imageUrl": "https://framerusercontent.com/images/eJKU8yDyAKTNNHfYvQqWDm5e25s.png?width=6679&height=4516"
         },
         {
+          "id": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+          "publishedOn": "2026-05-31T20:26:43.000Z",
+          "wordCount": 8266,
+          "title": "Patching my guitar amp's firmware",
+          "imageUrl": null
+        },
+        {
           "id": "https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/",
           "author": null,
           "description": "Comments",
@@ -916,6 +1226,16 @@
           "imageUrl": "https://cdn.sanity.io/images/vbh5vdbd/production/132598be42e3b8cadacbb1cdb938dbb7f8c93bee-6702x3519.png?w=1200&h=630"
         },
         {
+          "id": "https://github.com/tsupplis/cpm86-crossdev",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/tsupplis/cpm86-crossdev",
+          "publishedOn": "2026-05-31T18:05:37.000Z",
+          "wordCount": 5286,
+          "title": "CP/M-86 & MS-DOS Cross Development Environment",
+          "imageUrl": "https://opengraph.githubassets.com/f7f0f2af64b97d322e29d29fbd5cada4aace582eeb315d6aa9e99c579dd515ac/tsupplis/cpm86-crossdev"
+        },
+        {
           "id": "https://lwn.net/Articles/104185/",
           "author": null,
           "description": "Comments",
@@ -923,6 +1243,16 @@
           "publishedOn": "2026-05-31T17:58:15.000Z",
           "wordCount": 377,
           "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03",
+          "publishedOn": "2026-05-31T17:16:15.000Z",
+          "wordCount": null,
+          "title": "Learn SQL Once, Use It for 30 Years",
           "imageUrl": null
         },
         {
@@ -8674,336 +9004,6 @@
           "wordCount": 4309,
           "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
           "imageUrl": "https://paletteinspiration.com/og-default.jpg"
-        },
-        {
-          "id": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
-          "publishedOn": "2026-05-05T18:04:25.000Z",
-          "wordCount": 12373,
-          "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
-          "imageUrl": "https://variety.com/wp-content/uploads/2025/01/Meta-CEO-Mark-Zuckerberg.png?crop=0px%2C81px%2C1249px%2C703px&resize=1000%2C563"
-        },
-        {
-          "id": "https://arxiv.org/abs/2604.26752",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2604.26752",
-          "publishedOn": "2026-05-05T17:52:31.000Z",
-          "wordCount": 817,
-          "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://leetusman.com/nosebook/yvi",
-          "author": null,
-          "description": "Comments",
-          "link": "https://leetusman.com/nosebook/yvi",
-          "publishedOn": "2026-05-05T17:18:21.000Z",
-          "wordCount": 906,
-          "title": "Building my own Vi text editor in BASIC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-          "publishedOn": "2026-05-05T17:00:16.000Z",
-          "wordCount": 1213,
-          "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
-          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/8a51b468ded81d8f8847dd75ed281beeb0a71b77.png?1771376897"
-        },
-        {
-          "id": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-          "publishedOn": "2026-05-05T16:34:48.000Z",
-          "wordCount": 2175,
-          "title": "Computer Use is 45x more expensive than structured APIs",
-          "imageUrl": "https://web.reflex-assets.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis.webp"
-        },
-        {
-          "id": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-          "publishedOn": "2026-05-05T16:14:17.000Z",
-          "wordCount": 4668,
-          "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_7bOA183.width-1300.png"
-        },
-        {
-          "id": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
-          "publishedOn": "2026-05-05T16:03:06.000Z",
-          "wordCount": 1087,
-          "title": "I'm scared about biological computing",
-          "imageUrl": "https://kuber.studio/blog/static/social-images/content-Reflections-I'm Scared About Biological Computing.md.webp"
-        },
-        {
-          "id": "https://www.lttlabs.com/articles/2026/05/05/testing-psu-series",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.lttlabs.com/articles/2026/05/05/testing-psu-series",
-          "publishedOn": "2026-05-05T15:50:15.000Z",
-          "wordCount": null,
-          "title": "Finding the differences in a series of power supplies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-          "publishedOn": "2026-05-05T15:47:18.000Z",
-          "wordCount": null,
-          "title": "EEVblog: The 555 Timer is 55 years old [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://susam.net/inverse-laws-of-robotics.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://susam.net/inverse-laws-of-robotics.html",
-          "publishedOn": "2026-05-05T15:27:18.000Z",
-          "wordCount": 1449,
-          "title": "Three Inverse Laws of AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.anthropic.com/news/finance-agents",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.anthropic.com/news/finance-agents",
-          "publishedOn": "2026-05-05T15:05:47.000Z",
-          "wordCount": 4195,
-          "title": "Agents for financial services and insurance",
-          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Node-GraphChart&backgroundColor=clay"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48023496",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=48023496",
-          "publishedOn": "2026-05-05T15:03:18.000Z",
-          "wordCount": 3006,
-          "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/crosspoint-reader/crosspoint-reader",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/crosspoint-reader/crosspoint-reader",
-          "publishedOn": "2026-05-05T12:56:16.000Z",
-          "wordCount": 4814,
-          "title": "Community firmware for the Xteink X4 e-paper reader",
-          "imageUrl": "https://opengraph.githubassets.com/1e9d2174033433c5e0e8aabb8dbd89d08eba7adb32c5e4de0d8e6827be6f9f51/crosspoint-reader/crosspoint-reader"
-        },
-        {
-          "id": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-          "publishedOn": "2026-05-05T12:28:28.000Z",
-          "wordCount": 1476,
-          "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/brian_armstrong/status/2051616759145185723",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/brian_armstrong/status/2051616759145185723",
-          "publishedOn": "2026-05-05T12:10:24.000Z",
-          "wordCount": null,
-          "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-          "publishedOn": "2026-05-05T09:30:22.000Z",
-          "wordCount": 2745,
-          "title": "When everyone has AI and the company still learns nothing",
-          "imageUrl": "https://storage.ghost.io/c/55/c6/55c640b8-7cdc-45a4-965d-3d691ea2071f/content/images/size/w1200/2026/05/monolith-leaking-tokens.jpeg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
-          "publishedOn": "2026-05-05T08:09:41.000Z",
-          "wordCount": 3822,
-          "title": "The Mathematical Dance Inside Plant Cells",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/05/ChloroplastPacking-crBenediktPleyer_NomadicNostoc_SciencePhotoLibrary-Social.jpg"
-        },
-        {
-          "id": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-          "publishedOn": "2026-05-05T07:34:55.000Z",
-          "wordCount": 5969,
-          "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-          "imageUrl": "https://www.thatprivacyguy.com/blog/assets/2026-05-04-001.png"
-        },
-        {
-          "id": "https://walzr.com/empty-screenings",
-          "author": null,
-          "description": "Comments",
-          "link": "https://walzr.com/empty-screenings",
-          "publishedOn": "2026-05-05T04:33:22.000Z",
-          "wordCount": null,
-          "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/angelos-p/llm-from-scratch",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/angelos-p/llm-from-scratch",
-          "publishedOn": "2026-05-05T04:09:17.000Z",
-          "wordCount": 3261,
-          "title": "Train Your Own LLM from Scratch",
-          "imageUrl": "https://opengraph.githubassets.com/e2574c7c5c654c5118870bb5b0cee4cc34a44ab7a80f1fc58b7a2d2096a35043/angelos-p/llm-from-scratch"
-        },
-        {
-          "id": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-          "publishedOn": "2026-05-05T03:43:08.000Z",
-          "wordCount": 2307,
-          "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
-          "publishedOn": "2026-05-05T02:22:21.000Z",
-          "wordCount": null,
-          "title": "Pulitzer Prize Winner in International Reporting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-          "publishedOn": "2026-05-05T02:08:21.000Z",
-          "wordCount": 890,
-          "title": "What I'm Hearing About Cognitive Debt (So Far)",
-          "imageUrl": "http://margaretstorey.com/assets/images/ms_logo.png"
-        },
-        {
-          "id": "https://nobodyaskedforthis.lol/posts/connected-car/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nobodyaskedforthis.lol/posts/connected-car/",
-          "publishedOn": "2026-05-05T02:01:15.000Z",
-          "wordCount": null,
-          "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-          "publishedOn": "2026-05-05T01:08:17.000Z",
-          "wordCount": 428,
-          "title": "Bun is being ported from Zig to Rust",
-          "imageUrl": "https://opengraph.githubassets.com/71b057188fb96b3e204004bda82c56574fc44a5f6c7958772ae6d55f18d93afb/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"
-        },
-        {
-          "id": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-          "author": null,
-          "description": "Comments",
-          "link": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-          "publishedOn": "2026-05-05T00:09:01.000Z",
-          "wordCount": 775,
-          "title": "Y Combinator's Stake in OpenAI (0.6%)",
-          "imageUrl": "https://daringfireball.net/graphics/df-wide-card.png"
-        },
-        {
-          "id": "https://addyosmani.com/blog/agent-skills/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://addyosmani.com/blog/agent-skills/",
-          "publishedOn": "2026-05-04T21:40:42.000Z",
-          "wordCount": 5947,
-          "title": "Agent Skills",
-          "imageUrl": "https://addyosmani.com/assets/images/addys-agent-skills.jpg"
-        },
-        {
-          "id": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
-          "publishedOn": "2026-05-04T20:56:19.000Z",
-          "wordCount": 2561,
-          "title": "When Networking Doesn't Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-          "author": null,
-          "description": "Comments",
-          "link": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-          "publishedOn": "2026-05-04T20:11:53.000Z",
-          "wordCount": 2676,
-          "title": "Formatting a 25M-line codebase overnight",
-          "imageUrl": "https://stripe.dev/dev_social.jpeg"
-        },
-        {
-          "id": "https://arxiv.org/abs/2510.19315",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2510.19315",
-          "publishedOn": "2026-05-04T20:03:08.000Z",
-          "wordCount": 591,
-          "title": "Transformers Are Inherently Succinct (2025)",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-          "publishedOn": "2026-05-04T19:42:47.000Z",
-          "wordCount": null,
-          "title": "How OpenAI delivers low-latency voice AI at scale",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.noetik.blog/p/perturb-mars-reading-mouse-experiments",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.noetik.blog/p/perturb-mars-reading-mouse-experiments",
-          "publishedOn": "2026-05-04T18:44:31.000Z",
-          "wordCount": 9166,
-          "title": "Perturb-MARS: Reading mouse experiments through a human lens",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!w3dQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc43049b8-df66-4953-b37e-e74e51000204_924x494.png"
-        },
-        {
-          "id": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-          "publishedOn": "2026-05-04T18:22:42.000Z",
-          "wordCount": 924,
-          "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-          "imageUrl": null
         }
       ]
     },
@@ -9188,21 +9188,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/small-sperm-rnas-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/living-world/2026/evolution-of-snakes",
-          "author": "Amber Dance",
-          "description": "Huge snakes, tiny snakes, poisonous snakes and constrictor snakes, snakes that slither, burrow or swim: New fossils and modern technology are tracing serpent origins",
-          "link": "https://knowablemagazine.org/content/article/living-world/2026/evolution-of-snakes",
-          "publishedOn": "2026-05-04T00:00:04.000Z",
-          "wordCount": null,
-          "title": "Evolution of snakes: Scientists unravel the mysssteries",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/snakes-origins-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/snakes-origins-500x288.jpg"
         }
       ]
     },
@@ -9230,16 +9215,6 @@
           "wordCount": 5638,
           "title": "Running LLMs locally on a Mac",
           "imageUrl": "https://danmackinlay.name/images/small_power_RP-P-1896-A-19368-144.avif"
-        },
-        {
-          "id": "https://danmackinlay.name/notebook/causality_mechanization_decisions.html",
-          "author": null,
-          "description": "Causality, agency, decisions, learning is the motivation for this notebook. There we hand-waved through mechanized causal graphs.\nHere I intend to go deep into the formalism introduced in Everitt et al. (2021) and Everitt et al. (2022). Have not done so yet - this is a WIP.\nThe point of the notation is that mechanism nodes are first-class, so we can talk about edges between mechanisms — e.g. an agent reasoning about how its objective depends on the world’s mechanism, or a predictor reading the agent’s policy (MacDermott, Everitt, and Belardinelli 2023).\nBy the end of the notebook we should be able to use MacDermott, Everitt, and Belardinelli (2023) to illuminate cosmic decision theories.\nIn much the same way that I think standard DAGs have a role in uncovering some hidden assumptions in ML…",
-          "link": "https://danmackinlay.name/notebook/causality_mechanization_decisions.html",
-          "publishedOn": "2026-05-05T03:52:15.000Z",
-          "wordCount": 2775,
-          "title": "Decision theory in mechanized causal graphs",
-          "imageUrl": "https://danmackinlay.name/generated_thumbnails/opengraph_previews/images/angry_gambler_RP-P-OB-27.055.og.jpg"
         }
       ]
     },
@@ -9474,18 +9449,7 @@
       "title": "ErrantScience",
       "feedUrl": "https://errantscience.com/feed/",
       "siteUrl": "https://errantscience.com",
-      "articles": [
-        {
-          "id": "https://errantscience.com/?p=20978",
-          "author": "Matthew (@MCeeP)",
-          "description": "So this post is a behind the scenes chat about at why the site (and the socials) have been so quiet recently. The short version is: AI is bad, supporting other is fun.",
-          "link": "https://errantscience.com/blog/2026/05/05/where-is-errantscience/",
-          "publishedOn": "2026-05-05T14:16:14.000Z",
-          "wordCount": 11650,
-          "title": "Where is ErrantScience?",
-          "imageUrl": "https://errantscience.com/wp-content/uploads/Untitled_Artwork-59.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
