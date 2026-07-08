@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395508",
+          "author": "Temani Afif",
+          "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+          "publishedOn": "2026-07-07T15:14:00.000Z",
+          "wordCount": 4682,
+          "title": "Get Ready For the Powerful CSS border-shape Property!",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=395894",
           "author": "Daniel Schwarz",
           "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -175,21 +185,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/psychedlic-event.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393503",
-          "author": "Geoff Graham",
-          "description": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\nScroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
-          "publishedOn": "2026-06-08T13:00:34.000Z",
-          "wordCount": 3354,
-          "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/Screen-Recording-2026-04-14-at-10.16.47-AM.mov",
-            "length": "3122373",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/scroll-animations-view-transitions.webp"
         }
       ]
     },
@@ -198,6 +193,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
+          "author": "hello@smashingmagazine.com (Zareen Tasnim)",
+          "description": "We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.",
+          "link": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
+          "publishedOn": "2026-07-07T10:00:00.000Z",
+          "wordCount": 5194,
+          "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -310,6 +320,236 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+          "publishedOn": "2026-07-08T05:25:35.000Z",
+          "wordCount": 6320,
+          "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OpenAI/status/2074704958419792299",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/OpenAI/status/2074704958419792299",
+          "publishedOn": "2026-07-08T04:12:13.000Z",
+          "wordCount": 269,
+          "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+          "imageUrl": "https://pbs.twimg.com/media/HMrU7U7bwAEO8yf.jpg:large"
+        },
+        {
+          "id": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+          "publishedOn": "2026-07-08T03:59:35.000Z",
+          "wordCount": null,
+          "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.digipres.org/the-floppy-guide/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.digipres.org/the-floppy-guide/",
+          "publishedOn": "2026-07-08T03:22:31.000Z",
+          "wordCount": 25587,
+          "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+          "imageUrl": "/the-floppy-guide//build/Floppy_Disk_Guide_51-79ea83c9dfced75a9a9a03fdeff76a35.jpg"
+        },
+        {
+          "id": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+          "publishedOn": "2026-07-08T02:17:01.000Z",
+          "wordCount": null,
+          "title": "Is The Economist Always Wrong?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://stats.lineageos.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://stats.lineageos.org/",
+          "publishedOn": "2026-07-08T01:27:39.000Z",
+          "wordCount": 4,
+          "title": "LineageOS Statistics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chiptune-radio.alephvoid.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chiptune-radio.alephvoid.com/",
+          "publishedOn": "2026-07-08T00:55:19.000Z",
+          "wordCount": 1227,
+          "title": "Show HN: Chiptune Radio",
+          "imageUrl": "https://chiptune-radio.alephvoid.com/assets/logo.png"
+        },
+        {
+          "id": "https://kb.cert.org/vuls/id/213560",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kb.cert.org/vuls/id/213560",
+          "publishedOn": "2026-07-08T00:08:51.000Z",
+          "wordCount": 585,
+          "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+          "publishedOn": "2026-07-07T23:57:29.000Z",
+          "wordCount": 922,
+          "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+          "imageUrl": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/ad40b7bc2fd8fcd95f535c77aeeafde3_6-001s05.jpg"
+        },
+        {
+          "id": "https://www.gao.gov/products/gao-26-108193",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.gao.gov/products/gao-26-108193",
+          "publishedOn": "2026-07-07T22:23:58.000Z",
+          "wordCount": null,
+          "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+          "author": null,
+          "description": "Comments",
+          "link": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+          "publishedOn": "2026-07-07T20:50:46.000Z",
+          "wordCount": null,
+          "title": "Every new car sold in the European Union must include a driver monitoring camera",
+          "imageUrl": null
+        },
+        {
+          "id": "https://davit.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://davit.app/",
+          "publishedOn": "2026-07-07T18:44:29.000Z",
+          "wordCount": 1800,
+          "title": "Show HN: Davit, a Apple Containers UI",
+          "imageUrl": "img/dashboard.png"
+        },
+        {
+          "id": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+          "publishedOn": "2026-07-07T18:24:10.000Z",
+          "wordCount": 606,
+          "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+          "imageUrl": "https://ariya.io//images/2026/03/kokoro.png"
+        },
+        {
+          "id": "https://anthonyhobday.com/blog/20260410",
+          "author": null,
+          "description": "Comments",
+          "link": "https://anthonyhobday.com/blog/20260410",
+          "publishedOn": "2026-07-07T18:14:50.000Z",
+          "wordCount": 5746,
+          "title": "Notes on Software Quality",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lv1.sh/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lv1.sh/",
+          "publishedOn": "2026-07-07T18:08:29.000Z",
+          "wordCount": 1284,
+          "title": "l: A new runtime for k and q",
+          "imageUrl": "/og-image.png"
+        },
+        {
+          "id": "https://twitter.com/claudeai/status/2074548242386178258",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/claudeai/status/2074548242386178258",
+          "publishedOn": "2026-07-07T17:44:50.000Z",
+          "wordCount": 245,
+          "title": "We're extending access to Fable 5 on all paid plans through July 12",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_200x200.jpg"
+        },
+        {
+          "id": "https://github.com/jimparis/qr-font",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/jimparis/qr-font",
+          "publishedOn": "2026-07-07T16:30:42.000Z",
+          "wordCount": 1778,
+          "title": "Jim's TrueType QR Code Font",
+          "imageUrl": "https://opengraph.githubassets.com/f5b7e64f441e521fc4efd80be76731c7c2b10e943a341bead0f55654ccbf3a35/jimparis/qr-font"
+        },
+        {
+          "id": "https://github.com/rowboatlabs/rowboat",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/rowboatlabs/rowboat",
+          "publishedOn": "2026-07-07T16:10:44.000Z",
+          "wordCount": 4422,
+          "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+          "imageUrl": "https://opengraph.githubassets.com/9ab7141a9af20cae2ddae9c1afcd26c0ad16670fde3f09bf330cd62c2c2b053f/rowboatlabs/rowboat"
+        },
+        {
+          "id": "https://30papers.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://30papers.com/",
+          "publishedOn": "2026-07-07T15:58:13.000Z",
+          "wordCount": 34,
+          "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+          "publishedOn": "2026-07-07T15:36:49.000Z",
+          "wordCount": 1283,
+          "title": "Why we built yet another Postgres connection pooler",
+          "imageUrl": "https://pgdog.dev/assets/images/logo2_wide.png?v=bb9c0ef3de"
+        },
+        {
+          "id": "https://fightchatcontrol.eu/chat-control-overview",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fightchatcontrol.eu/chat-control-overview",
+          "publishedOn": "2026-07-07T14:23:15.000Z",
+          "wordCount": 1962,
+          "title": "Chat Control 1.0 and 2.0 Explained",
+          "imageUrl": null
+        },
+        {
+          "id": "https://streetcomplete.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://streetcomplete.app/",
+          "publishedOn": "2026-07-07T12:38:35.000Z",
+          "wordCount": 521,
+          "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+          "publishedOn": "2026-07-07T10:42:59.000Z",
+          "wordCount": 6771,
+          "title": "Why skilled workers come to Germany and then leave again",
+          "imageUrl": "https://static.dw.com/image/72153420_6.jpg"
+        },
         {
           "id": "https://jobs.ashbyhq.com/lago",
           "author": null,
@@ -761,6 +1001,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
+          "publishedOn": "2026-07-05T13:12:19.000Z",
+          "wordCount": 472,
+          "title": "Scheme Is a Hoot",
+          "imageUrl": "/avatar.png"
+        },
+        {
+          "id": "https://neiltheseal.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://neiltheseal.app/",
+          "publishedOn": "2026-07-05T13:11:30.000Z",
+          "wordCount": 25,
+          "title": "Show HN: Neil the Seal Game",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
           "author": null,
           "description": "Comments",
@@ -769,6 +1029,16 @@
           "wordCount": 1280,
           "title": "EndBASIC 0.14: Are we multimedia yet?",
           "imageUrl": "/images/2026-07-04-endbasic-bounce.png"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+          "publishedOn": "2026-07-04T16:46:24.000Z",
+          "wordCount": 3811,
+          "title": "Canada's only watchmaking school still ticking after 80 years",
+          "imageUrl": "https://i.cbc.ca/ais/cff4c3dd-f78e-40b1-bde8-d8bc7170a282,1783092697249/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5472%2C3078%29%3BResize%3D620"
         },
         {
           "id": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
@@ -871,6 +1141,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://pluralistic.net/2026/07/02/canonization/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pluralistic.net/2026/07/02/canonization/",
+          "publishedOn": "2026-07-02T14:07:56.000Z",
+          "wordCount": 3208,
+          "title": "The difference between \"today's task\" and \"accretive work\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://danielstanica.com/posts/Great-Blogging-Collapse",
           "author": null,
           "description": "Comments",
@@ -899,6 +1179,16 @@
           "wordCount": 2303,
           "title": "Evaluation order and nontermination in query languages",
           "imageUrl": null
+        },
+        {
+          "id": "https://herdr.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://herdr.dev/",
+          "publishedOn": "2026-07-02T04:28:39.000Z",
+          "wordCount": 2501,
+          "title": "Herdr: One terminal to rule them all",
+          "imageUrl": "https://herdr.dev/assets/og-card-v8.png"
         },
         {
           "id": "https://senior-swe-bench.snorkel.ai/",
@@ -1031,6 +1321,16 @@
           "imageUrl": "https://www.workerowned.info/og-marketplace.png"
         },
         {
+          "id": "https://literaryreview.co.uk/out-of-the-armchair",
+          "author": null,
+          "description": "Comments",
+          "link": "https://literaryreview.co.uk/out-of-the-armchair",
+          "publishedOn": "2026-07-01T19:14:58.000Z",
+          "wordCount": 2298,
+          "title": "Out of the Armchair",
+          "imageUrl": "https://literaryreview.co.uk/wp-content/lr-files/2026/06/June-26-cover-600x801.jpg?1783491195"
+        },
+        {
           "id": "https://www.weaverobotics.com/isaac-1",
           "author": null,
           "description": "Comments",
@@ -1149,6 +1449,16 @@
           "wordCount": 5922,
           "title": "Internal Combustion Engine (2021)",
           "imageUrl": "https://ciechanow.ski/images/og/ice.jpg"
+        },
+        {
+          "id": "https://spectrum.ieee.org/large-language-models-ieee-course",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/large-language-models-ieee-course",
+          "publishedOn": "2026-07-01T05:41:22.000Z",
+          "wordCount": 12117,
+          "title": "IEEE Rolls Out Large Language Models Training Course",
+          "imageUrl": "https://spectrum.ieee.org/media-library/a-middle-aged-black-man-taking-a-virtual-coding-class-in-his-home-office.jpg?id=66951841&width=1200&height=600&coordinates=0%2C312%2C0%2C313"
         },
         {
           "id": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
@@ -7799,326 +8109,6 @@
           "wordCount": 2527,
           "title": "Klondike Solitaire game for curses in 5k of C",
           "imageUrl": "https://nanochess.org/img/klondike_c_2.png"
-        },
-        {
-          "id": "https://developer.apple.com/documentation/coreai/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://developer.apple.com/documentation/coreai/",
-          "publishedOn": "2026-06-08T18:47:38.000Z",
-          "wordCount": 61,
-          "title": "Apple Core AI Framework",
-          "imageUrl": "https://docs.developer.apple.com/tutorials/developer-og.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48449187",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=48449187",
-          "publishedOn": "2026-06-08T18:22:39.000Z",
-          "wordCount": 27685,
-          "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.apple.com/apple-intelligence/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.apple.com/apple-intelligence/",
-          "publishedOn": "2026-06-08T18:17:53.000Z",
-          "wordCount": 7193,
-          "title": "Siri AI",
-          "imageUrl": "https://www.apple.com/v/apple-intelligence/h/images/meta/apple_intelligence__bj33bjkp28k2_og.png?202606081607"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48448313",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=48448313",
-          "publishedOn": "2026-06-08T17:28:29.000Z",
-          "wordCount": 7222,
-          "title": "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
-          "publishedOn": "2026-06-08T17:12:44.000Z",
-          "wordCount": 2523,
-          "title": "The Road to the WASM Component Model 1.0",
-          "imageUrl": "https://bytecodealliance.org/images/avatar.png"
-        },
-        {
-          "id": "https://gitdot.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gitdot.io/",
-          "publishedOn": "2026-06-08T16:52:11.000Z",
-          "wordCount": 275,
-          "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tonedear.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tonedear.com/",
-          "publishedOn": "2026-06-08T16:38:07.000Z",
-          "wordCount": 385,
-          "title": "Ear Training Practice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://oldavista.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://oldavista.com/",
-          "publishedOn": "2026-06-08T16:02:10.000Z",
-          "wordCount": 394,
-          "title": "Old'aVista – The most powerful guide to the old Internet",
-          "imageUrl": "//www.oldavista.com/public/open-graph.jpg"
-        },
-        {
-          "id": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-          "publishedOn": "2026-06-08T15:59:04.000Z",
-          "wordCount": 941,
-          "title": "EU-banned pesticides found in rice, tea and spices",
-          "imageUrl": "https://www.foodwatch.org/fileadmin/_processed_/f/5/csm_foodwatch_logo_150x150_3ca367d925.jpg"
-        },
-        {
-          "id": "https://www.wheresyoured.at/ai-is-slowing-down/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wheresyoured.at/ai-is-slowing-down/",
-          "publishedOn": "2026-06-08T15:46:37.000Z",
-          "wordCount": 7822,
-          "title": "AI is slowing down",
-          "imageUrl": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg"
-        },
-        {
-          "id": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-          "publishedOn": "2026-06-08T15:27:33.000Z",
-          "wordCount": 2756,
-          "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.jasondavies.com/maps/voronoi/capitals/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.jasondavies.com/maps/voronoi/capitals/",
-          "publishedOn": "2026-06-08T15:20:08.000Z",
-          "wordCount": 149,
-          "title": "World Capitals Voronoi",
-          "imageUrl": "https://www.jasondavies.com/maps/voronoi/capitals/full.png"
-        },
-        {
-          "id": "https://martinalderson.com/posts/xais-new-rental-business/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://martinalderson.com/posts/xais-new-rental-business/",
-          "publishedOn": "2026-06-08T15:13:43.000Z",
-          "wordCount": 1780,
-          "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-          "imageUrl": "https://martinalderson.com/img/og/xai-is-looking-more-like-a-datacentre-reit-than-a-frontier-lab.png"
-        },
-        {
-          "id": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
-          "publishedOn": "2026-06-08T14:24:57.000Z",
-          "wordCount": 4111,
-          "title": "Lies we tell ourselves about email addresses",
-          "imageUrl": null
-        },
-        {
-          "id": "https://vorpus.github.io/performativeUI/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://vorpus.github.io/performativeUI/",
-          "publishedOn": "2026-06-08T14:05:16.000Z",
-          "wordCount": 7,
-          "title": "Show HN: Performative-UI – A react component library of design tropes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://intunedhq.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://intunedhq.com/",
-          "publishedOn": "2026-06-08T13:35:27.000Z",
-          "wordCount": 3801,
-          "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
-          "imageUrl": "https://intunedhq.com/og-image.png"
-        },
-        {
-          "id": "https://bernsteinbear.com/blog/value-numbering/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bernsteinbear.com/blog/value-numbering/",
-          "publishedOn": "2026-06-08T12:45:01.000Z",
-          "wordCount": 3330,
-          "title": "Value Numbering",
-          "imageUrl": "https://bernsteinbear.com/favicon.ico"
-        },
-        {
-          "id": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-          "publishedOn": "2026-06-08T11:58:02.000Z",
-          "wordCount": 9435,
-          "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-          "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0nmjt5t.jpg"
-        },
-        {
-          "id": "https://retro.social/@ifixcoinops/116711332505710610",
-          "author": null,
-          "description": "Comments",
-          "link": "https://retro.social/@ifixcoinops/116711332505710610",
-          "publishedOn": "2026-06-08T05:09:02.000Z",
-          "wordCount": 128,
-          "title": "Wow, if it's this easy in 1998, I bet it'll be even easier in 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/c14yz5jg476o",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/news/articles/c14yz5jg476o",
-          "publishedOn": "2026-06-08T04:10:08.000Z",
-          "wordCount": 6324,
-          "title": "Richard Scolyer Has Died",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c108/live/21da3800-6249-11f1-a7c4-8d00479306ea.jpg"
-        },
-        {
-          "id": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
-          "publishedOn": "2026-06-08T03:17:10.000Z",
-          "wordCount": 2330,
-          "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
-          "imageUrl": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/size/w1200/2026/06/photo_2026-05-31_20-34-34.jpg"
-        },
-        {
-          "id": "https://igerman.cc/blog/dopamine-fracking/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://igerman.cc/blog/dopamine-fracking/",
-          "publishedOn": "2026-06-08T02:42:24.000Z",
-          "wordCount": 1407,
-          "title": "Dopamine Fracking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
-          "publishedOn": "2026-06-08T02:05:40.000Z",
-          "wordCount": null,
-          "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
-          "imageUrl": null
-        },
-        {
-          "id": "https://algorithmichiring.github.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://algorithmichiring.github.io/",
-          "publishedOn": "2026-06-08T01:54:54.000Z",
-          "wordCount": 1931,
-          "title": "Algorithmic Monocultures in Hiring",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-          "publishedOn": "2026-06-08T01:41:42.000Z",
-          "wordCount": null,
-          "title": "New drug 'functionally cures' many hepatitis B virus infections",
-          "imageUrl": null
-        },
-        {
-          "id": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-          "author": null,
-          "description": "Comments",
-          "link": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-          "publishedOn": "2026-06-08T01:39:30.000Z",
-          "wordCount": 243,
-          "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-          "imageUrl": "https://runtimewire.com/og/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision.jpg"
-        },
-        {
-          "id": "https://1worldflag.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://1worldflag.com/",
-          "publishedOn": "2026-06-08T01:37:52.000Z",
-          "wordCount": 11400,
-          "title": "1worldflag: A blue dot on a transparent background",
-          "imageUrl": "https://1worldflag.com/wp-content/uploads/2020/05/socialmedia.jpg"
-        },
-        {
-          "id": "https://teenage.engineering/products/apc-2",
-          "author": null,
-          "description": "Comments",
-          "link": "https://teenage.engineering/products/apc-2",
-          "publishedOn": "2026-06-08T01:27:22.000Z",
-          "wordCount": 1939,
-          "title": "APC–2 – A professional record cutter for producing original playback discs",
-          "imageUrl": "https://assets.teenage.engineering/_img/6a22f2d3ab13747827da71c7_1024.webp"
-        },
-        {
-          "id": "https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html",
-          "publishedOn": "2026-06-08T01:22:21.000Z",
-          "wordCount": 10027,
-          "title": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/CC6Co2MorizdKUSWoD1CGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-06/d9eac4b0-62cf-11f1-bbbf-bcd7b53e5f07"
-        },
-        {
-          "id": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-          "publishedOn": "2026-06-08T00:28:37.000Z",
-          "wordCount": 4070,
-          "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-          "imageUrl": "https://ranpara.net/images/your-thumbnail-image.jpg"
-        },
-        {
-          "id": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
-          "publishedOn": "2026-06-08T00:17:45.000Z",
-          "wordCount": 5675,
-          "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
-          "imageUrl": "https://opengraph.githubassets.com/04f33be6e8ffc20ae31bfc62983318c2e67fe80540b02bdf1e596556796481a6/melastmohican/rust-rpico2-embassy-examples"
-        },
-        {
-          "id": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
-          "publishedOn": "2026-06-07T21:10:20.000Z",
-          "wordCount": 4178,
-          "title": "How much do amd64 microarchitecture levels help in Go?",
-          "imageUrl": "https://lemire.me/blog/wp-content/uploads/2026/06/Capture-decran-le-2026-06-06-a-16.18.20-1024x683.png"
         }
       ]
     },
@@ -8184,6 +8174,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/living-world/2026/high-stakes-singing-contests-fueling-songbird-crisis",
+          "author": "Sandy Ong",
+          "description": "Millions of songbirds in Southeast Asia are trapped and smuggled each year for keeping as pets or entering in competitions. Scientists warn that it's fueling a crisis.",
+          "link": "https://knowablemagazine.org/content/article/living-world/2026/high-stakes-singing-contests-fueling-songbird-crisis",
+          "publishedOn": "2026-07-07T00:00:07.000Z",
+          "wordCount": null,
+          "title": "The lucrative bird-singing contests that are pushing species to the brink",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/smuggled-songbirds-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/smuggled-songbirds-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/technology/2026/fighting-false-facts-with-artificial-intelligence-tools",
           "author": "Katarina Zimmer",
