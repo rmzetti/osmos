@@ -12,6 +12,31 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "http://css-tricks.com/?page_id=18170",
+          "author": "Mojtaba Seyedi",
+          "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+          "publishedOn": "2026-07-15T19:57:51.000Z",
+          "wordCount": 5118,
+          "title": "pointer-events",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396027",
+          "author": "Daniel Schwarz",
+          "description": "Similar to last time, What’s !important #15 is pretty stacked — read all about boundary-aware CSS, making grid lanes accessible, creating time-based web designs, fixing full-bleed CSS, improving customizable select, new web platform features, and more.\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-15/",
+          "publishedOn": "2026-07-15T14:36:18.000Z",
+          "wordCount": 2461,
+          "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/07/3.mp4",
+            "length": "163854",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi15.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=395508",
           "author": "Temani Afif",
           "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -125,16 +150,6 @@
           "wordCount": 5501,
           "title": "The Siren Song of  ariaNotify()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/arianotify.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395776",
-          "author": "Geoff Graham",
-          "description": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\nProp For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/prop-for-that/",
-          "publishedOn": "2026-06-16T18:36:25.000Z",
-          "wordCount": 2863,
-          "title": "Prop For That",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/prop-for-that-masthead.png"
         }
       ]
     },
@@ -143,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
+          "link": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
+          "publishedOn": "2026-07-15T10:00:00.000Z",
+          "wordCount": 3959,
+          "title": "No, People Don’t Want More AI In Their Life",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "author": "hello@smashingmagazine.com (Anastasia Sycheva)",
@@ -247,21 +277,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-          "author": "hello@smashingmagazine.com (Pratik Joglekar)",
-          "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
-          "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-          "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6492,
-          "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg"
         }
       ]
     },
@@ -270,6 +285,216 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://cr.yp.to/proto/netstrings.txt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cr.yp.to/proto/netstrings.txt",
+          "publishedOn": "2026-07-16T05:33:50.000Z",
+          "wordCount": null,
+          "title": "Netstrings (1997)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+          "publishedOn": "2026-07-16T04:46:21.000Z",
+          "wordCount": 7405,
+          "title": "The lost joy of music piracy",
+          "imageUrl": "https://cdn.sanity.io/images/pu3h3rl5/production/61dfa8f019d1a62c96f4a72bfb734ede527e0c90-1920x1080.gif?rect=0,39,1920,1003&w=1200&h=627&fit=crop&auto=format"
+        },
+        {
+          "id": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
+          "publishedOn": "2026-07-16T04:31:01.000Z",
+          "wordCount": 2660,
+          "title": "Stop saying that AI is just a tool and it only matters how it is used",
+          "imageUrl": "http://www.frank.computer/images/default.png"
+        },
+        {
+          "id": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+          "publishedOn": "2026-07-16T03:48:43.000Z",
+          "wordCount": null,
+          "title": "If you want to create a button from scratch, you must first create the universe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://planetscale.com/blog/making-768-servers-look-like-1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://planetscale.com/blog/making-768-servers-look-like-1",
+          "publishedOn": "2026-07-16T03:36:42.000Z",
+          "wordCount": 6829,
+          "title": "Making 768 servers look like 1",
+          "imageUrl": "https://planetscale.xyz/assets/making-768-servers-look-like-1-social-DXjwbEP8.png"
+        },
+        {
+          "id": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+          "publishedOn": "2026-07-16T03:12:47.000Z",
+          "wordCount": 6463,
+          "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+          "imageUrl": "https://cdn8.openculture.com/2026/07/14224817/plate-6-1024x681.jpg"
+        },
+        {
+          "id": "https://arxiv.org/abs/2607.11859",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2607.11859",
+          "publishedOn": "2026-07-16T02:17:31.000Z",
+          "wordCount": 705,
+          "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+          "publishedOn": "2026-07-16T02:06:36.000Z",
+          "wordCount": 2052,
+          "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+          "imageUrl": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kgd6qp4xhkmjmj721nq4.png"
+        },
+        {
+          "id": "https://atproto.com/blog/at-protocol-trademark",
+          "author": null,
+          "description": "Comments",
+          "link": "https://atproto.com/blog/at-protocol-trademark",
+          "publishedOn": "2026-07-16T01:21:04.000Z",
+          "wordCount": 1624,
+          "title": "Bluesky Trademarks ATProto",
+          "imageUrl": "https://atproto.com/-/blog/at-protocol-trademark/opengraph-image.png?2117347caea57ee0"
+        },
+        {
+          "id": "https://playonemoreletter.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://playonemoreletter.com/",
+          "publishedOn": "2026-07-15T23:10:10.000Z",
+          "wordCount": 9,
+          "title": "Show HN: One More Letter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+          "publishedOn": "2026-07-15T23:00:31.000Z",
+          "wordCount": 1746,
+          "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mort.coffee/home/sqlite-editions/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mort.coffee/home/sqlite-editions/",
+          "publishedOn": "2026-07-15T22:42:58.000Z",
+          "wordCount": 2267,
+          "title": "SQLite should have (Rust-style) editions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+          "publishedOn": "2026-07-15T22:23:27.000Z",
+          "wordCount": 1176,
+          "title": "LLM Networking with MikroTik",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+          "publishedOn": "2026-07-15T21:16:36.000Z",
+          "wordCount": 3029,
+          "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://developer.puter.com/labs/firefox-wasm/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developer.puter.com/labs/firefox-wasm/",
+          "publishedOn": "2026-07-15T21:00:17.000Z",
+          "wordCount": 80,
+          "title": "Show HN: Firefox in WebAssembly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/xai-org/grok-build",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/xai-org/grok-build",
+          "publishedOn": "2026-07-15T20:24:58.000Z",
+          "wordCount": 2737,
+          "title": "Grok Build is open source",
+          "imageUrl": "https://avatars.githubusercontent.com/u/130314967?s=400&v=4"
+        },
+        {
+          "id": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+          "author": null,
+          "description": "Comments",
+          "link": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+          "publishedOn": "2026-07-15T19:27:59.000Z",
+          "wordCount": null,
+          "title": "Duskers, the scary command line game, is getting a sequel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thinkingmachines.ai/news/introducing-inkling/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thinkingmachines.ai/news/introducing-inkling/",
+          "publishedOn": "2026-07-15T18:12:45.000Z",
+          "wordCount": 11551,
+          "title": "Inkling: Our Open-Weights Model",
+          "imageUrl": "https://thinkingmachines.ai/news/introducing-inkling/images/cover-social-inkling-post.png"
+        },
+        {
+          "id": "https://clocks.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://clocks.dev/",
+          "publishedOn": "2026-07-15T16:33:15.000Z",
+          "wordCount": 29,
+          "title": "Collection of Digital Clock Designs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://coasty.ai/docs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://coasty.ai/docs",
+          "publishedOn": "2026-07-15T15:51:20.000Z",
+          "wordCount": 36476,
+          "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+          "imageUrl": "https://coasty.ai/opengraph-image.jpg?8ace499592d78079"
+        },
+        {
+          "id": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+          "publishedOn": "2026-07-15T15:34:05.000Z",
+          "wordCount": 2077,
+          "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+          "imageUrl": null
+        },
         {
           "id": "https://news.ycombinator.com/item?id=48916375",
           "author": null,
@@ -281,6 +506,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+          "publishedOn": "2026-07-15T03:32:45.000Z",
+          "wordCount": null,
+          "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+          "imageUrl": null
+        },
+        {
           "id": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
           "author": null,
           "description": "Comments",
@@ -289,6 +524,16 @@
           "wordCount": 2930,
           "title": "Jurassic Park computers in excruciating detail",
           "imageUrl": null
+        },
+        {
+          "id": "https://spectrum.ieee.org/high-bandwidth-flash",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/high-bandwidth-flash",
+          "publishedOn": "2026-07-15T02:04:12.000Z",
+          "wordCount": 11871,
+          "title": "High-Bandwidth Flash offers efficient storage for model weights",
+          "imageUrl": "https://spectrum.ieee.org/media-library/schematic-of-high-bandwidth-flash-die-stacked-on-top-of-a-logic-die.jpg?id=67145585&width=1200&height=600&coordinates=0%2C134%2C0%2C116"
         },
         {
           "id": "https://tailscale.com/security-bulletins",
@@ -391,6 +636,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.brt.fyi/posts/mac-book-filing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.brt.fyi/posts/mac-book-filing/",
+          "publishedOn": "2026-07-14T19:25:41.000Z",
+          "wordCount": 1376,
+          "title": "I also filed the corners off my MacBook",
+          "imageUrl": "https://brt.fyi/images/papermod-cover.png"
+        },
+        {
           "id": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
           "author": null,
           "description": "Comments",
@@ -469,6 +724,26 @@
           "wordCount": 3337,
           "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
           "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02170-8/d41586-026-02170-8_52959564.jpg"
+        },
+        {
+          "id": "https://typesanitizer.com/blog/job-queues.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://typesanitizer.com/blog/job-queues.html",
+          "publishedOn": "2026-07-14T08:27:56.000Z",
+          "wordCount": 3102,
+          "title": "Job queues are deceptively tricky",
+          "imageUrl": null
+        },
+        {
+          "id": "https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/",
+          "publishedOn": "2026-07-14T06:35:40.000Z",
+          "wordCount": 3599,
+          "title": "The Last Picture Show: A Conversation with George Lucas",
+          "imageUrl": "https://a-rabbitsfoot.com/wp-content/uploads/2026/06/PY7PG9_Grayscale-Large.jpeg"
         },
         {
           "id": "https://github.com/JetBrains/youtrackdb",
@@ -891,6 +1166,16 @@
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!3AdV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23985988-01ea-4d7b-a4f5-446c2a4f0a0b_1600x900.jpeg"
         },
         {
+          "id": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+          "publishedOn": "2026-07-12T17:57:58.000Z",
+          "wordCount": 5783,
+          "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+          "imageUrl": "https://goughlui.com/wp-content/uploads/2026/07/202607022204196627.jpg"
+        },
+        {
           "id": "https://www.motivenotes.ai/p/against-usefulness",
           "author": null,
           "description": "Comments",
@@ -959,6 +1244,16 @@
           "wordCount": 1856,
           "title": "How we can reduce traffic congestion",
           "imageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+        },
+        {
+          "id": "https://clig.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://clig.dev/",
+          "publishedOn": "2026-07-12T13:28:31.000Z",
+          "wordCount": 10704,
+          "title": "Command Line Interface Guidelines",
+          "imageUrl": "https://clig.dev/CLIG-social-card.jpg"
         },
         {
           "id": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
@@ -1201,6 +1496,16 @@
           "imageUrl": "https://shipthatcode.com/opengraph-image?e5981ff808b13a14"
         },
         {
+          "id": "https://davidobando.github.io/gsharp/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://davidobando.github.io/gsharp/",
+          "publishedOn": "2026-07-11T13:04:46.000Z",
+          "wordCount": 285,
+          "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
+          "imageUrl": "https://davidobando.github.io/gsharp/img/gsharp-icon.png"
+        },
+        {
           "id": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
           "author": null,
           "description": "Comments",
@@ -1329,6 +1634,16 @@
           "wordCount": 17805,
           "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
           "imageUrl": "https://www.zdnet.com/a/img/resize/2d7049a36d241cdf177935c0c0df5f03a2d52bf7/2026/07/10/f550fe8f-37ce-4eb1-b39c-c1e306d05a74/gettyimages-2280481321.jpg?auto=webp&fit=crop&height=675&width=1200"
+        },
+        {
+          "id": "https://www.catchcat.lol/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.catchcat.lol/",
+          "publishedOn": "2026-07-10T17:15:29.000Z",
+          "wordCount": 2376,
+          "title": "CatchCat – Pokémon Go for Cats, IRL",
+          "imageUrl": "https://catchcat.lol/opengraph-image?525ffc82dfbb1dbe"
         },
         {
           "id": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
@@ -7569,406 +7884,6 @@
           "wordCount": 2632,
           "title": "Frood, an Alpine Initramfs NAS (2024)",
           "imageUrl": "https://assets.buttondown.email/images/94d90085-c14a-46c6-860c-fc8c0418d33a.jpeg"
-        },
-        {
-          "id": "https://injuly.in/blog/napkin-inference-cost/index.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://injuly.in/blog/napkin-inference-cost/index.html",
-          "publishedOn": "2026-06-16T18:57:29.000Z",
-          "wordCount": 2418,
-          "title": "Inference cost at scale with napkin math",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
-          "publishedOn": "2026-06-16T18:37:21.000Z",
-          "wordCount": 206,
-          "title": "Apple is about to make Hide My Email useless",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-          "publishedOn": "2026-06-16T17:54:02.000Z",
-          "wordCount": 2246,
-          "title": "GPT‑NL: a sovereign language model for the Netherlands",
-          "imageUrl": "https://www.tno.nl/publish/pages/14621/genai.jpg"
-        },
-        {
-          "id": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
-          "publishedOn": "2026-06-16T17:48:42.000Z",
-          "wordCount": 1849,
-          "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
-          "imageUrl": "https://www.gilesthomas.com/images/favicons/web-app-manifest-512x512.png"
-        },
-        {
-          "id": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-          "publishedOn": "2026-06-16T17:11:05.000Z",
-          "wordCount": 19660,
-          "title": "Has AI already killed self-help nonfiction books?",
-          "imageUrl": "https://tim.blog/wp-content/uploads/2020/09/socialmedia_timFerriss_200114_005.jpg"
-        },
-        {
-          "id": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
-          "publishedOn": "2026-06-16T16:49:46.000Z",
-          "wordCount": 3737,
-          "title": "Stop Using JWTs",
-          "imageUrl": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
-        },
-        {
-          "id": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
-          "author": null,
-          "description": "Comments",
-          "link": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
-          "publishedOn": "2026-06-16T16:42:32.000Z",
-          "wordCount": 12116,
-          "title": "Is Meta destroying its engineering organization?",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!PupZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feabe4407-76aa-47a3-a8cb-1d955c05bf03_1972x1072.png"
-        },
-        {
-          "id": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-          "publishedOn": "2026-06-16T16:40:58.000Z",
-          "wordCount": 756,
-          "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
-          "imageUrl": "https://mareksuppa.com/og/bash-dev-tcp-http-without-curl.png"
-        },
-        {
-          "id": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
-          "publishedOn": "2026-06-16T16:12:06.000Z",
-          "wordCount": 4742,
-          "title": "Apple's weird anti-nausea dots cured my car sickness",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK__NAUSEA_DOTS_ADemidova.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-        },
-        {
-          "id": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-          "author": null,
-          "description": "Comments",
-          "link": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-          "publishedOn": "2026-06-16T15:44:44.000Z",
-          "wordCount": null,
-          "title": "Calvin and Hobbes and the price of integrity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://browser-use.com/posts/firecracker-browser-infra",
-          "author": null,
-          "description": "Comments",
-          "link": "https://browser-use.com/posts/firecracker-browser-infra",
-          "publishedOn": "2026-06-16T15:15:01.000Z",
-          "wordCount": 6324,
-          "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
-          "imageUrl": "https://browser-use.com/images/microvm-infra/og.png"
-        },
-        {
-          "id": "https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/",
-          "publishedOn": "2026-06-16T15:00:30.000Z",
-          "wordCount": 11526,
-          "title": "Meet Nikolai Evreinov, the 19th century Nathan Fielder",
-          "imageUrl": "https://i0.wp.com/mssv.net/wp-content/uploads/2026/06/stormningen_av_vinterpalatset-1.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://metiq.space/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://metiq.space/",
-          "publishedOn": "2026-06-16T14:43:38.000Z",
-          "wordCount": 63,
-          "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-          "publishedOn": "2026-06-16T14:36:57.000Z",
-          "wordCount": 1379,
-          "title": "Running local models is good now",
-          "imageUrl": "https://vickiboykis.com/images/refactor_gemma.png"
-        },
-        {
-          "id": "https://parksb.github.io/en/article/32.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://parksb.github.io/en/article/32.html",
-          "publishedOn": "2026-06-16T14:26:26.000Z",
-          "wordCount": 1570,
-          "title": "But yak shaving is fun (2019)",
-          "imageUrl": "https://og-image.parksb.vercel.app/api/parksb-github-io?title=But%20yak%20shaving%20is%20fun&subtitle=The%20joy%20of%20building%20from%20scratch&date=2019-07-31"
-        },
-        {
-          "id": "https://qwen.ai/blog?id=qwen-robotsuite",
-          "author": null,
-          "description": "Comments",
-          "link": "https://qwen.ai/blog?id=qwen-robotsuite",
-          "publishedOn": "2026-06-16T13:15:15.000Z",
-          "wordCount": 206,
-          "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-          "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg"
-        },
-        {
-          "id": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
-          "publishedOn": "2026-06-16T12:31:02.000Z",
-          "wordCount": 12048,
-          "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
-          "imageUrl": "https://spectrum.ieee.org/media-library/image.jpg?id=66905363&width=1200&height=600&coordinates=0%2C811%2C0%2C439"
-        },
-        {
-          "id": "https://srijanshukla.com/artifacts/spin-lab/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://srijanshukla.com/artifacts/spin-lab/",
-          "publishedOn": "2026-06-16T12:16:11.000Z",
-          "wordCount": 35,
-          "title": "Show HN: Spin Lab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ciechanow.ski/mechanical-watch/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ciechanow.ski/mechanical-watch/",
-          "publishedOn": "2026-06-16T11:26:27.000Z",
-          "wordCount": 8103,
-          "title": "Mechanical Watch (2022)",
-          "imageUrl": "https://ciechanow.ski/images/og/watch.png"
-        },
-        {
-          "id": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-          "publishedOn": "2026-06-16T11:07:08.000Z",
-          "wordCount": 9277,
-          "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-          "imageUrl": "https://storage.ghost.io/c/eb/37/eb37738a-77f2-4eaf-9de2-43f9b30fffd5/content/images/2026/05/image--16-.png"
-        },
-        {
-          "id": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-          "publishedOn": "2026-06-16T10:44:24.000Z",
-          "wordCount": null,
-          "title": "SpaceX to buy Cursor for $60B",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/26/06/telescope-ranchers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kottke.org/26/06/telescope-ranchers",
-          "publishedOn": "2026-06-16T10:34:10.000Z",
-          "wordCount": 1052,
-          "title": "Telescope Ranchers",
-          "imageUrl": "https://i.ytimg.com/vi/bN48vEqaQs8/sddefault.jpg"
-        },
-        {
-          "id": "https://bobdahacker.com/blog/fifa-hack",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bobdahacker.com/blog/fifa-hack",
-          "publishedOn": "2026-06-16T05:23:42.000Z",
-          "wordCount": 3556,
-          "title": "I Could've Rickrolled the FIFA World Cup. All I Needed Was My ID",
-          "imageUrl": "https://bobdahacker.com/static/images/blogs/fifa/blogHeader.webp"
-        },
-        {
-          "id": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-          "publishedOn": "2026-06-16T04:58:15.000Z",
-          "wordCount": 1010,
-          "title": "John Carmack on Fabrice Bellard",
-          "imageUrl": "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN_200x200.jpg"
-        },
-        {
-          "id": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-          "author": null,
-          "description": "Comments",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-          "publishedOn": "2026-06-16T04:46:36.000Z",
-          "wordCount": 7115,
-          "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-          "imageUrl": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg"
-        },
-        {
-          "id": "https://garden-of-flowers.heikkilotvonen.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://garden-of-flowers.heikkilotvonen.com/",
-          "publishedOn": "2026-06-16T04:25:57.000Z",
-          "wordCount": 22388,
-          "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
-          "publishedOn": "2026-06-16T02:00:45.000Z",
-          "wordCount": null,
-          "title": "Humanity isn't ready for the coming intelligence explosion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-          "publishedOn": "2026-06-16T00:45:50.000Z",
-          "wordCount": 4430,
-          "title": "Zen and the Art of Machine Learning Research",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!gBx6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6477dc42-dd38-4b92-8fa0-e4e6ab7f2bc1_1918x820.png"
-        },
-        {
-          "id": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
-          "publishedOn": "2026-06-16T00:28:14.000Z",
-          "wordCount": 2009,
-          "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
-          "imageUrl": null
-        },
-        {
-          "id": "http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/",
-          "publishedOn": "2026-06-16T00:13:34.000Z",
-          "wordCount": 558,
-          "title": "Reviews have become expensive, rewrites have become cheap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.plover.com/math/egyptian-fractions.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.plover.com/math/egyptian-fractions.html",
-          "publishedOn": "2026-06-15T23:37:54.000Z",
-          "wordCount": 1959,
-          "title": "Egyptian Fractions",
-          "imageUrl": "https://pic.blog.plover.com/FIRST_IMAGE_DEFAULT.jpg"
-        },
-        {
-          "id": "https://www.richardosgood.com/posts/banned-book-library/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.richardosgood.com/posts/banned-book-library/",
-          "publishedOn": "2026-06-15T22:37:55.000Z",
-          "wordCount": 6687,
-          "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-          "imageUrl": "https://www.richardosgood.com/images/logo.png"
-        },
-        {
-          "id": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-          "publishedOn": "2026-06-15T22:36:33.000Z",
-          "wordCount": 2420,
-          "title": "Cell-based architecture for resilient payment systems",
-          "imageUrl": "https://americanexpress.io/_post_assets/cell-based-architecture-for-resilient-payment-systems/img/main.jpg"
-        },
-        {
-          "id": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-          "publishedOn": "2026-06-15T21:57:10.000Z",
-          "wordCount": 2408,
-          "title": "Why I email complete strangers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gmalandrakis.com/writings/ad-economicum.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gmalandrakis.com/writings/ad-economicum.html",
-          "publishedOn": "2026-06-15T21:10:36.000Z",
-          "wordCount": null,
-          "title": "Peopleless economy? Not technically impossible",
-          "imageUrl": null
-        },
-        {
-          "id": "https://clickhouse.com/blog/open-source-10",
-          "author": null,
-          "description": "Comments",
-          "link": "https://clickhouse.com/blog/open-source-10",
-          "publishedOn": "2026-06-15T20:51:54.000Z",
-          "wordCount": 6103,
-          "title": "Ten years of ClickHouse in open source",
-          "imageUrl": "https://clickhouse.com/_next/image?url=%2Fuploads%2Fgithub_c01a760d53.png&w=1200&h=630&q=80"
-        },
-        {
-          "id": "https://github.com/c0rRupT9/STEPLA-1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/c0rRupT9/STEPLA-1",
-          "publishedOn": "2026-06-15T20:22:48.000Z",
-          "wordCount": 3804,
-          "title": "Show HN: We built an 8-bit CPU as 2nd year EE students",
-          "imageUrl": "https://opengraph.githubassets.com/dec8a4714dc111734ba75fbaf1088a25501e7b83fa341fa6676403435ac9dffa/c0rRupT9/STEPLA-1"
-        },
-        {
-          "id": "https://michaelenger.com/blog/i-love-the-computer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://michaelenger.com/blog/i-love-the-computer/",
-          "publishedOn": "2026-06-15T20:14:15.000Z",
-          "wordCount": 2249,
-          "title": "I Love the Computer",
-          "imageUrl": "https://michaelenger.com/"
-        },
-        {
-          "id": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
-          "publishedOn": "2026-06-15T20:12:37.000Z",
-          "wordCount": 888,
-          "title": "What job interviews taught me about Kubernetes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://roman.pt/posts/linkedin-backdoor/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://roman.pt/posts/linkedin-backdoor/",
-          "publishedOn": "2026-06-15T20:00:57.000Z",
-          "wordCount": 707,
-          "title": "A backdoor in a LinkedIn job offer",
-          "imageUrl": "https://roman.pt/posts/linkedin-backdoor/splash.png"
         }
       ]
     },
@@ -8216,16 +8131,6 @@
           "publishedOn": "2026-06-17T07:00:00.000Z",
           "wordCount": 12348,
           "title": "Simplify your routine with the new Google Home Speaker - blog.google",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiAFBVV95cUxQbl9DbElnci1NRlEwVXpPZ0xqaURUeDhIWWlYTTVpc0FmZkpVQTZrRG9hWm5fNUFVWDdFTV9jelFYdFJBVW8wWWdCS2M2ZmZCMVpUWVlId1piOXRQdkxucjFWMGJQelFMZUJaWEhkdzI0bXR2RnFkazB1cmRGMjBaWnZacHpVOXIz",
-          "author": null,
-          "description": "Check out what's new in Android 17  blog.google",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbl9DbElnci1NRlEwVXpPZ0xqaURUeDhIWWlYTTVpc0FmZkpVQTZrRG9hWm5fNUFVWDdFTV9jelFYdFJBVW8wWWdCS2M2ZmZCMVpUWVlId1piOXRQdkxucjFWMGJQelFMZUJaWEhkdzI0bXR2RnFkazB1cmRGMjBaWnZacHpVOXIz?oc=5",
-          "publishedOn": "2026-06-16T18:01:19.000Z",
-          "wordCount": 12315,
-          "title": "Check out what's new in Android 17 - blog.google",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
