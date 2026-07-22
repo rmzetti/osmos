@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "http://css-tricks.com/?page_id=244261",
+          "author": "Mojtaba Seyedi",
+          "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+          "publishedOn": "2026-07-21T09:39:10.000Z",
+          "wordCount": 3045,
+          "title": "writing-mode",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+        },
+        {
           "id": "http://css-tricks.com/?page_id=18170",
           "author": "Mojtaba Seyedi",
           "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -110,21 +120,6 @@
           "wordCount": 4231,
           "title": "translate()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394890",
-          "author": "Silvestar Bistrović",
-          "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
-          "publishedOn": "2026-06-22T12:39:13.000Z",
-          "wordCount": 4679,
-          "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/05/opposing-scrolling-logos.mov",
-            "length": "38364603",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/opposing-scroll-columns.webp"
         }
       ]
     },
@@ -133,6 +128,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
+          "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
+          "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+          "publishedOn": "2026-07-21T10:00:00.000Z",
+          "wordCount": 8197,
+          "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)",
@@ -275,6 +285,246 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.readkinetic.com/app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.readkinetic.com/app/",
+          "publishedOn": "2026-07-22T05:49:51.000Z",
+          "wordCount": 202,
+          "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+          "imageUrl": "https://www.readkinetic.com/og-image.png"
+        },
+        {
+          "id": "https://openaim.pramit.gg/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openaim.pramit.gg/",
+          "publishedOn": "2026-07-22T05:39:31.000Z",
+          "wordCount": 747,
+          "title": "Show HN: A new kind of FPS aim trainer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/chrislgarry/Apollo-11",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/chrislgarry/Apollo-11",
+          "publishedOn": "2026-07-22T05:18:08.000Z",
+          "wordCount": 1989,
+          "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+          "imageUrl": "https://opengraph.githubassets.com/f5c6b4d32c984b837bf11acdda2e44307bc4e7cc183aea82a082757afe19c58c/chrislgarry/Apollo-11"
+        },
+        {
+          "id": "https://late.sh/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://late.sh/",
+          "publishedOn": "2026-07-22T02:32:30.000Z",
+          "wordCount": 437,
+          "title": "Late.sh – a command-line Clubhouse for computer people",
+          "imageUrl": "https://late.sh/static/og-image.png"
+        },
+        {
+          "id": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+          "publishedOn": "2026-07-22T01:52:31.000Z",
+          "wordCount": 1507,
+          "title": "LG to ban residential proxies from smart TV apps",
+          "imageUrl": null
+        },
+        {
+          "id": "http://hintjens.com/blog:99",
+          "author": null,
+          "description": "Comments",
+          "link": "http://hintjens.com/blog:99",
+          "publishedOn": "2026-07-22T01:17:26.000Z",
+          "wordCount": 1342,
+          "title": "Ten Steps Towards Happiness (2015)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
+          "publishedOn": "2026-07-21T23:33:31.000Z",
+          "wordCount": 16394,
+          "title": "It's a shame what's happened to radio",
+          "imageUrl": "https://i0.wp.com/blog.jimgrey.net/wp-content/uploads/2014/08/meonwzzq.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://fireworks.ai/blog/kimik3-fable",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fireworks.ai/blog/kimik3-fable",
+          "publishedOn": "2026-07-21T22:35:24.000Z",
+          "wordCount": 6505,
+          "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+          "imageUrl": "https://cdn.sanity.io/images/pv37i0yn/production/4f0b611f9b0ec4e15ea45aabe369a3ba88fe4abf-2048x1152.svg"
+        },
+        {
+          "id": "https://ai.google.dev/gemini-api/docs/latest-model",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ai.google.dev/gemini-api/docs/latest-model",
+          "publishedOn": "2026-07-21T21:27:54.000Z",
+          "wordCount": 3062,
+          "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+          "imageUrl": "https://ai.google.dev/static/site-assets/images/share-gemini-api-2026-07.png"
+        },
+        {
+          "id": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+          "publishedOn": "2026-07-21T21:13:20.000Z",
+          "wordCount": 4418,
+          "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+          "imageUrl": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok/opengraph-image-yqks0s?3313ef8f7f360358"
+        },
+        {
+          "id": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+          "publishedOn": "2026-07-21T21:09:25.000Z",
+          "wordCount": 6713,
+          "title": "A digestion of the Jacobian conjecture counterexample",
+          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1784703586"
+        },
+        {
+          "id": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+          "publishedOn": "2026-07-21T20:09:52.000Z",
+          "wordCount": null,
+          "title": "OpenAI and Hugging Face address security incident during model evaluation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+          "publishedOn": "2026-07-21T19:43:59.000Z",
+          "wordCount": 49091,
+          "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/5NsvMB6arEjzGkWxkstoDj-1920-80.jpg"
+        },
+        {
+          "id": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+          "author": null,
+          "description": "Comments",
+          "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+          "publishedOn": "2026-07-21T19:04:39.000Z",
+          "wordCount": 12320,
+          "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+          "imageUrl": "https://dims.apnews.com/dims4/default/fe6d93f/2147483647/strip/true/crop/7105x4734+0+170/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2F02%2F03fe2aab40cb16ec606291293712%2F3ac9a8e98cd0455f980d89ba81ec27a4"
+        },
+        {
+          "id": "https://ads.openai.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ads.openai.com/",
+          "publishedOn": "2026-07-21T18:58:44.000Z",
+          "wordCount": null,
+          "title": "Advertise in ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://freeink.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://freeink.org/",
+          "publishedOn": "2026-07-21T18:39:06.000Z",
+          "wordCount": 10,
+          "title": "FreeInk: Open ecosystem for e-readers",
+          "imageUrl": "https://freeink.org/og-image.png"
+        },
+        {
+          "id": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
+          "author": null,
+          "description": "Comments",
+          "link": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
+          "publishedOn": "2026-07-21T17:58:21.000Z",
+          "wordCount": 21246,
+          "title": "Apple Private Cloud Compute SoC 3 audit reports",
+          "imageUrl": null
+        },
+        {
+          "id": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+          "publishedOn": "2026-07-21T17:17:06.000Z",
+          "wordCount": 7636,
+          "title": "Laguna S 2.1",
+          "imageUrl": "https://cdn.sanity.io/images/n259s8jk/production/58719108368a357e8825d9ff7d40e46242edce3a-1200x628.png"
+        },
+        {
+          "id": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+          "author": null,
+          "description": "Comments",
+          "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+          "publishedOn": "2026-07-21T17:14:06.000Z",
+          "wordCount": 1946,
+          "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+          "imageUrl": "https://runtimewire.com/og/jack-dorsey-block-buzz-team-chat-ai-agents-git.jpg"
+        },
+        {
+          "id": "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation",
+          "publishedOn": "2026-07-21T16:39:30.000Z",
+          "wordCount": null,
+          "title": "Roblox Officially Supports GrapheneOS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecastlemap.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thecastlemap.com/",
+          "publishedOn": "2026-07-21T16:05:58.000Z",
+          "wordCount": 1254,
+          "title": "Map of the world's great castles and fortresses",
+          "imageUrl": "https://thecastlemap.com/og.jpg?v=ink"
+        },
+        {
+          "id": "https://e360.yale.edu/digest/benin-coral-reef",
+          "author": null,
+          "description": "Comments",
+          "link": "https://e360.yale.edu/digest/benin-coral-reef",
+          "publishedOn": "2026-07-21T15:41:51.000Z",
+          "wordCount": 1459,
+          "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+          "imageUrl": "https://yale-threesixty.transforms.svdcdn.com/production/Benin-Coral_IRHOB.jpg?w=1200&q=60&auto=format&fit=max&dm=1784630734&s=5aab36ee725d9087d4ce6272efc6d3ec"
+        },
+        {
+          "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+          "publishedOn": "2026-07-21T15:17:16.000Z",
+          "wordCount": 5468,
+          "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg"
+        },
+        {
+          "id": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+          "publishedOn": "2026-07-21T14:31:41.000Z",
+          "wordCount": 3293,
+          "title": "Apple defeats liability for not scanning iCloud for CSAM",
+          "imageUrl": "https://blog.ericgoldman.org/wp-content/uploads/2026/02/IMG_2022-1024x1020.jpg"
+        },
         {
           "id": "https://exsitu.app/map",
           "author": null,
@@ -514,6 +764,16 @@
           "wordCount": 7009,
           "title": "Who's afraid of Chinese models?",
           "imageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ"
+        },
+        {
+          "id": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
+          "publishedOn": "2026-07-20T06:09:25.000Z",
+          "wordCount": 1627,
+          "title": "My USB Drive Has a Hidden Encrypted Vault",
+          "imageUrl": "https://rootkitlabs.com/img/phantomdrive/phantomdrive-front.webp"
         },
         {
           "id": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
@@ -836,6 +1096,16 @@
           "imageUrl": "/hardcore-indieweb/og.png"
         },
         {
+          "id": "https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/",
+          "publishedOn": "2026-07-18T21:40:23.000Z",
+          "wordCount": 4880,
+          "title": "Pico W firmware creates driverless USB WiFi bridge (Layer-2)",
+          "imageUrl": "https://www.cnx-software.com/wp-content/uploads/2026/07/raspberrypi-pico-usb-wifi-adapter.jpg"
+        },
+        {
           "id": "https://arxiv.org/abs/2607.09211",
           "author": null,
           "description": "Comments",
@@ -844,6 +1114,16 @@
           "wordCount": 692,
           "title": "Co-evolution of self-replication and function in a digital primordial soup",
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
+          "author": null,
+          "description": "Comments",
+          "link": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
+          "publishedOn": "2026-07-18T19:56:33.000Z",
+          "wordCount": null,
+          "title": "Intel Starts Shipping High-NA EUV Silicon",
+          "imageUrl": null
         },
         {
           "id": "https://ykdojo.github.io/claude-controls-mac/",
@@ -984,6 +1264,16 @@
           "wordCount": 5195,
           "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
           "imageUrl": "https://stenchill.com/og-image.png"
+        },
+        {
+          "id": "https://dl.acm.org/doi/10.1145/234286.1057820",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dl.acm.org/doi/10.1145/234286.1057820",
+          "publishedOn": "2026-07-17T23:33:39.000Z",
+          "wordCount": null,
+          "title": "The Birth of Prolog (1996)",
+          "imageUrl": null
         },
         {
           "id": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
@@ -1154,6 +1444,16 @@
           "wordCount": 1848,
           "title": "Three ways people respond to a problem (other than solving it)",
           "imageUrl": "https://storage.ghost.io/c/0b/84/0b8469de-9291-421d-a2ea-8f6dac76e930/content/images/size/w1200/2026/05/IMG_0482.jpeg"
+        },
+        {
+          "id": "https://justif.lyall.co/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://justif.lyall.co/",
+          "publishedOn": "2026-07-17T12:47:20.000Z",
+          "wordCount": 24342,
+          "title": "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=48945241",
@@ -2033,6 +2333,16 @@
           "publishedOn": "2026-07-14T09:41:29.000Z",
           "wordCount": null,
           "title": "Making Software: How to make a font",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48904202",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=48904202",
+          "publishedOn": "2026-07-14T09:32:40.000Z",
+          "wordCount": 253,
+          "title": "Ask HN: US Equivalent of Anabin?",
           "imageUrl": null
         },
         {
@@ -7584,336 +7894,6 @@
           "wordCount": null,
           "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-          "publishedOn": "2026-06-22T19:06:48.000Z",
-          "wordCount": 4745,
-          "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-          "imageUrl": "https://i.cbc.ca/ais/4d6542bd-2c48-422d-8c55-7951b56230a5,1782148011502/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C169%2C4544%2C2556%29%3BResize%3D620"
-        },
-        {
-          "id": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
-          "publishedOn": "2026-06-22T18:17:20.000Z",
-          "wordCount": 640,
-          "title": "Hellishly Slow Level 13 Deflate Compression",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-          "publishedOn": "2026-06-22T18:03:03.000Z",
-          "wordCount": 4650,
-          "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
-          "imageUrl": "https://www.thedrive.com/wp-content/uploads/2026/06/nun-hero.jpg?w=1200"
-        },
-        {
-          "id": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-          "publishedOn": "2026-06-22T17:50:40.000Z",
-          "wordCount": 1419,
-          "title": "Rhombus Language 1.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-          "author": null,
-          "description": "Comments",
-          "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-          "publishedOn": "2026-06-22T17:09:51.000Z",
-          "wordCount": 387,
-          "title": "Steam Machine launches today",
-          "imageUrl": "https://clan.akamai.steamstatic.com/images/45479024/7d1bda5486460ba7efc032efb727a61d638420a0.png"
-        },
-        {
-          "id": "https://role-confusion.github.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://role-confusion.github.io/",
-          "publishedOn": "2026-06-22T15:48:55.000Z",
-          "wordCount": 6111,
-          "title": "Prompt Injection as Role Confusion",
-          "imageUrl": "https://role-confusion.github.io/assets/figures/role-perception.png"
-        },
-        {
-          "id": "https://oak.space/oak/oak",
-          "author": null,
-          "description": "Comments",
-          "link": "https://oak.space/oak/oak",
-          "publishedOn": "2026-06-22T15:37:48.000Z",
-          "wordCount": 25036,
-          "title": "Show HN: Oak – Git alternative designed for agents",
-          "imageUrl": "https://oak.space/oak/oak/og.png?v=c9d14f01"
-        },
-        {
-          "id": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
-          "publishedOn": "2026-06-22T15:24:40.000Z",
-          "wordCount": 6870,
-          "title": "Inventing the Future, One Lisp Machine at a Time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://explorer.oxide.computer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://explorer.oxide.computer/",
-          "publishedOn": "2026-06-22T15:21:04.000Z",
-          "wordCount": 5,
-          "title": "Oxide computer 3D rack guided tour",
-          "imageUrl": "https://explorer.oxide.computer/images/og.webp"
-        },
-        {
-          "id": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
-          "publishedOn": "2026-06-22T15:15:38.000Z",
-          "wordCount": 1638,
-          "title": "Dostoyevsky isn't difficult",
-          "imageUrl": "https://www.autodidacts.io/content/images/2026/01/Dostoyevsky_on_his_Bier-_Kramskoy.jpg"
-        },
-        {
-          "id": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
-          "publishedOn": "2026-06-22T15:00:04.000Z",
-          "wordCount": 3702,
-          "title": "The last Romans are still around",
-          "imageUrl": "https://signoregalilei.com/wp-content/uploads/2026/06/Flag_of_Vatican_City_2023–present.svg_.png"
-        },
-        {
-          "id": "https://hustvl.github.io/Moebius/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hustvl.github.io/Moebius/",
-          "publishedOn": "2026-06-22T13:53:02.000Z",
-          "wordCount": 696,
-          "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html",
-          "publishedOn": "2026-06-22T13:46:57.000Z",
-          "wordCount": 4947,
-          "title": "QSOE: QNX-inspired OS with dual-kernel architecture",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
-          "publishedOn": "2026-06-22T13:43:38.000Z",
-          "wordCount": null,
-          "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
-          "imageUrl": null
-        },
-        {
-          "id": "https://puzzlelair.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://puzzlelair.com/",
-          "publishedOn": "2026-06-22T12:23:46.000Z",
-          "wordCount": 824,
-          "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
-          "imageUrl": "https://puzzlelair.com/og-image.png"
-        },
-        {
-          "id": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
-          "publishedOn": "2026-06-22T08:39:49.000Z",
-          "wordCount": 1855,
-          "title": "Optimizing [sqlx:test] rebuild time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-          "publishedOn": "2026-06-22T07:44:03.000Z",
-          "wordCount": 1993,
-          "title": "Doing a masters while working in Spain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://docs.deno.com/runtime/desktop/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://docs.deno.com/runtime/desktop/",
-          "publishedOn": "2026-06-22T05:38:40.000Z",
-          "wordCount": 852,
-          "title": "Deno Desktop",
-          "imageUrl": "https://docs.deno.com/runtime/desktop/index.png"
-        },
-        {
-          "id": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
-          "publishedOn": "2026-06-22T04:50:26.000Z",
-          "wordCount": 1074,
-          "title": "Danish privacy activist Lars Andersen raided by police",
-          "imageUrl": "https://pbs.twimg.com/media/HLPBAG5W4AA0KEb.jpg:large"
-        },
-        {
-          "id": "https://sakana.ai/fugu/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sakana.ai/fugu/",
-          "publishedOn": "2026-06-22T02:08:18.000Z",
-          "wordCount": 5053,
-          "title": "Sakana Fugu",
-          "imageUrl": "https://sakana.ai/assets/fugu_lp/ogp.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
-          "publishedOn": "2026-06-22T01:20:26.000Z",
-          "wordCount": null,
-          "title": "Remaking BBC test cards to teach you video processing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
-          "publishedOn": "2026-06-22T00:34:33.000Z",
-          "wordCount": 5395,
-          "title": "1983 Northern Telecom Commodore Phone",
-          "imageUrl": "https://www.oldtelephoneroom.ca/wp-content/uploads/2023/04/83-Com-02.jpg"
-        },
-        {
-          "id": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-          "publishedOn": "2026-06-21T22:55:23.000Z",
-          "wordCount": 1846,
-          "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-          "imageUrl": "https://www.teachmecoolstuff.com/img/tor.jpg"
-        },
-        {
-          "id": "https://underreacted.leaflet.pub/3mmevu6woys27",
-          "author": null,
-          "description": "Comments",
-          "link": "https://underreacted.leaflet.pub/3mmevu6woys27",
-          "publishedOn": "2026-06-21T22:53:50.000Z",
-          "wordCount": 29140,
-          "title": "Japanese verb conjugation the simple hard way",
-          "imageUrl": "https://leaflet.pub/lish/did%3Aplc%3Afpruhuo22xkm5o7ttr2ktxdo/3m23dstduds2v/3mmevu6woys27/opengraph-image-vzkbb4?edc23816ae45539e"
-        },
-        {
-          "id": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
-          "publishedOn": "2026-06-21T21:54:34.000Z",
-          "wordCount": null,
-          "title": "Rent collections are down in New York",
-          "imageUrl": null
-        },
-        {
-          "id": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-          "publishedOn": "2026-06-21T21:40:53.000Z",
-          "wordCount": null,
-          "title": "Did my old job only exist because of fraud?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
-          "publishedOn": "2026-06-21T21:30:25.000Z",
-          "wordCount": 3423,
-          "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg"
-        },
-        {
-          "id": "https://apertvs.ai/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://apertvs.ai/",
-          "publishedOn": "2026-06-21T21:29:43.000Z",
-          "wordCount": 346,
-          "title": "Apertus – Open Foundation Model for Sovereign AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://powerfox.jazzzny.me/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://powerfox.jazzzny.me/",
-          "publishedOn": "2026-06-21T21:23:13.000Z",
-          "wordCount": 291,
-          "title": "PowerFox Browser",
-          "imageUrl": "https://powerfox.jazzzny.me/assets/img/prodimg.png"
-        },
-        {
-          "id": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-          "publishedOn": "2026-06-21T21:10:32.000Z",
-          "wordCount": 7941,
-          "title": "Everything is logarithms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/raiyanyahya/recall",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/raiyanyahya/recall",
-          "publishedOn": "2026-06-21T21:05:37.000Z",
-          "wordCount": 5548,
-          "title": "Show HN: Recall – Local project memory for Claude Code",
-          "imageUrl": "https://opengraph.githubassets.com/2b1d4e28b24344b3de3e5378b084526a0c0a5c7bce6fb73988580e35f59ca80a/raiyanyahya/recall"
-        },
-        {
-          "id": "https://www.marble.onl/posts/cancel_claude.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.marble.onl/posts/cancel_claude.html",
-          "publishedOn": "2026-06-21T20:56:01.000Z",
-          "wordCount": 767,
-          "title": "There is minimal downside to switching to open models",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/dmtrKovalenko/ffs",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/dmtrKovalenko/ffs",
-          "publishedOn": "2026-06-21T20:44:33.000Z",
-          "wordCount": 3021,
-          "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
-          "imageUrl": "https://opengraph.githubassets.com/0d5b502bb4847588ec6e99830d933cd74741b32295a7d7c6f9bed0d790641922/dmtrKovalenko/ffs"
         }
       ]
     },
@@ -7979,6 +7959,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/food-environment/2026/four-ways-to-reduce-energy-use-with-ai-chatbots",
+          "author": "Katarina Zimmer",
+          "description": "Escalating use of tools like Gemini and ChatGPT saps more and more power. Experts offer some tips on how to consume less.",
+          "link": "https://knowablemagazine.org/content/article/food-environment/2026/four-ways-to-reduce-energy-use-with-ai-chatbots",
+          "publishedOn": "2026-07-21T00:00:21.000Z",
+          "wordCount": null,
+          "title": "Using AI chatbots? Here are four ways to reduce the energy drain",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/ecofriendly-ai-usage-tips-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/ecofriendly-ai-usage-tips-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/mind/2026/design-automated-systems-with-human-psychology-in-mind",
           "author": "Amber Dance",
@@ -8101,36 +8096,6 @@
           "publishedOn": "2026-07-01T18:43:39.000Z",
           "wordCount": 12335,
           "title": "Maps has an authentic new voice in New Zealand - blog.google",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiekFVX3lxTFAzVk5aZkQzWkc5UEJYQ0dzTng3R2JTUExhdXhORlYtZTVFb0pRYUZBS0tPb0NEVnJ3Q3Y2cVJQTWNJalV3V29UNlhISndUQXRFYThQNlFqdGdjN1VvWVJvUVNVQ2RXSXZWbFdyN2RuVHJTZVc3Z3dyeV9R",
-          "author": null,
-          "description": "Google Invests In A24 To Develop AI-Powered Filmmaking Tools “Shaped By The Creators Who Use Them”  Yahoo News New Zealand",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzVk5aZkQzWkc5UEJYQ0dzTng3R2JTUExhdXhORlYtZTVFb0pRYUZBS0tPb0NEVnJ3Q3Y2cVJQTWNJalV3V29UNlhISndUQXRFYThQNlFqdGdjN1VvWVJvUVNVQ2RXSXZWbFdyN2RuVHJTZVc3Z3dyeV9R?oc=5",
-          "publishedOn": "2026-06-22T17:00:21.000Z",
-          "wordCount": 12335,
-          "title": "Google Invests In A24 To Develop AI-Powered Filmmaking Tools “Shaped By The Creators Who Use Them” - Yahoo News New Zealand",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMisgFBVV95cUxNTHlleXlPd0RTOFUzNGhjZWJNRUxOY3ZaNmFjMUt6UkVBVHdBMWk1UnpYN0hNR2FmQ3pVYmxwejVpSlVReU9wakhTY0VhUE9mdktVVUkyR2h1RDJIOEo2a1hoSldPSDM1dGJ1U2t6QWJqWDZQaTFvbEtjWHdVblY3SUl6X0xCYTRaT0JPQnZpRFJwbFlmbXZrczItcDVONUtSZTZjWFM0RGRyYXVreVFrN2VB",
-          "author": null,
-          "description": "Supporting Kiwi Innovation with the Google for Startups Accelerator  blog.google",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTHlleXlPd0RTOFUzNGhjZWJNRUxOY3ZaNmFjMUt6UkVBVHdBMWk1UnpYN0hNR2FmQ3pVYmxwejVpSlVReU9wakhTY0VhUE9mdktVVUkyR2h1RDJIOEo2a1hoSldPSDM1dGJ1U2t6QWJqWDZQaTFvbEtjWHdVblY3SUl6X0xCYTRaT0JPQnZpRFJwbFlmbXZrczItcDVONUtSZTZjWFM0RGRyYXVreVFrN2VB?oc=5",
-          "publishedOn": "2026-06-21T22:13:04.000Z",
-          "wordCount": 12315,
-          "title": "Supporting Kiwi Innovation with the Google for Startups Accelerator - blog.google",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiAJBVV95cUxQWGVONi01dVQ3V05IOTVhSDd5ekkzbVNQS0Fkb182VTVneFZVSGx3OG93OHB1aU9hN2RWMXN1SEEzM21OcWRleWdVcnIzTnBKN3dfVHZ3YUFhOE9nQklUWVpYV0J0ZDRyRkVCYkFiRVJLb0tIQ09JRTBGQmRFUzgxczZlN2xIQmx4SXBKbURTQXlsTko4TTRiOVZIbWY4ZEQ0SmdETWxmN0szQmhjcGJ6RWJRd0o4X2ZxZ3hIbGFwaHppa09BWXVnM2tZZlREVWZaX2tEdEJEeG5aUHVfMUJObUhZcmNwbjN0R3dzNklncUpBaTFUTG1rdUtzUVdjZFNoSG83T3g2Y3A",
-          "author": null,
-          "description": "Empowering the next generation of Australian startups  blog.google",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWGVONi01dVQ3V05IOTVhSDd5ekkzbVNQS0Fkb182VTVneFZVSGx3OG93OHB1aU9hN2RWMXN1SEEzM21OcWRleWdVcnIzTnBKN3dfVHZ3YUFhOE9nQklUWVpYV0J0ZDRyRkVCYkFiRVJLb0tIQ09JRTBGQmRFUzgxczZlN2xIQmx4SXBKbURTQXlsTko4TTRiOVZIbWY4ZEQ0SmdETWxmN0szQmhjcGJ6RWJRd0o4X2ZxZ3hIbGFwaHppa09BWXVnM2tZZlREVWZaX2tEdEJEeG5aUHVfMUJObUhZcmNwbjN0R3dzNklncUpBaTFUTG1rdUtzUVdjZFNoSG83T3g2Y3A?oc=5",
-          "publishedOn": "2026-06-21T22:01:04.000Z",
-          "wordCount": 12315,
-          "title": "Empowering the next generation of Australian startups - blog.google",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
