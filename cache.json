@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396428",
+          "author": "Geoff Graham",
+          "description": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.\nCSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-navigation-matching-early-days/",
+          "publishedOn": "2026-08-19T14:44:41.000Z",
+          "wordCount": 3540,
+          "title": "CSS Navigation Matching, Early Days",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396623",
+          "author": "Geoff Graham",
+          "description": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.\nWordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/wordpress-student-plan/",
+          "publishedOn": "2026-08-19T08:50:00.000Z",
+          "wordCount": 2828,
+          "title": "WordPress.com Student Plan",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=396545",
           "author": "Geoff Graham",
           "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -115,16 +135,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi16.jpg"
-        },
-        {
-          "id": "http://css-tricks.com/?page_id=244261",
-          "author": "Mojtaba Seyedi",
-          "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-          "publishedOn": "2026-07-21T09:39:10.000Z",
-          "wordCount": 3045,
-          "title": "writing-mode",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         }
       ]
     },
@@ -222,21 +232,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
-          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
-          "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
-          "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
-          "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8197,
-          "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg"
         }
       ]
     },
@@ -245,6 +240,216 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+          "publishedOn": "2026-08-20T01:29:12.000Z",
+          "wordCount": 3319,
+          "title": "Turns are Better than Radians (2022)",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!mvXW!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F20e598bd-cac0-4b10-8222-b432167c9159_5616x3744.jpeg"
+        },
+        {
+          "id": "https://arxiv.org/abs/2007.13664",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2007.13664",
+          "publishedOn": "2026-08-20T00:05:12.000Z",
+          "wordCount": 586,
+          "title": "Universality of Gradient Descent Neural Network Training",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://github.com/anthropics/claude-code/issues/6235",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/anthropics/claude-code/issues/6235",
+          "publishedOn": "2026-08-19T21:19:50.000Z",
+          "wordCount": 3378,
+          "title": "Feature Request: Support AGENTS.md",
+          "imageUrl": "https://opengraph.githubassets.com/1c300e6109f8ea8048c6e2a93c76f19b0af1f6f3c40e1378b2bf70a9be32ac4d/anthropics/claude-code/issues/6235"
+        },
+        {
+          "id": "https://os8088.com/spotlight/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://os8088.com/spotlight/",
+          "publishedOn": "2026-08-19T21:11:31.000Z",
+          "wordCount": 1365,
+          "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+          "imageUrl": "https://os8088.com/img/og.png"
+        },
+        {
+          "id": "https://inco.ai/blog/dflash2/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://inco.ai/blog/dflash2/",
+          "publishedOn": "2026-08-19T20:28:43.000Z",
+          "wordCount": 5148,
+          "title": "DFlash 2: Keep Drafting Parallel",
+          "imageUrl": "https://inco.ai/og/dflash2.png"
+        },
+        {
+          "id": "https://pennypresses.net/home/map.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pennypresses.net/home/map.php",
+          "publishedOn": "2026-08-19T20:13:47.000Z",
+          "wordCount": 1069,
+          "title": "Pressed Penny Machine Map",
+          "imageUrl": "https://pennypresses.net/assets/map.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+          "publishedOn": "2026-08-19T19:43:48.000Z",
+          "wordCount": 11644,
+          "title": "Pixel 11 Pro Fold feels like the end of an era",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-pixel-11-pro-fold-01.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200"
+        },
+        {
+          "id": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+          "publishedOn": "2026-08-19T19:06:16.000Z",
+          "wordCount": 877,
+          "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+          "imageUrl": "https://sprocketfox.io/xssfox/images/photo_2026-07-01%2013.48.56.jpeg"
+        },
+        {
+          "id": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+          "publishedOn": "2026-08-19T18:36:45.000Z",
+          "wordCount": 31357,
+          "title": "Unsloth Dynamic 3.0 GGUFs",
+          "imageUrl": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&width=1200&height=630&sign=b1ca68fa&sv=2"
+        },
+        {
+          "id": "https://go.dev/blog/go1.27",
+          "author": null,
+          "description": "Comments",
+          "link": "https://go.dev/blog/go1.27",
+          "publishedOn": "2026-08-19T18:33:49.000Z",
+          "wordCount": 844,
+          "title": "Go 1.27",
+          "imageUrl": null
+        },
+        {
+          "id": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+          "author": null,
+          "description": "Comments",
+          "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+          "publishedOn": "2026-08-19T17:47:29.000Z",
+          "wordCount": 252,
+          "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+          "publishedOn": "2026-08-19T17:32:38.000Z",
+          "wordCount": 1814,
+          "title": "OpenRouter is joining Stripe",
+          "imageUrl": "https://openrouter.ai/blog/images/openrouter-stripe.png"
+        },
+        {
+          "id": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+          "publishedOn": "2026-08-19T16:26:05.000Z",
+          "wordCount": 5486,
+          "title": "Extensible Software in the age of LLMs",
+          "imageUrl": "https://jeremymorrell.dev/_astro/omg-meme-social.BBc_Z2VQ.png"
+        },
+        {
+          "id": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+          "publishedOn": "2026-08-19T15:28:01.000Z",
+          "wordCount": null,
+          "title": "Casio F-B100W-1A",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2608.16753",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2608.16753",
+          "publishedOn": "2026-08-19T15:14:25.000Z",
+          "wordCount": 558,
+          "title": "Mathematics in the age of AI",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://ornith.ai/ornith_1_5.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ornith.ai/ornith_1_5.html",
+          "publishedOn": "2026-08-19T14:48:39.000Z",
+          "wordCount": 2212,
+          "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+          "imageUrl": "https://ornith.ai/ornith_1_5/ornith_1_5_cover_1787101791.jpg"
+        },
+        {
+          "id": "https://coca11272000.wixsite.com/manabukosaka",
+          "author": null,
+          "description": "Comments",
+          "link": "https://coca11272000.wixsite.com/manabukosaka",
+          "publishedOn": "2026-08-19T14:20:10.000Z",
+          "wordCount": 5930,
+          "title": "Manabu Kosaka's Handmade Paper Sculptures",
+          "imageUrl": "https://static.wixstatic.com/media/387403_b6688f1bc2d14991a4e060b65581cb05.jpg/v1/fit/w_2500,h_1330,al_c/387403_b6688f1bc2d14991a4e060b65581cb05.jpg"
+        },
+        {
+          "id": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+          "publishedOn": "2026-08-19T13:21:21.000Z",
+          "wordCount": 1773,
+          "title": "PostgreSQL for Everything",
+          "imageUrl": "https://www.raphaelbauer.com/images/db-servers.jpg"
+        },
+        {
+          "id": "https://yassa9.github.io/osint/gralhix-004/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://yassa9.github.io/osint/gralhix-004/",
+          "publishedOn": "2026-08-19T12:19:52.000Z",
+          "wordCount": 2439,
+          "title": "Geolocating a random island using geometry and CUDA programming",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+          "publishedOn": "2026-08-19T11:21:50.000Z",
+          "wordCount": 2390,
+          "title": "A joke domain purchase turned in geopolitical warfare",
+          "imageUrl": "https://sprocketfox.io/xssfox/images/war.png"
+        },
+        {
+          "id": "https://theremin.bizibah.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theremin.bizibah.com/",
+          "publishedOn": "2026-08-19T10:15:00.000Z",
+          "wordCount": 8816,
+          "title": "Air Theremin – A browser theremin you play by waving at your webcam",
+          "imageUrl": "https://theremin.bizibah.com/og.png"
+        },
         {
           "id": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
           "author": null,
@@ -386,6 +591,16 @@
           "imageUrl": "https://artificialanalysis.ai/en/models/glm-5-3/opengraph-image?76c5a1db7097b9e1"
         },
         {
+          "id": "https://fx.sh/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fx.sh/",
+          "publishedOn": "2026-08-18T22:00:21.000Z",
+          "wordCount": 1298,
+          "title": "fx :Tiny, open, native coding agent.",
+          "imageUrl": "https://fx.sh/og.png"
+        },
+        {
           "id": "https://github.com/DenisSergeevitch/desktop-fly",
           "author": null,
           "description": "Comments",
@@ -403,6 +618,16 @@
           "publishedOn": "2026-08-18T19:29:51.000Z",
           "wordCount": 1258,
           "title": "Beware Management Consultants",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+          "publishedOn": "2026-08-18T18:14:59.000Z",
+          "wordCount": null,
+          "title": "Pacing model development in an era of cyber-critical capabilities",
           "imageUrl": null
         },
         {
@@ -434,6 +659,16 @@
           "wordCount": 4154,
           "title": "And then the men with guns tell you to do it anyway",
           "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/08/fire-alert.webp"
+        },
+        {
+          "id": "https://jumploops.com/blog/sol-loves-to-cheat/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jumploops.com/blog/sol-loves-to-cheat/",
+          "publishedOn": "2026-08-18T16:29:51.000Z",
+          "wordCount": 2389,
+          "title": "Sol Loves to Cheat",
+          "imageUrl": null
         },
         {
           "id": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
@@ -826,6 +1061,16 @@
           "imageUrl": "https://media.rnztools.nz/rnz/image/upload/s--0GJ2WZbA--/t_tohu-badge-facebook/f_auto/q_auto/4JK3YYY_cropped_horizontal_jpg"
         },
         {
+          "id": "https://www.benjoffe.com/fast-day-of-week",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.benjoffe.com/fast-day-of-week",
+          "publishedOn": "2026-08-16T21:20:40.000Z",
+          "wordCount": 7588,
+          "title": "A faster way to calculate the day of the week",
+          "imageUrl": "https://www.benjoffe.com/manual-assets/fast-day-of-week-socialthumb.png"
+        },
+        {
           "id": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
           "author": null,
           "description": "Comments",
@@ -1096,6 +1341,16 @@
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!9VgW!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4697c31d-2502-48d2-b6c1-11e5ea97536f_2560x2174.jpeg"
         },
         {
+          "id": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+          "author": null,
+          "description": "Comments",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+          "publishedOn": "2026-08-15T20:37:18.000Z",
+          "wordCount": 8614,
+          "title": "The little-known winstart.bat batch file",
+          "imageUrl": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg"
+        },
+        {
           "id": "https://gww.su/map/",
           "author": null,
           "description": "Comments",
@@ -1204,6 +1459,16 @@
           "wordCount": 3890,
           "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
           "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/zHvX_MeCmgyz7Mfc3JnZBzfRUgU=/fit-in/1600x0/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/44/ad/44ad8f8b-e8c6-4c3b-9d22-10eececf06c3/gettyimages-1602304607.jpg"
+        },
+        {
+          "id": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+          "publishedOn": "2026-08-15T12:47:52.000Z",
+          "wordCount": 11775,
+          "title": "Xorshift Generators",
+          "imageUrl": "https://www.alanzucconi.com/wp-content/uploads/2026/08/xorshift3.png"
         },
         {
           "id": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
@@ -1494,6 +1759,16 @@
           "wordCount": 13452,
           "title": "A digestion of the proof of Sendov's conjecture",
           "imageUrl": "https://terrytao.wordpress.com/wp-content/uploads/2026/08/polar-region.png"
+        },
+        {
+          "id": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+          "publishedOn": "2026-08-14T03:24:10.000Z",
+          "wordCount": 4879,
+          "title": "Error by AI scribe during medical appointment leaves patient devastated",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/bc2d354d77c68b0cab2dd861e4944c7d?impolicy=wcms_watermark_news&cropH=1550&cropW=2756&xPos=2033&yPos=318&width=862&height=485&imformat=generic"
         },
         {
           "id": "https://atproto.com/blog/introducing-bluesky-protocol-services",
@@ -1944,6 +2219,16 @@
           "wordCount": 1332,
           "title": "Show HN: A website for exploring historical photographs of my city",
           "imageUrl": "https://cdn.yesterdays.maprva.org/images/7173/1/thumbnail.webp"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
+          "publishedOn": "2026-08-12T14:33:51.000Z",
+          "wordCount": null,
+          "title": "Simulacra and Simulation",
+          "imageUrl": null
         },
         {
           "id": "https://www.nature.com/articles/d41586-026-02498-1",
@@ -8684,296 +8969,6 @@
           "wordCount": 1946,
           "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
           "imageUrl": "https://runtimewire.com/og/jack-dorsey-block-buzz-team-chat-ai-agents-git.jpg"
-        },
-        {
-          "id": "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation",
-          "publishedOn": "2026-07-21T16:39:30.000Z",
-          "wordCount": null,
-          "title": "Roblox Officially Supports GrapheneOS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thecastlemap.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thecastlemap.com/",
-          "publishedOn": "2026-07-21T16:05:58.000Z",
-          "wordCount": 1254,
-          "title": "Map of the world's great castles and fortresses",
-          "imageUrl": "https://thecastlemap.com/og.jpg?v=ink"
-        },
-        {
-          "id": "https://e360.yale.edu/digest/benin-coral-reef",
-          "author": null,
-          "description": "Comments",
-          "link": "https://e360.yale.edu/digest/benin-coral-reef",
-          "publishedOn": "2026-07-21T15:41:51.000Z",
-          "wordCount": 1459,
-          "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
-          "imageUrl": "https://yale-threesixty.transforms.svdcdn.com/production/Benin-Coral_IRHOB.jpg?w=1200&q=60&auto=format&fit=max&dm=1784630734&s=5aab36ee725d9087d4ce6272efc6d3ec"
-        },
-        {
-          "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-          "publishedOn": "2026-07-21T15:17:16.000Z",
-          "wordCount": 5468,
-          "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg"
-        },
-        {
-          "id": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-          "publishedOn": "2026-07-21T14:31:41.000Z",
-          "wordCount": 3293,
-          "title": "Apple defeats liability for not scanning iCloud for CSAM",
-          "imageUrl": "https://blog.ericgoldman.org/wp-content/uploads/2026/02/IMG_2022-1024x1020.jpg"
-        },
-        {
-          "id": "https://parksb.github.io/en/article/29.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://parksb.github.io/en/article/29.html",
-          "publishedOn": "2026-07-21T14:05:16.000Z",
-          "wordCount": 2956,
-          "title": "A concrete explanation of how a cache works",
-          "imageUrl": "https://og-image.parksb.vercel.app/api/parksb-github-io?title=A%20very%20concrete%20explanation%20of%20how%20a%20cache%20works&subtitle=A%20hash%20table%20implemented%20in%20hardware&date=2019-03-30"
-        },
-        {
-          "id": "https://nesbitt.io/2026/07/21/end-of-options.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
-          "publishedOn": "2026-07-21T13:13:47.000Z",
-          "wordCount": 1794,
-          "title": "git's –end-of-options Flag",
-          "imageUrl": "https://nesbitt.io/images/boxes.png"
-        },
-        {
-          "id": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
-          "author": null,
-          "description": "Comments",
-          "link": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
-          "publishedOn": "2026-07-21T07:22:11.000Z",
-          "wordCount": 2159,
-          "title": "Visualizing the Artemis II Mission",
-          "imageUrl": "https://assets.foxglove.dev/website/blog/visualizing-the-artemis-ii-mission/hero.webp"
-        },
-        {
-          "id": "https://exsitu.app/map",
-          "author": null,
-          "description": "Comments",
-          "link": "https://exsitu.app/map",
-          "publishedOn": "2026-07-21T04:48:32.000Z",
-          "wordCount": 143,
-          "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-          "author": null,
-          "description": "Comments",
-          "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-          "publishedOn": "2026-07-21T03:56:03.000Z",
-          "wordCount": 1958,
-          "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-          "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F7%2F9%2F9%2F12819974-2-eng-GB%2F04ab7b8b57e0-photo_SXM2026071800000547.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630"
-        },
-        {
-          "id": "https://www.armaangomes.com/blogs/doom/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.armaangomes.com/blogs/doom/",
-          "publishedOn": "2026-07-21T03:54:16.000Z",
-          "wordCount": 3202,
-          "title": "Running Doom on Our Custom CPU and Going Viral",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-          "publishedOn": "2026-07-21T03:52:05.000Z",
-          "wordCount": 1614,
-          "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-          "imageUrl": "https://content.instructables.com/FIM/IWCR/MRPABNRQ/FIMIWCRMRPABNRQ.jpg?auto=webp&frame=1"
-        },
-        {
-          "id": "https://github.com/janestreet/incremental",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/janestreet/incremental",
-          "publishedOn": "2026-07-21T03:50:53.000Z",
-          "wordCount": 802,
-          "title": "Incremental – A library for incremental computations",
-          "imageUrl": "https://opengraph.githubassets.com/afd6f34ec4f36fb3625f9fc858b3a25deda350cec3ce29956497138f277841a2/janestreet/incremental"
-        },
-        {
-          "id": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
-          "publishedOn": "2026-07-21T00:33:53.000Z",
-          "wordCount": 2240,
-          "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-          "imageUrl": "https://assets.aclu.org/live/uploads/2026/07/flock-camera-closeup-s.jpg"
-        },
-        {
-          "id": "https://github.com/newren/git-filter-repo",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/newren/git-filter-repo",
-          "publishedOn": "2026-07-21T00:28:39.000Z",
-          "wordCount": 9003,
-          "title": "Quickly rewrite Git repository history",
-          "imageUrl": "https://opengraph.githubassets.com/a221445fe317dc4a159d7a1cfcec15b9ba3f68853dc21123ed8444d341c0de1d/newren/git-filter-repo"
-        },
-        {
-          "id": "https://forum.jellyfin.org/t-project-leadership-changes",
-          "author": null,
-          "description": "Comments",
-          "link": "https://forum.jellyfin.org/t-project-leadership-changes",
-          "publishedOn": "2026-07-20T23:15:41.000Z",
-          "wordCount": 2066,
-          "title": "Jellyfin founder Andrew leaves team",
-          "imageUrl": null
-        },
-        {
-          "id": "https://words.filippo.io/passkey-record/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://words.filippo.io/passkey-record/",
-          "publishedOn": "2026-07-20T23:00:29.000Z",
-          "wordCount": 1805,
-          "title": "Opaque, Interoperable Passkey Records (and a Go API)",
-          "imageUrl": "https://assets.buttondown.email/images/15df3c3e-98e0-486d-97e4-7542a638e7f4.jpeg?w=960&fit=max"
-        },
-        {
-          "id": "https://essenceia.github.io/projects/ethernet_switch_asic/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://essenceia.github.io/projects/ethernet_switch_asic/",
-          "publishedOn": "2026-07-20T21:35:33.000Z",
-          "wordCount": 5430,
-          "title": "Designing an Ethernet Switch ASIC",
-          "imageUrl": "https://essenceia.github.io/projects/ethernet_switch_asic/feature_floorplan.png"
-        },
-        {
-          "id": "https://github.com/exlee/ascdraw",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/exlee/ascdraw",
-          "publishedOn": "2026-07-20T20:34:52.000Z",
-          "wordCount": 2632,
-          "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
-          "imageUrl": "https://opengraph.githubassets.com/a10d60ac5efcdf9cef5fb88a7e86541eb64b6f349296f820d803caeeb3c2be8d/exlee/ascdraw"
-        },
-        {
-          "id": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-          "publishedOn": "2026-07-20T20:12:19.000Z",
-          "wordCount": 12,
-          "title": "I wrote an bash enumerator because I was sick of xargs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://vincentwoo.com/3d/grace_cathedral/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://vincentwoo.com/3d/grace_cathedral/",
-          "publishedOn": "2026-07-20T20:10:44.000Z",
-          "wordCount": 20,
-          "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-          "publishedOn": "2026-07-20T20:08:45.000Z",
-          "wordCount": 4693,
-          "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
-          "imageUrl": null
-        },
-        {
-          "id": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-          "publishedOn": "2026-07-20T19:03:37.000Z",
-          "wordCount": 6438,
-          "title": "Human mathematicians are being outcounterexampled",
-          "imageUrl": "https://xenaproject.wordpress.com/wp-content/uploads/2020/05/cropped-twitchpfc.png?w=200"
-        },
-        {
-          "id": "https://alexyang.dev/vim-ascii-art/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://alexyang.dev/vim-ascii-art/",
-          "publishedOn": "2026-07-20T18:42:07.000Z",
-          "wordCount": 1722,
-          "title": "Making ASCII Art in Vim",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blaizzy.github.io/nativ/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blaizzy.github.io/nativ/",
-          "publishedOn": "2026-07-20T18:16:08.000Z",
-          "wordCount": 565,
-          "title": "Nativ: Run frontier open models locally on your Mac",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cursor.com/blog/agent-swarm-model-economics",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cursor.com/blog/agent-swarm-model-economics",
-          "publishedOn": "2026-07-20T18:06:13.000Z",
-          "wordCount": 10134,
-          "title": "Agent swarms and the new model economics",
-          "imageUrl": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/swarm-og.png"
-        },
-        {
-          "id": "https://www.kimi.com/products/kimi-work",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.kimi.com/products/kimi-work",
-          "publishedOn": "2026-07-20T17:13:23.000Z",
-          "wordCount": 2619,
-          "title": "Kimi Work",
-          "imageUrl": "https://kimi-file.moonshot.cn/prod-chat-kimi/kfs/4/2/2026-06-02/1d8fc8k76rtp4tqdea4ng?x-tos-process=image%2Fauto-orient%2C1%2Fstrip%2Fignore-error%2C1"
-        },
-        {
-          "id": "https://bytecodealliance.org/articles/wasmtime-gc",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bytecodealliance.org/articles/wasmtime-gc",
-          "publishedOn": "2026-07-20T17:10:50.000Z",
-          "wordCount": 1320,
-          "title": "GC and Exceptions in Wasmtime",
-          "imageUrl": "https://bytecodealliance.org/images/avatar.png"
-        },
-        {
-          "id": "https://jelly-ui.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jelly-ui.com/",
-          "publishedOn": "2026-07-20T17:07:39.000Z",
-          "wordCount": 143,
-          "title": "Jelly UI: Soft-body physics for native HTML form controls",
-          "imageUrl": null
         }
       ]
     },
@@ -9158,21 +9153,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/ai-radiology-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/food-environment/2026/four-ways-to-reduce-energy-use-with-ai-chatbots",
-          "author": "Katarina Zimmer",
-          "description": "Escalating use of tools like Gemini and ChatGPT saps more and more power. Experts offer some tips on how to consume less.",
-          "link": "https://knowablemagazine.org/content/article/food-environment/2026/four-ways-to-reduce-energy-use-with-ai-chatbots",
-          "publishedOn": "2026-07-21T00:00:21.000Z",
-          "wordCount": null,
-          "title": "Using AI chatbots? Here are four ways to reduce the energy drain",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/ecofriendly-ai-usage-tips-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/ecofriendly-ai-usage-tips-500x288.jpg"
         }
       ]
     },
@@ -9316,16 +9296,6 @@
           "publishedOn": "2026-07-29T03:03:06.000Z",
           "wordCount": 12294,
           "title": "Helping New Zealand and Pacific Publishers Succeed Online - blog.google",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi0AFBVV95cUxQTGhjRmEzdnczcGctT3Vac21XbS1jN0djQnBmYjluZTBBc1FCR1M1SERqWW5MVnBRbEJvMVV1OU1YMUk5R3lXekVKZzNPaEFiSHM4SWtENy1MdlZsYVlBSWpzSjN4ZTJFM28wOUY4dnZPbDJ1WG9HUHB3anpISkRmclpQNlhKX0FMQTItc2ZJUE56Ri1GZXA2RWxUbEFPcXpDVTNxeGt4WklBOGVDcjJFRDl1RGJ4SmlTSWsxRVNnNWREa0o1UnVscFB3VnpRallS",
-          "author": null,
-          "description": "Harajuku, Victorian or Palazzo: New AI Features Help You Shop Trending Styles and Try On Clothes  blog.google",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTGhjRmEzdnczcGctT3Vac21XbS1jN0djQnBmYjluZTBBc1FCR1M1SERqWW5MVnBRbEJvMVV1OU1YMUk5R3lXekVKZzNPaEFiSHM4SWtENy1MdlZsYVlBSWpzSjN4ZTJFM28wOUY4dnZPbDJ1WG9HUHB3anpISkRmclpQNlhKX0FMQTItc2ZJUE56Ri1GZXA2RWxUbEFPcXpDVTNxeGt4WklBOGVDcjJFRDl1RGJ4SmlTSWsxRVNnNWREa0o1UnVscFB3VnpRallS?oc=5",
-          "publishedOn": "2026-07-21T03:02:54.000Z",
-          "wordCount": 12331,
-          "title": "Harajuku, Victorian or Palazzo: New AI Features Help You Shop Trending Styles and Try On Clothes - blog.google",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
