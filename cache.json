@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396665",
+          "author": "Geoff Graham",
+          "description": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+          "publishedOn": "2026-08-25T14:10:34.000Z",
+          "wordCount": 3049,
+          "title": "MicroLighter: Syntax Highlighter",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=395401",
           "author": "Fränk Klein",
           "description": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.\nWordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -163,6 +173,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+          "author": "hello@smashingmagazine.com (Pierre Burgy)",
+          "description": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
+          "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+          "publishedOn": "2026-08-25T08:00:00.000Z",
+          "wordCount": 4229,
+          "title": "Why Your Website Should Never Stop Changing",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "author": "hello@smashingmagazine.com (Johan Grobler)",
@@ -9093,21 +9118,6 @@
             "length": "150864"
           },
           "imageUrl": "https://knowablemagazine.org/docserver/fulltext/leopards-human-conflict-500x288.jpg"
-        },
-        {
-          "id": "https://knowablemagazine.org/content/article/living-world/2026/animals-sense-light-many-ways-with-opsins",
-          "author": "Emily Laber-Warren",
-          "description": "From camouflage to timekeeping to wound healing, light-sensing proteins called opsins perform all kinds of jobs in nature beyond helping creatures to see",
-          "link": "https://knowablemagazine.org/content/article/living-world/2026/animals-sense-light-many-ways-with-opsins",
-          "publishedOn": "2026-07-27T00:00:27.000Z",
-          "wordCount": null,
-          "title": "The body’s hidden light detectors",
-          "enclosure": {
-            "type": "image/jpeg",
-            "url": "https://knowablemagazine.org/docserver/fulltext/nonvisual-opsins-500x288.jpg",
-            "length": "150864"
-          },
-          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/nonvisual-opsins-500x288.jpg"
         }
       ]
     },
