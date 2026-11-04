@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397741",
+          "author": "Temani Afif",
+          "description": "Combining :nth-child with style queries and sibling-index() to conditionally select child elements.\nRe-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
+          "publishedOn": "2026-11-03T14:50:32.000Z",
+          "wordCount": 3481,
+          "title": "Re-Implementing :nth-child() With Modern CSS",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/nth-child-3n.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=397698",
           "author": "Daniel Schwarz",
           "description": "This is the final issue of What’s !important on CSS-Tricks.com. The good news is that it’s coming back in an expanded form as the CSS-Tricks newsletter. I had ya there for a second, didn’t I? Sorry, I couldn’t decide whether to trick or treat, so I went for both. Happy Halloween\nWhat’s !important #20: GTA 6 Scroll Effects, Scrollspies, random() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -58,6 +68,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
+          "description": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
+          "link": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+          "publishedOn": "2026-11-03T10:00:00.000Z",
+          "wordCount": 7000,
+          "title": "Modern CSS Might Make Your Front-End More Complex",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -141,6 +166,216 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+          "publishedOn": "2026-11-04T03:20:13.000Z",
+          "wordCount": 3973,
+          "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+          "imageUrl": null
+        },
+        {
+          "id": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+          "publishedOn": "2026-11-04T03:11:27.000Z",
+          "wordCount": 5838,
+          "title": "Arrows to arrows, categories to queries (2025)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+          "publishedOn": "2026-11-04T01:40:42.000Z",
+          "wordCount": null,
+          "title": "Giant canyon on Mars is still tectonically active",
+          "imageUrl": null
+        },
+        {
+          "id": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+          "publishedOn": "2026-11-04T00:33:22.000Z",
+          "wordCount": 1511,
+          "title": "C++26 Disapproved",
+          "imageUrl": "https://andreasfertig.com/img/2026-11-03-cpp26-failed-li.png"
+        },
+        {
+          "id": "https://www.interdb.jp/pg/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.interdb.jp/pg/index.html",
+          "publishedOn": "2026-11-03T21:51:06.000Z",
+          "wordCount": 2400,
+          "title": "The Internals of PostgreSQL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2605.29713",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2605.29713",
+          "publishedOn": "2026-11-03T21:40:53.000Z",
+          "wordCount": 611,
+          "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+          "publishedOn": "2026-11-03T21:39:05.000Z",
+          "wordCount": 1557,
+          "title": "Safari introduces Adaptive Dark Mode in 27.3",
+          "imageUrl": "https://webkit.org/wp-content/uploads/Demo-of-Adaptive-Dark-Mode_light.png"
+        },
+        {
+          "id": "https://github.com/finic-ai/kairos",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/finic-ai/kairos",
+          "publishedOn": "2026-11-03T21:16:48.000Z",
+          "wordCount": 5332,
+          "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+          "imageUrl": "https://opengraph.githubassets.com/4506bfb19c4213faa598f3318d84ff57d4915ae0408f0ff073d9507f88f80e1e/finic-ai/kairos"
+        },
+        {
+          "id": "https://www.readingdesign.org/the-pnyx-and-the-agora",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.readingdesign.org/the-pnyx-and-the-agora",
+          "publishedOn": "2026-11-03T20:49:11.000Z",
+          "wordCount": 1883,
+          "title": "The Pnyx and the Agora (2016)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+          "publishedOn": "2026-11-03T20:07:41.000Z",
+          "wordCount": 9352,
+          "title": "Pratt parsing is a black box",
+          "imageUrl": "https://vinipsmaker.github.io/blog-heading.webp"
+        },
+        {
+          "id": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+          "publishedOn": "2026-11-03T19:25:18.000Z",
+          "wordCount": 507,
+          "title": "Introduction to Programming in ATS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+          "publishedOn": "2026-11-03T18:11:11.000Z",
+          "wordCount": 5263,
+          "title": "How I use AI (Oct 2026)",
+          "imageUrl": "/_astro/og.jsHy_xv-_2lnd7v.png"
+        },
+        {
+          "id": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+          "publishedOn": "2026-11-03T17:40:00.000Z",
+          "wordCount": 1971,
+          "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "publishedOn": "2026-11-03T17:22:37.000Z",
+          "wordCount": 10503,
+          "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+          "imageUrl": "https://opengraph.githubassets.com/8d96e4347cb475bc0c81939b227805331a79ca02c9e5bbd88a54a4a3aa70e480/postmanlabs/postman-app-support/issues/14370"
+        },
+        {
+          "id": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
+          "publishedOn": "2026-11-03T17:00:53.000Z",
+          "wordCount": 1228,
+          "title": "Ashby (YC W19) Is Hiring EMs",
+          "imageUrl": "https://www.ashbyhq.com/images/careers/careers-og.png?v5"
+        },
+        {
+          "id": "https://neufangled.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://neufangled.com/",
+          "publishedOn": "2026-11-03T16:47:29.000Z",
+          "wordCount": 5651,
+          "title": "Stringman, an $800 open-source room scale gripper robot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://namespace.so/blog/mac-at-any-scale",
+          "author": null,
+          "description": "Comments",
+          "link": "https://namespace.so/blog/mac-at-any-scale",
+          "publishedOn": "2026-11-03T14:53:42.000Z",
+          "wordCount": 5955,
+          "title": "Mac at any scale",
+          "imageUrl": "https://namespace.so/blog-images/mac-at-any-scale/banner.png"
+        },
+        {
+          "id": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+          "publishedOn": "2026-11-03T14:45:47.000Z",
+          "wordCount": 2565,
+          "title": "There is no posttraining data commons",
+          "imageUrl": "https://www.openathena.ai/og.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+          "publishedOn": "2026-11-03T12:58:43.000Z",
+          "wordCount": null,
+          "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
+          "publishedOn": "2026-11-03T12:40:06.000Z",
+          "wordCount": null,
+          "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://honnibal.dev/blog/astra-read-write-misleading",
+          "author": null,
+          "description": "Comments",
+          "link": "https://honnibal.dev/blog/astra-read-write-misleading",
+          "publishedOn": "2026-11-03T12:21:17.000Z",
+          "wordCount": 2948,
+          "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+          "imageUrl": "https://honnibal.dev/social.png"
+        },
+        {
           "id": "https://www.keepingup.com/benchmarks/net-worth/age-30-33",
           "author": null,
           "description": "Comments",
@@ -201,6 +436,16 @@
           "imageUrl": "https://opengraph.githubassets.com/5e813f0f098489d1a0d9c604abfb98dc23a07b818b132ee8eb8d38d095782be4/JiaFeiMiao-K-Cat/DiscImageStudio"
         },
         {
+          "id": "https://hackertv.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hackertv.org/",
+          "publishedOn": "2026-11-03T01:18:09.000Z",
+          "wordCount": 202,
+          "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50346164",
           "author": null,
           "description": "Comments",
@@ -259,6 +504,26 @@
           "wordCount": 2728,
           "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
           "imageUrl": "https://www6.slac.stanford.edu/sites/default/files/styles/extra_large_card/public/2026-07/altermagnetism_la_v06.jpg?h=d14915d2&itok=ysTK99rN"
+        },
+        {
+          "id": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
+          "publishedOn": "2026-11-02T20:08:33.000Z",
+          "wordCount": 2172,
+          "title": "Union Types and Option Types (2025)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+          "publishedOn": "2026-11-02T19:18:46.000Z",
+          "wordCount": null,
+          "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+          "imageUrl": null
         },
         {
           "id": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
@@ -371,6 +636,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://blog.nns.ee/2026/11/02/renault-hack/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
+          "publishedOn": "2026-11-02T16:29:19.000Z",
+          "wordCount": 2446,
+          "title": "Jailbreaking my car's navigation system just so I can change the time",
+          "imageUrl": "https://blog.nns.ee/img/logo.png"
+        },
+        {
           "id": "https://p.migdal.pl/warsaw-vibe-voxel/",
           "author": null,
           "description": "Comments",
@@ -389,6 +664,16 @@
           "wordCount": 22463,
           "title": "Ask HN: Who is hiring? (November 2026)",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.autodidacts.io/curiosity-traps/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.autodidacts.io/curiosity-traps/",
+          "publishedOn": "2026-11-02T15:40:04.000Z",
+          "wordCount": 2819,
+          "title": "Curiosity Traps",
+          "imageUrl": "https://www.autodidacts.io/content/images/2026/10/winnie-the-pooh-honey-pot-1.jpg"
         },
         {
           "id": "https://chalmovsky.com/posts/wtf-ubuntu",
@@ -411,6 +696,16 @@
           "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M6426V7J1FR4KZEYMQP555R0.01M6426VZJHB2XCKTQ39W2S71Z.png"
         },
         {
+          "id": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+          "publishedOn": "2026-11-02T14:02:42.000Z",
+          "wordCount": null,
+          "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
           "author": null,
           "description": "Comments",
@@ -419,6 +714,26 @@
           "wordCount": 1792,
           "title": "If you love a website, back it up",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.mattkeeter.com/projects/antimony/3/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.mattkeeter.com/projects/antimony/3/",
+          "publishedOn": "2026-11-02T08:29:40.000Z",
+          "wordCount": 815,
+          "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+          "publishedOn": "2026-11-02T04:31:20.000Z",
+          "wordCount": 3136,
+          "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+          "imageUrl": "https://spoon-tamago.com/wp-content/uploads/2026/10/jimi-halloween-2026-top.jpg"
         },
         {
           "id": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
@@ -569,6 +884,16 @@
           "wordCount": 3922,
           "title": "The AI cost of JavaScript frameworks",
           "imageUrl": "https://nolanlawson.com/_astro/frameworks.B14_z7MF_2lv3q1.webp"
+        },
+        {
+          "id": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+          "publishedOn": "2026-11-01T04:05:23.000Z",
+          "wordCount": 12231,
+          "title": "We're training a Figma-fluent editing model",
+          "imageUrl": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1200&q=70&fit=max&auto=format"
         },
         {
           "id": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
@@ -8509,196 +8834,6 @@
           "wordCount": 323,
           "title": "Benchmark in Milliseconds",
           "imageUrl": null
-        },
-        {
-          "id": "https://pavel-krivanek.github.io/The-Analog-Thing-Simulator/public/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pavel-krivanek.github.io/The-Analog-Thing-Simulator/public/",
-          "publishedOn": "2026-10-05T16:19:11.000Z",
-          "wordCount": 270,
-          "title": "Analog Computer Simulator in the Browser",
-          "imageUrl": null
-        },
-        {
-          "id": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-          "publishedOn": "2026-10-05T14:23:47.000Z",
-          "wordCount": 2271,
-          "title": "Making a GTK application in Haskell, part 1",
-          "imageUrl": "https://floreal.tech/img/path-2560.jpg"
-        },
-        {
-          "id": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-          "publishedOn": "2026-10-05T14:12:14.000Z",
-          "wordCount": 2450,
-          "title": "The lamps in my house",
-          "imageUrl": "https://storage.ghost.io/c/ce/27/ce27a3ef-1519-4f17-a161-c8cdf7793306/content/images/size/w1200/2026/10/L1008301-1.jpeg"
-        },
-        {
-          "id": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-          "publishedOn": "2026-10-05T11:13:51.000Z",
-          "wordCount": null,
-          "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-          "publishedOn": "2026-10-05T10:47:06.000Z",
-          "wordCount": 998,
-          "title": "Web Search API",
-          "imageUrl": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/og.png?v=1deaa8fb09156b56"
-        },
-        {
-          "id": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
-          "publishedOn": "2026-10-05T10:35:59.000Z",
-          "wordCount": null,
-          "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-          "publishedOn": "2026-10-05T10:05:02.000Z",
-          "wordCount": 6437,
-          "title": "Apple and a Hacker's Future",
-          "imageUrl": "https://stratechery.com/wp-content/uploads/2026/10/apple-hacker-5.png"
-        },
-        {
-          "id": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-          "publishedOn": "2026-10-05T08:09:36.000Z",
-          "wordCount": 265,
-          "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-          "publishedOn": "2026-10-05T07:46:10.000Z",
-          "wordCount": null,
-          "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-          "publishedOn": "2026-10-05T07:46:10.000Z",
-          "wordCount": 1529,
-          "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-          "imageUrl": "https://www-file.huawei.com/dam/asset/view/261005-01.jpg"
-        },
-        {
-          "id": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
-          "author": null,
-          "description": "Comments",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
-          "publishedOn": "2026-10-05T05:09:43.000Z",
-          "wordCount": null,
-          "title": "Replacement of petroleum based products with plant-based materials (2025)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-          "publishedOn": "2026-10-05T01:54:08.000Z",
-          "wordCount": 11348,
-          "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-          "imageUrl": "https://cdn-2.motorsport.com/images/amp/68Vw9aB2/s6/max-verstappen-red-bull-racing.jpg"
-        },
-        {
-          "id": "https://shahidhussain.com/writing/search-for-salvage/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://shahidhussain.com/writing/search-for-salvage/",
-          "publishedOn": "2026-10-05T00:06:43.000Z",
-          "wordCount": 2473,
-          "title": "The 15-year search for a band that charted once and vanished",
-          "imageUrl": "https://shahidhussain.com/images/writing/search-for-salvage/front.jpg"
-        },
-        {
-          "id": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-          "publishedOn": "2026-10-04T21:01:28.000Z",
-          "wordCount": 6276,
-          "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-          "imageUrl": "https://spaces.filmstories.co.uk/uploads/2019/10/phil-tippett.jpg"
-        },
-        {
-          "id": "https://github.com/omlahore/RemoveMacAI",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/omlahore/RemoveMacAI",
-          "publishedOn": "2026-10-04T19:42:25.000Z",
-          "wordCount": 2781,
-          "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-          "imageUrl": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9"
-        },
-        {
-          "id": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-          "publishedOn": "2026-10-04T19:37:05.000Z",
-          "wordCount": 3667,
-          "title": "Improper redaction reveals Google Data Center water and electricity usage",
-          "imageUrl": "https://gray-koln-prod.gtv-cdn.com/resizer/v2/36VTWY3Y7JCSLEH3E3AVQDZW7I.jpg?auth=355cee73f82e9c4dcbb52fd940ebab6de819d176b660deca5d48b34dc7dcf1f5&width=1200&height=600&smart=true"
-        },
-        {
-          "id": "https://github.com/travelonium/arcadeia",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/travelonium/arcadeia",
-          "publishedOn": "2026-10-04T19:33:16.000Z",
-          "wordCount": 3232,
-          "title": "Show HN: Arcadeia – A self-hosted media library with animated video previews",
-          "imageUrl": "https://repository-images.githubusercontent.com/903928038/efc1fa34-e806-402a-a9a6-d491fc612336"
-        },
-        {
-          "id": "https://wieslawsoltes.github.io/VB6/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wieslawsoltes.github.io/VB6/",
-          "publishedOn": "2026-10-04T18:49:17.000Z",
-          "wordCount": 6,
-          "title": "A browser-native classic Visual Basic VB6 IDE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
-          "publishedOn": "2026-10-04T17:58:51.000Z",
-          "wordCount": 7136,
-          "title": "Gallery of Processor Cache Effects (2010)",
-          "imageUrl": "https://igoro.com/wordpress/wp-content/uploads/2010/01/image6.png"
         }
       ]
     },
@@ -8764,6 +8899,21 @@
       "feedUrl": "https://www.knowablemagazine.org/rss",
       "siteUrl": "https://knowablemagazine.org/",
       "articles": [
+        {
+          "id": "https://knowablemagazine.org/content/article/society/2026/how-the-bantu-migration-remade-africa",
+          "author": "Katarina Zimmer",
+          "description": "Between 6,000 and 4,000 years ago, a group known as the Bantu-speaking people began to migrate across Africa, transforming the continent’s cultures, languages and genetic makeup",
+          "link": "https://knowablemagazine.org/content/article/society/2026/how-the-bantu-migration-remade-africa",
+          "publishedOn": "2026-11-03T00:00:03.000Z",
+          "wordCount": null,
+          "title": "The migration that remade Africa",
+          "enclosure": {
+            "type": "image/jpeg",
+            "url": "https://knowablemagazine.org/docserver/fulltext/bantu-migration-500x288.jpg",
+            "length": "150864"
+          },
+          "imageUrl": "https://knowablemagazine.org/docserver/fulltext/bantu-migration-500x288.jpg"
+        },
         {
           "id": "https://knowablemagazine.org/content/article/health-disease/2026/disease-sniffing-tests-get-closer-to-reality",
           "author": "Marta Zaraska",
@@ -8975,16 +9125,6 @@
           "publishedOn": "2026-10-07T08:41:59.000Z",
           "wordCount": 12407,
           "title": "Bringing Gemini in Chrome with auto browse to India - blog.google",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijwFBVV95cUxOMWt5dWJFNkVqZHZWZndNMXhUYWhMTjhIV2dvaDZoSGpqeGRONUxCRXQ4LXBMTDJieTlPTTVRczU3aVJPRVFiVi1QM1RkNDYxTWlTWS0xNjJzaVJEcjVHSFJVZ2ZWdVpWOUtRd3VyYzU3eWxuWWl5UmRjenUxVndrZmMtU1MxN0hpcUFaRVZRSQ",
-          "author": null,
-          "description": "Speak your CFO's language to secure marketing budget - Think with Google AU & NZ  Google Business Profile",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMWt5dWJFNkVqZHZWZndNMXhUYWhMTjhIV2dvaDZoSGpqeGRONUxCRXQ4LXBMTDJieTlPTTVRczU3aVJPRVFiVi1QM1RkNDYxTWlTWS0xNjJzaVJEcjVHSFJVZ2ZWdVpWOUtRd3VyYzU3eWxuWWl5UmRjenUxVndrZmMtU1MxN0hpcUFaRVZRSQ?oc=5",
-          "publishedOn": "2026-10-04T17:41:02.000Z",
-          "wordCount": 12343,
-          "title": "Speak your CFO's language to secure marketing budget - Think with Google AU & NZ - Google Business Profile",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
